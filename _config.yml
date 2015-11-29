@@ -6,7 +6,6 @@ keywords: bsidessf, bsides sf, securitybsides, rsa
 description: > # this means to ignore newlines until "baseurl:"
   Security BSides San Francisco
 
-baseurl: /
 url: https://bsidessf.com
 
 header: yes
@@ -33,9 +32,9 @@ gems:
 feed:
   path: atom.xml
 
-# Compress our Css
-#sass:
-#    style: :compressed
+sass:
+  sass_dir: _sass
+  style: compressed
 
 permalink: /news/:year/:title
 

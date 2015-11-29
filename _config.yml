@@ -1,0 +1,57 @@
+name: BSides SF
+email: bsidessf@gmail.com
+author: BSides SF
+
+keywords: bsidessf, bsides sf, securitybsides, rsa
+description: > # this means to ignore newlines until "baseurl:"
+  Security BSides San Francisco
+
+baseurl: /
+url: https://bsidessf.com
+
+header: yes
+header_sm: images/banner-small.jpg
+header_med: images/banner-med.jpg
+header_large: images/banner-large.jpg
+header_xl: images/banner-xl.jpg
+
+
+# Exclude our ruby stuff
+exclude: [.bundle, bin, vendor, Gemfile, Gemfile.lock, Rakefile, .last_optimized]
+
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+
+destination: _site
+
+gems:
+  - jekyll-feed
+
+feed:
+  path: atom.xml
+
+# Compress our Css
+#sass:
+#    style: :compressed
+
+permalink: /news/:year/:title
+
+#### SEO Stuff
+# Google Analytics
+google_universal_analytics: UA-69569651-1
+google_universal_analytics_cookiedomain: auto
+
+# Facebook Opengraph
+facebook_user:
+facebook_app_id:
+facebook_locale: en_US
+facebook_page:
+facebook_image:
+
+# Twitter Cards
+twitter_user: bsidessf
+twitter_card: true
+twitter_image:

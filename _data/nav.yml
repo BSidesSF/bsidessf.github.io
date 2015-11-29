@@ -1,0 +1,32 @@
+- title: "Home"
+  href: "/"
+
+- title: "About"
+  subcategories:
+    - subtitle: "BSides SF"
+      subhref: "/about/"
+    - subtitle: "Security BSides"
+      external: "http://www.securitybsides.com"
+    - subtitle: "Code of Conduct"
+      subhref: "/about/code-of-conduct.html"
+    - subtitle: "Contact Us"
+      subhref: "/about/contact.html"
+
+- title: "News"
+  href: "/news/"
+
+- title: "Venue"
+  href: "venue.html"
+
+- title: "CFP"
+  subcategories:
+    - subtitle: "Call for Papers"
+      subhref: "/cfp/"
+    - subtitle: "Sample Submission"
+      subhref: "/cfp/sample-submission.html"
+
+- title: "Sponsors"
+  href: "sponsors.html"
+
+- title: "Tickets"
+  href: "tickets.html"

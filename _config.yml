@@ -1,10 +1,10 @@
 name: BSides SF
-email: bsidessf@gmail.com
 author: BSides SF
 
-keywords: bsidessf, bsides sf, securitybsides, rsa
-description: Security BSides San Francisco
-
+keywords: bsidessf, bsides sf, securitybsides, security bsides, infosec, conference, security, rsa, san francisco
+description: >
+  Security BSides San Francisco is a two-day information security conference.
+  It is a conference by the community for the community.
 url: https://bsidessf.com
 
 header: yes

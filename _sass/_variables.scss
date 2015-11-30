@@ -6,9 +6,9 @@ $body-bg: #fdfdfd;
 $body-font-color: #222;
 
 // Links
-$link-color: lighten($body-font-color, 25%);
+$link-color: lighten($body-font-color, 10%);
 $link-hover-color: $body-font-color;
-$link-visited-color: darken($complimentary-color, 25%);
+$link-visited-color: darken($complimentary-color, 45%);
 
 // Text
 $base-font-family: Helvetica, Arial, sans-serif;
@@ -35,4 +35,4 @@ $spacing-unit: 30px;
 
 // Footer
 $footer-height: 54px;
-$footer-color: lighten($primary-color, 25%);
+$footer-color: lighten($primary-color, 15%);

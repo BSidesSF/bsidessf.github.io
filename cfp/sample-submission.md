@@ -4,7 +4,7 @@ title: "Sample Submission"
 permalink: /cfp/sample-submission.html
 --- 
 
-<p><strong>Note to the reader: This is a completely made up talk. However it should give you an idea of what types of information to include, the lowest level of detail to use, and the overall flow of a good submission.</strong></p>
+<p><strong>Note to the reader: This is a completely made up talk (courtesy of <a href="http://shmoocon.org/">ShmooCon</a>). However it should give you an idea of what types of information to include, the lowest level of detail to use, and the overall flow of a good submission.</strong></p>
 <p><strong>1. Title of Presentation</strong><br />
 Template Management using Osiris</p>
 <p><strong>2.  Presenter(s) Name </strong><br />
@@ -26,10 +26,10 @@ Bruce Potter is jack of many trades and master of none… well, maybe public spe
 <p>&#8211; Questions (2 minutes)</p>
 <p><strong>6.  List of other conferences</strong><br />
 We presented our data on system file drift at BSides Antarctica in July. However that research as been updated and the tools and database are completely new.</p>
-<p><strong>7. Why is this a good fit for ShmooCon</strong><br />
+<p><strong>7. Why is this a good fit for BSides SF</strong><br />
 We feel that integrity management is an important capability for any modern enterprise, especially with the ease of which adversaries can modify attacks and malware to avoid detection by AV and IPS. We feel that our template update system provides a key component that is otherwise missing in integrity management systems.</p>
 <p><strong>8. Previous experience</strong><br />
-We have presented at ShmooCon before. We have also delivered presentations at DefCon, Blackhat, The Gathering of The Shmoo, and InfoSec Anonymous</p>
+We have presented at BSides SF before. We have also delivered presentations at DefCon, Blackhat, The Gathering of The Shmoo, and InfoSec Anonymous</p>
 <p><strong>9. Proceedings</strong><br />
 Sure.</p>
 <p><strong>10.  List of facilities requested </strong><br />

@@ -1,5 +1,8 @@
 - title: "Feed"
   href: "/atom.xml"
 
+- title: "Slack"
+  href: "https://bsidessf-slack.herokuapp.com"
+
 - title: "Twitter"
   href: "https://twitter.com/bsidessf"

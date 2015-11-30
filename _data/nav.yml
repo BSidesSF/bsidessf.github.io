@@ -4,7 +4,7 @@
 - title: "About"
   subcategories:
     - subtitle: "BSides SF"
-      subhref: "/about/"
+      subhref: "/about.html"
     - subtitle: "Security BSides"
       external: "http://www.securitybsides.com"
     - subtitle: "Code of Conduct"
@@ -21,7 +21,7 @@
 - title: "CFP"
   subcategories:
     - subtitle: "Call for Papers"
-      subhref: "/cfp/"
+      subhref: "/cfp.html"
     - subtitle: "Sample Submission"
       subhref: "/cfp/sample-submission.html"
 

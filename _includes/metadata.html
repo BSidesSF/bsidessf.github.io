@@ -1,9 +1,10 @@
+{% capture description %}{% if page.description %}{{ page.description }}{% elsif page.url == "/index.html" %}{{ site.description }}{% else %}{{ content | raw_content }}{% endif %}{% endcapture %}
 {% if site.facebook_app_id %}
 <meta property="fb:app_id" content="{{ site.facebook_app_id }}" />
 <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}" />
 <meta property="og:site_name" content="{{ site.name }}" />
-<meta property="og:url" content="{% if canonical %}{{ canonical }}{% else %}{{ site.url }}{{ site.baseurl }}{{ page.url }}{% endif %}" />
-<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
+<meta property="og:url" content="{% if canonical %}{{ canonical }}{% else %}{{ site.url }}{{ site.baseurl }}{{ page.url | remove:'index.html' }}{% endif %}" />
+<meta property="og:description" content="{{ description | strip_html | replace:'  ',' ' | strip_newlines | truncate:200,'...' }}" />
 <meta property="og:locale" content="{{ site.facebook_locale }}" />
 <meta property="og:type" content="{% if page.facebook_type %}{{ page.facebook_type }}{% else %}website{% endif %}" />
 <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{% if page.facebook_image %}{{ page.facebook_image }}{% else %}{{ site.facebook_image }}{% endif %}" />
@@ -11,9 +12,9 @@
 {% if site.twitter_card == true %}
 <meta property="twitter:card" content="{% if page.twitter_card.type %}{{ page.twitter_card.type }}{% elsif page.twitter_card.image %}summary_large_image{% else %}summary{% endif %}" />
 <meta property="twitter:site" content="{{ site.twitter_user }}" />
-<meta property="twitter:url" content="{% if canonical %}{{ canonical }}{% else %}{{ site.url }}{{ site.baseurl }}{{ page.url }}{% endif %}" />
-<meta property="twitter:title" content="{% if page.title %}{{ page.title | truncate:70 }}{% else %}{{ site.name }}{% endif %}" />
-<meta property="twitter:description" content="{% if page.description %}{{ page.description | strip_html | condense_spaces | truncate:200 }}{% else %}{{ site.description | strip_html | condense_spaces | truncate:200 }}{% endif %}" />
+<meta property="twitter:url" content="{% if canonical %}{{ canonical }}{% else %}{{ site.url }}{{ site.baseurl }}{{ page.url | remove:'index.html' }}{% endif %}" />
+<meta property="twitter:title" content="{% if page.title %}{{ page.title | truncate:70,'...' }}{% else %}{{ site.name }}{% endif %}" />
+<meta property="twitter:description" content="{{ description | strip_html | replace:'  ',' ' | strip_newlines | truncate:200,'...' }}" />
 <meta property="twitter:creator" content="{% if page.twitter_card.creator %}{{ page.twitter_card.creator }}{% else %}{{ site.twitter_user }}{% endif %}" />
-<meta property="twitter:image:src" content="{{ site.url }}{{ site.baseurl }}{% if page.twitter_card.image %}{{ page.twitter_card.image }}{% else %}{{ site.twitter_image }}{% endif %}" />
+<meta property="twitter:image" content="{{ site.url }}{{ site.baseurl }}{% if page.twitter_card.image %}{{ page.twitter_card.image }}{% else %}{{ site.twitter_image }}{% endif %}" />
 {% endif %}

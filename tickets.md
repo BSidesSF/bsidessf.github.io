@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Call for Papers"
-permalink: /cfp/
+title: "Tickets"
+permalink: /tickets.html
 --- 
 
 <h1>Coming soon...</h1>

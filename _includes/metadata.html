@@ -5,8 +5,8 @@
 <meta property="og:url" content="{% if canonical %}{{ canonical }}{% else %}{{ site.url }}{% endif %}/" />
 <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
 <meta property="og:locale" content="{{ site.facebook_locale }}" />
-<meta property="og:type" content="{% if page.facebook_type %}{{ page.facebook_type }}{% else %}article{% endif %}" />
-{% if page.facebook_image %}<meta property="og:image" content="{{ site.url }}{{ page.facebook_image }}" />{% else %}<meta property="og:image" content="{{ site.facebook_image }}" />{% endif %}
+<meta property="og:type" content="{% if page.facebook_type %}{{ page.facebook_type }}{% else %}website{% endif %}" />
+<meta property="og:image" content="{{ site.url }}{% if page.facebook_image %}{{ page.facebook_image }}{% else %}{{ site.facebook_image }}{% endif %}" />
 {% endif %}
 {% if site.twitter_card == true %}
 <meta property="twitter:card" content="{% if page.twitter_card.type %}{{ page.twitter_card.type}}{% else %}summary{% endif %}" />
@@ -15,5 +15,5 @@
 <meta property="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}" />
 <meta property="twitter:description" content="{% if page.description %}{{ page.description | strip_html | condense_spaces | truncate:200}}{% else %}{{ site.description | strip_html | condense_spaces | truncate:200 }}{% endif %}" />
 <meta property="twitter:creator" content="{% if page.twitter_card.creator %}{{ page.twitter_card.creator }}{% else %}{{ site.twitter_user }}{% endif %}" />
-{% if page.twitter_card.image %}<meta property="twitter:image:src" content="{{ site.url }}{{ page.twitter_image }}" />{% else %}<meta property="twitter:image:src" content="{{ site.url }}{{ site.twitter_image }}" />{% endif %}
+<meta property="twitter:image:src" content="{{ site.url }}{% if page.twitter_card.image %}{{ page.twitter_card.image }}{% else %}{{ site.twitter_image }}{% endif %}" />
 {% endif %}

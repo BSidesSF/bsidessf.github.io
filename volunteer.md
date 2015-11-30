@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Call for Papers"
-permalink: /cfp/
+title: "Volunteer"
+permalink: /volunteer.html
 --- 
 
 <h1>Coming soon...</h1>

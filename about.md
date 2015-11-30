@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Call for Papers"
-permalink: /cfp/
+title: "About"
+permalink: /about/
 --- 
 
 <h1>Coming soon...</h1>

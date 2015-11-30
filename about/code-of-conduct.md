@@ -13,6 +13,6 @@ Asking questions of a speaker during their talk, to get clarity or debate a poin
 
 If you are having an issue with a BSidesSF participant of ANY badge type, find a radioed member of our Safety & Security Team in the red BSidesSF t-shirts (or any staff member, in purple shirts). They will call our Harassment Response Team, who will take an official incident report and determine next steps.
 
-For other non-conference related harassment concerns, e-mail harassment@bsidessf.com for assistance.
+For other non-conference related harassment concerns, e-mail harassment [at] bsidessf.com for assistance.
 
 *Staff reserves the right to determine what constitutes "Being an Ass".

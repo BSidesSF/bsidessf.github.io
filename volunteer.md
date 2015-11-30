@@ -10,4 +10,4 @@ Sign-up form coming soon... In the mean time, join us on Slack!
 
 <script async defer src="https://bsidessf-slack.herokuapp.com/slackin.js?large"></script>
 
-You can also e-mail volunteer@bsidessf.com to get involved.
+You can also e-mail volunteer [at] bsidessf.com to get involved.

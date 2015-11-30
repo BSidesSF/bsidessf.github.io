@@ -6,7 +6,7 @@ permalink: /sponsors.html
 
 ## Thanks to our sponsors...
 
-* ThreatStream
+* [ThreatStream](https://www.threatstream.com)
 
 ## Interested in sponsoring?
 

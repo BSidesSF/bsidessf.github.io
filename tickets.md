@@ -4,4 +4,4 @@ title: "Tickets"
 permalink: /tickets.html
 --- 
 
-# Coming soon...
+# Tickets will become available closer to the event.

@@ -2,9 +2,8 @@ name: BSides SF
 author: BSides SF
 
 keywords: bsidessf, bsides sf, securitybsides, security bsides, infosec, conference, security, rsa, san francisco
-description: >
-  Security BSides San Francisco is a two-day information security conference.
-  It is a conference by the community for the community.
+description: Security BSides San Francisco is a two-day information security conference. It is a conference by the community for the community.
+
 url: https://bsidessf.com
 
 header: yes
@@ -13,8 +12,8 @@ header_med: images/bsides_logo_full-orangeblack.png
 header_large: images/bsides_logo_full-orangeblack.png
 header_xl: images/bsides_logo_full-orangeblack.png
 
-# Exclude our ruby stuff
-exclude: [.bundle, bin, vendor, Gemfile, Gemfile.lock, Rakefile, .last_optimized]
+# Exclude our ruby stuff and other files
+exclude: [.bundle, bin, vendor, Gemfile, Gemfile.lock, Rakefile, .last_optimized, CNAME, README.md, LICENSE]
 
 # Build settings
 markdown: kramdown
@@ -47,6 +46,6 @@ facebook_type: website
 facebook_image: /images/bsides_logo_short.png
 
 # Twitter Cards
-twitter_user: bsidessf
+twitter_user: @bsidessf
 twitter_card: true
 twitter_image: /images/bsides_logo_short.png

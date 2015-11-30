@@ -3,16 +3,15 @@ email: bsidessf@gmail.com
 author: BSides SF
 
 keywords: bsidessf, bsides sf, securitybsides, rsa
-description: > # this means to ignore newlines until "baseurl:"
-  Security BSides San Francisco
+description: Security BSides San Francisco
 
 url: https://bsidessf.com
 
 header: yes
-header_sm: images/banner-small.jpg
-header_med: images/banner-med.jpg
-header_large: images/banner-large.jpg
-header_xl: images/banner-xl.jpg
+header_sm: images/bsides_logo_full-orangeblack.png
+header_med: images/bsides_logo_full-orangeblack.png
+header_large: images/bsides_logo_full-orangeblack.png
+header_xl: images/bsides_logo_full-orangeblack.png
 
 
 # Exclude our ruby stuff
@@ -44,13 +43,12 @@ google_universal_analytics: UA-69569651-1
 google_universal_analytics_cookiedomain: auto
 
 # Facebook Opengraph
-facebook_user:
-facebook_app_id:
+facebook_app_id: 1522022128111003
 facebook_locale: en_US
-facebook_page:
-facebook_image:
+facebook_type: website
+facebook_image: /images/bsides_logo_short.png
 
 # Twitter Cards
 twitter_user: bsidessf
 twitter_card: true
-twitter_image:
+twitter_image: /images/bsides_logo_short.png

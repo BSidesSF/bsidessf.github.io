@@ -46,6 +46,6 @@ facebook_type: website
 facebook_image: /images/bsides_logo_short.png
 
 # Twitter Cards
-twitter_user: @bsidessf
+twitter_user: "@bsidessf"
 twitter_card: true
 twitter_image: /images/bsides_logo_short.png

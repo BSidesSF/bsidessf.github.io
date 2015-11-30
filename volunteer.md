@@ -4,8 +4,10 @@ title: "Volunteer"
 permalink: /volunteer.html
 --- 
 
-<h1>Sign up to volunteer</h1>
+# Sign up to volunteer
 
-<p>Sign-up form coming soon... In the mean time, join us on Slack!</p>
+Sign-up form coming soon... In the mean time, join us on Slack!
 
 <script async defer src="https://bsidessf-slack.herokuapp.com/slackin.js?large"></script>
+
+You can also e-mail volunteer@bsidessf.com to get involved.

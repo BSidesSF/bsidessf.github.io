@@ -4,4 +4,12 @@ title: "Sponsors"
 permalink: /sponsors.html
 --- 
 
-<h1>Coming soon...</h1>
+## Thanks to our sponsors...
+
+* ThreatStream
+
+## Interested in sponsoring?
+
+Check out our [Sponsor Kit](https://drive.google.com/file/d/0Bwz74M00-bIkWTByamt6OHU2Tlk/view?usp=sharing)
+
+Contact sponsors@bsidessf.com for more information.

@@ -116,6 +116,11 @@
 	transition: height .15s ease-in;
 }
 
+// Active state of the links
+#nav>.primary-nav>li>ul>li.active {
+	background-color: $navbar-active-color;
+}
+
 // Submenu appears when its parent is hovered
 #nav>.primary-nav>li:hover>ul {
 	left: 0px;
@@ -272,4 +277,4 @@
 	#nav>.right.primary-nav  {
 	  background-color: lighten($navbar-color, 10%);
 	}
-} 
+}

@@ -5,10 +5,9 @@
 # Generate the site
 # Minify, optimize, and compress
 
-desc "build the site"
+desc "Build the site"
 task :build do
   system "bundle exec jekyll build --incremental"
-  system "bundle exec rake minify_html" #Minify our HTML
 end
 
 ##############

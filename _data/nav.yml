@@ -16,7 +16,7 @@
   href: "/news/"
 
 - title: "Venue"
-  href: "venue.html"
+  href: "/venue.html"
 
 - title: "CFP"
   subcategories:
@@ -26,10 +26,10 @@
       subhref: "/cfp/sample-submission.html"
 
 - title: "Sponsors"
-  href: "sponsors.html"
+  href: "/sponsors.html"
 
 - title: "Tickets"
-  href: "tickets.html"
+  href: "/tickets.html"
 
 - title: "Volunteer"
-  href: "volunteer.html"
+  href: "/volunteer.html"

@@ -6,13 +6,13 @@ permalink: /about.html
 
 # Mission Statement
 
-BSidesSF is a non-profit organization designed to advance the body of Information Security knowledge, by providing an annual, two day, open forum for discussion and debate for security engineers and their affiliates. We produce a conference that is a source of education, collaboration, and continued conversation for information technologists and those associated with this field. The technical and academic presentations at BSidesSF are given in the spirit of peer review and advanced knowledge dissemination. This allows the field of Information Security to grow in breadth and depth, and continue in its pursuit of highly advanced scientifically based knowledge.
+BSides SF is a non-profit organization designed to advance the body of Information Security knowledge, by providing an annual, two day, open forum for discussion and debate for security engineers and their affiliates. We produce a conference that is a source of education, collaboration, and continued conversation for information technologists and those associated with this field. The technical and academic presentations at BSides SF are given in the spirit of peer review and advanced knowledge dissemination. This allows the field of Information Security to grow in breadth and depth, and continue in its pursuit of highly advanced scientifically based knowledge.
 
 # What is BSides?
 
 BSides San Francisco is an Information / Security conference that's different. We're a 100% volunteer organized event, put on by and for the community, and we truly strive to keep information free.
 
-There is no charge to the public to attend BSidesSF. Our costs are covered by our generous donors and sponsors, who share our vision of free dissemination of information. The conversations are getting more potent and the "TALK AT YOU" conferences are starting to realize they have to change. BSidesSF is making this happen by shaking-up the format.
+There is no charge to the public to attend BSides SF. Our costs are covered by our generous donors and sponsors, who share our vision of free dissemination of information. The conversations are getting more potent and the "TALK AT YOU" conferences are starting to realize they have to change. BSides SF is making this happen by shaking-up the format.
 
 # The next big thing
 
@@ -26,4 +26,4 @@ The BSides community has continuously raised the bar and put the INFO back in IN
 
 We also have to give a HUGE amount of thanks to our generous sponsors and donors that have the foresight to give without strings attached, year after year, and PROVE to the community that we are all in this together. In concert, the participants, sponsors and donors have allowed for us all to get together and make moves to change InfoSec…. one chat, presentation, laugh, and/or drink at a time.
 
-With some of the most passionate and influential infosec practitioners from around the country, and the world, coming to Vegas, BSidesSF is the place to be. The mix ranges from "down in the trenches" engineers, to business leaders, thought leaders, and executive decision makers of all stripes.
+With some of the most passionate and influential infosec practitioners from around the country, and the world, coming to RSA Conference, BSides SF is the place to be. The mix ranges from "down in the trenches" engineers, to business leaders, thought leaders, and executive decision makers of all stripes.

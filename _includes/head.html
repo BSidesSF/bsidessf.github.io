@@ -8,7 +8,8 @@
   {% if site.author %}
   <meta name="author" content="{{ site.author }}">
   {% endif %}
-  {% capture description %}{% if page.description %}{{ page.description }}{% elsif site.description %}{{ site.description }}{% else %}{{ content | raw_content }}{% endif %}{% endcapture %}
+  {% capture page_content %}{% if page.title %}{{ content | raw_content | remove_first: page.title }}{% else %}{{ content | raw_content }}{% endif %}{% endcapture %}
+  {% capture description %}{% if page.description %}{{ page.description }}{% elsif site.description %}{{ site.description }}{% else %}{{ page_content }}{% endif %}{% endcapture %}
   <meta name="description" content="{{ description | strip_html | replace:'  ',' ' | strip_newlines | truncate:150,'...' }}">
   <meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}{% else %}{{ site.keywords }}{% endif %}">
     

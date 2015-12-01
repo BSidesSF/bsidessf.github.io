@@ -1,4 +1,5 @@
-{% capture description %}{% if page.description %}{{ page.description }}{% elsif page.url == "/index.html" %}{{ site.description }}{% else %}{{ content | raw_content }}{% endif %}{% endcapture %}
+{% capture page_content %}{% if page.title %}{{ content | raw_content | remove_first: page.title }}{% else %}{{ content | raw_content }}{% endif %}{% endcapture %}
+{% capture description %}{% if page.description %}{{ page.description }}{% elsif page.url == "/index.html" %}{{ site.description }}{% else %}{{ page_content }}{% endif %}{% endcapture %}
 {% if site.facebook_app_id %}
 <meta property="fb:app_id" content="{{ site.facebook_app_id }}" />
 <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}" />

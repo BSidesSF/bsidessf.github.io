@@ -10,6 +10,6 @@ permalink: /sponsors.html
 
 ## Interested in sponsoring?
 
-Check out our [Sponsor Kit](https://drive.google.com/file/d/0Bwz74M00-bIkWTByamt6OHU2Tlk/view?usp=sharing)
+* Check out our **[Sponsor Kit](https://drive.google.com/file/d/0Bwz74M00-bIkWTByamt6OHU2Tlk/view?usp=sharing)**
 
-Contact sponsors [at] bsidessf.com for more information.
+* Contact sponsors [at] bsidessf.com for more information.

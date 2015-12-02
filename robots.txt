@@ -1,0 +1,5 @@
+---
+layout: null
+sitemap: false
+---
+Sitemap: {{ site.url }}{{ site.baseurl }}/sitemap.xml

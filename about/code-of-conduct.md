@@ -17,4 +17,4 @@ For other non-conference related harassment concerns, e-mail harassment [at] bsi
 
 *Staff reserves the right to determine what constitutes "Being an Ass".
 
-_Policy gratuitous borrowed from [BSidesLV](https://www.bsideslv.org)_
+_Policy graciously borrowed from [BSidesLV](https://www.bsideslv.org)._

@@ -26,4 +26,4 @@ We also have to give a HUGE amount of thanks to our generous sponsors and donors
 
 With some of the most passionate and influential infosec practitioners from around the country, and the world, coming to RSA Conference, BSides SF is the place to be. The mix ranges from "down in the trenches" engineers, to business leaders, thought leaders, and executive decision makers of all stripes.
 
-_With special thanks to [BSidesLV](https://www.bsideslv.org)_
+_With special thanks to [BSidesLV](https://www.bsideslv.org)._

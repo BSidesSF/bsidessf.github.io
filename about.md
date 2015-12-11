@@ -10,9 +10,7 @@ BSides SF is a non-profit organization designed to advance the body of Informati
 
 # What is BSides?
 
-BSides San Francisco is an Information / Security conference that's different. We're a 100% volunteer organized event, put on by and for the community, and we truly strive to keep information free.
-
-There is no charge to the public to attend BSides SF. Our costs are covered by our generous donors and sponsors, who share our vision of free dissemination of information. The conversations are getting more potent and the "TALK AT YOU" conferences are starting to realize they have to change. BSides SF is making this happen by shaking-up the format.
+BSides San Francisco is an Information / Security conference that's different. We're a 100% volunteer organized event, put on by and for the community, and we truly strive to keep information easily accessible.
 
 # The next big thing
 

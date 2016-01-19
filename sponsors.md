@@ -6,7 +6,13 @@ permalink: /sponsors.html
 
 ## Thanks to our sponsors...
 
+* [Evident.io](https://evident.io)
+* [Gemalto](http://www.gemalto.com)
+* [Pluralsight](https://www.pluralsight.com)
+* [Qualys](https://www.qualys.com)
 * [ThreatStream](https://www.threatstream.com)
+* [Veracode](https://www.veracode.com)
+* [Zenefits](https://www.zenefits.com)
 
 ## Interested in sponsoring?
 

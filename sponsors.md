@@ -6,13 +6,24 @@ permalink: /sponsors.html
 
 ## Thanks to our sponsors...
 
-* [Evident.io](https://evident.io)
-* [Gemalto](http://www.gemalto.com)
-* [Pluralsight](https://www.pluralsight.com)
-* [Qualys](https://www.qualys.com)
-* [ThreatStream](https://www.threatstream.com)
-* [Veracode](https://www.veracode.com)
+### Leading
 * [Zenefits](https://www.zenefits.com)
+* [Tripwire](https://www.tripwire.com)
+
+### Contributing
+* [Pluralsight](https://www.pluralsight.com)
+
+### Supporting
+* [ThreatStream](https://www.threatstream.com)
+* [Evident.io](https://evident.io)
+* [Qualys](https://www.qualys.com)
+* [Rapid7](http://www.rapid7.com)
+* [Veracode](https://www.veracode.com)
+
+### Notable
+* [Gemalto](http://www.gemalto.com)
+* [Guidance Software](https://www.guidancesoftware.com)
+* [Vectra](http://www.vectranetworks.com)
 
 ## Interested in sponsoring?
 

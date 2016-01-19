@@ -6,7 +6,7 @@ permalink: /cfp.html
 
 BSides SF is soliciting papers and presentations for the 2016 annual BSides SF conference.
 
-## **[Submit here!](https://goo.gl/forms/9YteZJVzqn)**
+## CFP IS NOW CLOSED
 
 # IMPORTANT DATES
 
@@ -37,7 +37,7 @@ Submissions with two or more speakers are welcome at BSides SF.
 
 # SUBMISSION PROCEDURE
 
-## **[Submit here!](https://goo.gl/forms/9YteZJVzqn)**
+## CFP is now closed.
 
 A sample submission can be found online **[here](/cfp/sample-submission.html)**. We provide this as a general example. Your detailed outline need not look like ours, but it should be more than enough information to convince us of the merit of your talk.
 

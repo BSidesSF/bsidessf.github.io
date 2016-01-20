@@ -7,23 +7,23 @@ permalink: /sponsors.html
 ## Thanks to our sponsors...
 
 ### Leading
-* [Zenefits](https://www.zenefits.com)
-* [Tripwire](https://www.tripwire.com)
+[![Zenefits](/images/sponsors/zenefits.png)](https://www.zenefits.com)
+[Tripwire](https://www.tripwire.com)
 
 ### Contributing
-* [Pluralsight](https://www.pluralsight.com)
+[![Pluralsight](/images/sponsors/pluralsight.png)](https://www.pluralsight.com)
 
 ### Supporting
-* [ThreatStream](https://www.threatstream.com)
-* [Evident.io](https://evident.io)
-* [Qualys](https://www.qualys.com)
-* [Rapid7](http://www.rapid7.com)
-* [Veracode](https://www.veracode.com)
+[![ThreatStream](/images/sponsors/threatstream.png)](https://www.threatstream.com)
+[![Evident.io](/images/sponsors/evident_io.png)](https://evident.io)
+[![Qualys](/images/sponsors/qualys.png)](https://www.qualys.com)
+[![Veracode](/images/sponsors/veracode.png)](https://www.veracode.com)
+[Rapid7](http://www.rapid7.com)
 
 ### Notable
-* [Gemalto](http://www.gemalto.com)
-* [Guidance Software](https://www.guidancesoftware.com)
-* [Vectra](http://www.vectranetworks.com)
+[![Gemalto](/images/sponsors/gemalto.png)](http://www.gemalto.com)
+[Guidance Software](https://www.guidancesoftware.com)
+[Vectra](http://www.vectranetworks.com)
 
 ## Interested in sponsoring?
 

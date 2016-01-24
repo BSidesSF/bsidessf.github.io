@@ -8,7 +8,7 @@ permalink: /sponsors.html
 
 ### Leading
 [![Zenefits](/images/sponsors/zenefits.png)](https://www.zenefits.com)
-[Tripwire](https://www.tripwire.com)
+[![Tripwire](/images/sponsors/tripwire.png)](https://www.tripwire.com)
 
 ### Contributing
 [![Pluralsight](/images/sponsors/pluralsight.png)](https://www.pluralsight.com)
@@ -18,12 +18,12 @@ permalink: /sponsors.html
 [![Evident.io](/images/sponsors/evident_io.png)](https://evident.io)
 [![Qualys](/images/sponsors/qualys.png)](https://www.qualys.com)
 [![Veracode](/images/sponsors/veracode.png)](https://www.veracode.com)
-[Rapid7](http://www.rapid7.com)
+[![Rapid7](/images/sponsors/rapid7.png)](http://www.rapid7.com)
 
 ### Notable
 [![Gemalto](/images/sponsors/gemalto.png)](http://www.gemalto.com)
-[Guidance Software](https://www.guidancesoftware.com)
-[Vectra](http://www.vectranetworks.com)
+[![Guidance Software](/images/sponsors/guidance_software.png)](https://www.guidancesoftware.com)
+[![Vectra](/images/sponsors/vectra.png)](http://www.vectranetworks.com)
 
 ## Interested in sponsoring?
 

@@ -11,8 +11,8 @@ BSides SF is soliciting papers and presentations for the 2016 annual BSides SF c
 # IMPORTANT DATES
 
 <strike>November 30, 2015 – CFP opens<br/>
-January 10, 2016 – Final due date for all papers</strike>
-January 31, 2016 – Notifications sent
+January 10, 2016 – Final due date for all papers<br/>
+February 3, 2016 – Notifications sent</strike>
 February 28-29, 2016 – BSides SF 2016
 
 # WHO SHOULD SUBMIT

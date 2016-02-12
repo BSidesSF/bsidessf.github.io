@@ -26,12 +26,14 @@ permalink: /sponsors.html
 [![Veracode](/images/sponsors/veracode.png)](https://www.veracode.com)
 
 ### Notable
+[Apollo Information Systems](http://www.apollo-is.com)
 [![Gemalto](/images/sponsors/gemalto.png)](http://www.gemalto.com)
 [![Guidance Software](/images/sponsors/guidance_software.png)](https://www.guidancesoftware.com)
 [HackerOne](https://hackerone.com)
 [Irongeek](http://www.irongeek.com)
 [Palo Alto Networks](https://www.paloaltonetworks.com)
-[![Vectra](/images/sponsors/vectra.png)](http://www.vectranetworks.com)
+[Tenable Network Security](https://www.tenable.com)
+[![Vectra Networks](/images/sponsors/vectra.png)](http://www.vectranetworks.com)
 
 ## Interested in sponsoring?
 

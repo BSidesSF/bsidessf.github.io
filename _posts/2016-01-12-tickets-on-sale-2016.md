@@ -8,7 +8,7 @@ Tickets are [now available](https://www.dnalounge.com/calendar/2016/02-28a.html)
 
 If you loved BSides SF in 2015, imagine how great it will be in 2016 @ DNA Lounge (with booze)!
 
-The cost is $25/person. This includes friends, food, and fun!
+The cost is $25/person in advance ($30 at door). This includes friends, food, and fun!
 
 So, head over and [sign-up now](https://www.dnalounge.com/calendar/2016/02-28a.html) to ensure you don't miss out.
 

@@ -22,6 +22,7 @@ permalink: /sponsors.html
 ![Hexis Cyber Solutions](/images/sponsors/hexiscyber.png)
 ![Qualys](/images/sponsors/qualys.png)
 ![Rapid7](/images/sponsors/rapid7.png)
+![Tenable Network Security](/images/sponsors/tenable.png)
 ![ThreatStream](/images/sponsors/threatstream.png)
 ![Veracode](/images/sponsors/veracode.png)
 
@@ -32,7 +33,6 @@ permalink: /sponsors.html
 ![HackerOne](/images/sponsors/hackerone.png)
 ![Irongeek](/images/sponsors/irongeek.png)
 ![Palo Alto Networks](/images/sponsors/paloaltonetworks.png)
-![Tenable Network Security](/images/sponsors/tenable.png)
 ![TOOOL](/images/sponsors/toool.png)
 ![Vectra Networks](/images/sponsors/vectra.png)
 

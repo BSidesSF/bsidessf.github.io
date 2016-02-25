@@ -16,7 +16,6 @@ permalink: /sponsors.html
 
 ### Supporting
 ![Akamai](/images/sponsors/akamai.png)
-![Evident.io](/images/sponsors/evident_io.png)
 ![Fitbit](/images/sponsors/fitbit.png)
 ![Google](/images/sponsors/google.png)
 ![Hexis Cyber Solutions](/images/sponsors/hexiscyber.png)

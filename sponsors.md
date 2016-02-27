@@ -4,38 +4,30 @@ title: "Sponsors"
 permalink: /sponsors.html
 --- 
 
-## Thanks to our sponsors...
+### Thanks to our sponsors...
 
-### Leading
+## Leading
 ![Zenefits](/images/sponsors/zenefits.png)
 ![Tripwire](/images/sponsors/tripwire.png)
 
-### Contributing
+## Contributing
 ![CyberArk](/images/sponsors/cyberark.png)
 ![Pluralsight](/images/sponsors/pluralsight.png)
 
-### Supporting
-![Akamai](/images/sponsors/akamai.png)
-![Fitbit](/images/sponsors/fitbit.png)
-![Google](/images/sponsors/google.png)
-![Hexis Cyber Solutions](/images/sponsors/hexiscyber.png)
-![Qualys](/images/sponsors/qualys.png)
-![Rapid7](/images/sponsors/rapid7.png)
-![Tenable Network Security](/images/sponsors/tenable.png)
-![ThreatStream](/images/sponsors/threatstream.png)
-![Veracode](/images/sponsors/veracode.png)
+## Supporting
+<img src="/images/sponsors/akamai.png" width="300" alt="Akamai"> <img src="/images/sponsors/evident_io.png" width="300" alt="Evident.io">
+<img src="/images/sponsors/fitbit.png" width="300" alt="Fitbit"> <img src="/images/sponsors/google.png" width="300" alt="Google">
+<img src="/images/sponsors/hexiscyber.png" width="300" alt="Hexis Cyber Solutions"> <img src="/images/sponsors/qualys.png" width="300" alt="Qualys">
+<img src="/images/sponsors/rapid7.png" width="300" alt="Rapid7"> <img src="/images/sponsors/tenable.png" width="300" alt="Tenable Network Security">
+<img src="/images/sponsors/threatstream.png" width="300" alt="ThreatStream"> <img src="/images/sponsors/veracode.png" width="300" alt="Veracode">
 
-### Notable
-![Apollo Information Systems](/images/sponsors/apollo-is.png)
-![Gemalto](/images/sponsors/gemalto.png)
-![Guidance Software](/images/sponsors/guidance_software.png)
-![HackerOne](/images/sponsors/hackerone.png)
-![Irongeek](/images/sponsors/irongeek.png)
-![Palo Alto Networks](/images/sponsors/paloaltonetworks.png)
-![TOOOL](/images/sponsors/toool.png)
-![Vectra Networks](/images/sponsors/vectra.png)
+## Notable
+<img src="/images/sponsors/apollo-is.png" width="250" alt="Apollo Information Systems"> <img src="/images/sponsors/gemalto.png" width="250" alt="Gemalto">
+<img src="/images/sponsors/guidance_software.png" width="250" alt="Guidance Software"> <img src="/images/sponsors/hackerone.png" width="250" alt="HackerOne">
+<img src="/images/sponsors/irongeek.png" width="250" alt="Irongeek"> <img src="/images/sponsors/paloaltonetworks.png" width="250" alt="Palo Alto Networks">
+<img src="/images/sponsors/toool.png" width="250" alt="TOOOL"> <img src="/images/sponsors/vectra.png" width="250" alt="Vectra Networks">
 
-## Interested in sponsoring?
+### Interested in sponsoring?
 
 * Check out our **[Sponsor Kit](https://drive.google.com/file/d/0Bwz74M00-bIkWTByamt6OHU2Tlk/view?usp=sharing)**
 

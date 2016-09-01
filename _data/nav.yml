@@ -7,13 +7,12 @@
       subhref: "/about.html"
     - subtitle: "Security B-Sides"
       external: "http://www.securitybsides.com"
+    - subtitle: "News"
+      subhref: "/news/"
     - subtitle: "Code of Conduct"
       subhref: "/about/code-of-conduct.html"
     - subtitle: "Contact Us"
       subhref: "/about/contact.html"
-
-- title: "News"
-  href: "/news/"
 
 - title: "Venue"
   href: "/venue.html"
@@ -25,11 +24,14 @@
     - subtitle: "Sample Submission"
       subhref: "/cfp/sample-submission.html"
 
+- title: "CTF"
+  href: "/ctf.html"
+
 - title: "Sponsors"
   href: "/sponsors.html"
 
-- title: "Tickets"
-  href: "/tickets.html"
-
 - title: "Volunteer"
   href: "/volunteer.html"
+
+- title: "Donate"
+  href: "/donate.html"

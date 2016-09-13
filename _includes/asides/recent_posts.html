@@ -1,5 +1,6 @@
 <aside class="small-12 large-4 columns page-content recent-posts">
-  <h2>Recent News</h2>
+  <h2>Recent News <a href="{{ site.baseurl }}{{ site.feed.path }}" title="Feed"><span class="icon-feed socials"></span></a></h2>
+
   <ul>
     {% for post in site.posts limit:5 site.recent_posts %}
       <li>

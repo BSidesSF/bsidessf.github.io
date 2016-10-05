@@ -47,7 +47,3 @@ We feel that integrity management is an important capability for any modern ente
 **8. Previous experience**
 
 We have presented at BSides SF before. We have also delivered presentations at DefCon, Blackhat, The Gathering of The Shmoo, and InfoSec Anonymous
-
-**9. List of facilities requested**
-
-We need to be able to project 2 different systems at one time for our demonstration. Please let us know if that's a problem as we'll retool our demo to accommodate one screen.

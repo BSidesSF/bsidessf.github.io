@@ -7,9 +7,13 @@ permalink: /cfp.html
 # BSidesSF 2017 Call For Papers
 
 **What:** BSidesSF 2017 Call For Papers
+
 **When:** BSidesSF will take place at DNA Lounge and BuzzWorks in San Francisco, CA, USA, from February 12-13, 2016.  The Call for Papers will close on November 30, 2016 at 11:59 PM PST.
+
 **How:** Complete the Call for Papers Form [here](https://docs.google.com/a/bsidessf.com/forms/d/e/1FAIpQLSesFuqJxbBMqcvi5BU03CCp7jLFbY-jAYGDKpMpgTyeDdLBvQ/viewform)
+
 **Length:** 30 minute slots
+
 **Theme:** Mr. Robot!
 
 **Important Dates**
@@ -41,7 +45,7 @@ Are you tired of seeing the same bugs (**\*cough**\* vulnerabilities **\*cough**
 **Who Should Submit?**
 New and seasoned speakers alike.  We are interested in all talks, but most importantly talks that focus around fixing problems and not just finding them.  We encourage individuals who have never spoken to submit and/or individuals who want to present their new research.  BSidesSF is a no judgement zone.
 
-What Not to Submit?
+**What Not to Submit?**
 - Something you are planning to do, but have not done yet (time flies and life gets busy)
 - Vendor talks - a talk centered around the product and/or company you work for
 - Something you have presented time and time again and isn’t updated

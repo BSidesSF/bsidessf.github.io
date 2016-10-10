@@ -8,13 +8,13 @@ permalink: /cfp.html
 
 **When:** BSidesSF will take place at DNA Lounge and BuzzWorks in San Francisco, CA, USA, from February 12-13, 2016.  The Call for Papers will close on November 30, 2016 at 11:59 PM PST.
 
-**How:** Complete the Call for Papers Form [here](https://docs.google.com/a/bsidessf.com/forms/d/e/1FAIpQLSesFuqJxbBMqcvi5BU03CCp7jLFbY-jAYGDKpMpgTyeDdLBvQ/viewform)
+**How:** Complete the Call for Papers Form [here!](https://docs.google.com/a/bsidessf.com/forms/d/e/1FAIpQLSesFuqJxbBMqcvi5BU03CCp7jLFbY-jAYGDKpMpgTyeDdLBvQ/viewform)
 
 **Length:** 30 minute slots
 
 **Theme:** Mr. Robot!
 
-**Important Dates**
+**Important Dates**  
 October 5, 2016 – CFP opens  
 October 30, 2016 – Papers for preferential early-bird consideration due  
 November 15, 2016 – First round speakers notified  

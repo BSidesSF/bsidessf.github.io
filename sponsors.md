@@ -19,5 +19,5 @@ Nobody yet... Could be your company!
 Nobody yet... Could be your company!
 
 ### Interested in sponsoring?
-
-* Contact sponsors [at] bsidessf.com for more information.
+Check out our sponsorship kit [here.](downloads/BSides_SF_Sponsorship_kit.pdf)
+Contact sponsors [at] bsidessf.com for more information.

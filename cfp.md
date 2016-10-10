@@ -1,10 +1,8 @@
 ---
 layout: page
-title: "Call for Papers"
+title: "BSidesSF 2017 Call For Papers"
 permalink: /cfp.html
 --- 
-
-# BSidesSF 2017 Call For Papers
 
 **What:** BSidesSF 2017 Call For Papers
 

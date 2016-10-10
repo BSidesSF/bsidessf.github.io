@@ -15,12 +15,12 @@ permalink: /cfp.html
 **Theme:** Mr. Robot!
 
 **Important Dates**
-October 5, 2016 – CFP opens
-October 30, 2016 – Papers for preferential early-bird consideration due
-November 15, 2016 – First round speakers notified
-November 30, 2016 – Final due date for all papers
-December 14, 2016 – Notifications sent
-February 12-13, 2017 – BSidesSF 2017
+October 5, 2016 – CFP opens  
+October 30, 2016 – Papers for preferential early-bird consideration due  
+November 15, 2016 – First round speakers notified  
+November 30, 2016 – Final due date for all papers  
+December 14, 2016 – Notifications sent  
+February 12-13, 2017 – BSidesSF 2017  
 
 **About BSidesSF**
 BSides SF is a non-profit organization designed to advance the body of Information Security knowledge, by providing an annual, two day, open forum for discussion and debate for security engineers and their affiliates. We produce a conference that is a source of education, collaboration, and continued conversation for information technologists and those associated with this field. The technical and academic presentations at BSides SF are given in the spirit of peer review and advanced knowledge dissemination. This allows the field of Information Security to grow in breadth and depth, and continue in its pursuit of highly advanced scientifically based knowledge.

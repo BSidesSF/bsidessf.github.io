@@ -24,5 +24,5 @@ Nobody yet... Could be your company!
 
 ### Interested in sponsoring?
 
-Check out our sponsorship kit [here.](https://drive.google.com/file/d/0BzqYUQps-y3hWmc0b1ZKbkVORHM0TDA2MjRldTIzWGlBVVk0/view?usp=sharing)
+Check out our sponsorship kit [here.](https://drive.google.com/file/d/0B4AZp6zKOTrDWGFUazFvQ25oQW8/view?usp=sharing)
 Contact sponsors [at] bsidessf.com for more information.

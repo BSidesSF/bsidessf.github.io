@@ -3,9 +3,9 @@
 
 - title: "About"
   subcategories:
-    - subtitle: "BSides SF"
+    - subtitle: "BSidesSF"
       subhref: "/about.html"
-    - subtitle: "Security B-Sides"
+    - subtitle: "Security BSides"
       external: "http://www.securitybsides.com"
     - subtitle: "News"
       subhref: "/news/"

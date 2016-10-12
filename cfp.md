@@ -59,4 +59,6 @@ New and seasoned speakers alike.  We are interested in all talks, but most impor
 - Why do you feel this submission is a good fit for BSidesSF?
 - Are you a potential first time presenter at BSidesSF? Have you spoken at any other conferences? If yes, which ones?
 
+Sound good? Complete the Call for Papers Form [here!](https://docs.google.com/a/bsidessf.com/forms/d/e/1FAIpQLSesFuqJxbBMqcvi5BU03CCp7jLFbY-jAYGDKpMpgTyeDdLBvQ/viewform)
+
 As always -- Questions? E-mail cfp [at] bsidessf.com

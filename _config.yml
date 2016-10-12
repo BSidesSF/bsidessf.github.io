@@ -9,10 +9,10 @@ description: >
 url: https://bsidessf.com
 
 header: yes
-header_sm: images/B-SidesSF_Logo-BluePink.jpg
-header_med: images/B-SidesSF_Logo-BluePink.jpg
-header_large: images/B-SidesSF_Logo-BluePink.jpg
-header_xl: images/B-SidesSF_Logo-BluePink.jpg
+header_sm: images/B-SidesSF_Logo-BluePink_Large.jpg
+header_med: images/B-SidesSF_Logo-BluePink_Large.jpg
+header_large: images/B-SidesSF_Logo-BluePink_Large.jpg
+header_xl: images/B-SidesSF_Logo-BluePink_Large.jpg
 
 # Exclude our ruby stuff and other files
 exclude: [.bundle, bin, vendor, Gemfile, Gemfile.lock, Rakefile, .last_optimized, CNAME, README.md, LICENSE]

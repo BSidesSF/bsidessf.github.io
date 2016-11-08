@@ -6,7 +6,7 @@ permalink: /sponsors.html
 
 ### Interested in sponsoring?
 
-Check out our sponsorship kit [here](https://drive.google.com/file/d/0ByXZtaPFWlMiSGF5c2xKZzEyNms/view?ts=58195d82).
+Check out our sponsorship kit [here](https://drive.google.com/a/bsidessf.com/file/d/0ByXZtaPFWlMiSGF5c2xKZzEyNms/view?usp=sharing).
 
 Contact sponsors [at] bsidessf.com for more information.   
    

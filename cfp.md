@@ -17,7 +17,7 @@ permalink: /cfp.html
 **Important Dates**  
 October 5, 2016 – CFP opens  
 October 30, 2016 – Papers for preferential early-bird consideration due  
-November 20, 2016 – First round speakers notified  
+November ~~15~~ 20, 2016 – First round speakers notified  
 November 30, 2016 – Final due date for all papers  
 December 14, 2016 – Notifications sent  
 February 12-13, 2017 – BSidesSF 2017  

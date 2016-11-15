@@ -6,8 +6,6 @@ permalink: /about/past-events.html
 
 **Past BSides**
 
-If you're new to BSides 
-
 [Sunday, February 28 - Monday, February 29, 2016](http://www.securitybsides.com/w/page/103445197/BSidesSF2016)
 
 [Sunday, April 19 - Monday, April 20, 2015](http://www.securitybsides.com/w/page/90944586/BSidesSF2015)

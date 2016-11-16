@@ -14,7 +14,4 @@ Contact sponsors [at] bsidessf.com for more information.
 ## Notable   
 
 
-![alt text](images/sponsors_2017/Endgame_Logo_Half2.jpg "EndGame Logo")
-
-
-![alt text](images/sponsors_2017/Anomali_Logo.jpg "Anomali Logo")
+![alt text](images/sponsors_2017/Endgame_Logo_Half2.jpg "EndGame Logo") | ![alt text](images/sponsors_2017/Anomali_Logo.jpg "Anomali Logo") | ![alt text](images/sponsors_2017/qualys_75.png "Qualys Logo")

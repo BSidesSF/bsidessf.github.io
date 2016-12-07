@@ -1,10 +1,10 @@
 ---
-layout: page
-title: "BSidesSF 2017 Call For Papers (Now closed)"
-permalink: /cfp.html
---- 
+layout: post
+title: "BSidesSF 2017 CFP First Round Speakers"
+date: 2016-12-06T00:00:00-10:05
+---
 
-Thank you to everyone for the 112 CFP submissions we recieved and congratulations to the following speakers selected in the first round! 
+BSidesSF Round 2 submissions have closed and we are reviewing the additional submissions.  The first round accepted 9 talks.  Congratulations to the first round speakers!
 
 *Witchcraft Compiler Collection: Towards Programs Self Awareness* by **Jonathan Brossard**
 

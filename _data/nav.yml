@@ -15,10 +15,13 @@
       subhref: "/about/code-of-conduct.html"
     - subtitle: "Contact Us"
       subhref: "/about/contact.html"
+    - subtitle: "Donate"
+      subhref: "/donate.html"
 
+- title: "Tickets"
+  href: "/tickets.html"
 - title: "Venue"
   href: "/venue.html"
-
 - title: "CFP"
   subcategories:
     - subtitle: "Call for Papers"
@@ -34,6 +37,3 @@
 
 - title: "Volunteer"
   href: "/volunteer.html"
-
-- title: "Donate"
-  href: "/donate.html"

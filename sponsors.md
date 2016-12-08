@@ -8,23 +8,21 @@ permalink: /sponsors.html
 
 ![alt text](images/sponsors_2017/hackerone.png "HackerOne Logo")  
   
-![alt text](images/sponsors_2017/fitbit.png "Fitbit Logo") 
 
-# Lanyard Sponsor:  
+# Supporting Sponsors:
 
-![alt text](images/sponsors_2017/Endgame_Logo_Half2.jpg "EndGame Logo")  
+![alt text](images/sponsors_2017/Anomali_Logo.jpg "Anomali Logo")
 
-# Supporting Sponsors:  
-  
 
-![alt text](images/sponsors_2017/Anomali_Logo.jpg "Anomali Logo")  
-  
+![alt text](images/sponsors_2017/qualys_75.png "Qualys Logo")
 
-![alt text](images/sponsors_2017/qualys_75.png "Qualys Logo")  
-  
 
-![alt text](images/sponsors_2017/tripwire.png "Tripwire Logo")  
-  
+![alt text](images/sponsors_2017/tripwire.png "Tripwire Logo")
+
+
+# Lanyard Sponsor:
+
+![alt text](images/sponsors_2017/Endgame_Logo_Half2.jpg "Endgame Logo")
 
 
 ### Interested in sponsoring?

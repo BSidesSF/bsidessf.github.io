@@ -16,6 +16,7 @@ header_xl: images/2017_logo_small2.png
 
 # Exclude our ruby stuff and other files
 exclude: [.bundle, bin, vendor, Gemfile, Gemfile.lock, Rakefile, .last_optimized, CNAME, README.md, LICENSE]
+include: [.well-known]
 
 # Build settings
 markdown: kramdown

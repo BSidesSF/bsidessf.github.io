@@ -9,15 +9,17 @@ permalink: /sponsors.html
 ![alt text](images/sponsors_2017/hackerone.png "HackerOne Logo")  
   
 
+# Contributing Sponsors:
+
+![alt text](images/sponsors_2017/tripwire.png "Tripwire Logo")
+
+
 # Supporting Sponsors:
 
 ![alt text](images/sponsors_2017/Anomali_Logo.jpg "Anomali Logo")
 
 
 ![alt text](images/sponsors_2017/qualys_75.png "Qualys Logo")
-
-
-![alt text](images/sponsors_2017/tripwire.png "Tripwire Logo")
 
 
 # Lanyard Sponsor:

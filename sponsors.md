@@ -6,26 +6,37 @@ permalink: /sponsors.html
 
 # Leading Sponsors:  
 
-![alt text](images/sponsors_2017/hackerone.png "HackerOne Logo")  
-  
+![HackerOne](images/sponsors_2017/hackerone.png "HackerOne Logo")
+
+<br/>
 
 # Contributing Sponsors:
 
-![alt text](images/sponsors_2017/tripwire.png "Tripwire Logo")
+![Tripwire](images/sponsors_2017/tripwire.png "Tripwire Logo")
 
+<br/>
 
 # Supporting Sponsors:
 
-![alt text](images/sponsors_2017/Anomali_Logo.jpg "Anomali Logo")
+![Anomali](images/sponsors_2017/Anomali_Logo.jpg "Anomali Logo")
 
+<img src="/images/sponsors_2017/google.png" width="375" alt="Google">
 
-![alt text](images/sponsors_2017/qualys_75.png "Qualys Logo")
+![Qualys](images/sponsors_2017/qualys_75.png "Qualys Logo")
 
+<br/>
 
 # Lanyard Sponsor:
 
-![alt text](images/sponsors_2017/Endgame_Logo_Half2.jpg "Endgame Logo")
+![Endgame](images/sponsors_2017/Endgame_Logo_Half2.jpg "Endgame Logo")
 
+<br/>
+
+# Notable Sponsors:
+
+<img src="/images/sponsors_2017/cisco_csirt.png" width="375" alt="Cisco CSIRT">
+
+<br/>
 
 ### Interested in sponsoring?
 

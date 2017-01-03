@@ -8,6 +8,8 @@ permalink: /sponsors.html
 
 ![HackerOne](images/sponsors_2017/hackerone.png "HackerOne Logo")
 
+<img src="/images/sponsors_2017/fitbit.png" width="500" alt="Fitbit">
+
 <br/>
 
 # Contributing Sponsors:

@@ -26,6 +26,12 @@ permalink: /sponsors.html
 
 <br/>
 
+# Happy Hour Sponsor:
+
+<img src="/images/sponsors_2017/salesforce.png" width="325" alt="Salesforce">
+
+<br/>
+
 # Lanyard Sponsor:
 
 ![Endgame](images/sponsors_2017/Endgame_Logo_Half2.jpg "Endgame Logo")

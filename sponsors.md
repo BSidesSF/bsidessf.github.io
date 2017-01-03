@@ -32,6 +32,12 @@ permalink: /sponsors.html
 
 <br/>
 
+# Lunch Sponsors:
+
+<img src="/images/sponsors_2017/synack.png" width="375" alt="Synack">
+
+<br/>
+
 # Notable Sponsors:
 
 <img src="/images/sponsors_2017/cisco_csirt.png" width="375" alt="Cisco CSIRT">

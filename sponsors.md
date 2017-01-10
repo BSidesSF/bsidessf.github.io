@@ -6,7 +6,7 @@ permalink: /sponsors.html
 
 # Leading Sponsors:  
 
-![HackerOne](images/sponsors_2017/hackerone.png "HackerOne Logo")
+<img src="/images/sponsors_2017/hackerone.png" width="500" alt="HackerOne">
 
 <img src="/images/sponsors_2017/fitbit.png" width="500" alt="Fitbit">
 
@@ -14,17 +14,24 @@ permalink: /sponsors.html
 
 # Contributing Sponsors:
 
-![Tripwire](images/sponsors_2017/tripwire.png "Tripwire Logo")
+<img src="images/sponsors_2017/tripwire.png" width="375" alt="Addepar">  
+
+<img src="/images/sponsors_2017/Addepar_White.png" width="375" alt="Addepar">  
+
+<img src="/images/sponsors_2017/Netflix_Logo_RGB.png" width="375" alt="Netflix">  
+
 
 <br/>
 
 # Supporting Sponsors:
 
-![Anomali](images/sponsors_2017/Anomali_Logo.jpg "Anomali Logo")
+<img src="/images/sponsors_2017/Anomali_Logo.jpg" width="375" alt="Anomali Logo">  
 
 <img src="/images/sponsors_2017/google.png" width="375" alt="Google">
 
-![Qualys](images/sponsors_2017/qualys_75.png "Qualys Logo")
+<img src="/images/sponsors_2017/qualys_75.png" width="375" alt="Qualys Logo">
+
+<img src="/images/sponsors_2017/rapid7_logo_orange.png" width="375" alt="Rapid7">
 
 <br/>
 
@@ -36,24 +43,25 @@ permalink: /sponsors.html
 
 # Lanyard Sponsor:
 
-![Endgame](images/sponsors_2017/Endgame_Logo_Half2.jpg "Endgame Logo")
-
+<img src="/images/sponsors_2017/Endgame_Logo_Half2.jpg" width="325" alt="Endgame">
 <br/>
 
 # Lunch Sponsors:
 
-<img src="/images/sponsors_2017/synack.png" width="375" alt="Synack">
+<img src="/images/sponsors_2017/synack.png" width="325" alt="Synack">
 
 <br/>
 
 # Notable Sponsors:
 
-<img src="/images/sponsors_2017/cisco_csirt.png" width="375" alt="Cisco CSIRT">
+<img src="/images/sponsors_2017/cisco_csirt.png" width="325" alt="Cisco CSIRT">
+
+<img src="/images/sponsors_2017/NoStarch_logo.jpg" width="325" alt="No Starch">
 
 <br/>
 
 ### Interested in sponsoring?
 
-Check out our sponsorship kit [here](https://drive.google.com/file/d/0ByXZtaPFWlMiZUlJbFRISnAzVlE/view?usp=sharing).
+Check out our sponsorship kit [here](https://drive.google.com/file/d/0ByXZtaPFWlMiZUhLd2pVVkJZR1U/view?ts=sharing).
 
 Contact sponsors [at] bsidessf.com for more information.   

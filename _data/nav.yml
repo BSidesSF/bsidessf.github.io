@@ -22,13 +22,8 @@
   href: "/tickets.html"
 - title: "Venue"
   href: "/venue.html"
-- title: "CFP"
-  subcategories:
-    - subtitle: "Call for Papers"
-      subhref: "/cfp.html"
-    - subtitle: "Sample Submission"
-      subhref: "/cfp/sample-submission.html"
-
+- title: "Schedule"
+  href: "/schedule.html"
 - title: "CTF"
   href: "/ctf.html"
 

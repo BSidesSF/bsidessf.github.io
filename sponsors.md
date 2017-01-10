@@ -56,7 +56,11 @@ permalink: /sponsors.html
 
 <img src="/images/sponsors_2017/cisco_csirt.png" width="325" alt="Cisco CSIRT">
 
-<img src="/images/sponsors_2017/NoStarch_logo.jpg" width="325" alt="No Starch">
+<img src="/images/sponsors_2017/NoStarch_logo.jpg" width="325" alt="No Starch">  
+
+<img src="/images/sponsors_2017/Peerlyst_logo.png" width="325" alt="Peerlyst">  
+
+<img src="/images/sponsors_2017/LockPickExtreme.png" width="325" alt="LockPickExtreme">  
 
 <br/>
 

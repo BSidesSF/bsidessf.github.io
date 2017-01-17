@@ -35,7 +35,7 @@ permalink: /sponsors.html
 
 <br/>
 
-# Sunday Night Party
+# Sunday Night Party:
 
 <img src="/images/sponsors_2017/Apple_Logo_Grey_090318.png" width="375" alt="Apple"> 
 

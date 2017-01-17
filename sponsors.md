@@ -20,8 +20,6 @@ permalink: /sponsors.html
 
 <img src="/images/sponsors_2017/Netflix_Logo_RGB.png" width="375" alt="Netflix">  
 
-<img src="/images/sponsors_2017/Apple_Logo_Black_090318.png" width="300" alt="Apple"> 
-
 
 <br/>
 
@@ -34,6 +32,12 @@ permalink: /sponsors.html
 <img src="/images/sponsors_2017/qualys_75.png" width="375" alt="Qualys Logo">
 
 <img src="/images/sponsors_2017/rapid7_logo_orange.png" width="375" alt="Rapid7">
+
+<br/>
+
+# Sunday Night Party
+
+<img src="/images/sponsors_2017/Apple_Logo_Grey_090318.png" width="375" alt="Apple"> 
 
 <br/>
 

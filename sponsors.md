@@ -39,6 +39,12 @@ permalink: /sponsors.html
 
 <br/>
 
+# Electronic Badge Sponsor:
+
+<img src="/images/sponsors_2017/versprite.jpg" width="325" alt="VerSprite">
+
+<br/>
+
 # Happy Hour Sponsor:
 
 <img src="/images/sponsors_2017/salesforce.png" width="325" alt="Salesforce">

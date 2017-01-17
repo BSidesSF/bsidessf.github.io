@@ -43,7 +43,7 @@ permalink: /sponsors.html
 
 # Happy Hour Sponsor:
 
-<img src="/images/sponsors_2017/salesforce.png" width="325" alt="Salesforce">
+<img src="/images/sponsors_2017/salesforce.png" width="350" alt="Salesforce">
 
 <br/>
 

@@ -20,7 +20,7 @@ permalink: /sponsors.html
 
 <img src="/images/sponsors_2017/Netflix_Logo_RGB.png" width="375" alt="Netflix">  
 
-<img src="/images/sponsors_2017/Apple_Logo_Grey_090318.png" hspace="80" width="190" alt="Apple"> 
+<img src="/images/sponsors_2017/Apple_Logo_Grey_090318.png" hspace="65" width="190" alt="Apple"> 
 
 
 <br/>

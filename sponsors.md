@@ -35,6 +35,8 @@ permalink: /sponsors.html
 
 <img src="/images/sponsors_2017/rapid7_logo_orange.png" width="375" alt="Rapid7">
 
+<img src="/images/sponsors_2017/dropbox_blue.png" width="375" alt="Dropbox">
+
 <br/>
 
 # Happy Hour Sponsor:
@@ -46,11 +48,20 @@ permalink: /sponsors.html
 # Lanyard Sponsor:
 
 <img src="/images/sponsors_2017/Endgame_Logo_Half2.jpg" width="325" alt="Endgame">
+
+<br/>
+
+# Breakfast Sponsors:
+
+<img src="/images/sponsors_2017/Apple_Logo_Grey_090318.png" hspace="65" width="190" alt="Apple"> 
+
 <br/>
 
 # Lunch Sponsors:
 
 <img src="/images/sponsors_2017/synack.png" width="325" alt="Synack">
+
+<img src="/images/sponsors_2017/Apple_Logo_Grey_090318.png" hspace="65" width="190" alt="Apple"> 
 
 <br/>
 

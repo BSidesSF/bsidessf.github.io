@@ -20,6 +20,8 @@ permalink: /sponsors.html
 
 <img src="/images/sponsors_2017/Netflix_Logo_RGB.png" width="375" alt="Netflix">  
 
+<img src="/images/sponsors_2017/Apple_Logo_Grey_090318.png" hspace="80" width="190" alt="Apple"> 
+
 
 <br/>
 
@@ -35,15 +37,9 @@ permalink: /sponsors.html
 
 <br/>
 
-# Sunday Night Party:
-
-<img src="/images/sponsors_2017/Apple_Logo_Grey_090318.png" width="375" alt="Apple"> 
-
-<br/>
-
 # Happy Hour Sponsor:
 
-<img src="/images/sponsors_2017/salesforce.png" width="350" alt="Salesforce">
+<img src="/images/sponsors_2017/salesforce.png" width="325" alt="Salesforce">
 
 <br/>
 

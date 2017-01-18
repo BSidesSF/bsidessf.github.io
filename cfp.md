@@ -4,24 +4,6 @@ title: "BSidesSF 2017 Call For Papers (Now closed)"
 permalink: /cfp.html
 --- 
 
-Thank you to everyone for the 112 CFP submissions we recieved and congratulations to the following speakers selected in the first round! 
+Thank you to everyone for the 112 CFP submissions we received!
 
-*Witchcraft Compiler Collection: Towards Programs Self Awareness* by **Jonathan Brossard**
-
-*The Underground Economy of Apple ID* by **Claud Xiao**
-
-*Tired of Playing Exploit Kit Whack-A-Mole? Let's Automate* by **Anjum Ahuja**    
-
-*Assessing the Embedded Devices On Your Network* by **David Tomaschik**
-
-*Dormant DOMination* by **Christian Frichot**
-
-*Should I Pay or Should I Go? Game Theory and Ransomware* by **Tony Martin-Vegue**    
-
-*DNS Attacks, a History and Overview* by **Nick Mckenna**    
-
-*Security through Visibility* by **Katie Ledoux**
-
-*Reducing "Mixtape to Master Key" Scenarios: How to Block the Dark Army from Mayhem Using API-driven Access Control* by **Aren Sandersen**
-
-Stay tuned for the announcement of the second round submissions!
+Check the [schedule](/schedule.html) for a list of accepted talks.

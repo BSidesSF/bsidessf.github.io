@@ -6,7 +6,7 @@ permalink: /venue.html
 
 We have two venues this year -- DNA Lounge and BuzzWorks
 
-## DNA Lounge
+## [DNA Lounge](http://www.dnalounge.com/)
 
 375 11th St
 
@@ -16,7 +16,9 @@ San Francisco, CA 94103
 
 <br>
 
-## BuzzWorks
+## [BuzzWorks](http://www.sfbuzzworks.com/)
+
+<img src="/images/venue_2017/buzzworks.jpg" width="250" alt="BuzzWorks">
 
 365 11th St
 

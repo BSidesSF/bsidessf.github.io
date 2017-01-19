@@ -14,13 +14,15 @@ permalink: /sponsors.html
 
 # Contributing Sponsors:
 
-<img src="images/sponsors_2017/tripwire.png" width="375" alt="Addepar">  
+<img src="/images/sponsors_2017/tripwire.png" width="375" alt="Tripwire">
 
-<img src="/images/sponsors_2017/Addepar_White.png" width="375" alt="Addepar">  
+<img src="/images/sponsors_2017/Addepar_White.png" width="375" alt="Addepar">
 
-<img src="/images/sponsors_2017/Netflix_Logo_RGB.png" width="375" alt="Netflix">  
+<img src="/images/sponsors_2017/riskiq.png" width="375" alt="RiskIQ">
 
-<img src="/images/sponsors_2017/Apple_Logo_Grey_090318.png" hspace="65" width="190" alt="Apple"> 
+<img src="/images/sponsors_2017/Netflix_Logo_RGB.png" width="375" alt="Netflix">
+
+<img src="/images/sponsors_2017/Apple_Logo_Grey_090318.png" hspace="65" width="190" alt="Apple">
 
 
 <br/>

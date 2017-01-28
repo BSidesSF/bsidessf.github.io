@@ -16,7 +16,7 @@ As a community-driven event, BSidesSF would not be possible without the work of 
 
 We understand that our volunteers want to hear some of the talks as well, and we will work with you to ensure you are able to do so.
 
-You can sign up to be a volunteer <a href="https://goo.gl/forms/RzzQGECU1SVeu2nj2">here</a>. E-mail volunteer [at] bsidessf.com if you have questions. 
+You can sign up to be a volunteer <a href="https://goo.gl/forms/dX8bOfSJX3Fqv7TW2">here</a>. E-mail volunteer [at] bsidessf.com if you have questions. 
 
 Also, join us on Slack for live action updates:
 

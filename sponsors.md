@@ -75,6 +75,14 @@ permalink: /sponsors.html
 
 <br/>
 
+# A/V Sponsor:
+&nbsp;
+
+<img src="/images/sponsors_2017/Autodesk_Logo.jpg" width="325" alt="Autodesk">
+&nbsp;
+
+<br/>
+
 # Lanyard Sponsor:
 &nbsp; 
 

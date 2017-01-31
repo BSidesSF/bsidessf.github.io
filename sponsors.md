@@ -131,11 +131,14 @@ permalink: /sponsors.html
 <img src="/images/sponsors_2017/NoStarch_logo.jpg" width="325" alt="No Starch">  
 &nbsp; 
 
-<img src="/images/sponsors_2017/Peerlyst_logo.png" width="325" alt="Peerlyst">  
+<a href="https://www.peerlyst.com/" target="_blank"> <img src="/images/sponsors_2017/Peerlyst_logo.png" width="325" alt="Peerlyst"> 
 &nbsp; 
 
 <img src="/images/sponsors_2017/LockPickExtreme.png" width="325" alt="LockPickExtreme">  
 &nbsp; 
+
+<img src="/images/sponsors_2017/square.png" width="325" alt="Square">  
+&nbsp;  
 
 
 <br/>

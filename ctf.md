@@ -18,4 +18,6 @@ There will be folks on-site in the CTF room and in our [Slack room](https://bsid
 
 Check back here for more information, or when the game starts!
 
+*This year's CTF is sponsored by Google. Prizes sponsored by Synack.*
+
 ### E-mail ctf [at] bsidessf.com for questions.

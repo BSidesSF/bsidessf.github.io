@@ -147,4 +147,4 @@ permalink: /sponsors.html
 
 Check out our sponsorship kit [here](https://drive.google.com/file/d/0ByXZtaPFWlMiZGtJeTI1bS1pNGs/view?usp=sharing).
 
-Contact sponsors [at] bsidessf.com for more information.
+Contact sponsors [at] bsidessf.org for more information.

@@ -6,7 +6,7 @@ permalink: /about/contact.html
 
 # Questions? Comments? Get in touch!
 
-info [at] bsidessf.com
+info [at] bsidessf.org
 
 You can also reach us on Slack
 

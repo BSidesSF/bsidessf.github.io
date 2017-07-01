@@ -41,7 +41,7 @@ end
 
 # Ping Google and Yahoo to let them know you updated your site
 
-site = "bsidessf.com"
+site = "bsidessf.org"
 
 desc 'Notify Google of the new sitemap'
 task :sitemapgoogle do

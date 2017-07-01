@@ -20,4 +20,4 @@ Check back here for more information, or when the game starts!
 
 *This year's CTF is sponsored by Google. Prizes sponsored by Synack.*
 
-### E-mail ctf [at] bsidessf.com for questions.
+### E-mail ctf [at] bsidessf.org for questions.

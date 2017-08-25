@@ -4,6 +4,10 @@ title: "Sponsors"
 permalink: /sponsors.html
 ---    
 
+Interested in being a BSidesSF 2018 sponsor? You can reach us at sponsors [at] bsidessf.org. 
+
+Thanks again to our 2017 sponsors below! 
+
 # Leading Sponsors:  
 &nbsp; 
 

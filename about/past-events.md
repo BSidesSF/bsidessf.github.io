@@ -6,6 +6,8 @@ permalink: /about/past-events.html
 
 **Past BSides**
 
+[Sunday, February 12 - Monday, February 13, 2017](http://www.securitybsides.com/w/page/111866644/BSidesSF2017)
+
 [Sunday, February 28 - Monday, February 29, 2016](http://www.securitybsides.com/w/page/103445197/BSidesSF2016)
 
 [Sunday, April 19 - Monday, April 20, 2015](http://www.securitybsides.com/w/page/90944586/BSidesSF2015)

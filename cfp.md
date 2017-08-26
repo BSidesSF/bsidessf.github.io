@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "BSidesSF 2017 Call For Papers (Now closed)"
+title: "BSidesSF 2018 Call For Papers"
 permalink: /cfp.html
 --- 
 
-Thank you to everyone for the 112 CFP submissions we received!
+CFP for BSidesSF 2018 will be opening in the coming months.
 
-Check the [schedule](/schedule.html) for a list of accepted talks.
+Questions can be sent to cfp [@] bsidessf.org

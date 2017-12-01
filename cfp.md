@@ -15,12 +15,12 @@ permalink: /cfp.html
 **Theme:** Steampunk!
 
 **Important Dates**  
-+December 1, 2017 – CFP opens
-+December 31, 2017 – Papers for preferential early-bird consideration due
-+January 15, 2018 – First round speakers notified
-+January 30, 2018 – Final due date for all papers
-+February 15, 2018 – Notifications sent
-+April 15-16, 2018 – BSidesSF 2018
+- December 1, 2017 – CFP opens
+- December 31, 2017 – Papers for preferential early-bird consideration due
+- January 15, 2018 – First round speakers notified
+- January 30, 2018 – Final due date for all papers
+- February 15, 2018 – Notifications sent
+- April 15-16, 2018 – BSidesSF 2018
 
 **About BSidesSF**
 

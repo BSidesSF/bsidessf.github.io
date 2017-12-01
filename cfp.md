@@ -30,7 +30,7 @@ The BSides community has continuously raised the bar and put the INFO back in IN
 
 With some of the most passionate and influential infosec practitioners from around the country, and the world, coming to RSA Conference, BSidesSF is the place to be. The mix ranges from “down in the trenches” engineers, to business leaders, thought leaders, and executive decision makers of all stripes.
 
-# Suggested topics that match this year’s theme of “Mr. Robot”:
+# Suggested topics that match this year’s theme of “Steampunk”:
 
 **Magnifying Glass:** Are you researching a topic that is of interest to more than just you?  Are you facing a problem and solving it in a unique way?  Share your research and create a collaborative and interactive talk on the topic at hand.
 

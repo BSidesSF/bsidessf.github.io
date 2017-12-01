@@ -15,14 +15,15 @@ permalink: /cfp.html
 **Theme:** Steampunk!
 
 **Important Dates**  
-December 1, 2017 – CFP opens
-December 31, 2017 – Papers for preferential early-bird consideration due
-January 15, 2018 – First round speakers notified
-January 30, 2018 – Final due date for all papers
-February 15, 2018 – Notifications sent
-April 15-16, 2018 – BSidesSF 2018
++December 1, 2017 – CFP opens
++December 31, 2017 – Papers for preferential early-bird consideration due
++January 15, 2018 – First round speakers notified
++January 30, 2018 – Final due date for all papers
++February 15, 2018 – Notifications sent
++April 15-16, 2018 – BSidesSF 2018
 
 **About BSidesSF**
+
 BSidesSF is a non-profit organization designed to advance the body of Information Security knowledge, by providing an annual, two day, open forum for discussion and debate for security engineers and their affiliates. We produce a conference that is a source of education, collaboration, and continued conversation for information technologists and those associated with this field. The technical and academic presentations at BSidesSF are given in the spirit of peer review and advanced knowledge dissemination. This allows the field of Information Security to grow in breadth and depth, and continue in its pursuit of highly advanced scientifically based knowledge.
 
 The BSides community has continuously raised the bar and put the INFO back in INFOSEC. We thank each and every member/participant/organizer of this community for their hard work, sweat, and relentless pursuit of High Quality information.

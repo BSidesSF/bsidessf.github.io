@@ -2,11 +2,16 @@
   <h2>Recent News <a href="{{ site.baseurl }}{{ site.feed.path }}" title="Feed"><span class="icon-feed socials"></span></a></h2>
 
   <ul>
-    {% for post in site.posts limit:5 site.recent_posts %}
+  {% capture current_date %}{{'now' | date: '%s'}}{% endcapture %}
+  {% assign cutoff_date = current_date | minus: 15778463 %}
+  {% for post in site.posts limit:5 site.recent_posts %}
+    {% capture post_date %}{{post.date | date: '%s'}}{% endcapture %}
+    {% if post_date > cutoff_date %}
       <li>
         <a href="{{ site.baseurl }}{{ post.url }}">{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}</a>
       </li>
-    {% endfor %}
+    {% endif %}
+  {% endfor %}
   </ul>
   <a href="/news/">Older posts</a>
 </aside>

@@ -13,12 +13,16 @@ permalink: /sponsors.html
 
 # Contributing Sponsors
 <p><img src="/images/sponsors_2018/apple.png" hspace="85" width="170" alt="Apple"></p>
+<p><img src="/images/sponsors_2018/cisco.png" width="375" alt="Cisco CSIRT"></p>
+<p><img src="/images/sponsors_2018/dropbox.png" width="375" alt="Dropbox"></p>
+<p><img src="/images/sponsors_2018/tcell.io.png" width="375" alt="tCell.io"></p>
 <p><img src="/images/sponsors_2018/qualys.png" width="375" alt="Qualys"></p>
 
 <br/>
 
 # Supporting Sponsors
 <p><img src="/images/sponsors_2018/wigle.png" width="170" alt="WiGLE, LLC"></p>
+<p><img src="/images/sponsors_2018/coinbase.png" width="375" alt="Coinbase"></p>
 
 <br/>
 
@@ -26,6 +30,9 @@ permalink: /sponsors.html
 <p><img src="/images/sponsors_2018/cloudpassage.png" width="375" alt="CloudPassage"></p>
 
 <br/>
+
+# Lanyard Sponsor
+<p><img src="/images/sponsors_2018/dropbox.png" width="375" alt="Dropbox"></p>
 
 # Capture the Flag Sponsor
 <p><img src="/images/sponsors_2018/hackerone.png" width="375" alt="HackerOne"></p>

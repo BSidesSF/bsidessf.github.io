@@ -22,15 +22,19 @@ permalink: /sponsors.html
   <p>
     <a href="https://www.apple.com/jobs/"><img src="/images/sponsors_2018/apple.png" width="190" alt="Apple"></a>
   </p>
+  <br>
   <p>
     <a href="https://jobs.cisco.com/jobs"><img src="/images/sponsors_2018/cisco.png" width="400" alt="Cisco CSIRT"></a>
   </p>
+  <br>
   <p>
     <a href="https://www.dropbox.com/jobs/"><img src="/images/sponsors_2018/dropbox.png" width="400" alt="Dropbox"></a>
   </p>
+  <br>
   <p>
     <a href="https://www.tcell.io/about/"><img src="/images/sponsors_2018/tcell.io.png" width="400" alt="tCell.io"></a>
   </p>
+  <br>
   <p>
     <a href="https://www.qualys.com/careers/"><img src="/images/sponsors_2018/qualys.png" width="400" alt="Qualys"></a>
   </p>
@@ -41,6 +45,7 @@ permalink: /sponsors.html
   <p>
     <a href="https://wigle.net/"><img src="/images/sponsors_2018/wigle.png" width="170" alt="WiGLE, LLC"></a>
   </p>
+  <br>
   <p>
     <a href="https://www.coinbase.com/careers"><img src="/images/sponsors_2018/coinbase.png" width="375" alt="Coinbase"></a>
   </p>
@@ -48,17 +53,23 @@ permalink: /sponsors.html
   <br/>
   
   <h1>Party Sponsor</h1>
-  <p><img src="/images/sponsors_2018/cloudpassage.png" width="375" alt="CloudPassage"></p>
+  <p>
+    <a href="https://www.cloudpassage.com/company/careers/"><img src="/images/sponsors_2018/cloudpassage.png" width="375" alt="CloudPassage"></a>
+  </p>
   
   <br/>
   
   <h1>Lanyard Sponsor</h1>
-  <p><img src="/images/sponsors_2018/dropbox.png" width="375" alt="Dropbox"></p>
+  <p>
+    <a href="https://www.dropbox.com/jobs/"><img src="/images/sponsors_2018/dropbox.png" width="375" alt="Dropbox"></a>
+  </p>
   
   <br/>
   
   <h1>Capture the Flag Sponsor</h1>
-  <p><img src="/images/sponsors_2018/hackerone.png" width="375" alt="HackerOne"></p>
+  <p>
+    <a href="https://www.hackerone.com/careers"><img src="/images/sponsors_2018/hackerone.png" width="375" alt="HackerOne"></a>
+  </p>
   
   <br/>
   

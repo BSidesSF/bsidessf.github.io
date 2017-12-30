@@ -24,6 +24,10 @@ permalink: /sponsors.html
   </p>
   <br>
   <p>
+    <a href="https://www.bitdefender.com/company/job-opportunities/"><img src="/images/sponsors_2018/bitdefender.png" width="400" alt="Bitdefender"></a>
+  </p>
+  <br>
+  <p>
     <a href="https://jobs.cisco.com/jobs"><img src="/images/sponsors_2018/cisco.png" width="400" alt="Cisco CSIRT"></a>
   </p>
   <br>

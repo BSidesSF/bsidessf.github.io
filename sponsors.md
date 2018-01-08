@@ -32,6 +32,10 @@ permalink: /sponsors.html
   </p>
   <br>
   <p>
+    <a href="https://getcruise.com/careers"><img src="/images/sponsors_2018/cruise.png" width="400" alt="Cruise"></a>
+  </p>
+  <br>
+  <p>
     <a href="https://www.dropbox.com/jobs/"><img src="/images/sponsors_2018/dropbox.png" width="400" alt="Dropbox"></a>
   </p>
   <br>

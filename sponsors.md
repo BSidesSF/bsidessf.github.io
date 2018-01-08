@@ -53,6 +53,11 @@ permalink: /sponsors.html
   <p>
     <a href="https://www.coinbase.com/careers"><img src="/images/sponsors_2018/coinbase.png" width="375" alt="Coinbase"></a>
   </p>
+  <br>
+  <p>
+    <a href="https://wallarm.com/"><img src="/images/sponsors_2018/wallarm.png" width="375" alt="Wallarm">
+</a>
+  </p>
   
   <br/>
   
@@ -63,12 +68,15 @@ permalink: /sponsors.html
   
   <br/>
   
-  <h1>Lanyard Sponsor</h1>
+  <h1>Lanyard Sponsors</h1>
   <p>
     <a href="https://www.dropbox.com/jobs/"><img src="/images/sponsors_2018/dropbox.png" width="375" alt="Dropbox"></a>
   </p>
-  
-  <br/>
+  <br>
+  <p>
+    <a href="https://www.synopsys.com/company/synopsys-careers/careers-portal-search.html"><img src="/images/sponsors_2018/synopsys.png" width="375" alt="Synopsys"></a>
+  </p>
+  <br>
   
   <h1>Capture the Flag Sponsor</h1>
   <p>

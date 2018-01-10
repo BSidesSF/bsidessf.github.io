@@ -91,9 +91,12 @@ permalink: /sponsors.html
   
   <h1>Notable Sponsors</h1>
   <p>
+    <a href="https://www.kennasecurity.com/jobs"><img src="/images/sponsors_2018/kenna.png" width="375" alt="Kenna Security"></a>
+  </p>
+  <br>
+  <p>
     <a href="https://jobs.netflix.com/"><img src="/images/sponsors_2018/netflix.png" width="375" alt="Netflix"></a>
   </p>
-  
 </div>
 
 ## Interested in sponsoring?

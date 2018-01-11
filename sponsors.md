@@ -51,16 +51,19 @@ permalink: /sponsors.html
   
   <h1>Supporting Sponsors</h1>
   <p>
-    <a href="https://wigle.net/"><img src="/images/sponsors_2018/wigle.png" width="170" alt="WiGLE, LLC"></a>
-  </p>
-  <br>
-  <p>
     <a href="https://www.coinbase.com/careers"><img src="/images/sponsors_2018/coinbase.png" width="375" alt="Coinbase"></a>
   </p>
   <br>
   <p>
-    <a href="https://wallarm.com/"><img src="/images/sponsors_2018/wallarm.png" width="375" alt="Wallarm">
-</a>
+    <a href="https://www.lyft.com/jobs"><img src="/images/sponsors_2018/lyft.png" width="330" alt="Lyft"></a>
+  </p>
+  <br>
+  <p>
+    <a href="https://wallarm.com/"><img src="/images/sponsors_2018/wallarm.png" width="375" alt="Wallarm"></a>
+  </p>
+  <br>
+  <p>
+    <a href="https://wigle.net/"><img src="/images/sponsors_2018/wigle.png" width="200" alt="WiGLE, LLC"></a>
   </p>
   
   <br/>

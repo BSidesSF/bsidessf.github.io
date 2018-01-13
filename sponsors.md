@@ -55,6 +55,10 @@ permalink: /sponsors.html
   </p>
   <br>
   <p>
+    <a href="https://www.facebook.com/careers/"><img src="/images/sponsors_2018/facebook.png" width="400" alt="Facebook"></a>
+  </p>
+  <br>
+  <p>
     <a href="https://www.lyft.com/jobs"><img src="/images/sponsors_2018/lyft.png" width="330" alt="Lyft"></a>
   </p>
   <br>

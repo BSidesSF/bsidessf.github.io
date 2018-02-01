@@ -67,6 +67,10 @@ permalink: /sponsors.html
   </p>
   <br>
   <p>
+    <a href="https://www.trendmicro.com/en_us/about/careers.html"><img src="/images/sponsors_2018/trendmicro.png" width="375" alt="Trend Micro"></a>
+  </p>
+  <br>
+  <p>
     <a href="https://wallarm.com/"><img src="/images/sponsors_2018/wallarm.png" width="375" alt="Wallarm"></a>
   </p>
   <br>
@@ -79,6 +83,14 @@ permalink: /sponsors.html
   <h1>Party Sponsor</h1>
   <p>
     <a href="https://www.cloudpassage.com/company/careers/"><img src="/images/sponsors_2018/cloudpassage.png" width="375" alt="CloudPassage"></a>
+  </p>
+
+  <br>
+
+  <h1>IoT Village Sponsor</h1>
+  <p>
+    <a href="https://www.salesforce.com/company/careers/"><img src="/images/sponsors_2018/salesforce.png" width="300
+" alt="Salesforce"></a>
   </p>
 
   <br>

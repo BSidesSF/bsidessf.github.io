@@ -32,7 +32,7 @@ permalink: /sponsors.html
   </p>
   <br>
   <p>
-    <a href="https://getcruise.com/careers"><img src="/images/sponsors_2018/cruise.png" width="400" alt="Cruise"></a>
+    <a href="https://getcruise.com/careers"><img src="/images/sponsors_2018/cruisefull.png" width="400" alt="Cruise"></a>
   </p>
   <br>
   <p>

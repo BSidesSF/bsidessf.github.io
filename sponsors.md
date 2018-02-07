@@ -132,6 +132,12 @@ permalink: /sponsors.html
     <a href="https://www.owasp.org"><img src="/images/sponsors_2018/owasp.png" width="375" alt="OWASP"></a>
   </p>
 
+  <br>
+
+  <h1>Special Thanks</h1>
+  <p>
+    <a href="http://lockpickextreme.com/"><img src="/images/sponsors_2018/lockpickex.png" width="375" alt="Lockpick Extreme"></a>
+  </p>
 </div>
 
 ## Interested in sponsoring?

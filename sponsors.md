@@ -55,6 +55,10 @@ permalink: /sponsors.html
   
   <h1>Supporting Sponsors</h1>
   <p>
+    <a href="https://www.atlassian.com/company/careers"><img src="/images/sponsors_2018/atlassian.png" width="375" alt="Atlassian"></a>
+  </p>
+  <br>
+  <p>
     <a href="https://www.coinbase.com/careers"><img src="/images/sponsors_2018/coinbase.png" width="375" alt="Coinbase"></a>
   </p>
   <br>

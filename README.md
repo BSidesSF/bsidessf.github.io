@@ -1,4 +1,4 @@
-BSides SF website
+BSidesSF website
 =================
 
 Theme is based on [Slim Pickins](https://chrisanthropic.github.io/slim-pickins-jekyll-theme/).

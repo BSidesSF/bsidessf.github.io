@@ -6,11 +6,11 @@ permalink: /about.html
 
 # Mission Statement
 
-BSides SF is a non-profit organization designed to advance the body of Information Security knowledge, by providing an annual, two day, open forum for discussion and debate for security engineers and their affiliates. We produce a conference that is a source of education, collaboration, and continued conversation for information technologists and those associated with this field. The technical and academic presentations at BSides SF are given in the spirit of peer review and advanced knowledge dissemination. This allows the field of Information Security to grow in breadth and depth, and continue in its pursuit of highly advanced scientifically based knowledge.
+BSides San Francisco is a non-profit organization designed to advance the body of Information Security knowledge, by providing an annual, two day, open forum for discussion and debate for security engineers and their affiliates. We produce a conference that is a source of education, collaboration, and continued conversation for information technologists and those associated with this field. The technical and academic presentations at BSidesSF are given in the spirit of peer review and advanced knowledge dissemination. This allows the field of Information Security to grow in breadth and depth, and continue in its pursuit of highly advanced scientifically based knowledge.
 
 # What is BSides?
 
-BSides San Francisco is an Information / Security conference that's different. We're a 100% volunteer organized event, put on by and for the community, and we truly strive to keep information easily accessible.
+BSidesSF is an Information / Security conference that's different. We're a 100% volunteer organized event, put on by and for the community, and we truly strive to keep information easily accessible.
 
 # The next big thing
 

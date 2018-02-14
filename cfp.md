@@ -8,7 +8,7 @@ permalink: /cfp.html
 
 **When:** BSidesSF will take place at City View at Metreon in San Francisco from April 15-16, 2018.  The Call for Papers will close on January 30, 2018 at 11:59 PM PST.
 
-**How:** Complete the Call for Papers Form [here!](https://docs.google.com/forms/d/e/1FAIpQLSeHe0wEubiN0SJzZo0V8xyB6fvjw8O1Do3Cs3Ao3fGO-GtQ2Q/viewform)
+**How:** The CFP for 2018 is now closed. Thanks to all who submitted!
 
 **Length:** 30 minute slots
 
@@ -58,7 +58,5 @@ New and seasoned speakers alike.  We are interested in all talks, but most impor
 - List of conferences at which submission has been presented or submitted.
 - Why do you feel this submission is a good fit for BSidesSF?
 - Are you a potential first time presenter at BSidesSF? Have you spoken at any other conferences? If yes, which ones?
-
-Sound good? Complete the Call for Papers Form [here!](https://docs.google.com/forms/d/e/1FAIpQLSeHe0wEubiN0SJzZo0V8xyB6fvjw8O1Do3Cs3Ao3fGO-GtQ2Q/viewform)
 
 As always -- Questions? E-mail cfp [at] bsidessf.org

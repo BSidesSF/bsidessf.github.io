@@ -4,13 +4,11 @@ title: "2018 CFP Stats and Our CFP Process"
 date: 2018-02-16T10:00:01-10:05
 ---
 
-# 2018 CFP Stats and Our CFP Process
-
 This year was a very exciting year for many reasons.  
 
 - We had the largest number of submissions ever -- 147 to be exact
 - We are moving to a new location (City View at Metreon), only a short walk from RSA Conference!
-- Our CFP review team was bigger and more diverse than ever!
+- Our CFP review team was bigger and more diverse than ever
 
 I'm not sure if we have ever given insight into our CFP process, but I feel like this year we should. I’d also like to provide an explanation for the errors from last night.
 
@@ -24,8 +22,10 @@ This year we are at a new and much larger location and are adding a third track,
 It's always difficult letting individuals know that their talk was not accepted, especially when we see the names. Sometimes that even means telling some close friends and colleagues that they won't be presenting this year at your conference. This year was especially hard in that we had many really good talks that were just on the edge of being accepted.
 
 ## The Ugly
-Last night when we were sending out the acceptance, standby, and rejection notices, I made a mistake when executing the notification script and forgot to replace the email template used to the not-accepted template. This led to sending acceptance emails to the list of submissions that we were unable to accept this year due to volume and quality of submissions. The error was found within minutes and a correction email sent out. It was messy, and there is no excuse. I feel terrible for the confusion and possible pain I caused to those that received an initial acceptance email to then be told minutes later that they will not be presenting this year. We’re going to be making changes to our process for future years to prevent such incidents.
+Last night when we were sending out the acceptance, standby, and rejection notices, I made a mistake when executing the notification script and forgot to replace the email template used to the not-accepted template. This led to sending acceptance emails to the list of submissions that we were unable to accept this year due to volume and quality of submissions. The error was found within minutes and a correction email sent out. It was messy, and there is no excuse. I feel terrible for the confusion and possible pain I caused to those that received an initial acceptance email to then be told minutes later that they will not be presenting this year. We're going to be making changes to our process for future years to prevent such incidents.
 
 We appreciate the community support and understanding through this mistake and are looking forward to the best BSidesSF yet! The BSidesSF conference is 100% volunteer run by people that love the local security community. For those we accepted in error, we deeply regret our mistake, and you will be hearing from us again shortly. We hope to see everyone in April!
 
 ~ will
+CFP Chair
+BSidesSF 2018

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2018 CFP Stats and Our CFP Process"
-date: 2018-02-16T23:00:01-10:05
+date: 2018-02-16T10:00:01-10:05
 ---
 
 # 2018 CFP Stats and Our CFP Process

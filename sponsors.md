@@ -126,7 +126,7 @@ permalink: /sponsors.html
   
   <h1>Notable Sponsors</h1>
   <p>
-    <a href="https://www.kennasecurity.com/jobs"><img src="/images/sponsors_2018/kenna.png" width="375" alt="Kenna Security"></a>
+    <a href="https://www.kennasecurity.com/jobs"><img src="/images/sponsors_2018/kennasec.png" width="375" alt="Kenna Security"></a>
   </p>
   <br>
   <p>

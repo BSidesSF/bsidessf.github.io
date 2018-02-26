@@ -16,8 +16,9 @@ As a community-driven event, BSidesSF would not be possible without the work of 
 
 We understand that our volunteers want to hear some of the talks as well, and we will work with you to ensure you are able to do so.
 
-The sign up form for 2018 is not yet available, but you can still reach us at volunteer [at] bsidessf.org if you have questions in the meantime.
+<script type="text/javascript" src="https://www.cervistech.com/acts/javascript/resize.js"></script>
+<iframe id="myFrame" name="myFrame" src="https://www.cervistech.com/acts/webreg/eventwebreglist.php?org_id=0235" width="550" height="1075" frameborder="0"></iframe>
 
 Also, join us on Slack for live action updates:
-
 <script async defer src="https://bsidessf-slack.herokuapp.com/slackin.js?large"></script>
+

@@ -6,7 +6,7 @@ permalink: /volunteer.html
 
 Interested in helping at BSidesSF 2018?
 
-As a community-driven event, BSidesSF would not be possible without the work of volunteers. The organizers have worked hard to build a fun and exciting agenda. In order to execute this event and make it successful, we seeking additional volunteers to help with the tasks on the two days of the event which include, but are not limited to:
+As a community-driven event, BSidesSF would not be possible without the work of volunteers. The organizers have worked hard to build a fun and exciting agenda. In order to execute this event and make it successful, we're seeking additional volunteers to help with the tasks on the two days of the event which include, but are not limited to:
 
 * Registration / Information
 * Audio/Visual

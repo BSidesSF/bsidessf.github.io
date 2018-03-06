@@ -158,11 +158,14 @@ permalink: /sponsors.html
 
   <h1>Special Thanks</h1>
   <p>
-    <a href="https://www.securityevaluators.com/careers/"><img src="/images/sponsors_2018/ise.png" width="375" alt="ISE"></a>
+    <a href="https://www.hak5.org"><img src="/images/sponsors_2018/hak5.png" width="375" alt="Hak5"></a>
   </p>
   <br>
   <p>
     <a href="https://www.icebrg.io"><img src="/images/sponsors_2018/icebrg.png" width="375" alt="ICEBRG"></a>
+  </p>
+  <p>
+    <a href="https://www.securityevaluators.com/careers/"><img src="/images/sponsors_2018/ise.png" width="375" alt="ISE"></a>
   </p>
   <br>
   <p>

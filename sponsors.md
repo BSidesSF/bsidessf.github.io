@@ -164,8 +164,10 @@ permalink: /sponsors.html
   <p>
     <a href="https://www.icebrg.io"><img src="/images/sponsors_2018/icebrg.png" width="375" alt="ICEBRG"></a>
   </p>
+  <br>
+  <br>
   <p>
-    <a href="https://www.securityevaluators.com/careers/"><img src="/images/sponsors_2018/ise.png" width="375" alt="ISE"></a>
+    <a href="https://www.securityevaluators.com/careers/"><img src="/images/sponsors_2018/ise.png" width="360" alt="ISE"></a>
   </p>
   <br>
   <p>
@@ -177,7 +179,7 @@ permalink: /sponsors.html
   </p>
   <br>
   <p>
-    <a href="https://nostarch.com/"><img src="/images/sponsors_2018/nsp.png" width="375" alt="No Starch Press"></a>
+    <a href="https://nostarch.com/"><img src="/images/sponsors_2018/nsp.png" width="340" alt="No Starch Press"></a>
   </p>
 </div>
 

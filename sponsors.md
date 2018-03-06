@@ -67,7 +67,11 @@ permalink: /sponsors.html
   </p>
   <br>
   <p>
-    <a href="https://www.lyft.com/jobs"><img src="/images/sponsors_2018/lyft.png" width="330" alt="Lyft"></a>
+    <a href="https://www.lyft.com/jobs"><img src="/images/sponsors_2018/lyft.png" width="300" alt="Lyft"></a>
+  </p>
+  <br>
+  <p>
+    <a href="https://www.stackrox.com/careers/"><img src="/images/sponsors_2018/stackrox.png" width="375" alt="StackRox"></a>
   </p>
   <br>
   <p>
@@ -91,10 +95,24 @@ permalink: /sponsors.html
 
   <br>
 
+  <h1>Happy Hour Sponsor</h1>
+  <p>
+    <a href="https://www.rapid7.com/careers/"><img src="/images/sponsors_2018/rapid7.png" width="375" alt="Rapid7"></a>
+  </p>
+
+  <br>
+
   <h1>IoT Village Sponsor</h1>
   <p>
     <a href="https://www.salesforce.com/company/careers/"><img src="/images/sponsors_2018/salesforce.png" width="300
 " alt="Salesforce"></a>
+  </p>
+
+  <br>
+
+  <h1>Lockpick Village Sponsor</h1>
+  <p>
+    <a href="https://www.flashpoint-intel.com/careers/"><img src="/images/sponsors_2018/flashpoint.png" width="400" alt="Flashpoint"></a>
   </p>
 
   <br>
@@ -144,7 +162,19 @@ permalink: /sponsors.html
   </p>
   <br>
   <p>
+    <a href="https://www.icebrg.io"><img src="/images/sponsors_2018/icebrg.png" width="375" alt="ICEBRG"></a>
+  </p>
+  <br>
+  <p>
+    <a href="https://www.livingsecurity.com/"><img src="/images/sponsors_2018/livingsecurity.png" width="375" alt="Living Security"></a>
+  </p>
+  <br>
+  <p>
     <a href="http://lockpickextreme.com/"><img src="/images/sponsors_2018/lockpickex.png" width="375" alt="Lockpick Extreme"></a>
+  </p>
+  <br>
+  <p>
+    <a href="https://nostarch.com/"><img src="/images/sponsors_2018/nsp.png" width="375" alt="No Starch Press"></a>
   </p>
 </div>
 

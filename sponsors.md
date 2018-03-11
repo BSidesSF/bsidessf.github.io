@@ -36,7 +36,7 @@ permalink: /sponsors.html
   </p>
   <br>
   <p>
-    <a href="https://www2.dimensiondata.com/en-ie/careers"><img src="/images/sponsors_2018/dimension data.png" width="400" alt="Dimension Data"></a>
+    <a href="https://www2.dimensiondata.com/en-us/careers"><img src="/images/sponsors_2018/dimension data.png" width="400" alt="Dimension Data"></a>
   </p>
   <br>
   <p>
@@ -104,8 +104,7 @@ permalink: /sponsors.html
 
   <h1>IoT Village Sponsor</h1>
   <p>
-    <a href="https://www.salesforce.com/company/careers/"><img src="/images/sponsors_2018/salesforce.png" width="300
-" alt="Salesforce"></a>
+    <a href="https://www.salesforce.com/company/careers/"><img src="/images/sponsors_2018/salesforce.png" width="300" alt="Salesforce"></a>
   </p>
 
   <br>
@@ -130,7 +129,7 @@ permalink: /sponsors.html
   </p>
   <br>
   <p>
-    <a href="https://www.synopsys.com/company/synopsys-careers/careers-portal-search.html"><img src="/images/sponsors_2018/synopsys.png" width="375" alt="Synopsys"></a>
+    <a href="https://www.synopsys.com/company/synopsys-careers.html"><img src="/images/sponsors_2018/synopsys.png" width="375" alt="Synopsys"></a>
   </p>
 
   <br>
@@ -143,6 +142,10 @@ permalink: /sponsors.html
   <br>
   
   <h1>Notable Sponsors</h1>
+  <p>
+    <a href="https://www.gemalto.com/companyinfo/careers"><img src="/images/sponsors_2018/gemalto.png" width="375" alt="Gemalto"></a>
+  </p>
+  <br>
   <p>
     <a href="https://www.kennasecurity.com/jobs"><img src="/images/sponsors_2018/kennasec.png" width="375" alt="Kenna Security"></a>
   </p>

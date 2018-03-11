@@ -153,9 +153,6 @@ permalink: /sponsors.html
   <p>
     <a href="https://jobs.netflix.com/"><img src="/images/sponsors_2018/netflix.png" width="375" alt="Netflix"></a>
   </p>
-  <p>
-    <a href="https://www.owasp.org"><img src="/images/sponsors_2018/owasp.png" width="375" alt="OWASP"></a>
-  </p>
 
   <br>
 
@@ -183,6 +180,9 @@ permalink: /sponsors.html
   <br>
   <p>
     <a href="https://nostarch.com/"><img src="/images/sponsors_2018/nsp.png" width="340" alt="No Starch Press"></a>
+  </p>
+  <p>
+    <a href="https://www.owasp.org"><img src="/images/sponsors_2018/owasp.png" width="375" alt="OWASP"></a>
   </p>
 </div>
 

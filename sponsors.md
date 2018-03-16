@@ -63,11 +63,19 @@ permalink: /sponsors.html
   </p>
   <br>
   <p>
+    <a href="https://www.extrahop.com/company/careers/"><img src="/images/sponsors_2018/extrahop.png" width="400" alt="ExtraHop"></a>
+  </p>
+  <br>
+  <p>
     <a href="https://www.facebook.com/careers/"><img src="/images/sponsors_2018/facebook.png" width="400" alt="Facebook"></a>
   </p>
   <br>
   <p>
-    <a href="https://www.lyft.com/jobs"><img src="/images/sponsors_2018/lyft.png" width="300" alt="Lyft"></a>
+    <a href="https://www.lyft.com/jobs"><img src="/images/sponsors_2018/lyft.png" width="270" alt="Lyft"></a>
+  </p>
+  <br>
+  <p>
+    <a href="https://quantstamp.com/careers/"><img src="/images/sponsors_2018/quantstamp.png" width="375" alt="Quantstamp"></a>
   </p>
   <br>
   <p>
@@ -91,6 +99,13 @@ permalink: /sponsors.html
   <h1>Party Sponsor</h1>
   <p>
     <a href="https://www.cloudpassage.com/company/careers/"><img src="/images/sponsors_2018/cloudpassage.png" width="375" alt="CloudPassage"></a>
+  </p>
+
+  <br>
+
+  <h1>Bar and Chill Out Space Sponsor</h1>
+  <p>
+    <a href="https://www.oath.com/careers/work-at-oath/"><img src="/images/sponsors_2018/oath.png" width="375" alt="Oath"></a>
   </p>
 
   <br>

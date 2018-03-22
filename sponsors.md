@@ -71,7 +71,7 @@ permalink: /sponsors.html
   </p>
   <br>
   <p>
-    <a href="https://www.lyft.com/jobs"><img src="/images/sponsors_2018/lyft.png" width="270" alt="Lyft"></a>
+    <a href="https://www.lyft.com/jobs"><img src="/images/sponsors_2018/lyft.png" width="375" alt="Lyft"></a>
   </p>
   <br>
   <p>
@@ -181,7 +181,7 @@ permalink: /sponsors.html
   </p>
   <br>
   <p>
-    <a href="https://www.pluralsight.com/careers"><img src="/images/sponsors_2018/pluralsight.png" width="360" alt="Pluralsight"></a>
+    <a href="https://www.pluralsight.com/careers"><img src="/images/sponsors_2018/pluralsight.png" width="375" alt="Pluralsight"></a>
   </p>
   <br>
   <br>
@@ -190,16 +190,17 @@ permalink: /sponsors.html
   </p>
   <br>
   <p>
-    <a href="https://www.livingsecurity.com/"><img src="/images/sponsors_2018/livingsecurity.png" width="375" alt="Living Security"></a>
+    <a href="https://www.livingsecurity.com/"><img src="/images/sponsors_2018/livingsecurity.png" alt="Living Security"></a>
   </p>
   <br>
   <p>
-    <a href="http://lockpickextreme.com/"><img src="/images/sponsors_2018/lockpickex.png" width="375" alt="Lockpick Extreme"></a>
+    <a href="http://lockpickextreme.com/"><img src="/images/sponsors_2018/lockpickex.png" width="355" alt="Lockpick Extreme"></a>
   </p>
   <br>
   <p>
-    <a href="https://nostarch.com/"><img src="/images/sponsors_2018/nsp.png" width="340" alt="No Starch Press"></a>
+    <a href="https://nostarch.com/"><img src="/images/sponsors_2018/nsp.png" width="375" alt="No Starch Press"></a>
   </p>
+  <br>
   <p>
     <a href="https://www.owasp.org"><img src="/images/sponsors_2018/owasp.png" width="375" alt="OWASP"></a>
   </p>

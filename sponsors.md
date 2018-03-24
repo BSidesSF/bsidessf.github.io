@@ -177,6 +177,10 @@ permalink: /sponsors.html
   </p>
   <br>
   <p>
+    <a href="https://www.ibm.com/security/services/penetration-testing"><img src="/images/sponsors_2018/ibmxfr.jpg" width="200" alt="IBM X-Force Red" title="IBM X-Force Red"></a>
+  </p>
+  <br>
+  <p>
     <a href="https://www.icebrg.io"><img src="/images/sponsors_2018/icebrg.png" width="375" alt="ICEBRG"></a>
   </p>
   <br>

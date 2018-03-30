@@ -185,6 +185,10 @@ permalink: /sponsors.html
   </p>
   <br>
   <p>
+    <a href="http://www.oreilly.com/careers/"><img src="/images/sponsors_2018/oreilly.png" width="375" alt="O'Reilly"></a>
+  </p>
+  <br>
+  <p>
     <a href="https://www.pluralsight.com/careers"><img src="/images/sponsors_2018/pluralsight.png" width="375" alt="Pluralsight"></a>
   </p>
   <br>
@@ -198,7 +202,7 @@ permalink: /sponsors.html
   </p>
   <br>
   <p>
-    <a href="http://lockpickextreme.com/"><img src="/images/sponsors_2018/lockpickex.png" width="355" alt="Lockpick Extreme"></a>
+    <a href="https://lockpickextreme.com/"><img src="/images/sponsors_2018/lockpickex.png" width="355" alt="Lockpick Extreme"></a>
   </p>
   <br>
   <p>

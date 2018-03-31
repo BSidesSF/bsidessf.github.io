@@ -155,6 +155,24 @@ permalink: /sponsors.html
   </p>
 
   <br>
+
+  <h1>Workshop Sponsors</h1>
+  <br>
+  <p>
+    <a href="https://www.icebrg.io"><img src="/images/sponsors_2018/icebrg.png" width="375" alt="ICEBRG"></a>
+  </p>
+  <br>
+  <p>
+    <a href="https://www.owasp.org"><img src="/images/sponsors_2018/owasp.png" width="375" alt="OWASP"></a>
+  </p>
+  <br>
+  <p>
+    <a href="https://www.pluralsight.com/careers"><img src="/images/sponsors_2018/pluralsight.png" width="375" alt="Pluralsight"></a>
+  </p>
+  <br>
+  <p>
+    <a href="https://www.salesforce.com/company/careers/"><img src="/images/sponsors_2018/salesforce.png" width="300" alt="Salesforce"></a>
+  </p>
   
   <h1>Notable Sponsors</h1>
   <p>
@@ -181,19 +199,6 @@ permalink: /sponsors.html
   </p>
   <br>
   <p>
-    <a href="https://www.icebrg.io"><img src="/images/sponsors_2018/icebrg.png" width="375" alt="ICEBRG"></a>
-  </p>
-  <br>
-  <p>
-    <a href="http://www.oreilly.com/careers/"><img src="/images/sponsors_2018/oreilly.png" width="375" alt="O'Reilly"></a>
-  </p>
-  <br>
-  <p>
-    <a href="https://www.pluralsight.com/careers"><img src="/images/sponsors_2018/pluralsight.png" width="375" alt="Pluralsight"></a>
-  </p>
-  <br>
-  <br>
-  <p>
     <a href="https://www.securityevaluators.com/careers/"><img src="/images/sponsors_2018/ise.png" width="330" alt="ISE"></a>
   </p>
   <br>
@@ -206,11 +211,19 @@ permalink: /sponsors.html
   </p>
   <br>
   <p>
-    <a href="https://nostarch.com/"><img src="/images/sponsors_2018/nsp.png" width="375" alt="No Starch Press"></a>
+    <a href="https://nostarch.com/Jobs.htm"><img src="/images/sponsors_2018/nsp.png" width="375" alt="No Starch Press"></a>
   </p>
   <br>
   <p>
-    <a href="https://www.owasp.org"><img src="/images/sponsors_2018/owasp.png" width="375" alt="OWASP"></a>
+    <a href="http://www.oreilly.com/careers/"><img src="/images/sponsors_2018/oreilly.png" width="375" alt="O'Reilly"></a>
+  </p>
+  <br>
+  <p>
+    <a href="https://www.peerlyst.com/careers"><img src="/images/sponsors_2018/peerlyst.png" width="375" alt="Peerlyst"></a>
+  </p>
+  <br>
+  <p>
+    <a href="http://tooolsf.org/"><img src="/images/sponsors_2018/toool-nobridge.png" width="375" alt="TOOOL SF"></a>
   </p>
 </div>
 

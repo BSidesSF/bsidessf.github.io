@@ -173,6 +173,8 @@ permalink: /sponsors.html
   <p>
     <a href="https://www.salesforce.com/company/careers/"><img src="/images/sponsors_2018/salesforce.png" width="300" alt="Salesforce"></a>
   </p>
+
+  <br>
   
   <h1>Notable Sponsors</h1>
   <p>

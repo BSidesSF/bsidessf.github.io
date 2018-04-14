@@ -4,16 +4,21 @@ title: "Capture The Flag (CTF)"
 permalink: /ctf.html
 --- 
 
-[Register and play here](https://ctf.bsidessf.net/)! (April 15th @ 9am PT - April 16th @ 4pm PT)
+# CTF is coming back to BSidesSF 2018!
 
-The CTF is back and as wild as ever.
+Our CTF (capture the flag) competition will be running from 9am PDT Sunday, April 15th till 4pm PDT Monday.
 
-You can play on-site in the CTF room (SoMa) during the conference or online. However, only folks who are on-site will be able to win prizes.
+It’ll have a range of challenges at all difficulty levels, and we’ll have folks on-site in the CTF room (SoMA) for hints and guidance. Everyone is welcome! Individuals, teams, or whatever! Bring your laptop!
 
-The challenges are targeted towards beginner and intermediate players, but there are several harder challenges as well!
+<a style="font-weight: bold" href='https://ctf.bsidessf.net/'>Register and play here</a>! The server at will be available for the full duration of the conference, including overnight, and anyone is allowed to play and help. Note that at least one player must be on-site to claim your prize, though!
 
-There are folks on-site in the CTF room (SoMa) and in our [Slack room](https://bsidessf-slack.herokuapp.com) ([#ctf](https://bsidessf.slack.com/messages/C2DSB8VDL/)) to answer any questions.
+There will be folks on-site in the CTF room and in our [Slack room](https://bsidessf-slack.herokuapp.com) ([#ctf](https://bsidessf.slack.com/messages/ctf/details/)) to answer any questions.
 
-*This year's CTF is sponsored by HackerOne.*
+<figure style="text-align: center">
+  <a href="https://www.hackerone.com/careers">
+    <img style="display: block; margin: 0 auto;" width="400" src="/images/sponsors_2018/hackerone.png" alt="HackerOne"/>
+  </a>
+  <figcaption><i>This year's CTF is sponsored by HackerOne.</i></figcaption>
+</figure>
 
 ### E-mail ctf [at] bsidessf.org for questions.

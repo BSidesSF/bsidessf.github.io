@@ -19,4 +19,5 @@ Parking garages are available at:
 Please see the [sched page](https://bsidessf2018.sched.com/).
 
 # Conference map
-Please see the attached [conference map](images/venue_2018/map.jpg) for your reference.
+
+![Venue map](/images/venue_2018/map.jpg)

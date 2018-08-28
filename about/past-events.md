@@ -4,7 +4,9 @@ title: "Past Events"
 permalink: /about/past-events.html
 --- 
 
-**Past BSides**
+**Past BSidesSF**
+
+[Sunday, April 15 - Monday, April 16, 2018](http://www.securitybsides.com/w/page/122163258/BSidesSF2018)
 
 [Sunday, February 12 - Monday, February 13, 2017](http://www.securitybsides.com/w/page/111866644/BSidesSF2017)
 
@@ -20,15 +22,4 @@ permalink: /about/past-events.html
 
 [Monday, February 14 - Tuesday, February 15, 2011](http://www.securitybsides.com/w/page/56409738/BSidesSanFrancisco2011)
 
-[Tuesday, March 2 - Wednesday, March 3, 2010](http://www.securitybsides.com/w/page/12194147/BSidesSanFrancisco01)  
-
-
-
-
-
-
-
-
-
-
-
+[Tuesday, March 2 - Wednesday, March 3, 2010](http://www.securitybsides.com/w/page/12194147/BSidesSanFrancisco01)

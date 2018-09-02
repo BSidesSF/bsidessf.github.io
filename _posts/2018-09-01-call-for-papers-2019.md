@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Call for Papers for BSidesSF 2019"
-date: 2018-01-01T00:00:00-10:05
+date: 2018-09-01T00:00:00-07:00
 ---
 
 BSidesSF is soliciting papers and presentations for the 2019 BSidesSF conference to be held at City View at Metreon in San Francisco on Sunday, March 3rd & Monday, March 4th, 2018.

@@ -2,7 +2,10 @@
 layout: page
 title: "Sponsors"
 permalink: /sponsors.html
----    
+---
+
+**Want to help? See [how to sponsor](#interested-in-sponsoring) below!**
+
 <div style="text-align: center;">
 
   <h1>Leading Sponsors</h1>

@@ -32,6 +32,18 @@ With some of the most passionate and influential infosec practitioners from arou
 
 # Suggested topics that match this year's theme of "80s":
 
+**Back to the Future:** Are you researching a way to leverage the next technology innovation to go back in time or affect systems in interesting and unexpected ways? Put it on the big screen.
+
+**Covert Signals Science:** Are you finding ways to intercept and analyse audio and signals data to do things that that change the way systems behave or found a way to decrypt the next level of quantum resistant encryption? Broadcast it to the world.
+
+**PC Turbo Button:** Have you found the secret "button" to make your program, system, or application do things at hyperspeed, or change the way it executes and thereby giving you exceptional outcomes? Share your cheat codes.
+
+**Family Entertainment Systems:** Using your home gaming console or AI-based smart fridge to also manage your home or generate your rainbow tables? Show how to repurpose our everyday (IoT) technology for interesting uses.
+
+**Wargames:** Have you identified an algorithm or system that can prevent _global thermonuclear war_ or perhaps provide the industry with the applied risk science treasure that provides meaningful metrics to the "doomsday" clock? Keep us on our toes.
+
+**Class Divide:** If your topic doesn't align into the above topics, **!worry**. We are interested in talks in all ranges of topics and would love to hear what you propose. Don't be shy!
+
 **Who Should Submit?**
 New and seasoned speakers alike.  We are interested in all talks, but most importantly talks that focus around fixing problems and not just finding them.  We encourage individuals who have never spoken to submit and/or individuals who want to present their new research.  BSidesSF is a no judgement zone.
 

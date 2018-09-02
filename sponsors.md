@@ -26,6 +26,13 @@ permalink: /sponsors.html
   
   <br>
   
+  <h1>Notable Sponsors</h1>
+  <p>
+    <em>Could be you!</em>
+  </p>
+
+  <br>
+
   <h1>Party Sponsor</h1>
   <p>
     <em>Could be you!</em>
@@ -33,7 +40,7 @@ permalink: /sponsors.html
 
   <br>
 
-  <h1>Bar and Chill Out Space Sponsor</h1>
+  <h1>Bar and Chill Out Space Sponsors</h1>
   <p>
     <em>Could be you!</em>
   </p>
@@ -47,28 +54,21 @@ permalink: /sponsors.html
 
   <br>
 
-  <h1>IoT Village Sponsor</h1>
-  <p>
-    <em>Could be you!</em>
-  </p>
-
-  <br>
-
-  <h1>Lockpick Village Sponsor</h1>
-  <p>
-    <em>Could be you!</em>
-  </p>
-
-  <br>
- 
-  <h1>Capture the Flag Sponsor</h1>
-  <p>
-    <em>Could be you!</em>
-  </p>
-
-  <br>
- 
   <h1>Lanyard Sponsors</h1>
+  <p>
+    <em>Could be you!</em>
+  </p>
+
+  <br>
+
+  <h1>Village Sponsors</h1>
+  <p>
+    <em>Could be you!</em>
+  </p>
+
+  <br>
+
+  <h1>Capture the Flag Sponsor</h1>
   <p>
     <em>Could be you!</em>
   </p>
@@ -82,20 +82,34 @@ permalink: /sponsors.html
 
   <br>
 
-  <h1>Workshop Sponsors</h1>
+  <h1>Wi-Fi Sponsor</h1>
+  <p>
+    <em>Could be you!</em>
+  </p>
+
+  <br>
+
+  <h1>Lunch Sponsors</h1>
+  <p>
+    <em>Could be you!</em>
+  </p>
+
+  <br>
+
+  <h1>Breakfast Sponsors</h1>
+  <p>
+    <em>Could be you!</em>
+  </p>
+
+  <br>
+
+  <h1>Scholarship Sponsor</h1>
   <p>
     <em>Could be you!</em>
   </p>
 
   <br>
   
-  <h1>Notable Sponsors</h1>
-  <p>
-    <em>Could be you!</em>
-  </p>
-
-  <br>
-
   <h1>Special Thanks</h1>
   <p>
     <em>Could be you!</em>

@@ -6,20 +6,20 @@ permalink: /cfp.html
 
 **What:** BSidesSF 2019 Call For Papers
 
-**When:** BSidesSF will take place at City View at Metreon in San Francisco from March 3-4, 2019.  The Call for Papers will close on October 31, 2018 at 11:59 PM PST.
+**When:** BSidesSF will take place at City View at Metreon in San Francisco from March 3-4, 2019.  The Call for Papers will close on November 15, 2018 at 11:59 PM PST.
 
 **How:** Complete the Call for Papers Form [here!](https://docs.google.com/forms/d/e/1FAIpQLSd7zUebd5bJmnZKvKgJwlzLHTcp1XtjVfjEPXn4PtWPyKjAeA/viewform)
 
 **Length:** 30 minute slots
 
-**Theme:** 80s!
+**Theme:** 80s! tech/games
 
 **Important Dates**
 - September 1, 2018 – CFP opens
 - September 30, 2018 – Papers for preferential early-bird consideration due
 - October 15, 2018 – First round speakers notified
-- October 31, 2018 – Final due date for all papers
-- November 15, 2018 – Notifications sent
+- November 15, 2018 – Final due date for all papers (EXTENDED!)
+- November 30, 2018 – Notifications sent
 - March 3-4, 2019 – BSidesSF 2019
 
 **About BSidesSF**

@@ -9,8 +9,11 @@ permalink: /sponsors.html
 <div style="text-align: center;">
 
   <h1>Leading Sponsors</h1>
+  <img src="/images/sponsors_2019/hackerone.png"
+       alt="HackerOne Logo"
+       style="width:400px;padding-bottom:15px">
   <p>
-    <em>Could be you!</em>
+    <em>Could also be you!</em>
   </p>
   
   <br>
@@ -23,9 +26,12 @@ permalink: /sponsors.html
   <br>
   
   <h1>Supporting Sponsors</h1>
-  <p>
-    <em>Could be you!</em>
-  </p>
+  <img src="/images/sponsors_2019/cisco.png"
+       alt="Cisco CSIRT Logo"
+       style="width:400px;padding-bottom:15px">
+    <p>
+      <em>Could also be you!</em>
+    </p>
   
   <br>
   
@@ -58,8 +64,11 @@ permalink: /sponsors.html
   <br>
 
   <h1>Lanyard Sponsors</h1>
+  <img src="/images/sponsors_2019/flashpoint.png"
+       alt="Flashpoint Logo"
+       style="width:400px;padding-bottom:15px">
   <p>
-    <em>Could be you!</em>
+    <em>Could also be you!</em>
   </p>
 
   <br>
@@ -86,9 +95,9 @@ permalink: /sponsors.html
   <br>
 
   <h1>Wi-Fi Sponsor</h1>
-  <p>
-    <em>Could be you!</em>
-  </p>
+  <img src="/images/sponsors_2019/wigle.png"
+       alt="WiGLE Logo"
+       style="width:250px;padding-bottom:15px">
 
   <br>
 

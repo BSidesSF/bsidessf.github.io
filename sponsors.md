@@ -33,6 +33,12 @@ permalink: /sponsors.html
          alt="Cisco CSIRT Logo"
          style="width:350px;padding-bottom:15px">
   </a>
+  <br>
+  <a href="https://xmcyber.com/careers/" target="_blank">
+    <img src="/images/sponsors_2019/xm_cyber.png"
+         alt="XM Cyber Logo"
+         style="width:500px;padding-bottom:15px">
+  </a>
     <p>
       <em>Could also be you!</em>
     </p>

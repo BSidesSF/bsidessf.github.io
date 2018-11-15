@@ -114,7 +114,7 @@ permalink: /sponsors.html
     <img src="/images/sponsors_2019/wigle.png"
          alt="WiGLE Logo"
          style="width:175px;padding-bottom:15px">
-    </a>
+  </a>
   <hr>
   <br>
 
@@ -140,8 +140,13 @@ permalink: /sponsors.html
   <br>
   
   <h1>Special Thanks</h1>
+  <a href="https://www.owasp.org/" target="_blank">
+    <img src="/images/sponsors_2019/owasp.png"
+         alt="OWASP Logo"
+         style="width:250px;padding-bottom:15px">
+  </a>
   <p>
-    <em>Could be you!</em>
+    <em>Could also be you!</em>
   </p>
   <hr>
   <br>

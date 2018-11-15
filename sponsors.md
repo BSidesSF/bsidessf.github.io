@@ -79,9 +79,12 @@ permalink: /sponsors.html
          alt="Flashpoint Logo"
          style="width:400px;padding-bottom:15px">
   </a>
-  <p>
-    <em>Could also be you!</em>
-  </p>
+  <br/>
+  <a href="https://jobs.netflix.com/" target="_blank">
+    <img src="/images/sponsors_2019/netflix.png"
+         alt="Netflix Logo"
+         style="width:275px;padding-bottom:15px">
+  </a>
   <hr>
   <br>
 

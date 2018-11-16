@@ -21,8 +21,13 @@ permalink: /sponsors.html
   <br>
   
   <h1>Contributing Sponsors</h1>
+  <a href="https://careers.google.com/" target="_blank">
+    <img src="/images/sponsors_2019/google.png"
+       alt="Google Logo"
+       style="width:325px;padding-bottom:15px">
+  </a>
   <p>
-    <em>Could be you!</em>
+    <em>Could also be you!</em>
   </p>
     <hr>
   <br>

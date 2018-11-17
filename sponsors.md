@@ -21,8 +21,13 @@ permalink: /sponsors.html
   <br>
   
   <h1>Contributing Sponsors</h1>
+  <a href="https://careers.google.com/" target="_blank">
+    <img src="/images/sponsors_2019/google.png"
+       alt="Google Logo"
+       style="width:325px;padding-bottom:15px">
+  </a>
   <p>
-    <em>Could be you!</em>
+    <em>Could also be you!</em>
   </p>
     <hr>
   <br>
@@ -79,9 +84,12 @@ permalink: /sponsors.html
          alt="Flashpoint Logo"
          style="width:400px;padding-bottom:15px">
   </a>
-  <p>
-    <em>Could also be you!</em>
-  </p>
+  <br/>
+  <a href="https://jobs.netflix.com/" target="_blank">
+    <img src="/images/sponsors_2019/netflix.png"
+         alt="Netflix Logo"
+         style="width:275px;padding-bottom:15px">
+  </a>
   <hr>
   <br>
 
@@ -111,7 +119,7 @@ permalink: /sponsors.html
     <img src="/images/sponsors_2019/wigle.png"
          alt="WiGLE Logo"
          style="width:175px;padding-bottom:15px">
-    </a>
+  </a>
   <hr>
   <br>
 
@@ -137,8 +145,13 @@ permalink: /sponsors.html
   <br>
   
   <h1>Special Thanks</h1>
+  <a href="https://www.owasp.org/" target="_blank">
+    <img src="/images/sponsors_2019/owasp.png"
+         alt="OWASP Logo"
+         style="width:250px;padding-bottom:15px">
+  </a>
   <p>
-    <em>Could be you!</em>
+    <em>Could also be you!</em>
   </p>
   <hr>
   <br>

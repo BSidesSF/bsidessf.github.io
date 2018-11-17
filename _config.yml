@@ -46,9 +46,9 @@ google_universal_analytics_cookiedomain: auto
 facebook_app_id: 1522022128111003
 facebook_locale: en_US
 facebook_type: website
-facebook_image: /images/bsides_logo_short.png
+facebook_image: /images/logos_2019/bsides_logo_short_2019.png
 
 # Twitter Cards
 twitter_user: "@BSidesSF"
 twitter_card: true
-twitter_image: /images/bsides_logo_short.png
+twitter_image: /images/logos_2019/bsides_logo_short_2019.png

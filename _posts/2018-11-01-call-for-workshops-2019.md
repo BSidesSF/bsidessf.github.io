@@ -8,7 +8,7 @@ BSidesSF is soliciting workshops for the 2019 BSidesSF conference to be held in 
 
 Our call for workshops process is new this year, as we want to make sure we have a wide variety of courses available for our participants.
 
-To all of you who think you have an awesome course to present – take a look and get writing. You've got until November 30th to make your submission.
+To all of you who think you have an awesome course to present – take a look and get writing. You've got until December 7th to make your submission.
 
 For complete details and information on how to submit, check out [Call for Workshops](/cfw.html).
 

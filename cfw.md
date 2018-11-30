@@ -6,7 +6,7 @@ permalink: /cfw.html
 
 **What:** BSidesSF 2019 Call For Workshops
 
-**When:** BSidesSF will take place in San Francisco on March 2, 2019.  The Call for Workshops will close on November 30, 2018 at 11:59 PM PST.
+**When:** BSidesSF will take place in San Francisco on March 2, 2019.  The Call for Workshops will close on December 7, 2018 at 11:59 PM PST.
 
 **How:** Complete the Call for Papers Form [here!](https://docs.google.com/forms/d/e/1FAIpQLSd5VVgpugms4v91uFYU0U62HL3QH31LOm4HPchUwrvkR1Srjg/viewform)
 
@@ -14,8 +14,8 @@ permalink: /cfw.html
 
 **Important Dates**
 - November 1, 2018 – CFW opens
-- November 30, 2018 – Final due date for all workshops
-- December 15, 2018 – Notifications sent
+- December 7, 2018 – Final due date for all workshops
+- December 23, 2018 – Notifications sent
 - March 2, 2019 – Workshops presented
 - March 3-4, 2019 – BSidesSF 2019
 

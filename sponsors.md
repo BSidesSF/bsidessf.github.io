@@ -159,6 +159,6 @@ permalink: /sponsors.html
 
 ## Interested in sponsoring?
 
-Check out our sponsorship kit [here](https://drive.google.com/open?id=1GQ9joa3mMuq9M0zHzG06CFT7rrGKbAlL).
+Check out our sponsorship kit [here](https://drive.google.com/open?id=1hjN2AyxP40xOOk5b7nTg_yJwv_jy_e1B).
 
 Contact sponsors@bsidessf.org for more information.

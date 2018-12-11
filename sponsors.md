@@ -4,7 +4,7 @@ title: "Sponsors"
 permalink: /sponsors.html
 ---
 
-**Want to help? See [how to sponsor](#interested-in-sponsoring) below!**
+Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.com/open?id=1hjN2AyxP40xOOk5b7nTg_yJwv_jy_e1B) and contact sponsors@bsidessf.org for more information.
 
 <div style="text-align: center;">
 
@@ -150,15 +150,3 @@ permalink: /sponsors.html
          alt="OWASP Logo"
          style="width:250px;padding-bottom:15px">
   </a>
-  <p>
-    <em>Could also be you!</em>
-  </p>
-  <hr>
-  <br>
-</div>
-
-## Interested in sponsoring?
-
-Check out our sponsorship kit [here](https://drive.google.com/open?id=1hjN2AyxP40xOOk5b7nTg_yJwv_jy_e1B).
-
-Contact sponsors@bsidessf.org for more information.

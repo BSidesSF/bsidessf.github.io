@@ -51,10 +51,15 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
   <br>
   
   <h1>Notable Sponsors</h1>
-  <p>
-    <em>Could be you!</em>
-  </p>
-  <hr>
+  <a href="https://www.salesforce.com/company/careers/" target="_blank">
+    <img src="/images/sponsors_2019/salesforce.png"
+         alt="Salesforce Logo"
+         style="width:200px;padding-bottom:15px">
+  </a>
+    <p>
+      <em>Could also be you!</em>
+    </p>
+    <hr>
   <br>
 
   <h1>Party Sponsor</h1>
@@ -101,9 +106,11 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
   <br>
 
   <h1>Capture the Flag Sponsor</h1>
-  <p>
-    <em>Could be you!</em>
-  </p>
+  <a href="https://www.facebook.com/careers/" target="_blank">
+    <img src="/images/sponsors_2019/facebook.png"
+         alt="Facebook Logo"
+         style="width:300px;padding-bottom:15px">
+  </a>
   <hr>
   <br>
   

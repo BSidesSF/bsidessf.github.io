@@ -36,7 +36,13 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
   <a href="https://www.cisco.com/c/en/us/about/careers.html" target="_blank">
     <img src="/images/sponsors_2019/cisco.png"
          alt="Cisco CSIRT Logo"
-         style="width:350px;padding-bottom:15px">
+         style="width:350px;padding-bottom:30px">
+  </a>
+  <br>
+  <a href="https://securecodewarrior.com/careers.html" target="_blank">
+    <img src="/images/sponsors_2019/secure_code_warrior.png"
+         alt="Secure Code Warrior Logo"
+         style="width:200px;padding-bottom:30px">
   </a>
   <br>
   <a href="https://xmcyber.com/careers/" target="_blank">
@@ -44,10 +50,10 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
          alt="XM Cyber Logo"
          style="width:500px;padding-bottom:15px">
   </a>
-    <p>
-      <em>Could also be you!</em>
-    </p>
-    <hr>
+  <p>
+    <em>Could also be you!</em>
+  </p>
+  <hr>
   <br>
   
   <h1>Notable Sponsors</h1>
@@ -56,10 +62,10 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
          alt="Salesforce Logo"
          style="width:200px;padding-bottom:15px">
   </a>
-    <p>
-      <em>Could also be you!</em>
-    </p>
-    <hr>
+  <p>
+    <em>Could also be you!</em>
+  </p>
+  <hr>
   <br>
 
   <h1>Party Sponsor</h1>
@@ -138,16 +144,23 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
   <br>
 
   <h1>Breakfast Sponsors</h1>
+  <a href="https://segment.com/jobs/" target="_blank">
+    <img src="/images/sponsors_2019/segment.png"
+         alt="Segment Logo"
+         style="width:325px;padding-top:20px;padding-bottom:36px">
+  </a>
   <p>
-    <em>Could be you!</em>
+    <em>Could also be you!</em>
   </p>
   <hr>
   <br>
 
   <h1>Scholarship Sponsor</h1>
-  <p>
-    <em>Could be you!</em>
-  </p>
+  <a href="https://stripe.com/jobs" target="_blank">
+    <img src="/images/sponsors_2019/stripe.png"
+         alt="Stripe Logo"
+         style="width:225px;padding-bottom:15px">
+  </a>
   <hr>
   <br>
   

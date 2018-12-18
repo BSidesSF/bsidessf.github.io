@@ -24,7 +24,13 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
   <a href="https://careers.google.com/" target="_blank">
     <img src="/images/sponsors_2019/google.png"
        alt="Google Logo"
-       style="width:325px;padding-bottom:15px">
+       style="width:325px">
+  </a>
+  <br>
+  <a href="https://www.lyft.com/careers" target="_blank">
+    <img src="/images/sponsors_2019/lyft.png"
+         alt="Lyft Logo"
+         style="width:300px">
   </a>
   <p>
     <em>Could also be you!</em>

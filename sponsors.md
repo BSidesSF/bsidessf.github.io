@@ -14,10 +14,13 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
        alt="HackerOne Logo"
        style="width:450px;padding-bottom:15px">
   </a>
-  <p>
-    <em>Could also be you!</em>
-  </p>
-    <hr>
+  <br>
+  <a href="https://semmle.com/careers" target="_blank">
+    <img src="/images/sponsors_2019/semmle.png"
+       alt="Semmle Logo"
+       style="width:450px">
+  </a>
+  <hr>
   <br>
   
   <h1>Contributing Sponsors</h1>

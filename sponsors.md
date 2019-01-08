@@ -8,10 +8,24 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
 
 <div style="text-align: center;">
 
-  <h1>Leading Sponsors</h1>
+  <hr>
+  <br>
+  <h1 style="margin-bottom:0">Leading Sponsors</h1>
+  <a href="https://www.dropbox.com/jobs" target="_blank">
+    <img src="/images/sponsors_2019/dropbox.png"
+       alt="Dropbox Logo"
+       style="width:600px">
+  </a>
+  <br>
   <a href="https://www.hackerone.com/careers" target="_blank">
     <img src="/images/sponsors_2019/hackerone.png"
        alt="HackerOne Logo"
+       style="width:450px;padding-bottom:75px">
+  </a>
+  <br>
+  <a href="https://www.qualys.com/careers/" target="_blank">
+    <img src="/images/sponsors_2019/qualys.png"
+       alt="Qualys Logo"
        style="width:450px;padding-bottom:15px">
   </a>
   <br>
@@ -153,10 +167,22 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
   <br>
 
   <h1>Breakfast Sponsors</h1>
+  <a href="https://www.bugcrowd.com/about/careers/" target="_blank">
+    <img src="/images/sponsors_2019/bugcrowd.png"
+         alt="Bugcrowd Logo"
+         style="width:300px;padding-bottom:45px">
+  </a>
+  <br>
   <a href="https://segment.com/jobs/" target="_blank">
     <img src="/images/sponsors_2019/segment.png"
          alt="Segment Logo"
-         style="width:325px;padding-top:20px;padding-bottom:36px">
+         style="width:325px;padding-bottom:45px">
+  </a>
+  <br>
+  <a href="https://www.pluralsight.com/careers" target="_blank">
+    <img src="/images/sponsors_2019/pluralsight.png"
+         alt="Pluralsight Logo"
+         style="width:350px;padding-bottom:15px">
   </a>
   <p>
     <em>Could also be you!</em>

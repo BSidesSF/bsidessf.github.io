@@ -4,4 +4,4 @@ title: "Tickets"
 permalink: /tickets.html
 ---
 
-Tickets will be available in the coming months...
+The time has come! Tickets are availavble at <https://bsidessf.regfox.com/2019>. A select number of academic / hardship tickets are available.

@@ -80,6 +80,12 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
   <br>
   
   <h1>Notable Sponsors</h1>
+  <a href="https://newrelic.com/about/careers" target="_blank">
+    <img src="/images/sponsors_2019/new_relic.png"
+         alt="New Relic Logo"
+         style="width:375px;padding-bottom:30px">
+  </a>
+  <br>
   <a href="https://www.salesforce.com/company/careers/" target="_blank">
     <img src="/images/sponsors_2019/salesforce.png"
          alt="Salesforce Logo"

@@ -106,14 +106,14 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
 
   <h1>Bar and Chill Out Space Sponsors</h1>
   <p>
-    <em>Could be you!</em>
+    <em>Coming soon!</em>
   </p>
   <hr>
   <br>
 
   <h1>Happy Hour Sponsor</h1>
   <p>
-    <em>Could be you!</em>
+    <em>Coming soon!</em>
   </p>
   <hr>
   <br>
@@ -166,8 +166,13 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
   <br>
 
   <h1>Lunch Sponsors</h1>
+  <a href="https://www.intezer.com/" target="_blank">
+    <img src="/images/sponsors_2019/intezer.png"
+         alt="Intezer Logo"
+         style="width:450px">
+  </a>
   <p>
-    <em>Could be you!</em>
+    <em>Could also be you!</em>
   </p>
   <hr>
   <br>

@@ -4,7 +4,7 @@ title: "Sponsors"
 permalink: /sponsors.html
 ---
 
-Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.com/open?id=1xk2RgtdTZNQNSvrcsrKXTU9AefVughAi) and contact sponsors@bsidessf.org for more information.
+Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.com/open?id=1cp3BST55IK4OeAoYKflUHJgrBOdBkLTu) and contact sponsors@bsidessf.org for more information.
 
 <div style="text-align: center;">
 

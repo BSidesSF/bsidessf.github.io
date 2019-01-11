@@ -38,6 +38,12 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
   <br>
   
   <h1>Contributing Sponsors</h1>
+  <a href="https://getcruise.com/careers" target="_blank">
+    <img src="/images/sponsors_2019/cruise.png"
+       alt="Cruise Logo"
+       style="width:300px;padding-bottom: 45px">
+  </a>
+  <br>
   <a href="https://careers.google.com/" target="_blank">
     <img src="/images/sponsors_2019/google.png"
        alt="Google Logo"
@@ -106,15 +112,17 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
 
   <h1>Bar and Chill Out Space Sponsors</h1>
   <p>
-    <em>Coming soon!</em>
+    <em>Check back soon!</em>
   </p>
   <hr>
   <br>
 
   <h1>Happy Hour Sponsor</h1>
-  <p>
-    <em>Coming soon!</em>
-  </p>
+  <a href="https://www.cybrary.it/" target="_blank">
+    <img src="/images/sponsors_2019/cybrary.png"
+         alt="Cybrary Logo"
+         style="width:450px;padding-bottom:15px">
+  </a>
   <hr>
   <br>
 

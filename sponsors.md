@@ -38,6 +38,12 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
   <br>
   
   <h1>Contributing Sponsors</h1>
+  <a href="https://www.cloudpassage.com/company/careers/" target="_blank">
+    <img src="/images/sponsors_2019/cloudpassage.png"
+       alt="CloudPassage Logo"
+       style="width:475px;padding-bottom: 45px">
+  </a>
+  <br>
   <a href="https://getcruise.com/careers" target="_blank">
     <img src="/images/sponsors_2019/cruise.png"
        alt="Cruise Logo"
@@ -74,6 +80,12 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
          style="width:200px;padding-bottom:30px">
   </a>
   <br>
+  <a href="https://wallarm.com/" target="_blank">
+    <img src="/images/sponsors_2019/wallarm.png"
+         alt="Wallarm Logo"
+         style="width:250px;padding-bottom:30px">
+  </a>
+  <br>
   <a href="https://xmcyber.com/careers/" target="_blank">
     <img src="/images/sponsors_2019/xm_cyber.png"
          alt="XM Cyber Logo"
@@ -105,7 +117,7 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
 
   <h1>Party Sponsor</h1>
   <p>
-    <em>Could be you!</em>
+    <em>Check back soon!</em>
   </p>
   <hr>
   <br>

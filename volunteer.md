@@ -6,11 +6,11 @@ permalink: /volunteer.html
 
 # Interested in helping at BSidesSF 2019?
 
-BSidesSF is a security event that would not be possible without the work of  our local community. Every year, the organizers work hard to build a fun and exciting agenda so that you can experience the latest in cool security happenings. However, as a community event, we rely on contributions from volunteers like you to help with various tasks on the two days of the event. Join us!
+BSidesSF is a security event that would not be possible without the work of our local community. Every year, the organizers work hard to build a fun and exciting agenda so that you can experience the latest in cool security happenings. However, as a community event, we rely on contributions from volunteers like you to help with various tasks on the two days of the event. Join us!
 
-***What’s in it for me?***
+***What's in it for me?***
 
-Volunteering is a great way to get involved with the local security scene and community, especially if you are a newcomer. It’s a good chance to meet other security-minded people while picking up various skills along the way.  All volunteers that **work for a minimum of 4 hours** will get a free BSidesSF t-shirt + badge (and food), which means you can attend talks during the times that you are not volunteering. All we ask is that you dedicate a few hours of your time to help us out!
+Volunteering is a great way to get involved with the local security scene and community, especially if you are a newcomer. It's a good chance to meet other security-minded people while picking up various skills along the way.  All volunteers that **work for a minimum of 4 hours** will get a free BSidesSF t-shirt + badge (and food), which means you can attend talks during the times that you are not volunteering. All we ask is that you dedicate a few hours of your time to help us out!
 
 ***What tasks need to be done?***
 
@@ -24,17 +24,17 @@ Volunteering is a great way to get involved with the local security scene and co
 
 ***What if I don’t know how to do any of these?***
 
-Our  volunteer leads will train you for the specific tasks you sign up for, in addition to volunteer Q&A sessions prior to the event. If you have any further questions on what various tasks may mean or entail, feel free to contact us at volunteer@bsidessf.org.
+Our volunteer leads will train you for the specific tasks you sign up for, in addition to volunteer Q&A sessions prior to the event. If you have any further questions on what various tasks may mean or entail, feel free to contact us at volunteer@bsidessf.org.
 
 ***What if there are specific talks I want to go to?***
 
-We understand that our volunteers will want to attend specific talks, whether it is because it’s got an interesting topic or just even to show support for a friend or coworker. We will try our best to ensure you are able to do so.
+We understand that our volunteers will want to attend specific talks, whether it is because of an interesting topic or just to show support for a friend or colleague. We will try our best to work with you to make that possible.
 
 ***How do I sign up???***
 
-You can sign up at [https://calendly.com/bsidessf-volunteering-2019](https://calendly.com/bsidessf-volunteering-2019) 
+You can sign up at [https://calendly.com/bsidessf-volunteering-2019](https://calendly.com/bsidessf-volunteering-2019)
 
-Please reach out to volunteers@bsidessf.org with any questions. 
+Please reach out to volunteer@bsidessf.org with any questions.
 
 Please note there will be training provided for all roles.
 
@@ -45,11 +45,11 @@ Also, join us on Slack for live action updates:
  
 ## Workshop 
 
-*** Please note that this shift will be on March 2 at the Splunk offices and will be counted towards your volunteer hours.
+*** Please note that this shift will be on March 2nd at the Workshop Offsite and will be counted towards your volunteer hours.
 
 **Brief description:**
 
-In this position you will be responsible for making sure the workshops are conducted smoothly. Ensure that all attendees and presenters have everything they need during the workshops.
+In this position, you will be responsible for making sure the workshops are conducted smoothly. Ensure that all attendees and presenters have everything they need during the workshops.
  
 **Duties include:**
 
@@ -69,19 +69,24 @@ In this position you will be responsible for making sure the workshops are condu
 **Brief Description:**
 
 Our sponsors provide us with materials to put into the bag participants receive at registration.  This all needs to be put into the bags and organized for registration to be able to hand them out.
-*** Please note that this shift will be on March 2 and will be counted towards your volunteer hours.
+*** Please note that this shift will be on March 2nd and will be counted towards your volunteer hours.
 
 **Duties Include:**
 
 - Preparing registration swag bags for all attendees
 - Choose this role if you: 
-- Able to work in fast paced semi-repetitive environment
-- Able to stay organized and focused as part of an assembly line
-- Setup/Teardown
-- Brief Description:
-- In this position you will be responsible for the appearance of the venue and ultimately support the overall BSidesSF experience! 
-- Duties Include: 
-- Work with Vendors to unload freight from trucks, move it into the venue, and back out’ again 
+  - Able to work in fast paced semi-repetitive environment
+  - Able to stay organized and focused as part of an assembly line
+
+## Setup/Teardown
+
+**Brief Description:**
+
+In this position you will be responsible for the appearance of the venue and ultimately support the overall BSidesSF experience!
+
+**Duties Include:**
+
+- Work with Vendors to unload freight from trucks, move it into the venue, and back out again
 - Set up tables, chairs, linens, podiums, stanchions, and signage according to space plans
 
 **Choose this role if you:**

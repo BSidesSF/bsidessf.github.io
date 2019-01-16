@@ -53,7 +53,13 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
   <a href="https://careers.google.com/" target="_blank">
     <img src="/images/sponsors_2019/google.png"
        alt="Google Logo"
-       style="width:325px">
+       style="width:325px;padding-bottom: 30px">
+  </a>
+  <br>
+  <a href="https://www.valimail.com/careers/" target="_blank">
+    <img src="/images/sponsors_2019/valimail.png"
+       alt="Valimail Logo"
+       style="width:450px">
   </a>
   <br>
   <a href="https://www.lyft.com/careers" target="_blank">
@@ -115,10 +121,12 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
   <hr>
   <br>
 
-  <h1>Party Sponsor</h1>
-  <p>
-    <em>Check back soon!</em>
-  </p>
+  <h1 style="margin-bottom:0">Party Sponsor</h1>
+  <a href="https://www.valimail.com/careers/" target="_blank">
+    <img src="/images/sponsors_2019/valimail.png"
+       alt="Valimail Logo"
+       style="width:500px">
+  </a>
   <hr>
   <br>
 
@@ -160,7 +168,7 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
   <hr>
   <br>
 
-  <h1>Capture the Flag Sponsor</h1>
+  <h1 style="margin-bottom:0">Capture the Flag Sponsor</h1>
   <a href="https://www.facebook.com/careers/" target="_blank">
     <img src="/images/sponsors_2019/facebook.png"
          alt="Facebook Logo"
@@ -185,7 +193,7 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
   <hr>
   <br>
 
-  <h1>Lunch Sponsors</h1>
+  <h1 style="margin-bottom:0">Lunch Sponsors</h1>
   <a href="https://www.intezer.com/" target="_blank">
     <img src="/images/sponsors_2019/intezer.png"
          alt="Intezer Logo"
@@ -221,7 +229,7 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
   <hr>
   <br>
 
-  <h1>Scholarship Sponsor</h1>
+  <h1 style="margin-bottom:0">Scholarship Sponsor</h1>
   <a href="https://stripe.com/jobs" target="_blank">
     <img src="/images/sponsors_2019/stripe.png"
          alt="Stripe Logo"

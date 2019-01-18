@@ -237,6 +237,15 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
   </a>
   <hr>
   <br>
+
+  <h1>Workshop Sponsor</h1>
+  <a href="https://www.splunk.com/en_us/careers.html" target="_blank">
+    <img src="/images/sponsors_2019/splunk.png"
+         alt="Splunk Logo"
+         style="width:200px;padding-bottom:15px">
+  </a>
+  <hr>
+  <br>
   
   <h1>Special Thanks</h1>
   <a href="https://www.owasp.org/" target="_blank">

@@ -14,7 +14,7 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
   <a href="https://www.dropbox.com/jobs" target="_blank">
     <img src="/images/sponsors_2019/dropbox.png"
        alt="Dropbox Logo"
-       style="width:600px">
+       style="width:625px">
   </a>
   <br>
   <a href="https://www.hackerone.com/careers" target="_blank">
@@ -56,19 +56,26 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
        style="width:325px;padding-bottom: 30px">
   </a>
   <br>
-  <a href="https://www.valimail.com/careers/" target="_blank">
-    <img src="/images/sponsors_2019/valimail.png"
-       alt="Valimail Logo"
-       style="width:450px">
-  </a>
-  <br>
   <a href="https://www.lyft.com/careers" target="_blank">
     <img src="/images/sponsors_2019/lyft.png"
          alt="Lyft Logo"
          style="width:300px">
   </a>
+  <br>
+  <a href="https://www.twilio.com/company/jobs" target="_blank">
+    <img src="/images/sponsors_2019/twilio.png"
+         alt="Twilio Logo"
+         style="width:375px">
+  </a>
+  <br>
+  <a href="https://www.valimail.com/careers/" target="_blank">
+    <img src="/images/sponsors_2019/valimail.png"
+       alt="Valimail Logo"
+       style="width:450px">
+  </a>
+
   <p>
-    <em>Could also be you!</em>
+    <em>Check back soon!</em>
   </p>
     <hr>
   <br>

@@ -41,7 +41,13 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
   <a href="https://www.cloudpassage.com/company/careers/" target="_blank">
     <img src="/images/sponsors_2019/cloudpassage.png"
        alt="CloudPassage Logo"
-       style="width:475px;padding-bottom: 45px">
+       style="width:475px;padding-bottom: 15px">
+  </a>
+  <br>
+  <a href="https://cmd.com/" target="_blank">
+    <img src="/images/sponsors_2019/cmd.png"
+       alt="Cmd Logo"
+       style="width:400px;padding-bottom: 30px">
   </a>
   <br>
   <a href="https://getcruise.com/careers" target="_blank">
@@ -73,11 +79,7 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
        alt="Valimail Logo"
        style="width:450px">
   </a>
-
-  <p>
-    <em>Check back soon!</em>
-  </p>
-    <hr>
+  <hr>
   <br>
   
   <h1>Supporting Sponsors</h1>

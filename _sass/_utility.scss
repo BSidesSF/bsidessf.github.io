@@ -15,7 +15,7 @@
 // Hide for large screens
 @media screen and (min-width:481px) {
     .hide-for-large {
-      display:none 
+      display: none;
     }
 }
 
@@ -31,4 +31,21 @@
 
 .pad-lr-15 {
   padding: 0 15px; 
+}
+
+.sponsors {
+  .large {
+    display: block;
+  }
+  .small {
+    display: none;
+  }
+  @media screen and (max-width: 865px) {
+    .large {
+      display: none;
+    }
+    .small {
+      display: block;
+    }
+  }
 }

@@ -41,11 +41,13 @@
     display: none;
   }
   @media screen and (max-width: 865px) {
-    .large {
-      display: none;
-    }
-    .small {
-      display: block;
+    .sponsors {
+      .large {
+        display: none;
+      }
+      .small {
+        display: block;
+      }
     }
   }
 }

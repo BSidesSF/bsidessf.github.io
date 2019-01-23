@@ -234,9 +234,11 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
   <br>
 
   <h1>Bar and Chill Out Space Sponsors</h1>
-  <p>
-    <em>Check back soon!</em>
-  </p>
+  <a href="https://www.oath.com/careers" target="_blank">
+    <img src="/images/sponsors_2019/paranoids.png"
+       alt="Paranoids Logo"
+       style="width:400px;padding-bottom:15px">
+  </a>
   <hr>
   <br>
 

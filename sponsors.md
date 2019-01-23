@@ -237,7 +237,7 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
   <a href="https://www.oath.com/careers" target="_blank">
     <img src="/images/sponsors_2019/paranoids.png"
        alt="Paranoids Logo"
-       style="width:400px;padding-bottom:15px">
+       style="width:400px;padding-bottom:10px">
   </a>
   <hr>
   <br>

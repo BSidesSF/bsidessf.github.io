@@ -283,8 +283,13 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
   <br>
 
   <h1>Village Sponsors</h1>
+  <a href="https://www.veracode.com/about/careers" target="_blank">
+    <img src="/images/sponsors_2019/veracode.png"
+         alt="Veracode Logo"
+         style="width:250px;padding-bottom:15px">
+  </a>
   <p>
-    <em>Could be you!</em>
+    <em>Could also be you!</em>
   </p>
   <hr>
   <br>

@@ -38,7 +38,7 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
   <br>
   
   <h1>Contributing Sponsors</h1>
-  <div class="large">
+  <div class="sponsors-large">
     <a href="https://www.cloudpassage.com/company/careers/" target="_blank">
       <img src="/images/sponsors_2019/cloudpassage.png"
          alt="CloudPassage Logo"
@@ -86,7 +86,7 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
       </div>
     </div>
   </div>
-  <div class="small">
+  <div class="sponsors-small">
     <a href="https://www.valimail.com/careers/" target="_blank">
       <img src="/images/sponsors_2019/valimail.png"
          alt="Valimail Logo"
@@ -133,7 +133,7 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
   <br>
   
   <h1>Supporting Sponsors</h1>
-  <div class="large">
+  <div class="sponsors-large">
     <div style="width:800px;display:inline-block">
       <a href="https://www.cisco.com/c/en/us/about/careers.html" target="_blank">
         <img src="/images/sponsors_2019/cisco.png"
@@ -159,7 +159,7 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
       </a>
     </div>
   </div>
-  <div class="small">
+  <div class="sponsors-small">
     <a href="https://securecodewarrior.com/careers.html" target="_blank">
       <img src="/images/sponsors_2019/secure_code_warrior.png"
            alt="Secure Code Warrior Logo"
@@ -191,7 +191,7 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
   <br>
   
   <h1>Notable Sponsors</h1>
-  <div class="large">
+  <div class="sponsors-large">
     <div style="width:800px;display:inline-block">
       <a href="https://newrelic.com/about/careers" target="_blank">
         <img src="/images/sponsors_2019/new_relic.png"
@@ -205,7 +205,7 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
       </a>
     </div>
   </div>
-  <div class="small">
+  <div class="sponsors-small">
     <a href="https://newrelic.com/about/careers" target="_blank">
       <img src="/images/sponsors_2019/new_relic.png"
            alt="New Relic Logo"
@@ -252,7 +252,7 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
   <br>
 
   <h1>Lanyard Sponsors</h1>
-  <div class="large">
+  <div class="sponsors-large">
     <div style="width:800px;display:inline-block">
       <a href="https://www.flashpoint-intel.com/careers/" target="_blank">
         <img src="/images/sponsors_2019/flashpoint.png"
@@ -266,7 +266,7 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
       </a>
     </div>
   </div>
-  <div class="small">
+  <div class="sponsors-small">
     <a href="https://jobs.netflix.com/" target="_blank">
       <img src="/images/sponsors_2019/netflix.png"
            alt="Netflix Logo"
@@ -283,11 +283,33 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
   <br>
 
   <h1>Village Sponsors</h1>
-  <a href="https://www.veracode.com/about/careers" target="_blank">
-    <img src="/images/sponsors_2019/veracode.png"
-         alt="Veracode Logo"
-         style="width:250px;padding-bottom:15px">
-  </a>
+  <div class="sponsors-large">
+    <div style="width:800px;display:inline-block">
+      <a href="https://www.f-secure.com/en/web/about_global/careers" target="_blank">
+        <img src="/images/sponsors_2019/f-secure.png"
+             alt="F-Secure Logo"
+             style="width:300px;padding-right:25px;padding-bottom:23px">
+      </a>
+      <a href="https://www.veracode.com/about/careers" target="_blank">
+        <img src="/images/sponsors_2019/veracode.png"
+             alt="Veracode Logo"
+             style="width:250px;padding-left:25px">
+      </a>
+    </div>
+  </div>
+  <div class="sponsors-small">
+    <a href="https://www.veracode.com/about/careers" target="_blank">
+      <img src="/images/sponsors_2019/veracode.png"
+           alt="Veracode Logo"
+           style="width:250px;padding-bottom:20px;padding-top:10px">
+    </a>
+    <br>
+    <a href="https://www.f-secure.com/en/web/about_global/careers" target="_blank">
+      <img src="/images/sponsors_2019/f-secure.png"
+           alt="F-Secure Logo"
+           style="width:300px;padding-bottom:10px">
+    </a>
+  </div>
   <p>
     <em>Could also be you!</em>
   </p>
@@ -333,7 +355,7 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
 
   <h1>Breakfast Sponsors</h1>
   <div>
-    <div class="large">
+    <div class="sponsors-large">
       <div style="width:400px;display:inline-block;text-align:right">
         <a href="https://www.bugcrowd.com/about/careers/" target="_blank">
           <img src="/images/sponsors_2019/bugcrowd.png"
@@ -355,7 +377,7 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
         </a>
       </div>
     </div>
-    <div class="small">
+    <div class="sponsors-small">
       <a href="https://www.pluralsight.com/careers" target="_blank">
         <img src="/images/sponsors_2019/pluralsight.png"
              alt="Pluralsight Logo"

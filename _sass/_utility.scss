@@ -33,21 +33,17 @@
   padding: 0 15px; 
 }
 
-.sponsors {
-  .large {
-    display: block;
-  }
-  .small {
+.sponsors-large {
+  display: block;
+}
+.sponsors-small {
+  display: none;
+}
+@media screen and (max-width: 865px) {
+  .sponsors-large {
     display: none;
   }
-  @media screen and (max-width: 865px) {
-    .sponsors {
-      .large {
-        display: none;
-      }
-      .small {
-        display: block;
-      }
-    }
+  .sponsors-small {
+    display: block;
   }
 }

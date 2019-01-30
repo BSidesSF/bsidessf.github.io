@@ -19,7 +19,6 @@ Volunteering is a great way to get involved with the local security scene and co
 - Room moderators 
 - Public Safety
 - Speaker wrangling
-- Top secret undercover mission
 - Room set up and teardown
 
 ***What if I don’t know how to do any of these?***

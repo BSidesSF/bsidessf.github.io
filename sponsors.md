@@ -134,29 +134,40 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
   
   <h1>Supporting Sponsors</h1>
   <div class="sponsors-large">
-    <div style="width:800px;display:inline-block">
-      <a href="https://www.cisco.com/c/en/us/about/careers.html" target="_blank">
-        <img src="/images/sponsors_2019/cisco.png"
-             alt="Cisco CSIRT Logo"
-             style="width:300px;padding-bottom:25px;padding-right:25px;vertical-align:bottom">
-      </a>
-      <a href="https://securecodewarrior.com/careers.html" target="_blank">
-        <img src="/images/sponsors_2019/secure_code_warrior.png"
-             alt="Secure Code Warrior Logo"
-             style="width:200px;padding-bottom:25px;padding-left:25px;vertical-align:bottom">
-      </a>
-    </div>
-    <div style="width:800px;display:inline-block">
-      <a href="https://wallarm.com/" target="_blank">
-        <img src="/images/sponsors_2019/wallarm.png"
-             alt="Wallarm Logo"
-             style="width:250px;padding-bottom:25px;padding-right:25px;vertical-align:bottom">
-      </a>
+    <div>
       <a href="https://xmcyber.com/careers/" target="_blank">
         <img src="/images/sponsors_2019/xm_cyber.png"
              alt="XM Cyber Logo"
-             style="width:425px;padding-bottom:25px;padding-left:25px;vertical-align:bottom">
+             style="width:425px;padding-bottom:30px">
       </a>
+    </div>
+    <div>
+      <div style="width:400px;display:inline-block;text-align:right">
+        <a href="https://www.cisco.com/c/en/us/about/careers.html" target="_blank">
+          <img src="/images/sponsors_2019/cisco.png"
+               alt="Cisco CSIRT Logo"
+               style="width:300px;padding-right:25px;padding-bottom:25px">
+        </a>
+        <br>
+        <a href="https://wallarm.com/" target="_blank">
+          <img src="/images/sponsors_2019/wallarm.png"
+               alt="Wallarm Logo"
+               style="width:250px;padding-right:25px">
+        </a>
+      </div>
+      <div style="width:400px;display:inline-block;text-align:left">
+        <a href="https://www.asapp.com/careers" target="_blank">
+          <img src="/images/sponsors_2019/asapp.png"
+               alt="ASAPP Logo"
+               style="width:300px;padding-left:25px;padding-bottom:25px">
+        </a>
+        <br>
+        <a href="https://securecodewarrior.com/careers.html" target="_blank">
+          <img src="/images/sponsors_2019/secure_code_warrior.png"
+               alt="Secure Code Warrior Logo"
+               style="width:200px;padding-left:25px;padding-bottom:25px">
+        </a>
+      </div>
     </div>
   </div>
   <div class="sponsors-small">
@@ -170,6 +181,12 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
       <img src="/images/sponsors_2019/cisco.png"
            alt="Cisco CSIRT Logo"
            style="width:300px;padding-bottom:30px">
+    </a>
+    <br>
+    <a href="https://www.asapp.com/careers" target="_blank">
+      <img src="/images/sponsors_2019/asapp.png"
+           alt="ASAPP Logo"
+           style="width:300px;padding-bottom:25px">
     </a>
     <br>
     <a href="https://wallarm.com/" target="_blank">
@@ -192,20 +209,46 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
   
   <h1>Notable Sponsors</h1>
   <div class="sponsors-large">
-    <div style="width:800px;display:inline-block">
+    <div style="width:400px;display:inline-block;text-align:right">
+      <a href="https://www.rapid7.com/careers" target="_blank">
+        <img src="/images/sponsors_2019/rapid7.png"
+             alt="Rapid7 Logo"
+             style="width:250px;padding-right:25px;padding-bottom:55px">
+      </a>
+      <br>
       <a href="https://newrelic.com/about/careers" target="_blank">
         <img src="/images/sponsors_2019/new_relic.png"
              alt="New Relic Logo"
-             style="width:300px;padding-right:25px;padding-bottom:10px">
+             style="width:300px;padding-right:25px">
       </a>
+    </div>
+    <div style="width:400px;display:inline-block;text-align:left">
       <a href="https://www.salesforce.com/company/careers/" target="_blank">
         <img src="/images/sponsors_2019/salesforce.png"
              alt="Salesforce Logo"
-             style="width:200px;padding-left:25px;padding-bottom:10px">
+             style="width:200px;padding-left:25px">
+      </a>
+      <br>
+      <a href="https://www.nccgroup.trust/us/about-us/careers/" target="_blank">
+        <img src="/images/sponsors_2019/ncc_group.png"
+             alt="NCC Group Logo"
+             style="width:250px;padding-left:25px;padding-bottom:8px">
       </a>
     </div>
   </div>
   <div class="sponsors-small">
+    <a href="https://www.rapid7.com/careers" target="_blank">
+      <img src="/images/sponsors_2019/rapid7.png"
+           alt="Rapid7 Logo"
+           style="width:250px;padding-bottom:20px">
+    </a>
+    <br>
+    <a href="https://www.nccgroup.trust/us/about-us/careers/" target="_blank">
+      <img src="/images/sponsors_2019/ncc_group.png"
+           alt="NCC Group Logo"
+           style="width:250px;padding-bottom:20px">
+    </a>
+    <br>
     <a href="https://newrelic.com/about/careers" target="_blank">
       <img src="/images/sponsors_2019/new_relic.png"
            alt="New Relic Logo"

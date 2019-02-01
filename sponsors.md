@@ -400,7 +400,7 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
   <div>
     <div class="sponsors-large">
       <div style="width:400px;display:inline-block;text-align:right">
-        <a href="https://www.bugcrowd.com/about/careers/" target="_blank">
+        <a href="https://bgcd.co/bsidesf19" target="_blank">
           <img src="/images/sponsors_2019/bugcrowd.png"
                alt="Bugcrowd Logo"
                style="width:250px;padding-right:25px;padding-bottom:30px;padding-top:10px">

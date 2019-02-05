@@ -15,6 +15,8 @@
       subhref: "/about/code-of-conduct.html"
     - subtitle: "Photo and Video Policy"
       subhref: "/about/photo-policy.html"
+    - subtitle: "Privacy Policy"
+      subhref: "/privacy.html"
     - subtitle: "Contact Us"
       subhref: "/about/contact.html"
     - subtitle: "Donate"

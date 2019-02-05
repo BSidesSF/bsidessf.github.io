@@ -470,3 +470,9 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
          alt="OWASP Logo"
          style="width:225px">
   </a>
+  <br>
+  <a href="https://www.nybll.com/" target="_blank">
+    <img src="/images/sponsors_2019/nybll.png"
+         alt="Nybll"
+         style="width:225px">
+  </a>

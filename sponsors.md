@@ -138,34 +138,46 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
       <a href="https://xmcyber.com/careers/" target="_blank">
         <img src="/images/sponsors_2019/xm_cyber.png"
              alt="XM Cyber Logo"
-             style="width:425px;padding-bottom:30px">
+             style="width:400px;padding-top:10px;padding-bottom:30px">
       </a>
     </div>
     <div>
       <div style="width:400px;display:inline-block;text-align:right">
-        <a href="https://www.cisco.com/c/en/us/about/careers.html" target="_blank">
-          <img src="/images/sponsors_2019/cisco.png"
-               alt="Cisco CSIRT Logo"
-               style="width:300px;padding-right:25px;padding-bottom:25px">
+        <a href="https://www.asapp.com/careers" target="_blank">
+          <img src="/images/sponsors_2019/asapp.png"
+               alt="ASAPP Logo"
+               style="width:300px;padding-right:25px;padding-bottom:40px">
         </a>
         <br>
         <a href="https://wallarm.com/" target="_blank">
           <img src="/images/sponsors_2019/wallarm.png"
                alt="Wallarm Logo"
-               style="width:250px;padding-right:25px">
+               style="width:275px;padding-right:25px;padding-bottom:30px">
+        </a>
+        <br>
+        <a href="https://careers.pinterest.com" target="_blank">
+          <img src="/images/sponsors_2019/pinterest.png"
+               alt="Pinterest Logo"
+               style="width:350px;padding-right:25px;padding-bottom:15px">
         </a>
       </div>
       <div style="width:400px;display:inline-block;text-align:left">
-        <a href="https://www.asapp.com/careers" target="_blank">
-          <img src="/images/sponsors_2019/asapp.png"
-               alt="ASAPP Logo"
-               style="width:300px;padding-left:25px;padding-bottom:25px">
+        <a href="https://careers.ibm.com/" target="_blank">
+          <img src="/images/sponsors_2019/ibm.png"
+               alt="IBM Security Logo"
+               style="width:350px;padding-left:25px;padding-bottom:15px">
         </a>
         <br>
         <a href="https://securecodewarrior.com/careers.html" target="_blank">
           <img src="/images/sponsors_2019/secure_code_warrior.png"
                alt="Secure Code Warrior Logo"
                style="width:200px;padding-left:25px;padding-bottom:25px">
+        </a>
+        <br>
+        <a href="https://www.cisco.com/c/en/us/about/careers.html" target="_blank">
+          <img src="/images/sponsors_2019/cisco.png"
+               alt="Cisco CSIRT Logo"
+               style="width:300px;padding-left:25px;padding-bottom:25px">
         </a>
       </div>
     </div>
@@ -174,36 +186,45 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
     <a href="https://securecodewarrior.com/careers.html" target="_blank">
       <img src="/images/sponsors_2019/secure_code_warrior.png"
            alt="Secure Code Warrior Logo"
-           style="width:200px;padding-bottom:30px">
+           style="width:200px;padding-bottom:15px">
+    </a>
+    <br>
+    <a href="https://careers.ibm.com/" target="_blank">
+      <img src="/images/sponsors_2019/ibm.png"
+           alt="IBM Security Logo"
+           style="width:350px;padding-bottom:15px">
     </a>
     <br>
     <a href="https://www.cisco.com/c/en/us/about/careers.html" target="_blank">
       <img src="/images/sponsors_2019/cisco.png"
            alt="Cisco CSIRT Logo"
-           style="width:300px;padding-bottom:30px">
+           style="width:300px;padding-bottom:20px">
     </a>
     <br>
-    <a href="https://www.asapp.com/careers" target="_blank">
-      <img src="/images/sponsors_2019/asapp.png"
-           alt="ASAPP Logo"
-           style="width:300px;padding-bottom:25px">
+    <a href="https://careers.pinterest.com" target="_blank">
+      <img src="/images/sponsors_2019/pinterest.png"
+           alt="Pinterest Logo"
+           style="width:350px;padding-bottom:5px">
     </a>
     <br>
     <a href="https://wallarm.com/" target="_blank">
       <img src="/images/sponsors_2019/wallarm.png"
            alt="Wallarm Logo"
-           style="width:250px;padding-bottom:30px">
+           style="width:275px;padding-bottom:35px">
     </a>
     <br>
     <a href="https://xmcyber.com/careers/" target="_blank">
       <img src="/images/sponsors_2019/xm_cyber.png"
            alt="XM Cyber Logo"
-           style="width:425px;padding-bottom:30px">
+           style="width:400px;padding-bottom:35px">
+    </a>
+    <br>
+    <a href="https://www.asapp.com/careers" target="_blank">
+      <img src="/images/sponsors_2019/asapp.png"
+           alt="ASAPP Logo"
+           style="width:300px;padding-bottom:20px">
     </a>
   </div>
-  <p>
-    <em>Could also be you!</em>
-  </p>
   <hr>
   <br>
   
@@ -416,7 +437,7 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
         <a href="https://www.pluralsight.com/careers" target="_blank">
           <img src="/images/sponsors_2019/pluralsight.png"
                alt="Pluralsight Logo"
-               style="width:300px;padding-left:25px;padding-bottom:15px">
+               style="width:300px;padding-left:25px;padding-top:40px">
         </a>
       </div>
     </div>
@@ -450,7 +471,7 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
   <a href="https://stripe.com/jobs" target="_blank">
     <img src="/images/sponsors_2019/stripe.png"
          alt="Stripe Logo"
-         style="width:175px;padding-bottom:15px">
+         style="width:200px;padding-bottom:15px">
   </a>
   <hr>
   <br>
@@ -459,20 +480,36 @@ Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.c
   <a href="https://www.splunk.com/en_us/careers.html" target="_blank">
     <img src="/images/sponsors_2019/splunk.png"
          alt="Splunk Logo"
-         style="width:200px;padding-bottom:15px">
+         style="width:175px;padding-bottom:15px">
   </a>
   <hr>
   <br>
   
   <h1>Special Thanks</h1>
-  <a href="https://www.owasp.org/" target="_blank">
-    <img src="/images/sponsors_2019/owasp.png"
-         alt="OWASP Logo"
-         style="width:225px">
-  </a>
-  <br>
-  <a href="https://www.nybll.com/" target="_blank">
-    <img src="/images/sponsors_2019/nybll.png"
-         alt="Nybll"
-         style="width:225px">
-  </a>
+  <div class="sponsors-large">
+    <div style="width:800px;display:inline-block">
+      <a href="https://www.nybll.com/" target="_blank">
+        <img src="/images/sponsors_2019/nybll.png"
+             alt="Nybll"
+             style="width:175px;padding-right:25px">
+      </a>
+      <a href="https://www.owasp.org/" target="_blank">
+        <img src="/images/sponsors_2019/owasp.png"
+             alt="OWASP Logo"
+             style="width:225px;padding-left:25px">
+      </a>
+    </div>
+  </div>
+  <div class="sponsors-small">
+    <a href="https://www.owasp.org/" target="_blank">
+      <img src="/images/sponsors_2019/owasp.png"
+           alt="OWASP Logo"
+           style="width:225px;padding-bottom:15px">
+    </a>
+    <br>
+    <a href="https://www.nybll.com/" target="_blank">
+      <img src="/images/sponsors_2019/nybll.png"
+           alt="Nybll"
+           style="width:175px">
+    </a>
+  </div>

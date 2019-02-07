@@ -4,17 +4,17 @@ title: "Privacy Policy"
 permalink: /privacy.html
 ---
 
-Last updated: 2018-04-02
+Last updated: 2019-02-06
 
-Security B-Sides ("BSidesSF", "us", "we", or "our") operates bsidessf.org (the “Site”).
+Security B-Sides ("BSidesSF", "us", "we", or "our") operates bsidessf.org (the "Site").
 
-This page informs you of our policies regarding the collection, use, and disclosure of Personal Information we receive from users of the Site. We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy.
+This page informs you of our policies regarding the collection, use, and disclosure of Personal Information we receive from users of the Site. We use your Personal Information only for providing and improving the Site and for providing services related to your conference registration and participation. By using the Site, you agree to the collection and use of information in accordance with this policy.
 
 # Information Collection and Use
 
 BSidesSF uses various third party services to provide the Site, related services, and analyze their use. Please refer to the appropriate third party privacy policy for complete information on their privacy practices.
 
-* [CERVIS Technologies](https://www.cervistech.com/index.php/volunteer-management-software-privacy)
+* [Calendly](https://calendly.com/pages/privacy)
 
 * [Cloudflare](https://www.cloudflare.com/security-policy/)
 
@@ -23,6 +23,8 @@ BSidesSF uses various third party services to provide the Site, related services
 * [GitHub Pages](https://help.github.com/articles/github-privacy-statement/)
 
 * [Google Analytics](https://www.google.com/policies/privacy/)
+
+* [Mailchimp](https://mailchimp.com/legal/privacy/)
 
 * [PayPal](https://www.paypal.com/us/webapps/mpp/ua/privacy-full)
 
@@ -50,9 +52,9 @@ BSidesSF will not, nor will we allow any third party to, use the Google Analytic
 
 Certain pages on our site may set other third party cookies. For example, we may embed content, such as maps, from another site that sets a cookie. While we try to minimize these third party cookies, we can’t always control what cookies this third party content sets.
 
-## Conference Registration - TicketSpice
+## Conference Registration - RegFox
 
-BSidesSF via its provider Webconnex LLC ("TicketSpice") and their partners collects the following information in order to facilitate your purchase of ticket(s) and other conference merchandise:
+BSidesSF via its provider Webconnex LLC ("RegFox") and their partners collects the following information in order to facilitate your purchase of ticket(s) and other conference merchandise:
 
 * Name
 
@@ -68,7 +70,7 @@ BSidesSF via its provider Webconnex LLC ("TicketSpice") and their partners colle
 
 * Phone number (if you elect to deliver your ticket(s) via text message)
 
-BSidesSF’s provider will use this information to validate your credit card purchase and deliver your tickets. BSidesSF will use your name and email address to provide you with important information about your conference registration and opportunities to attend future events. You may unsubscribe from future emails at any time by clicking the unsubscribe link in any non-transactional email or by emailing info[@]bsidessf.org.
+BSidesSF's provider will use this information to validate your credit card purchase and deliver your tickets. BSidesSF will use your name and email address to provide you with important information about your conference registration and opportunities to attend future events. You may unsubscribe from future emails at any time by clicking the unsubscribe link in any non-transactional email or by emailing info[@]bsidessf.org.
 
 ## Donations
 
@@ -84,17 +86,29 @@ BSidesSF via its providers Donorbox, PayPal, Square, Stripe, and any sub-process
 
 * IP address
 
-BSidesSF’s providers will use this information to validate your donation and send you a receipt. BSidesSF will use your name and email address to thank you for the donation and to provide you information about future events or donation opportunities. You may unsubscribe from future emails at any time by clicking the unsubscribe link in any non-transactional email or by emailing info[@]bsidessf.org.
+BSidesSF's providers will use this information to validate your donation and send you a receipt. BSidesSF will use your name and email address to thank you for the donation and to provide you information about future events or donation opportunities. You may unsubscribe from future emails at any time by clicking the unsubscribe link in any non-transactional email or by emailing info[@]bsidessf.org.
+
+## Mailing List
+
+BSidesSF provides the following information to Mailchimp in order to send non-transactional emails (i.e. newsletters and information about future events):
+
+* Name
+
+* Email address
+
+* Past conferences attended
+
+You may unsubscribe from these emails at any time by clicking on the unsubscribe link included at the bottom of each email or by emailing info[@]bsidessf.org.
 
 ## Tracking
 
 "[Do Not Track](http://donottrack.us/)" is a privacy preference you can set in your browser if you do not want online services to collect and share certain kinds of information about your online activity from third party tracking services. We do not track your online browsing activity on other online services over time, and we do not permit third-party services to track your activity on our site beyond our basic Google Analytics tracking, which you may opt out of [here](https://tools.google.com/dlpage/gaoptout). Because we do not share this kind of data with third party services or permit this kind of third party data collection on the Site for any of our users, and we do not track our users on third-party websites ourselves, we do not need to respond differently to an individual browser's Do Not Track setting.
 
-If you are interested in turning on your browser’s privacy and Do Not Track settings, the [Do Not Track](http://donottrack.us/) website has browser-specific instructions.
+If you are interested in turning on your browser's privacy and Do Not Track settings, the [Do Not Track](http://donottrack.us/) website has browser-specific instructions.
 
-## Volunteer Registration - CERVIS Technologies
+## Volunteer Registration - Calendly
 
-BSidesSF via its provider CERVIS Technologies collects the following information from volunteers:
+BSidesSF via its provider Calendly collects the following information from volunteers:
 
 * Name
 
@@ -106,4 +120,4 @@ We will use this information to contact you and/or provide updates regarding the
 
 # Disclosure
 
-BSidesSF will not sell, trade, or otherwise disclose your Personal Information to third parties except when necessary to fulfill your conference registration and participation or when compelled to by a valid and legal court order.
+BSidesSF will not sell, trade, or otherwise disclose your Personal Information to third parties except when necessary to fulfill your conference registration and participation or when compelled to by a valid and legal court order. If we are going to release your Personal Information, our policy is to provide you with notice unless we are prohibited from doing so by law or court order (including orders under 18 U.S.C. § 2705(b)).

@@ -5,7 +5,6 @@ permalink: /sponsors.html
 ---
 
 <div style="text-align: center;" class="sponsors">
-  <h1 style="margin-bottom:50px">Leading Sponsors</h1>
   <a href="https://www.dropbox.com/jobs" target="_blank">
     <img src="/images/sponsors_2019/dropbox.png"
        alt="Dropbox Logo"
@@ -29,8 +28,7 @@ permalink: /sponsors.html
        alt="Semmle Logo"
        style="width:450px;padding-bottom:50px">
   </a>
-  <hr>
-  <br>
+  <hr style="margin-bottom:5px">
   
   <h1>Contributing Sponsors</h1>
   <div class="sponsors-large">
@@ -124,8 +122,7 @@ permalink: /sponsors.html
          style="width:350px;padding-bottom: 10px">
     </a>
   </div>
-  <hr>
-  <br>
+  <hr style="margin-bottom:5px">
   
   <h1>Supporting Sponsors</h1>
   <div class="sponsors-large">
@@ -219,8 +216,7 @@ permalink: /sponsors.html
            style="width:300px;padding-bottom:20px">
     </a> -->
   </div>
-  <hr>
-  <br>
+  <hr style="margin-bottom:5px">
   
   <h1>Notable Sponsors</h1>
   <div class="sponsors-large">
@@ -276,8 +272,7 @@ permalink: /sponsors.html
            style="width:200px;padding-bottom:15px">
     </a>
   </div>
-  <hr>
-  <br>
+  <hr style="margin-bottom:5px">
 
   <h1>Party Sponsor</h1>
   <a href="https://www.valimail.com/careers/" target="_blank">
@@ -285,8 +280,7 @@ permalink: /sponsors.html
        alt="Valimail Logo"
        style="width:400px;padding-bottom:15px">
   </a>
-  <hr>
-  <br>
+  <hr style="margin-bottom:5px">
 
   <h1>Bar and Chill Out Space Sponsors</h1>
   <a href="https://www.oath.com/careers" target="_blank">
@@ -294,8 +288,7 @@ permalink: /sponsors.html
        alt="Paranoids Logo"
        style="width:400px;padding-bottom:10px">
   </a>
-  <hr>
-  <br>
+  <hr style="margin-bottom:5px">
 
   <h1>Happy Hour Sponsor</h1>
   <a href="https://www.cybrary.it/" target="_blank">
@@ -303,8 +296,7 @@ permalink: /sponsors.html
          alt="Cybrary Logo"
          style="width:375px;padding-bottom:15px">
   </a>
-  <hr>
-  <br>
+  <hr style="margin-bottom:5px">
 
   <h1>Lanyard Sponsors</h1>
   <div class="sponsors-large">
@@ -334,8 +326,7 @@ permalink: /sponsors.html
            style="width:400px;padding-bottom:10px">
     </a>
   </div>
-  <hr>
-  <br>
+  <hr style="margin-bottom:5px">
 
   <h1>Village Sponsors</h1>
   <div class="sponsors-large">
@@ -365,8 +356,7 @@ permalink: /sponsors.html
            style="width:300px;padding-bottom:10px">
     </a>
   </div>
-  <hr>
-  <br>
+  <hr style="margin-bottom:5px">
 
   <h1>Capture the Flag Sponsor</h1>
   <a href="https://www.facebook.com/careers/" target="_blank">
@@ -374,8 +364,7 @@ permalink: /sponsors.html
          alt="Facebook Logo"
          style="width:250px;padding-bottom:15px">
   </a>
-  <hr>
-  <br>
+  <hr style="margin-bottom:5px">
 
   <h1>Wi-Fi Sponsor</h1>
   <a href="https://wigle.net" target="_blank">
@@ -383,8 +372,7 @@ permalink: /sponsors.html
          alt="WiGLE Logo"
          style="width:150px;padding-bottom:15px">
   </a>
-  <hr>
-  <br>
+  <hr style="margin-bottom:5px">
 
   <h1>Lunch Sponsors</h1>
   <a href="https://www.intezer.com/" target="_blank">
@@ -392,8 +380,7 @@ permalink: /sponsors.html
          alt="Intezer Logo"
          style="width:250px;padding-bottom:15px">
   </a>
-  <hr>
-  <br>
+  <hr style="margin-bottom:5px">
 
   <h1>Breakfast Sponsors</h1>
   <div>
@@ -439,8 +426,7 @@ permalink: /sponsors.html
       </a>
     </div>
   </div>
-  <hr>
-  <br>
+  <hr style="margin-bottom:5px">
 
   <h1>Scholarship Sponsor</h1>
   <a href="https://stripe.com/jobs" target="_blank">
@@ -448,8 +434,7 @@ permalink: /sponsors.html
          alt="Stripe Logo"
          style="width:200px;padding-bottom:15px">
   </a>
-  <hr>
-  <br>
+  <hr style="margin-bottom:5px">
 
   <h1>Workshop Sponsor</h1>
   <a href="https://www.splunk.com/en_us/careers.html" target="_blank">
@@ -457,8 +442,7 @@ permalink: /sponsors.html
          alt="Splunk Logo"
          style="width:175px;padding-bottom:15px">
   </a>
-  <hr>
-  <br>
+  <hr style="margin-bottom:5px">
   
   <h1>Special Thanks</h1>
     <div class="sponsors-large">
@@ -569,7 +553,7 @@ permalink: /sponsors.html
            style="width:200px;padding-bottom:10px">
     </a>
   </div>
-  <hr>
-  <br>
+  <hr style="margin-bottom:5px">
 </div>
+<br>
 **Interested in sponsoring BSidesSF 2020**? Shoot us an email at *sponsors@bsidessf.org* and let us know you'd like to be the first to know when we release our sponsorship kit!

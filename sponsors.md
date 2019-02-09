@@ -5,6 +5,8 @@ permalink: /sponsors.html
 ---
 
 <div style="text-align: center;" class="sponsors">
+  <hr style="margin-bottom:5px">
+  <h1>Leading Sponsors</h1>
   <a href="https://www.dropbox.com/jobs" target="_blank">
     <img src="/images/sponsors_2019/dropbox.png"
        alt="Dropbox Logo"
@@ -556,4 +558,4 @@ permalink: /sponsors.html
   <hr style="margin-bottom:5px">
 </div>
 <br>
-**Interested in sponsoring BSidesSF 2020**? Shoot us an email at *sponsors@bsidessf.org* and let us know you'd like to be the first to know when we release our sponsorship kit!
+**Interested in sponsoring BSidesSF 2020**? Shoot us an email at *sponsors@bsidessf.org* to be the first to know when we release our sponsorship kit!

@@ -284,7 +284,7 @@ permalink: /sponsors.html
   </a>
   <hr style="margin-bottom:5px">
 
-  <h1>Bar and Chill Out Space Sponsors</h1>
+  <h1>Bar and Chill Out Space Sponsor</h1>
   <a href="https://www.oath.com/careers" target="_blank">
     <img src="/images/sponsors_2019/paranoids.png"
        alt="Paranoids Logo"
@@ -376,7 +376,7 @@ permalink: /sponsors.html
   </a>
   <hr style="margin-bottom:5px">
 
-  <h1>Lunch Sponsors</h1>
+  <h1>Lunch Sponsor</h1>
   <a href="https://www.intezer.com/" target="_blank">
     <img src="/images/sponsors_2019/intezer.png"
          alt="Intezer Logo"

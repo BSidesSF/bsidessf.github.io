@@ -6,7 +6,7 @@ permalink: /about/code-of-conduct.html
 
 Our code of conduct is "Show respect and tolerance for each other's uniqueness. Be kind and practice the golden rule."
 
-We have **NO TOLERANCE** for physical, verbal, or sexual harassment, intimidation, or marginalization of any human!
+We have **NO TOLERANCE** for physical, verbal, or sexual harassment; intimidation; or marginalization of any human!
 
 Put another way: any action, behavior, speech, or dress that causes significant interference with event operations, significant discomfort to other participants, or adversely affects BSidesSF's relationship with its participants, its venues, or the public is strictly forbidden and may result in revocation of your event badge, expulsion from the property, and reporting to the authorities.
 

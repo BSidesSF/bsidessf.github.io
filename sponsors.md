@@ -212,11 +212,6 @@ permalink: /sponsors.html
            alt="XM Cyber Logo"
            style="width:400px;padding-bottom:10px">
     </a>
-<!--     <a href="https://www.asapp.com/careers" target="_blank">
-      <img src="/images/sponsors_2019/asapp.png"
-           alt="ASAPP Logo"
-           style="width:300px;padding-bottom:20px">
-    </a> -->
   </div>
   <hr style="margin-bottom:5px">
   
@@ -376,12 +371,34 @@ permalink: /sponsors.html
   </a>
   <hr style="margin-bottom:5px">
 
-  <h1>Lunch Sponsor</h1>
-  <a href="https://www.intezer.com/" target="_blank">
-    <img src="/images/sponsors_2019/intezer.png"
-         alt="Intezer Logo"
-         style="width:250px;padding-bottom:15px">
-  </a>
+  <h1>Lunch Sponsors</h1>
+  <div class="sponsors-large">
+    <div style="width:800px;display:inline-block">
+      <a href="https://www.asapp.com/careers" target="_blank">
+        <img src="/images/sponsors_2019/asapp.png"
+             alt="ASAPP Logo"
+             style="width:200px;padding-right:25px;padding-bottom:20px">
+      </a>
+      <a href="https://www.intezer.com/" target="_blank">
+        <img src="/images/sponsors_2019/intezer.png"
+             alt="Intezer Logo"
+             style="width:250px;padding-left:25px;padding-bottom:15px">
+      </a>
+    </div>
+  </div>
+  <div class="sponsors-small">
+    <a href="https://www.asapp.com/careers" target="_blank">
+      <img src="/images/sponsors_2019/asapp.png"
+           alt="ASAPP Logo"
+           style="width:200px;padding-bottom:15px">
+    </a>
+    <br>
+    <a href="https://www.intezer.com/" target="_blank">
+      <img src="/images/sponsors_2019/intezer.png"
+           alt="Intezer Logo"
+           style="width:250px;padding-bottom:15px">
+    </a>
+  </div>
   <hr style="margin-bottom:5px">
 
   <h1>Breakfast Sponsors</h1>
@@ -461,11 +478,18 @@ permalink: /sponsors.html
       </a>
     </div>
     <div style="width:800px;display:inline-block">
+      <a href="https://www.oreilly.com/" target="_blank">
+        <img src="/images/sponsors_2019/oreilly.png"
+             alt="O'Reilly Logo"
+             style="width:225px;padding-right:25px;padding-bottom:30px">
+      </a>
       <a href="https://www.securityevaluators.com/careers/" target="_blank">
         <img src="/images/sponsors_2019/ise.png"
              alt="ISE Logo"
-             style="width:175px;padding-bottom:35px">
+             style="width:175px;padding-left:25px;padding-bottom:10px">
       </a>
+    </div>
+    <div style="width:800px;display:inline-block">
       <a href="https://www.livingsecurity.com/join-our-team/" target="_blank">
         <img src="/images/sponsors_2019/living_security.png"
              alt="Living Security Logo"
@@ -535,6 +559,12 @@ permalink: /sponsors.html
       <img src="/images/sponsors_2019/living_security.png"
            alt="Living Security Logo"
            style="width:200px;padding-bottom:15px">
+    </a>
+    <br>
+    <a href="https://www.oreilly.com/" target="_blank">
+      <img src="/images/sponsors_2019/oreilly.png"
+           alt="O'Reilly Logo"
+           style="width:225px;padding-bottom:15px">
     </a>
     <br>
     <a href="http://lockpickextreme.com/" target="_blank">

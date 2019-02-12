@@ -493,17 +493,17 @@ permalink: /sponsors.html
       <a href="https://www.livingsecurity.com/join-our-team/" target="_blank">
         <img src="/images/sponsors_2019/living_security.png"
              alt="Living Security Logo"
-             style="width:200px;padding-bottom:15px">
+             style="width:210px;padding-right:10px;padding-bottom:15px">
       </a>
       <a href="https://toool.us/" target="_blank">
         <img src="/images/sponsors_2019/toool.png"
              alt="TOOOL Logo"
-             style="width:200px;padding-bottom:20px">
+             style="width:220px;padding-left:10px;padding-right:10px;padding-bottom:20px">
       </a>
       <a href="http://lockpickextreme.com/" target="_blank">
         <img src="/images/sponsors_2019/lockpick_extreme.png"
              alt="Lockpick Extreme Logo"
-             style="width:200px;padding-bottom:15px">
+             style="width:210px;padding-left:10px;padding-bottom:15px">
       </a>
     </div>
     <div style="width:800px;display:inline-block">

@@ -217,30 +217,33 @@ permalink: /sponsors.html
   
   <h1>Notable Sponsors</h1>
   <div class="sponsors-large">
-    <div style="width:400px;display:inline-block;text-align:right">
-      <a href="https://www.rapid7.com/careers" target="_blank">
-        <img src="/images/sponsors_2019/rapid7.png"
-             alt="Rapid7 Logo"
-             style="width:250px;padding-right:25px;padding-bottom:55px">
-      </a>
-      <br>
-      <a href="https://newrelic.com/about/careers" target="_blank">
-        <img src="/images/sponsors_2019/new_relic.png"
-             alt="New Relic Logo"
-             style="width:300px;padding-right:25px">
-      </a>
-    </div>
-    <div style="width:400px;display:inline-block;text-align:left">
+    <div style="width:800px;display:inline-block">
       <a href="https://www.salesforce.com/company/careers/" target="_blank">
         <img src="/images/sponsors_2019/salesforce.png"
              alt="Salesforce Logo"
-             style="width:200px;padding-left:25px">
+             style="width:200px;padding-right:25px">
       </a>
-      <br>
+      <a href="https://www.rapid7.com/careers" target="_blank">
+        <img src="/images/sponsors_2019/rapid7.png"
+             alt="Rapid7 Logo"
+             style="width:250px;padding-left:25px;padding-bottom:15px">
+      </a>
+    </div>
+    <div style="width:800px;display:inline-block">
+      <a href="https://newrelic.com/about/careers" target="_blank">
+        <img src="/images/sponsors_2019/new_relic.png"
+             alt="New Relic Logo"
+             style="width:275px;padding-right:10px">
+      </a>
       <a href="https://www.nccgroup.trust/us/about-us/careers/" target="_blank">
         <img src="/images/sponsors_2019/ncc_group.png"
              alt="NCC Group Logo"
-             style="width:250px;padding-left:25px;padding-bottom:8px">
+             style="width:250px;padding-left:10px;padding-right:10px;padding-bottom:8px">
+      </a>
+      <a href="https://www.corelight.com/company/careers/" target="_blank">
+        <img src="/images/sponsors_2019/corelight.png"
+             alt="Corelight Logo"
+             style="width:250px;padding-left:10px;padding-bottom:5px">
       </a>
     </div>
   </div>
@@ -251,6 +254,12 @@ permalink: /sponsors.html
            style="width:250px;padding-bottom:20px">
     </a>
     <br>
+    <a href="https://www.corelight.com/company/careers/" target="_blank">
+        <img src="/images/sponsors_2019/corelight.png"
+             alt="Corelight Logo"
+             style="width:250px;padding-bottom:5px">
+      </a>
+    <br>
     <a href="https://www.nccgroup.trust/us/about-us/careers/" target="_blank">
       <img src="/images/sponsors_2019/ncc_group.png"
            alt="NCC Group Logo"
@@ -260,7 +269,7 @@ permalink: /sponsors.html
     <a href="https://newrelic.com/about/careers" target="_blank">
       <img src="/images/sponsors_2019/new_relic.png"
            alt="New Relic Logo"
-           style="width:300px;padding-bottom:15px">
+           style="width:275px;padding-bottom:15px">
     </a>
     <br>
     <a href="https://www.salesforce.com/company/careers/" target="_blank">

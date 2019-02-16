@@ -487,15 +487,20 @@ permalink: /sponsors.html
       </a>
     </div>
     <div style="width:800px;display:inline-block">
-      <a href="https://www.oreilly.com/" target="_blank">
-        <img src="/images/sponsors_2019/oreilly.png"
-             alt="O'Reilly Logo"
-             style="width:225px;padding-right:25px;padding-bottom:30px">
+      <a href="https://nostarch.com/" target="_blank">
+        <img src="/images/sponsors_2019/no_starch_press.png"
+             alt="No Starch Press Logo"
+             style="width:275px;padding-right:25px;padding-bottom:10px">
       </a>
       <a href="https://www.securityevaluators.com/careers/" target="_blank">
         <img src="/images/sponsors_2019/ise.png"
              alt="ISE Logo"
-             style="width:175px;padding-left:25px;padding-bottom:10px">
+             style="width:200px;padding-left:25px;padding-right:25px;padding-bottom:10px">
+      </a>
+      <a href="https://www.oreilly.com/" target="_blank">
+        <img src="/images/sponsors_2019/oreilly.png"
+             alt="O'Reilly Logo"
+             style="width:225px;padding-left:25px;padding-bottom:20px">
       </a>
     </div>
     <div style="width:800px;display:inline-block">
@@ -586,6 +591,12 @@ permalink: /sponsors.html
       <img src="/images/sponsors_2019/nybll.png"
            alt="Nybll"
            style="width:175px;padding-bottom:15px">
+    </a>
+    <br>
+    <a href="https://nostarch.com/" target="_blank">
+      <img src="/images/sponsors_2019/no_starch_press.png"
+           alt="No Starch Press Logo"
+           style="width:275px;padding-bottom:15px">
     </a>
     <br>
     <a href="https://shop.hak5.org/" target="_blank">

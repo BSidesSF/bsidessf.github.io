@@ -37,7 +37,7 @@ Please reach out to volunteer@bsidessf.org with any questions.
 
 Please note there will be training provided for all roles.
 
-Also, join us on Slack for live action updates:
+Also, <a href="https://bsidessf-slack.herokuapp.com/">join us on Slack</a> for live action updates:
 <script async defer src="https://bsidessf-slack.herokuapp.com/slackin.js?large"></script>
 
 # Here are the job descriptions for the different roles:

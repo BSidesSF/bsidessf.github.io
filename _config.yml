@@ -39,8 +39,7 @@ permalink: /news/:year/:month/:title
 
 #### SEO Stuff
 # Google Analytics
-google_universal_analytics: UA-69569651-1
-google_universal_analytics_cookiedomain: auto
+google_analytics: UA-69569651-1
 
 # Facebook Opengraph
 facebook_app_id: 1522022128111003

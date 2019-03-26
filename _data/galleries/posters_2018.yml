@@ -1,0 +1,92 @@
+picture_path: posters_2018
+pictures:
+  - filename: KingmanInk-BSides-Day1Board1-Gorenc
+    original: KingmanInk-BSides-Day1Board1-Gorenc.jpg
+    thumbnail: KingmanInk-BSides-Day1Board1-Gorenc.jpg
+    title: From Bounties to Bureaucracy - The Hidden Market Factors of Exploit Economics
+    caption: Brian Gorenc
+  - filename: KingmanInk-BSides-Day1Board2-Dormann
+    original: KingmanInk-BSides-Day1Board2-Dormann.jpg
+    thumbnail: KingmanInk-BSides-Day1Board2-Dormann.jpg
+    title: Keep it Like a Secret: When Android Apps Contain Private Keys
+    caption: Will Dormann
+  - filename: KingmanInk-BSides-Day1Board3-CotaMagistrado
+    original: KingmanInk-BSides-Day1Board3-CotaMagistrado.jpg
+    thumbnail: KingmanInk-BSides-Day1Board3-CotaMagistrado.jpg
+    title: The Memory of a Meltdown, and no we don't mean Britney
+    caption: Shane Cota
+  - filename: KingmanInk-BSides-Day1Board4-BlueTeam
+    original: KingmanInk-BSides-Day1Board4-BlueTeam.jpg
+    thumbnail: KingmanInk-BSides-Day1Board4-BlueTeam.jpg
+    title: Blue Team Fundamentals
+    caption: Benjamin Hering
+  - filename: KingmanInk-BSides-Day1Board5-Vatamanu
+    original: KingmanInk-BSides-Day1Board5-Vatamanu.jpg
+    thumbnail: KingmanInk-BSides-Day1Board5-Vatamanu.jpg
+    title: Netrepser - A JavaScript targeted attack
+    caption: Cristina Vatamanu
+  - filename: KingmanInk-BSides-Day1Board6-Elazari
+    original: KingmanInk-BSides-Day1Board6-Elazari.jpg
+    thumbnail: KingmanInk-BSides-Day1Board6-Elazari.jpg
+    title: Hacking the Law: Are Bug Bounties a True Safe Harbor?
+    caption: Amit Elazari
+  - filename: KingmanInk-BSides-Day1Board7-Faust
+    original: KingmanInk-BSides-Day1Board7-Faust.jpg
+    thumbnail: KingmanInk-BSides-Day1Board7-Faust.jpg
+    title: Six degrees of infiltration: Using graph to understand your infrastructure and optimize security decision making
+    caption: Sacha Faust
+  - filename: KingmanInk-BSides-Day1Board8-Ero
+    original: KingmanInk-BSides-Day1Board8-Ero.jpg
+    thumbnail: KingmanInk-BSides-Day1Board8-Ero.jpg
+    title: The Bucket List: Experiences Operating S3 Honeypots
+    caption: Cameron Ero
+  - filename: KingmanInk-BSides-Day1Board9-Ayrey
+    original: KingmanInk-BSides-Day1Board9-Ayrey.jpg
+    thumbnail: KingmanInk-BSides-Day1Board9-Ayrey.jpg
+    title: Fighting Secrets in Source Code with TruffleHog
+    caption: Dylan Ayrey
+  - filename: KingmanInk-BSides-Day2Board1-Ledoux
+    original: KingmanInk-BSides-Day2Board1-Ledoux.jpg
+    thumbnail: KingmanInk-BSides-Day2Board1-Ledoux.jpg
+    title: Fix All The Things: Rapid-fire Stories of Creative Solutions to InfoSec Problems
+    caption: Katie Ledoux
+  - filename: KingmanInk-BSides-Day2Board2-Tevet
+    original: KingmanInk-BSides-Day2Board2-Tevet.jpg
+    thumbnail: KingmanInk-BSides-Day2Board2-Tevet.jpg
+    title: Supply Chain Attack Through CCleaner - Evidence Aurora Operation Still Active
+    caption: Itai Tevet
+  - filename: KingmanInk-BSides-Day2Board3-JohnsonKaczorowski
+    original: KingmanInk-BSides-Day2Board3-JohnsonKaczorowski.jpg
+    thumbnail: KingmanInk-BSides-Day2Board3-JohnsonKaczorowski.jpg
+    title: Managing secrets in your cloud environment: AWS, GCP, and containers (and beyond)
+    caption: Evan Johnson • Maya Kaczorowski
+  - filename: KingmanInk-BSides-Day2Board4-Contin
+    original: KingmanInk-BSides-Day2Board4-Contin.jpg
+    thumbnail: KingmanInk-BSides-Day2Board4-Contin.jpg
+    title: Fuzzing Ruby and C Extensions
+    caption: Claudio Contin
+  - filename: KingmanInk-BSides-Day2Board5-Tomaschik
+    original: KingmanInk-BSides-Day2Board5-Tomaschik.jpg
+    thumbnail: KingmanInk-BSides-Day2Board5-Tomaschik.jpg
+    title: The IoT Hacker's Toolkit
+    caption: David Tomaschik
+  - filename: KingmanInk-BSides-Day2Board6-MuellerFrierson
+    original: KingmanInk-BSides-Day2Board6-MuellerFrierson.jpg
+    thumbnail: KingmanInk-BSides-Day2Board6-MuellerFrierson.jpg
+    title: You want to step outside? What we can learn from Google's fight with phishing
+    caption: Neal Mueller • Collin Frierson
+  - filename: KingmanInk-BSides-Day2Board7-WaldenWarner
+    original: KingmanInk-BSides-Day2Board7-WaldenWarner.jpg
+    thumbnail: KingmanInk-BSides-Day2Board7-WaldenWarner.jpg
+    title: Unraveling the Threat of Chrome Based Malware
+    caption: Spencer Walden • Justin Warner
+  - filename: KingmanInk-BSides-Day2Board8-Stella
+    original: KingmanInk-BSides-Day2Board8-Stella.jpg
+    thumbnail: KingmanInk-BSides-Day2Board8-Stella.jpg
+    title: Privacy for safety - opsec when the threat is in the home
+    caption: Stella
+  - filename: KingmanInk-BSides-Day2Board9-Naik
+    original: KingmanInk-BSides-Day2Board9-Naik.jpg
+    thumbnail: KingmanInk-BSides-Day2Board9-Naik.jpg
+    title: Pensieve: Finding malicious artifacts in container environments
+    caption: Yathi Naik

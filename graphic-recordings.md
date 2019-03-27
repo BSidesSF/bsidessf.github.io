@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Graphic Recordings
+title: "Graphic Recordings"
 permalink: /graphic-recordings/
 ---
 

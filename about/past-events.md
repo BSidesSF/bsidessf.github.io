@@ -6,6 +6,8 @@ permalink: /about/past-events.html
 
 **Past BSidesSF**
 
+[Sunday, March 3 - Monday, March 4, 2019](http://www.securitybsides.com/w/page/132743652/BSidesSF2019)
+
 [Sunday, April 15 - Monday, April 16, 2018](http://www.securitybsides.com/w/page/122163258/BSidesSF2018)
 
 [Sunday, February 12 - Monday, February 13, 2017](http://www.securitybsides.com/w/page/111866644/BSidesSF2017)

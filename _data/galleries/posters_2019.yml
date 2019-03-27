@@ -2,91 +2,91 @@ picture_path: posters_2019
 pictures:
   - filename: KingmanInk-BSides-Ayrey-Frichot
     original: KingmanInk-BSides-Ayrey-Frichot.jpg
-    thumbnail: KingmanInk-BSides-Ayrey-Frichot.jpg
+    thumbnail: KingmanInk-BSides-Ayrey-Frichot-thumbnail.jpg
     title: "Offensive Javascript Techniques for Red Teamers (Or Anyone Really)"
     caption: "Dylan Ayrey • Christian Frichot"
   - filename: KingmanInk-BSides-Balogun
     original: KingmanInk-BSides-Balogun.jpg
-    thumbnail: KingmanInk-BSides-Balogun.jpg
+    thumbnail: KingmanInk-BSides-Balogun-thumbnail.jpg
     title: "Back to the SOCless Future: Implementing Monitoring & Response Through Automation"
     caption: "Ubani Balogun"
   - filename: KingmanInk-BSides-CareerMutation
     original: KingmanInk-BSides-CareerMutation.jpg
-    thumbnail: KingmanInk-BSides-CareerMutation.jpg
+    thumbnail: KingmanInk-BSides-CareerMutation-thumbnail.jpg
     title: "Career Mutation: A Panel on the Evolution to Management in Security"
     caption: "Zach Powers • Rachel Black • Chris Dorros • Daed Latrope • Kyle Tobener • Xiaoran Wang"
   - filename: KingmanInk-BSides-Cesena
     original: KingmanInk-BSides-Cesena.jpg
-    thumbnail: KingmanInk-BSides-Cesena.jpg
+    thumbnail: KingmanInk-BSides-Cesena-thumbnail.jpg
     title: "Deploying Two-Factor Authentication to Millions of Users"
     caption: "Emanuele Cesena"
   - filename: KingmanInk-BSides-Clark
     original: KingmanInk-BSides-Clark.jpg
-    thumbnail: KingmanInk-BSides-Clark.jpg
+    thumbnail: KingmanInk-BSides-Clark-thumbnail.jpg
     title: "Strangeways, Here We Come: A Journey from On-Prem to Cloud First with AWS"
     caption: "Victor Clark"
   - filename: KingmanInk-BSides-Condon
     original: KingmanInk-BSides-Condon.jpg
-    thumbnail: KingmanInk-BSides-Condon.jpg
+    thumbnail: KingmanInk-BSides-Condon-thumbnail.jpg
     title: "All Your Containers Are Belong to Us"
     caption: "James Condon"
   - filename: KingmanInk-BSides-Dharamshi
     original: KingmanInk-BSides-Dharamshi.jpg
-    thumbnail: KingmanInk-BSides-Dharamshi.jpg
+    thumbnail: KingmanInk-BSides-Dharamshi-thumbnail.jpg
     title: "Building Identity for an Open Perimeter"
     caption: "Tejas Dharamshi"
   - filename: KingmanInk-BSides-Ehrensvard
     original: KingmanInk-BSides-Ehrensvard.jpg
-    thumbnail: KingmanInk-BSides-Ehrensvard.jpg
+    thumbnail: KingmanInk-BSides-Ehrensvard-thumbnail.jpg
     title: "Securing Online Identities with Simple, Secure, Open Standards"
     caption: "Stina Ehrensvard"
   - filename: KingmanInk-BSides-Faust
     original: KingmanInk-BSides-Faust.jpg
-    thumbnail: KingmanInk-BSides-Faust.jpg
+    thumbnail: KingmanInk-BSides-Faust-thumbnail.jpg
     title: "Lyft Cartography: Automating Security Visibility and Democratization"
     caption: "Sacha Faust"
   - filename: KingmanInk-BSides-Gamblin
     original: KingmanInk-BSides-Gamblin.jpg
-    thumbnail: KingmanInk-BSides-Gamblin.jpg
+    thumbnail: KingmanInk-BSides-Gamblin-thumbnail.jpg
     title: "Automating Web Application Bug Hunting"
     caption: "Jerry Gamblin"
   - filename: KingmanInk-BSides-Haken-Behrens
     original: KingmanInk-BSides-Haken-Behrens.jpg
-    thumbnail: KingmanInk-BSides-Haken-Behrens.jpg
+    thumbnail: KingmanInk-BSides-Haken-Behrens-thumbnail.jpg
     title: "Cats? In My Certificate Transparency Logs? It's More Likely Than You Think"
     caption: "Ian Haken • Scott Behrens"
   - filename: KingmanInk-BSides-Kaczorowski-Lorenc
     original: KingmanInk-BSides-Kaczorowski-Lorenc.jpg
-    thumbnail: KingmanInk-BSides-Kaczorowski-Lorenc.jpg
+    thumbnail: KingmanInk-BSides-Kaczorowski-Lorenc-thumbnail.jpg
     title: "You Might Still Need Patches for Your Denim, but You No Longer Need Them for Prod"
     caption: "Maya Kaczorowski • Dan Lorenc"
   - filename: KingmanInk-BSides-Messdaghi
     original: KingmanInk-BSides-Messdaghi.jpg
-    thumbnail: KingmanInk-BSides-Messdaghi.jpg
+    thumbnail: KingmanInk-BSides-Messdaghi-thumbnail.jpg
     title: "How to Fix the Diversity Gap in Cybersecurity"
     caption: "Chloe Messdaghi"
   - filename: KingmanInk-BSides-Nesbitt
     original: KingmanInk-BSides-Nesbitt.jpg
-    thumbnail: KingmanInk-BSides-Nesbitt.jpg
+    thumbnail: KingmanInk-BSides-Nesbitt-thumbnail.jpg
     title: "Guarding Against Protocol Subversion at Coinbase"
     caption: "Mark Nesbitt"
   - filename: KingmanInk-BSides-Scrobonia
     original: KingmanInk-BSides-Scrobonia.jpg
-    thumbnail: KingmanInk-BSides-Scrobonia.jpg
+    thumbnail: KingmanInk-BSides-Scrobonia-thumbnail.jpg
     title: "Hacking with a Heads Up Display"
     caption: "David Scrobonia"
   - filename: KingmanInk-BSides-Tetelman
     original: KingmanInk-BSides-Tetelman.jpg
-    thumbnail: KingmanInk-BSides-Tetelman.jpg
+    thumbnail: KingmanInk-BSides-Tetelman-thumbnail.jpg
     title: "Concrete Steps to Create a Security Culture"
     caption: "Arkadiy Tetelman"
   - filename: KingmanInk-BSides-Tobac
     original: KingmanInk-BSides-Tobac.jpg
-    thumbnail: KingmanInk-BSides-Tobac.jpg
+    thumbnail: KingmanInk-BSides-Tobac-thumbnail.jpg
     title: "The Path to Infosec is Not Always Linear"
     caption: "Rachel Tobac"
   - filename: KingmanInk-BSides-Young
     original: KingmanInk-BSides-Young.jpg
-    thumbnail: KingmanInk-BSides-Young.jpg
+    thumbnail: KingmanInk-BSides-Young-thumbnail.jpg
     title: "How to Lose a Container in 10 Minutes"
     caption: "Sarah Young"

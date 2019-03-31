@@ -12,8 +12,8 @@ permalink: /graphic-recordings/
 {% if count == 0 %}<div class="row">{% endif %}
   <div class="half-width gallery-preview {{ align }}">
     <h1>{{ gallery.title }}</h1>
-    <a href="{{ site.url }}{{ site.baseurl }}/graphic-recordings/{{ gallery.directory | remove:'poster_' }}.html">
-      <img alt="{{ gallery.title }}" src="{{ site.url }}{{ site.baseurl }}/images/{% if gallery.picture_path %}{{ gallery.picture_path }}{% else %}{{ gallery.directory }}{% endif %}/{{ gallery.preview.thumbnail }}" />
+    <a href="{{ site.url }}{{ site.baseurl }}/graphic-recordings/{{ gallery.year }}.html">
+      <img alt="{{ gallery.title }}" src="{{ site.url }}{{ site.baseurl }}/images/{% if gallery.picture_path %}{{ gallery.picture_path }}{% else %}posters_{{ gallery.year }}{% endif %}/{{ gallery.preview.thumbnail }}" />
     </a>
   </div>
 {% if count == 1 %}</div>{% endif %}

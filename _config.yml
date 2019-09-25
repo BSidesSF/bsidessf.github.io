@@ -27,6 +27,7 @@ destination: _site
 
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 
 feed:
   path: atom.xml

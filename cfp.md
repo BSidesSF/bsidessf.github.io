@@ -40,7 +40,7 @@ Please note that all talks are limited to two speakers only. Panels are limited 
 - October 30, 2019 – First round speakers and trainers notified
 - November 6, 2019 – Final due date for all submissions
 - November 24, 2019 – Notifications sent
-- December 4, 2019 - Participation confirmed by speakers and details finalized
+- December 4, 2019 – Participation confirmed by speakers and details finalized
 - February 22-24, 2020 – BSidesSF 2020
 
 ## What You Need

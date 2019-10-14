@@ -66,6 +66,12 @@
     font-size: 24px;
 }
 
+// Header
+header[role=banner] {
+  background-image: url(/images/bsides_logo_2020_gradient.png);
+  background-repeat: repeat-x;
+}
+
 // Footer
 #footer {
   background-color: $footer-color;

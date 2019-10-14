@@ -68,8 +68,7 @@
 
 // Header
 header[role=banner] {
-  background-image: url(/images/bsides_logo_2020_gradient.png);
-  background-repeat: repeat-x;
+  background: linear-gradient($header-gradient-start, $header-gradient-end);
 }
 
 // Footer

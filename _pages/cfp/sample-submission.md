@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Sample Submission"
-permalink: /cfp/sample-submission.html
 ---
 
 **Note to the reader**: This is a completely made up talk (*courtesy of [ShmooCon](http://shmoocon.org/)*). However it should give you an idea of what types of information to include, the lowest level of detail to use, and the overall flow of a good submission.

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Sponsors"
-permalink: /sponsors.html
 ---
 
 Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w) and contact sponsors@bsidessf.org for more information.

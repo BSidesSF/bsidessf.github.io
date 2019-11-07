@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Volunteer"
-permalink: /volunteer.html
 --- 
 
 # Interested in helping at BSidesSF 2019?
@@ -16,7 +15,7 @@ Volunteering is a great way to get involved with the local security scene and co
 
 - General Registration / Information Desk
 - Audio / Visual wrangling
-- Room moderators 
+- Room moderators
 - Public Safety
 - Speaker wrangling
 - Room set up and teardown
@@ -41,15 +40,15 @@ Also, <a href="https://bsidessf-slack.herokuapp.com/">join us on Slack</a> for l
 <script async defer src="https://bsidessf-slack.herokuapp.com/slackin.js?large"></script>
 
 # Here are the job descriptions for the different roles:
- 
-## Workshop 
+
+## Workshop
 
 *** Please note that this shift will be on March 2nd at the Workshop Offsite and will be counted towards your volunteer hours.
 
 **Brief description:**
 
 In this position, you will be responsible for making sure the workshops are conducted smoothly. Ensure that all attendees and presenters have everything they need during the workshops.
- 
+
 **Duties include:**
 
 - Direct attendees to their correct destination (registration desk, sessions, etc.)
@@ -57,7 +56,7 @@ In this position, you will be responsible for making sure the workshops are cond
 - Check-in pre-registered attendees
 - Ensure attendees and presenters have everything they need for the workshops
 - Proctor the workshop sessions
- 
+
 **Choose this role if you:**
 
 - Have strong communication skills
@@ -73,7 +72,7 @@ Our sponsors provide us with materials to put into the bag participants receive 
 **Duties Include:**
 
 - Preparing registration swag bags for all attendees
-- Choose this role if you: 
+- Choose this role if you:
   - Able to work in fast paced semi-repetitive environment
   - Able to stay organized and focused as part of an assembly line
 
@@ -93,13 +92,13 @@ In this position you will be responsible for the appearance of the venue and ult
 - Are able to commit to early or late hours outside the normal event hours
 - Able to lift heavy objects and do physical labor
 - Able to stand for long periods of time
-- Excellent customer service skills 
+- Excellent customer service skills
 - Prior experience with moving freight is a plus
- 
+
 ## Registration/Greeter/Information Desk  
 **Brief description:**
 
-You will be the “face” of BSidesSF for all attendees. Your goal is to make a positive, welcoming first impression for all attendees and visitors. 
+You will be the “face” of BSidesSF for all attendees. Your goal is to make a positive, welcoming first impression for all attendees and visitors.
 
 **Duties include:**
 
@@ -107,8 +106,8 @@ You will be the “face” of BSidesSF for all attendees. Your goal is to make a
 - Direct attendees to their correct destination (registration desk, sessions, etc.)
 - Answer questions for incoming attendees
 - Check-in pre-registered attendees
-- Ensure attendees have everything they need to enter the conference 
-- Sell conference merchandise at the desk, provide a receipt and direct attendee to coat check to retrieve their merchandise	
+- Ensure attendees have everything they need to enter the conference
+- Sell conference merchandise at the desk, provide a receipt and direct attendee to coat check to retrieve their merchandise
 - Share attendee feedback with other volunteers as necessary
 - Handle walk-in ticket sales
 
@@ -123,7 +122,7 @@ You will be the “face” of BSidesSF for all attendees. Your goal is to make a
 ## Coat Check
 **Brief Description:**
 
-You will distribute pre-purchased merchandise and collect attendees’ coats/bags. 
+You will distribute pre-purchased merchandise and collect attendees’ coats/bags.
 
 **Duties Include:**
 
@@ -145,25 +144,25 @@ You will ensure each sponsor has everything they need to set up and operate thei
 
 **Duties Include:**
 
-- Welcome all sponsors to the conference 
+- Welcome all sponsors to the conference
 - Check in hourly with each booth/table in the sponsor lounge
 - Ensure sponsors have everything they need
-- Answer any questions that sponsors have 
-- Choose this role if you: 
-- Have strong communication and customer service skills. 
+- Answer any questions that sponsors have
+- Choose this role if you:
+- Have strong communication and customer service skills.
 
 ## Party
 **Brief Description:**
 
-In this position, you will deliver the ultimate BSidesSF party experience! 
+In this position, you will deliver the ultimate BSidesSF party experience!
 
 **Duties Include:**
 
-- Help with the party set up and/or teardown 
+- Help with the party set up and/or teardown
 - Work with party vendors to set up bar, tables, etc.
-- Check in all party attendees 
+- Check in all party attendees
 - Answer attendee questions
-- Route any complaints to the appropriate core staff member 
+- Route any complaints to the appropriate core staff member
 
 **Choose this role if you:**
 
@@ -193,7 +192,7 @@ Public Safety is the group at the con which helps to ensure the protection of ou
 - Are comfortable with crowds
 - Enjoy greeting and welcoming guests
 - Perform well under pressure
-- EMT/EMS experience is a plus 
+- EMT/EMS experience is a plus
 
 ## Room Proctor
 **Brief Description:**
@@ -203,9 +202,9 @@ This is a customer-facing position that ensures overall speaker readiness, prima
 **Duties Include:**
 
 - Assist speakers with audio
-- Make sure speaker is present and ready prior to talk 
+- Make sure speaker is present and ready prior to talk
 - Welcome and announce speakers
-- Thank our sponsors 
+- Thank our sponsors
 - Hand out speaker gifts on-stage
 - Announce lunch/coffee breaks, etc
 - Record speaker statistics: # people in talk, talk time, engagement etc
@@ -242,11 +241,11 @@ This position is responsible for capturing the talk on either a camera or select
 - Are familiar with Wirecast or other Capture Software, or have experience with shooting video cameras
 - Keep cool under pressure
 
-## Track Ambassador 
+## Track Ambassador
 **Brief Description:**
 
 This role directly supports the Room Proctor and A/V personnel, and fill in for them as necessary.
-Duties Include: 
+Duties Include:
 (see Room Proctor and A/V job descriptions)
 
 **Choose this role if you:**
@@ -270,7 +269,7 @@ In this role you will represent the interest of BSidesSF to ensure operations ar
 **Choose this role if you:**
 
 - Have excellent leadership qualities
-- Have good judgment 
+- Have good judgment
 - Have exceptional communication and interpersonal skills
 - Able to multitask
 - Able to perform under pressure

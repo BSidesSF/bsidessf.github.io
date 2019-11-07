@@ -30,6 +30,11 @@ exclude:
   ]
 include: [.well-known]
 
+collections:
+  pages:
+    output: true
+    permalink: /:path
+
 # Build settings
 markdown: kramdown
 kramdown:

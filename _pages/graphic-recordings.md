@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Graphic Recordings"
-permalink: /graphic-recordings/
 ---
 
 <h1>{{ page.title }}</h1>

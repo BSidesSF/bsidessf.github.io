@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Contact Us"
-permalink: /about/contact.html
 --- 
 
 # Questions? Comments? Get in touch!

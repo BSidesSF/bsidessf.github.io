@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Code of Conduct"
-permalink: /about/code-of-conduct.html
 --- 
 
 Our code of conduct is "Show respect and tolerance for each other's uniqueness. Be kind and practice the golden rule."

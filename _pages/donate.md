@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Donate"
-permalink: /donate.html
 --- 
 
 # Want to donate to making BSidesSF awesome?

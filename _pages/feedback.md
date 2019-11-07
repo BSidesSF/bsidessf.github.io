@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Feedback"
-permalink: /feedback.html
 --- 
 
 # Let us know how things went and what we can do better next year

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Venue"
-permalink: /venue.html
 ---
 
 ## [City View at Metreon](http://www.cityviewmetreon.com/)

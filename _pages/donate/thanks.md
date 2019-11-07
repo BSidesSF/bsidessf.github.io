@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Thanks for donating!"
-permalink: /donate/thanks.html
 ---
 
 # Thank you so much!

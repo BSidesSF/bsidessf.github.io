@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Past Events"
-permalink: /about/past-events.html
 --- 
 
 **Past BSidesSF**

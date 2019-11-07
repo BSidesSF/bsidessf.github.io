@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Privacy Policy"
-permalink: /privacy.html
 ---
 
 Last updated: 2019-02-06

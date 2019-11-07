@@ -15,7 +15,19 @@ header_large: images/bsides_logo_2020.png
 header_xl: images/bsides_logo_2020.png
 
 # Exclude our ruby stuff and other files
-exclude: [.bundle, bin, vendor, Gemfile, Gemfile.lock, Rakefile, .last_optimized, CNAME, README.md, LICENSE]
+exclude:
+  [
+    .bundle,
+    bin,
+    vendor,
+    Gemfile,
+    Gemfile.lock,
+    Rakefile,
+    .last_optimized,
+    CNAME,
+    README.md,
+    LICENSE,
+  ]
 include: [.well-known]
 
 # Build settings
@@ -27,6 +39,7 @@ destination: _site
 
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
   - jekyll-redirect-from
 
 feed:

@@ -54,10 +54,6 @@ Please note that all talks are limited to two speakers only. Panels are limited 
 - Scheduling preferences
 
 ## To Submit
-
-[Submit a Talk](https://www.papercall.io/bsidessf-2020)
-
-[Submit a Workshop](https://forms.gle/mjgApRdV2S9WATZp8)
-
+The BSidesSF 2020 CFP is now closed.
 
 Questions? E-mail program [at] bsidessf.org

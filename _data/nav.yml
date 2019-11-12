@@ -22,9 +22,8 @@
     - subtitle: "Donate"
       subhref: "/donate.html"
 
-- title: "CFP"
-  href: "/cfp.html"
+- title: "Venue"
+  href: "/venue.html"
 
 - title: "Sponsors"
   href: "/sponsors.html"
-

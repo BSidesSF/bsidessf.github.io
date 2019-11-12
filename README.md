@@ -15,7 +15,7 @@ To run the site locally, run ```bundle exec jekyll serve``` or ```rake watch``` 
 Adding pages
 ============
 
-You can create a new pages in \_pages, which will generate the page at the root of the site.  The top of your page (md or html) should look like:
+You can create a new page in \_pages, which will generate the page at the root of the site.  The top of your page (md or html) should look like:
 
 ```
 ---

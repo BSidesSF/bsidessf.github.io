@@ -1,16 +1,15 @@
 - level: Leading
   class: leading
   sponsors:
-    - icon: "/images/B-SidesSF_Logo-BluePink.jpg"
+    - icon: "/images/sponsors_2020/HackerOne.png"
+      href: ""
+    - icon: "/images/bsides_logo_full-orangeblack.png"
       name: "Sold! (announcement soon)"
-      href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
-    - icon: "/images/B-SidesSF_Logo-BluePink.jpg"
+      href: ""
+    - icon: "/images/bsides_logo_full-orangeblack.png"
       name: "Sold! (announcement soon)"
-      href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
-    - icon: "/images/B-SidesSF_Logo-BluePink.jpg"
-      name: "Sold! (announcement soon)"
-      href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
-    - icon: "/images/B-SidesSF_Logo-BluePink.jpg"
+      href: ""
+    - icon: "/images/bsides_logo_full-orangeblack.png"
       name: "Could Be You!"
       href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
 
@@ -18,165 +17,176 @@
   class: contrib
   sponsors:
     - name: "Sold! (announcement soon)"
-      href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
-      icon: "/images/B-SidesSF_Logo-BluePink.jpg"
+      href: ""
+      icon: "/images/bsides_logo_full-orangeblack.png"
     - name: "Sold! (announcement soon)"
-      href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
-      icon: "/images/B-SidesSF_Logo-BluePink.jpg"
+      href: ""
+      icon: "/images/bsides_logo_full-orangeblack.png"
     - name: "Could be you!"
       href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
-      icon: "/images/B-SidesSF_Logo-BluePink.jpg"
+      icon: "/images/bsides_logo_full-orangeblack.png"
     - name: "Could be you!"
       href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
-      icon: "/images/B-SidesSF_Logo-BluePink.jpg"
+      icon: "/images/bsides_logo_full-orangeblack.png"
+    - break: true
     - name: "Could be you!"
       href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
-      icon: "/images/B-SidesSF_Logo-BluePink.jpg"
+      icon: "/images/bsides_logo_full-orangeblack.png"
     - name: "Could be you!"
       href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
-      icon: "/images/B-SidesSF_Logo-BluePink.jpg"
+      icon: "/images/bsides_logo_full-orangeblack.png"
     - name: "Could be you!"
       href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
-      icon: "/images/B-SidesSF_Logo-BluePink.jpg"
+      icon: "/images/bsides_logo_full-orangeblack.png"
     - name: "Could be you!"
       href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
-      icon: "/images/B-SidesSF_Logo-BluePink.jpg"
+      icon: "/images/bsides_logo_full-orangeblack.png"
 
 - level: Supporting
   class: supporting
   sponsors:
+    - href: ""
+      icon: "/images/sponsors_2020/sophos-logo-rgb.png"
+    - name: "Sold! (announcement soon)"
+      href: ""
+      icon: "/images/bsides_logo_full-orangeblack.png"
+    - name: "Sold! (announcement soon)"
+      href: ""
+      icon: "/images/bsides_logo_full-orangeblack.png"
     - name: "Sold! (announcement soon)"
       href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
-      icon: "/images/B-SidesSF_Logo-BluePink.jpg"
+      icon: "/images/bsides_logo_full-orangeblack.png"
+    - break: true
     - name: "Sold! (announcement soon)"
       href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
-      icon: "/images/B-SidesSF_Logo-BluePink.jpg"
-    - name: "Sold! (announcement soon)"
-      href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
-      icon: "/images/B-SidesSF_Logo-BluePink.jpg"
-    - name: "Sold! (announcement soon)"
-      href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
-      icon: "/images/B-SidesSF_Logo-BluePink.jpg"
-    - name: "Sold! (announcement soon)"
-      href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
-      icon: "/images/B-SidesSF_Logo-BluePink.jpg"
+      icon: "/images/bsides_logo_full-orangeblack.png"
     - name: "Could be you!"
       href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
-      icon: "/images/B-SidesSF_Logo-BluePink.jpg"
+      icon: "/images/bsides_logo_full-orangeblack.png"
     - name: "Could be you!"
       href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
-      icon: "/images/B-SidesSF_Logo-BluePink.jpg"
+      icon: "/images/bsides_logo_full-orangeblack.png"
     - name: "Could be you!"
       href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
-      icon: "/images/B-SidesSF_Logo-BluePink.jpg"
+      icon: "/images/bsides_logo_full-orangeblack.png"
 
 - level: Notable
   class: notable
   sponsors:
     - name: "Could be you!"
       href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
-      icon: "/images/B-SidesSF_Logo-BluePink.jpg"
+      icon: "/images/bsides_logo_full-orangeblack.png"
     - name: "Could be you!"
       href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
-      icon: "/images/B-SidesSF_Logo-BluePink.jpg"
+      icon: "/images/bsides_logo_full-orangeblack.png"
     - name: "Could be you!"
       href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
-      icon: "/images/B-SidesSF_Logo-BluePink.jpg"
+      icon: "/images/bsides_logo_full-orangeblack.png"
+    - break: true
     - name: "Could be you!"
       href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
-      icon: "/images/B-SidesSF_Logo-BluePink.jpg"
+      icon: "/images/bsides_logo_full-orangeblack.png"
     - name: "Could be you!"
       href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
-      icon: "/images/B-SidesSF_Logo-BluePink.jpg"
-    - name: "Could be you!"
-      href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
-      icon: "/images/B-SidesSF_Logo-BluePink.jpg"
-    - name: "Could be you!"
-      href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
-      icon: "/images/B-SidesSF_Logo-BluePink.jpg"
-    - name: "Could be you!"
-      href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
-      icon: "/images/B-SidesSF_Logo-BluePink.jpg"
+      icon: "/images/bsides_logo_full-orangeblack.png"
 
 - level:
   sponsors:
-    - type: Workshops
+    - type: Workshop
       name: "Could be you!"
       href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
-      icon: "/images/B-SidesSF_Logo-BluePink.jpg"
-    - type: Lanyard
-      name: "Sold! (announcement soon) (announcement soon)"
-      href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
-      icon: "/images/B-SidesSF_Logo-BluePink.jpg"
-    - type: Lanyard
-      name: "Could be you!"
-      href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
-      icon: "/images/B-SidesSF_Logo-BluePink.jpg"
-
-- level:
-  sponsors:
+      icon: "/images/bsides_logo_full-orangeblack.png"
     - type: Party
       name: "Could be you!"
       href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
-      icon: "/images/B-SidesSF_Logo-BluePink.jpg"
-    - type: Happy Hour
-      name: "Sold! (announcement soon)"
-      href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
-      icon: "/images/B-SidesSF_Logo-BluePink.jpg"
-    - type: Daytime Bar & Chill Out Area
-      name: "Could be you!"
-      href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
-      icon: "/images/B-SidesSF_Logo-BluePink.jpg"
+      icon: "/images/bsides_logo_full-orangeblack.png"
 
 - level:
   sponsors:
-    - type: Lunch
+    - type: Daytime Bar & Chill Out Area
       name: "Could be you!"
       href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
-      icon: "/images/B-SidesSF_Logo-BluePink.jpg"
-    - type: Breakfast
+      icon: "/images/bsides_logo_full-orangeblack.png"
+    - type: Daytime Bar & Chill Out Area
       name: "Could be you!"
       href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
-      icon: "/images/B-SidesSF_Logo-BluePink.jpg"
-    - type: Coffee
+      icon: "/images/bsides_logo_full-orangeblack.png"
+
+- level:
+  sponsors:
+    - type: Happy Hour
+      name: "Sold! (announcement soon)"
+      href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
+      icon: "/images/bsides_logo_full-orangeblack.png"
+    - type: Lanyard
+      name: "Sold! (announcement soon)"
+      href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
+      icon: "/images/bsides_logo_full-orangeblack.png"
+    - type: Lanyard
       name: "Could be you!"
       href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
-      icon: "/images/B-SidesSF_Logo-BluePink.jpg"
+      icon: "/images/bsides_logo_full-orangeblack.png"
+    - type: Graphic Recordings
+      name: "Could be you!"
+      href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
+      icon: "/images/bsides_logo_full-orangeblack.png"
 
 - level:
   sponsors:
     - type: Capture the Flag
       name: "Could be you!"
       href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
-      icon: "/images/B-SidesSF_Logo-BluePink.jpg"
-    - type: Villages
-      name: "Sold! (announcement soon) (announcement soon)"
+      icon: "/images/bsides_logo_full-orangeblack.png"
+    - type: Village
+      name: "Sold! (announcement soon)"
       href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
-      icon: "/images/B-SidesSF_Logo-BluePink.jpg"
-    - type: Villages
+      icon: "/images/bsides_logo_full-orangeblack.png"
+    - type: Village
       name: "Could be you!"
       href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
-      icon: "/images/B-SidesSF_Logo-BluePink.jpg"
-    - type: Graphic Recordings
-      name: "Could be you!"
-      href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
-      icon: "/images/B-SidesSF_Logo-BluePink.jpg"
-
-- level:
-  sponsors:
+      icon: "/images/bsides_logo_full-orangeblack.png"
     - type: Presenter Gift
       name: "Could be you!"
       href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
-      icon: "/images/B-SidesSF_Logo-BluePink.jpg"
+      icon: "/images/bsides_logo_full-orangeblack.png"
     - type: WiFi
-      name: "Sold! (announcement soon) (announcement soon)"
+      href: ""
+      icon: "/images/sponsors_2020/WiGLE.png"
+
+- level:
+  sponsors:
+    - type: Lunch
+      name: "Could be you!"
       href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
-      icon: "/images/B-SidesSF_Logo-BluePink.jpg"
+      icon: "/images/bsides_logo_full-orangeblack.png"
+    - type: Lunch
+      name: "Could be you!"
+      href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
+      icon: "/images/bsides_logo_full-orangeblack.png"
+    - type: Coffee
+      name: "Could be you!"
+      href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
+      icon: "/images/bsides_logo_full-orangeblack.png"
+    - type: Coffee
+      name: "Could be you!"
+      href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
+      icon: "/images/bsides_logo_full-orangeblack.png"
     - type: Scholarship
       name: "Could be you!"
       href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
-      icon: "/images/B-SidesSF_Logo-BluePink.jpg"
+      icon: "/images/bsides_logo_full-orangeblack.png"
+
+- level:
+  sponsors:
+    - type: Breakfast
+      name: "Could be you!"
+      href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
+      icon: "/images/bsides_logo_full-orangeblack.png"
+    - type: Breakfast
+      name: "Could be you!"
+      href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
+      icon: "/images/bsides_logo_full-orangeblack.png"
     - type: Water Bottle
       name: "Could be you!"
       href: "https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w"
-      icon: "/images/B-SidesSF_Logo-BluePink.jpg"
+      icon: "/images/bsides_logo_full-orangeblack.png"

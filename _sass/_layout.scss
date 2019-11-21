@@ -97,25 +97,25 @@ header[role=banner] {
 
 .sponsors .row {
   display: flex;
+  float: center;
 }
 
 .sponsors .column {
-  float: center;
-  width: 33.33%;
+  float: left;
   padding: 5px;
 }
 
 .sponsors img {
-  width: 125px;
-  height: 125px;
+  max-width: 125px;
+  max-height: 125px;
 }
 
 .leading img {
-  width: 150px;
-  height: 150px;
+  max-width: 150px;
+  max-height: 150px;
 }
 
 .contrib img {
-  width: 140px;
-  height: 140px;
+  max-width: 140px;
+  max-height: 140px;
 }

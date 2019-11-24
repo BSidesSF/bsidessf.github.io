@@ -2,7 +2,8 @@
   class: leading
   sponsors:
     - icon: "/images/sponsors_2020/HackerOne.png"
-      href: ""
+      href: "https://www.hackerone.com/careers"
+      name: "HackerOne"
     - icon: "/images/bsides_logo_full-orangeblack.png"
       name: "Sold! (announcement soon)"
       href: ""
@@ -45,8 +46,9 @@
 - level: Supporting
   class: supporting
   sponsors:
-    - href: ""
+    - href: "https://www.sophos.com/en-us/company/careers.aspx"
       icon: "/images/sponsors_2020/sophos-logo-rgb.png"
+      name: "Sophos"
     - name: "Sold! (announcement soon)"
       href: ""
       icon: "/images/bsides_logo_full-orangeblack.png"
@@ -152,6 +154,7 @@
     - type: WiFi
       href: ""
       icon: "/images/sponsors_2020/WiGLE.png"
+      name: "WiGLE"
 
 - level:
   sponsors:

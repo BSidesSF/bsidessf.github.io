@@ -21,9 +21,13 @@ title: "Sponsors"
         <div class="column">
           <h1>{{ sponsor.type }}</h1>
           <a href="{{ sponsor.href }}" target="new">
-            <img src="{{site.url}}{{sponsor.icon}}" />
+            <div class="imgdiv">
+                <img src="{{site.url}}{{sponsor.icon}}" />
+            </div>
           </a>
-          <p><em>{{ sponsor.name }}</em></p>
+          <div>
+            <p>{{ sponsor.name }}</p>
+          </div>
         </div>
       {% endfor %}
 

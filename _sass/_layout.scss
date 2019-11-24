@@ -105,9 +105,17 @@ header[role=banner] {
   padding: 5px;
 }
 
+div.imgdiv {
+  align-content: space-around;
+  min-height: 125px;
+}
+
 .sponsors img {
+  min-width: 125px;
+  // min-height: 125px;
   max-width: 125px;
   max-height: 125px;
+  margin: 10px;
 }
 
 .leading img {

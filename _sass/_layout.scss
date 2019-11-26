@@ -11,7 +11,7 @@
 // Styling for mobile devices
 @media screen and (max-width: 768px) {
   .wrap {
-    margin-bottom: -$footer-height * 2.8; 
+    margin-bottom: -$footer-height * 2.8;
   }
 }
 
@@ -77,7 +77,7 @@ header[role=banner] {
 }
 
 .site-footer, .wrap:after {
-  height: $footer-height; 
+  height: $footer-height;
 }
 .site-footer {
   background: $footer-color;
@@ -86,10 +86,44 @@ header[role=banner] {
 // Styling for mobile devices
 @media screen and (max-width: 768px) {
   .site-footer, .wrap:after {
-    height: $footer-height * 2.8; 
+    height: $footer-height * 2.8;
   }
-  
+
   .recent-posts ul li {
     margin-bottom: 2em;
   }
+}
+
+
+.sponsors .row {
+  display: flex;
+  float: center;
+}
+
+.sponsors .column {
+  float: left;
+  padding: 5px;
+}
+
+div.imgdiv {
+  align-content: space-around;
+  min-height: 125px;
+}
+
+.sponsors img {
+  min-width: 125px;
+  // min-height: 125px;
+  max-width: 125px;
+  max-height: 125px;
+  margin: 10px;
+}
+
+.leading img {
+  max-width: 150px;
+  max-height: 150px;
+}
+
+.contrib img {
+  max-width: 140px;
+  max-height: 140px;
 }

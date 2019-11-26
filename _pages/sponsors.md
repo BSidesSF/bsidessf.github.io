@@ -3,127 +3,42 @@ layout: page
 title: "Sponsors"
 ---
 
-Interested in sponsoring? Check out our [sponsorship kit](https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w) and contact sponsors@bsidessf.org for more information.
+<h3>Interested in sponsoring? Check out our
+  <a href="https://drive.google.com/open?id=1atN6ykppegBe0_nBiSWAG3qeLRq8wk6w">sponsorship kit</a>
+  and contact sponsors@bsidessf.org for more information.</h3>
 
-<div style="text-align: center;" class="sponsors">
+{% for class in site.data.sponsors %}
   <hr style="margin-bottom:5px">
-  <h1>Leading Sponsors</h1>
-  <p>
-    <em>Could be you!</em>
-  </p>
-  <hr style="margin-bottom:5px">
+  <div style="text-align: center;" class="sponsors {{ class.class }}">
+    <h1>{{ class.level }}</h1>
+    <div class="row">
 
-  <h1>Contributing Sponsors</h1>
-  <p>
-    <em>Could be you!</em>
-  </p>
-  <hr style="margin-bottom:5px">
+      {% for sponsor in class.sponsors %}
+        {% if sponsor.break %}
+          </div><div class="row">
+          {% continue %}
+        {% endif %}
+        <div class="column">
+          <h1>{{ sponsor.type }}</h1>
+          <a href="{{ sponsor.href }}" target="new">
+            <div class="imgdiv">
+                <img src="{{site.url}}{{sponsor.icon}}" />
+            </div>
+          </a>
+          <div>
+            <p>{{ sponsor.name }}</p>
+          </div>
+        </div>
+      {% endfor %}
 
-  <h1>Supporting Sponsors</h1>
-  <p>
-    <em>Could be you!</em>
-  </p>
-  <hr style="margin-bottom:5px">
+    </div>
+  </div>
+{% endfor %}
 
-  <h1>Notable Sponsors</h1>
-  <p>
-    <em>Could be you!</em>
-  </p>
-  <hr style="margin-bottom:5px">
+<hr style="margin-bottom:5px">
 
-  <h1>Workshop Sponsor</h1>
+<center>
   <p>
-    <em>Could be you!</em>
+    If you have an idea for a sponsorship type you don't see listed, please reach out with your idea
   </p>
-  <hr style="margin-bottom:5px">
-
-  <h1>Party Sponsor</h1>
-  <p>
-    <em>Could be you!</em>
-  </p>
-  <hr style="margin-bottom:5px">
-
-  <h1>Daytime Bar &amp; Chill Out Space Sponsor</h1>
-  <p>
-    <em>Could be you!</em>
-  </p>
-  <hr style="margin-bottom:5px">
-
-  <h1>Happy Hour Sponsor</h1>
-  <p>
-    <em>Could be you!</em>
-  </p>
-  <hr style="margin-bottom:5px">
-
-  <h1>Lanyard Sponsors</h1>
-  <p>
-    <em>Could be you!</em>
-  </p>
-  <hr style="margin-bottom:5px">
-
-  <h1>Graphic Recordings Sponsor</h1>
-  <p>
-    <em>Could be you!</em>
-  </p>
-  <hr style="margin-bottom:5px">
-
-  <h1>Capture The Flag Sponsor</h1>
-  <p>
-    <em>Could be you!</em>
-  </p>
-  <hr style="margin-bottom:5px">
-
-  <h1>Village Sponsors</h1>
-  <p>
-    <em>Could be you!</em>
-  </p>
-  <hr style="margin-bottom:5px">
-
-  <h1>Presenter Gift Sponsor</h1>
-  <p>
-    <em>Could be you!</em>
-  </p>
-  <hr style="margin-bottom:5px">
-
-  <h1>WiFi Sponsor</h1>
-  <p>
-    <em>Could be you!</em>
-  </p>
-  <hr style="margin-bottom:5px">
-
-  <h1>Scholarship Sponsor</h1>
-  <p>
-    <em>Could be you!</em>
-  </p>
-  <hr style="margin-bottom:5px">
-
-  <h1>Lunch Sponsors</h1>
-  <p>
-    <em>Could be you!</em>
-  </p>
-  <hr style="margin-bottom:5px">
-
-  <h1>Coffee Sponsors</h1>
-  <p>
-    <em>Could be you!</em>
-  </p>
-  <hr style="margin-bottom:5px">
-
-  <h1>Water Bottle Sponsor</h1>
-  <p>
-    <em>Could be you!</em>
-  </p>
-  <hr style="margin-bottom:5px">
-
-  <h1>Breakfast Sponsors</h1>
-  <p>
-    <em>Could be you!</em>
-  </p>
-  <hr style="margin-bottom:5px">
-
-  <h1>Special Thanks</h1>
-  <p>
-    <em>Could be you!</em>
-  </p>
-  <hr style="margin-bottom:5px">
-</div>
+</center>

@@ -1,278 +1,229 @@
 ---
 layout: page
 title: "Volunteer"
---- 
+---
 
-# Interested in helping at BSidesSF 2019?
+# Interested in helping at BSidesSF 2020?
 
-BSidesSF is a security event that would not be possible without the work of our local community. Every year, the organizers work hard to build a fun and exciting agenda so that you can experience the latest in cool security happenings. However, as a community event, we rely on contributions from volunteers like you to help with various tasks on the two days of the event. Join us!
+BSidesSF is a security event that would not be possible without the work of our local community. Every year, the organizers work hard to build a fun and exciting agenda so you can experience the latest in cool security happenings. However, we rely on contributions from volunteers like you to help with various tasks on the three days of the event. Join us!
 
-***What's in it for me?***
+## What's in it for me?
 
-Volunteering is a great way to get involved with the local security scene and community, especially if you are a newcomer. It's a good chance to meet other security-minded people while picking up various skills along the way.  All volunteers that **work for a minimum of 4 hours** will get a free BSidesSF t-shirt + badge (and food), which means you can attend talks during the times that you are not volunteering. All we ask is that you dedicate a few hours of your time to help us out!
+Volunteering is a great way to get involved with the local security community, especially if you are a newcomer. It’s a good chance to meet other security-minded people while picking up various skills along the way.  All volunteers that work for a **minimum of 6 hours** will get a free BSidesSF t-shirt + badge (and food), which means you can attend talks during the times that you are not volunteering. All we ask is that you dedicate those hours of your time to help us out!
 
-***What tasks need to be done?***
+## What type of volunteers are you looking for?
 
-- General Registration / Information Desk
-- Audio / Visual wrangling
-- Room moderators
-- Public Safety
-- Speaker wrangling
-- Room set up and teardown
+Anyone and everyone! If you’re even remotely interested, keep reading because we’d love to work with you. BSidesSF aims to strengthen our security community by engaging different perspectives from different backgrounds. No two volunteers are alike so we aim to provide opportunities for all personality types and skill sets. Take a look at our role descriptions below for a better idea of which opportunities might be right for you.
 
-***What if I don’t know how to do any of these?***
+At the same time, we realize that not every role will be suitable for every volunteer. For each role, we will mention possible gotchas in order to provide an inclusive experience for all our volunteers. This year, we are adding the following classifications to our roles:
 
-Our volunteer leads will train you for the specific tasks you sign up for, in addition to volunteer Q&A sessions prior to the event. If you have any further questions on what various tasks may mean or entail, feel free to contact us at volunteer@bsidessf.org.
+- Roles that require lots of interactions with people
+- Roles that may have high noise/sensory effects
+- Roles that require mobility
+- Roles that may require standing
+- Roles that require strength
+- URM-only shifts: women/nonbinary, LGBTQ+, PoC
 
-***What if there are specific talks I want to go to?***
+We will also clearly highlight accessibility features within the venue for those who require it. And as always, we are open to feedback! Please let us know of any concerns you have in your request to volunteer, and we will work to provide any possible accommodations.
 
-We understand that our volunteers will want to attend specific talks, whether it is because of an interesting topic or just to show support for a friend or colleague. We will try our best to work with you to make that possible.
+## What tasks need to be done?
 
-***How do I sign up???***
+We group our volunteer opportunities into several pools.
 
-You can sign up at [https://calendly.com/bsidessf-volunteering-2019](https://calendly.com/bsidessf-volunteering-2019)
+- **Attendee-Facing** - these roles require strong communication skills and attendee interaction, including General Registration / Information Desk, Room Proctoring, and Coat Check.
 
-Please reach out to volunteer@bsidessf.org with any questions.
+- **Behind-the-Scenes** - these roles require higher levels of operational experience and agency, including Bag Stuffing, Setup/Teardown.
 
-Please note there will be training provided for all roles.
+- **Public Safety** - these roles overall will require strong mobility and communication skills.
 
-Also, <a href="https://bsidessf-slack.herokuapp.com/">join us on Slack</a> for live action updates:
-<script async defer src="https://bsidessf-slack.herokuapp.com/slackin.js?large"></script>
+When you sign up for a shift slot, you will pick one of these larger pools and you will work in one or more of the given roles inside that pool depending on volunteer availability and accessibility needs. See the descriptions below for more information about each opportunity.
 
-# Here are the job descriptions for the different roles:
+## What if I don’t know how to do any of these?
 
-## Workshop
+Our volunteer leads **will train you** for the specific tasks you sign up for, and there will also be volunteer **Q&A sessions prior to the event**. Please try to make time to be available on **Saturday, February 22, 2020** for training and Q&A.
 
-*** Please note that this shift will be on March 2nd at the Workshop Offsite and will be counted towards your volunteer hours.
+## Can you provide proof of my volunteer hours?
+Absolutely! Reach out to volunteers@bsidessf.org after the conference and we will provide the necessary documentation.
 
-**Brief description:**
+Does your employer offer a charitable giving program? If so, they can donate money to BSidesSF based on your volunteer hours. Reach out to your company’s HR team for more information.
 
-In this position, you will be responsible for making sure the workshops are conducted smoothly. Ensure that all attendees and presenters have everything they need during the workshops.
+BSidesSF is a [registered 501c3 nonprofit](https://projects.propublica.org/nonprofits/organizations/271830464) so if you like the work we do, we would really appreciate your employer’s donation!
 
-**Duties include:**
+## How do I sign up??? What if I have questions?
 
-- Direct attendees to their correct destination (registration desk, sessions, etc.)
-- Answer questions for attendees and presenters
-- Check-in pre-registered attendees
-- Ensure attendees and presenters have everything they need for the workshops
-- Proctor the workshop sessions
+You can sign up or edit your roles [using CERVIS](https://www.cervistech.com/acts/console.php?console_id=0239&console_type=event).
 
-**Choose this role if you:**
+Questions can be directed to volunteer@bsidessf.org, or to [\#volunteers](https://bsidessf.slack.com/archives/CNRNRRBS4) in Slack. You can [sign up here for Slack access](https://bsidessf-slack.herokuapp.com/).
 
-- Have strong communication skills
-- Are a “people person”
-- Keep cool under pressure
+---
 
-## Registration bag stuffing
-**Brief Description:**
+### Attendee-Facing Volunteer Positions
 
-Our sponsors provide us with materials to put into the bag participants receive at registration.  This all needs to be put into the bags and organized for registration to be able to hand them out.
-*** Please note that this shift will be on March 2nd and will be counted towards your volunteer hours.
-
-**Duties Include:**
-
-- Preparing registration swag bags for all attendees
-- Choose this role if you:
-  - Able to work in fast paced semi-repetitive environment
-  - Able to stay organized and focused as part of an assembly line
-
-## Setup/Teardown
-
-**Brief Description:**
-
-In this position you will be responsible for the appearance of the venue and ultimately support the overall BSidesSF experience!
-
-**Duties Include:**
-
-- Work with Vendors to unload freight from trucks, move it into the venue, and back out again
-- Set up tables, chairs, linens, podiums, stanchions, and signage according to space plans
-
-**Choose this role if you:**
-
-- Are able to commit to early or late hours outside the normal event hours
-- Able to lift heavy objects and do physical labor
-- Able to stand for long periods of time
-- Excellent customer service skills
-- Prior experience with moving freight is a plus
-
-## Registration/Greeter/Information Desk  
-**Brief description:**
-
+#### *Registration/Information Desk*
 You will be the “face” of BSidesSF for all attendees. Your goal is to make a positive, welcoming first impression for all attendees and visitors.
 
 **Duties include:**
-
 - Greeting attendees arriving (or departing) at each Metreon entrance in an engaging and confident manner
 - Direct attendees to their correct destination (registration desk, sessions, etc.)
 - Answer questions for incoming attendees
 - Check-in pre-registered attendees
 - Ensure attendees have everything they need to enter the conference
-- Sell conference merchandise at the desk, provide a receipt and direct attendee to coat check to retrieve their merchandise
+- Sell conference merchandise at the desk, provide a receipt and direct attendee to coat check to retrieve their merchandise    
 - Share attendee feedback with other volunteers as necessary
 - Handle walk-in ticket sales
 
-**Choose this role if you:**
-
-- Are passionate about attendees having an amazing experience at BSidesSF
-- Are a “people person”
+**Bonus:**
 - Have strong communication skills
 - Have strong customer service skills
-- Keep cool under pressure
 
-## Coat Check
-**Brief Description:**
+**Accessibility:**
+- Requires interacting with large numbers of people
+- May require standing for long periods of time (accommodations available)
 
+#### *Coat Check*
 You will distribute pre-purchased merchandise and collect attendees’ coats/bags.
 
 **Duties Include:**
-
 - Collect attendees’ coats and bags for storage during the conference
-- Distribute conference merchandise (badges, t-shirts, drink tickets)
+- Act as a cashier and distribute conference merchandise (badges, t-shirts, drink tickets)
 - Answer questions for attendees
 - Manage venue Lost and Found
 
-**Choose this role if you:**
+**Bonus:**
+- Have strong communication skills
+- Have strong customer service skills
 
-- Have strong communication and customer service skills
-- Perform well under pressure.
-- Ability to multitask.
+**Accessibility:**
+- Requires interacting with large numbers of people
+- Requires mobility
+- May require carrying/lifting heavy items for attendees
 
-## Sponsor Advocate
-**Brief Description:**
-
-You will ensure each sponsor has everything they need to set up and operate their booth in the Sponsor Lounge.
-
-**Duties Include:**
-
-- Welcome all sponsors to the conference
-- Check in hourly with each booth/table in the sponsor lounge
-- Ensure sponsors have everything they need
-- Answer any questions that sponsors have
-- Choose this role if you:
-- Have strong communication and customer service skills.
-
-## Party
-**Brief Description:**
-
-In this position, you will deliver the ultimate BSidesSF party experience!
+#### *Party Check-in*
+In this position, you will deliver the ultimate BSidesSF party experience! You will be ensuring only those with badges are able to enter the party area.
 
 **Duties Include:**
-
-- Help with the party set up and/or teardown
-- Work with party vendors to set up bar, tables, etc.
 - Check in all party attendees
 - Answer attendee questions
 - Route any complaints to the appropriate core staff member
 
-**Choose this role if you:**
+**Accessibility:**
+- Requires interacting with large numbers of people
+- May require standing for long periods of time (accommodations available)
+- May feature loud sounds/noises/flashes
 
-- Perform well under pressure
-- Able to lift heavy objects (30lbs +)
-- Able to stand for long periods of time
-- Able to commit to early/late hours for set up and breakdown
-
-## Public Safety
-*** Please note that you need to sign up for at a minimum of two 2-hour shifts for this role to meet your volunteer commitment. We’d prefer for you to not sign up for any other volunteer roles on the same day that you are doing public safety.
-
-**Brief Description:**
-
-Public Safety is the group at the con which helps to ensure the protection of our attendees, speakers and guests against threats to their well being and to the con.  Some examples are: ombudspersons, safety monitors, crowd control and sometimes security guards.  Public Safety is not EMS, law enforcement, or fire although we support and extend their reach.
-
-**Duties Include:**
-
-- Badge check at all points of entrance and exit
-- Facilitate orderly conduct of the con for all our guests
-- Act as ombudspersons for our guests by representing them to the BSidesSF organizers and staff
-- Observe and report incidents which may endanger the safety of our guests of violates our Code of Conduct
-
-**Choose this role if you.**
-
-- Enjoy meeting new people
-- Like to help others
-- Are comfortable with crowds
-- Enjoy greeting and welcoming guests
-- Perform well under pressure
-- EMT/EMS experience is a plus
-
-## Room Proctor
-**Brief Description:**
-
+#### *Talk Room Proctor*
 This is a customer-facing position that ensures overall speaker readiness, primarily related to technology and announcing speakers and breaks throughout the day.
 
 **Duties Include:**
-
 - Assist speakers with audio
-- Make sure speaker is present and ready prior to talk
+- Make sure the speaker is present and ready prior to talk
 - Welcome and announce speakers
 - Thank our sponsors
 - Hand out speaker gifts on-stage
 - Announce lunch/coffee breaks, etc
 - Record speaker statistics: # people in talk, talk time, engagement etc
 
-**Choose this role if you:**
+**Accessibility:**
+- Requires interacting with people
+- May feature loud sounds/noises/flashes
+- Not wheelchair-friendly
 
-- Are passionate about attendees having an amazing experience at BSides SF
-- Are a “people person”
-- Have strong communication skills
-- Keep cool under pressure
+#### *Workshop Room Proctor*
+In this position you will be responsible for making sure the workshops are conducted smoothly. Ensure that all attendees and presenters have everything they need during the workshops.
 
-## A/V
-**Brief Description:**
+**Duties include:**
+- Direct attendees to their correct destination (registration desk, sessions, etc.)
+- Answer questions for attendees and presenters
+- Check-in pre-registered attendees
+- Ensure attendees and presenters have everything they need for the workshops
+- Proctor the workshop sessions
 
-This position is responsible for capturing the talk on either a camera or selecting the “scene” to be recorded. Camera Ops will need to point the camera at the speaker and Capture Ops will need to pick between an image or the speaker, slides, or a combination, based on current speaker focus.
+**Accessibility:**
+- Requires interacting with large numbers of people
+- May require standing for long periods of time
 
-**Duties Include:**
+---
 
-- Verify that the camera/laptop are recording
-- Listen to the audio for obvious quality issues
-- Report problems to the A/V Lead
-- Ensure your room is ready for the upcoming talk
-- Staying at your recording post until properly relieved (your shift)
-- Maintain attention to the speaker
-- Keep Speaker in Frame
-- Select the Active Scene
-- Attentively listen to the session
+### Behind-The-Scenes Volunteer Positions
 
-**Choose this role if you:**
-
-- Have strong communication skills
-- Are comfortable sitting and watching a session for the entire shift
-- Want to spend your shift watching sessions
-- Are familiar with Wirecast or other Capture Software, or have experience with shooting video cameras
-- Keep cool under pressure
-
-## Track Ambassador
-**Brief Description:**
-
-This role directly supports the Room Proctor and A/V personnel, and fill in for them as necessary.
-Duties Include:
-(see Room Proctor and A/V job descriptions)
-
-**Choose this role if you:**
-
-- Have strong communication skills
-- Have strong A/V technical skills
-- Keep cool under pressure
-- Able to multitask
-
-## Event Ambassador
-**Brief Description:**
-
-In this role you will represent the interest of BSidesSF to ensure operations are running smoothly and support your fellow volunteers.
+#### *Registration Bag Stuffing*
+Our sponsors provide us with materials to put into the bag participants receive at registration.  This all needs to be put into the bags and organized for registration to be able to hand them out.
+***Please note that this shift will be on February 22 but will be counted towards your volunteer hours.***
 
 **Duties Include:**
+- Preparing registration swag bags for all attendees
 
-- Coordinate with and direct other volunteers should they need help during the course of their duties
-- Backfill open volunteer spots as needed
-- Ensure all volunteers feel supported and have what they need (water, bathroom breaks, etc.)
+**Accessibility:**
+- May require standing or sitting for long periods of time (accommodations available)
 
-**Choose this role if you:**
+#### *Participant Hall*
+You will ensure each sponsor/villager has everything they need to set up and operate their booth.
 
-- Have excellent leadership qualities
-- Have good judgment
-- Have exceptional communication and interpersonal skills
-- Able to multitask
-- Able to perform under pressure
-- Able to work independently with minimal supervision
-- Willing to work with all levels of internal management and utilize internal resources
-- Prior volunteer experience is a plus
+**Duties Include:**
+- Welcome all sponsors to the conference
+- Check in hourly with each booth/table in the sponsor lounge
+- Ensure sponsors have everything they need
+- Answer any questions that sponsors have
+
+**Accessibility:**
+- Requires interacting with large numbers of people
+- May require standing for long periods of time (accommodations available)
+
+#### *Staff Helper*
+You may be called upon to help various BSidesSF Staff during the event.
+
+**Duties Include:**
+- Checking on folks/staff
+- Running errands for BSidesSF staff/leads
+
+**Accessibility:**
+- May require standing for long periods of time (accommodations available)
+- Communication skills are a plus
+
+#### *Event Setup/Teardown*
+
+In this position you will be responsible for the appearance of the venue and ultimately support the overall BSidesSF experience!
+
+**Duties Include:**
+- Work with Vendors to unload freight from trucks, move it into the venue, and back out again
+- Set up tables, chairs, linens, podiums, stanchions, and signage according to space plans
+
+**Accessibility:**
+- Requires strong mobility
+- Requires lifting 30+ lbs
+
+#### *Party Setup/Teardown*
+In this position, you will deliver the ultimate BSidesSF party experience!
+
+**Duties Include:**
+- Help with the party set up and/or teardown
+- Work with party vendors to set up bar, tables, etc.
+
+**Accessibility:**
+- Requires strong mobility
+- Requires lifting 30+ lbs
+
+---
+
+### Public Safety
+
+#### *Public Safety*
+Public Safety is the group at the con which helps to ensure the protection of our attendees, speakers and guests against threats to their well being and to the con.  Some examples are: ombudspersons, safety monitors, crowd control and sometimes security guards.  Public Safety is not EMS, law enforcement, or fire although we support and extend their reach.
+
+**Duties Include:**
+- Badge check at all points of entrance and exit
+- Facilitate orderly conduct of the con for all our guests
+- Act as ombudspersons for our guests by representing them to the BSidesSF organizers and staff
+- Observe and report incidents which may endanger the safety of our guests of violates our Code of Conduct
+
+**Bonus:**
+- EMT/EMS experience is a plus (but not required!)
+- Prior public safety experience
+
+**Accessibility:**
+- Requires mobility
+- Requires strong communication/coordination skills
+- May require going for long periods of time without breaks
+- May feature loud sounds/noises/flashes
+- Requires strong multitasking ability
+- Requires potentially interacting with large numbers of people

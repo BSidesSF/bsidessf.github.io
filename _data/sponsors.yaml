@@ -4,7 +4,7 @@
     - icon: "/images/sponsors_2020/HackerOne.png"
       href: "https://www.hackerone.com/careers"
       name: "HackerOne"
-    - icon: "images/sponsors_2019/twilio.png"
+    - icon: "/images/sponsors_2019/twilio.png"
       name: "Twilio"
       href: "https://www.twilio.com/company/jobs"
     - icon: "/images/bsides_logo_full-orangeblack.png"
@@ -19,7 +19,7 @@
   sponsors:
     - name: "Bugcrowd"
       href: "https://www.bugcrowd.com/about/careers/"
-      icon: "images/sponsors_2019/bugcrowd.png"
+      icon: "/images/sponsors_2019/bugcrowd.png"
     - name: "Sold! (announcement soon)"
       href: ""
       icon: "/images/bsides_logo_full-orangeblack.png"
@@ -54,7 +54,7 @@
       icon: "/images/sponsors_2020/VirtruLogo-VirtruBlue-RBG.png"
     - name: "Elastic"
       href: "https://www.elastic.co/about/careers/"
-      icon: "images/sponsors_2020/elastic-logo-V-full color.jpg"
+      icon: "/images/sponsors_2020/elastic-logo-V-full color.jpg"
     - name: "Secure Code Warrior"
       href: "https://securecodewarrior.com/careers"
       icon: "/images/sponsors_2019/secure_code_warrior.png"
@@ -97,7 +97,7 @@
     - type: Workshop
       name: ""
       href: "https://drive.google.com/open?id=1hV45cEqTmy_SYfNPDuZxMkK972-S8oQ7"
-      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpgg"
+      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
     - type: Party
       name: ""
       href: "https://drive.google.com/open?id=1hV45cEqTmy_SYfNPDuZxMkK972-S8oQ7"

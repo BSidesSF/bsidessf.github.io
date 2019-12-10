@@ -4,44 +4,44 @@
     - icon: "/images/sponsors_2020/HackerOne.png"
       href: "https://www.hackerone.com/careers"
       name: "HackerOne"
+    - icon: "/images/sponsors_2019/twilio.png"
+      name: "Twilio"
+      href: "https://www.twilio.com/company/jobs"
     - icon: "/images/bsides_logo_full-orangeblack.png"
       name: "Sold! (announcement soon)"
       href: ""
     - icon: "/images/bsides_logo_full-orangeblack.png"
       name: "Sold! (announcement soon)"
       href: ""
-    - icon: "/images/bsides_logo_full-orangeblack.png"
-      name: "Could Be You!"
-      href: "https://drive.google.com/open?id=1hV45cEqTmy_SYfNPDuZxMkK972-S8oQ7"
 
 - level: Contributing
   class: contrib
   sponsors:
+    - name: "Bugcrowd"
+      href: "https://www.bugcrowd.com/about/careers/"
+      icon: "/images/sponsors_2019/bugcrowd.png"
     - name: "Sold! (announcement soon)"
       href: ""
       icon: "/images/bsides_logo_full-orangeblack.png"
     - name: "Sold! (announcement soon)"
       href: ""
       icon: "/images/bsides_logo_full-orangeblack.png"
-    - name: "Could be you!"
+    - name: ""
       href: "https://drive.google.com/open?id=1hV45cEqTmy_SYfNPDuZxMkK972-S8oQ7"
-      icon: "/images/bsides_logo_full-orangeblack.png"
-    - name: "Could be you!"
-      href: "https://drive.google.com/open?id=1hV45cEqTmy_SYfNPDuZxMkK972-S8oQ7"
-      icon: "/images/bsides_logo_full-orangeblack.png"
+      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
     - break: true
-    - name: "Could be you!"
+    - name: ""
       href: "https://drive.google.com/open?id=1hV45cEqTmy_SYfNPDuZxMkK972-S8oQ7"
-      icon: "/images/bsides_logo_full-orangeblack.png"
-    - name: "Could be you!"
+      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
+    - name: ""
       href: "https://drive.google.com/open?id=1hV45cEqTmy_SYfNPDuZxMkK972-S8oQ7"
-      icon: "/images/bsides_logo_full-orangeblack.png"
-    - name: "Could be you!"
+      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
+    - name: ""
       href: "https://drive.google.com/open?id=1hV45cEqTmy_SYfNPDuZxMkK972-S8oQ7"
-      icon: "/images/bsides_logo_full-orangeblack.png"
-    - name: "Could be you!"
+      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
+    - name: ""
       href: "https://drive.google.com/open?id=1hV45cEqTmy_SYfNPDuZxMkK972-S8oQ7"
-      icon: "/images/bsides_logo_full-orangeblack.png"
+      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
 
 - level: Supporting
   class: supporting
@@ -49,108 +49,108 @@
     - href: "https://www.sophos.com/en-us/company/careers.aspx"
       icon: "/images/sponsors_2020/sophos-logo-rgb.png"
       name: "Sophos"
-    - name: "Sold! (announcement soon)"
-      href: ""
-      icon: "/images/bsides_logo_full-orangeblack.png"
-    - name: "Sold! (announcement soon)"
-      href: ""
-      icon: "/images/bsides_logo_full-orangeblack.png"
-    - name: "Sold! (announcement soon)"
-      href: "https://drive.google.com/open?id=1hV45cEqTmy_SYfNPDuZxMkK972-S8oQ7"
-      icon: "/images/bsides_logo_full-orangeblack.png"
+    - name: "Virtru"
+      href: "https://www.virtru.com/careers/"
+      icon: "/images/sponsors_2020/VirtruLogo-VirtruBlue-RBG.png"
+    - name: "Elastic"
+      href: "https://www.elastic.co/about/careers/"
+      icon: "/images/sponsors_2020/elastic-logo-V-full color.jpg"
+    - name: "Secure Code Warrior"
+      href: "https://securecodewarrior.com/careers"
+      icon: "/images/sponsors_2019/secure_code_warrior.png"
     - break: true
+    - name: "Corelight"
+      href: "https://corelight.com/company/careers/"
+      icon: "/images/sponsors_2019/corelight.png"
     - name: "Sold! (announcement soon)"
-      href: "https://drive.google.com/open?id=1hV45cEqTmy_SYfNPDuZxMkK972-S8oQ7"
+      href: ""
       icon: "/images/bsides_logo_full-orangeblack.png"
-    - name: "Could be you!"
+    - name: ""
       href: "https://drive.google.com/open?id=1hV45cEqTmy_SYfNPDuZxMkK972-S8oQ7"
-      icon: "/images/bsides_logo_full-orangeblack.png"
-    - name: "Could be you!"
+      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
+    - name: ""
       href: "https://drive.google.com/open?id=1hV45cEqTmy_SYfNPDuZxMkK972-S8oQ7"
-      icon: "/images/bsides_logo_full-orangeblack.png"
-    - name: "Could be you!"
-      href: "https://drive.google.com/open?id=1hV45cEqTmy_SYfNPDuZxMkK972-S8oQ7"
-      icon: "/images/bsides_logo_full-orangeblack.png"
+      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
 
 - level: Notable
   class: notable
   sponsors:
-    - name: "Could be you!"
+    - name: "Rapid7"
+      href: "https://www.rapid7.com/careers/"
+      icon: "/images/sponsors_2020/rapid7-logo-black-orange.png"
+    - name: ""
       href: "https://drive.google.com/open?id=1hV45cEqTmy_SYfNPDuZxMkK972-S8oQ7"
-      icon: "/images/bsides_logo_full-orangeblack.png"
-    - name: "Could be you!"
+      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
+    - name: ""
       href: "https://drive.google.com/open?id=1hV45cEqTmy_SYfNPDuZxMkK972-S8oQ7"
-      icon: "/images/bsides_logo_full-orangeblack.png"
-    - name: "Could be you!"
-      href: "https://drive.google.com/open?id=1hV45cEqTmy_SYfNPDuZxMkK972-S8oQ7"
-      icon: "/images/bsides_logo_full-orangeblack.png"
+      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
     - break: true
-    - name: "Could be you!"
+    - name: ""
       href: "https://drive.google.com/open?id=1hV45cEqTmy_SYfNPDuZxMkK972-S8oQ7"
-      icon: "/images/bsides_logo_full-orangeblack.png"
-    - name: "Could be you!"
+      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
+    - name: ""
       href: "https://drive.google.com/open?id=1hV45cEqTmy_SYfNPDuZxMkK972-S8oQ7"
-      icon: "/images/bsides_logo_full-orangeblack.png"
+      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
 
 - level:
   sponsors:
     - type: Workshop
-      name: "Could be you!"
+      name: ""
       href: "https://drive.google.com/open?id=1hV45cEqTmy_SYfNPDuZxMkK972-S8oQ7"
-      icon: "/images/bsides_logo_full-orangeblack.png"
+      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
     - type: Party
-      name: "Could be you!"
+      name: ""
       href: "https://drive.google.com/open?id=1hV45cEqTmy_SYfNPDuZxMkK972-S8oQ7"
-      icon: "/images/bsides_logo_full-orangeblack.png"
+      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
 
 - level:
   sponsors:
     - type: Daytime Bar & Chill Out Area
-      name: "Could be you!"
+      name: ""
       href: "https://drive.google.com/open?id=1hV45cEqTmy_SYfNPDuZxMkK972-S8oQ7"
-      icon: "/images/bsides_logo_full-orangeblack.png"
+      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
     - type: Daytime Bar & Chill Out Area
-      name: "Could be you!"
+      name: ""
       href: "https://drive.google.com/open?id=1hV45cEqTmy_SYfNPDuZxMkK972-S8oQ7"
-      icon: "/images/bsides_logo_full-orangeblack.png"
+      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
 
 - level:
   sponsors:
     - type: Happy Hour
       name: "Sold! (announcement soon)"
-      href: "https://drive.google.com/open?id=1hV45cEqTmy_SYfNPDuZxMkK972-S8oQ7"
+      href: ""
       icon: "/images/bsides_logo_full-orangeblack.png"
     - type: Lanyard
-      name: "Sold! (announcement soon)"
-      href: "https://drive.google.com/open?id=1hV45cEqTmy_SYfNPDuZxMkK972-S8oQ7"
-      icon: "/images/bsides_logo_full-orangeblack.png"
+      name: "Netflix"
+      href: "https://jobs.netflix.com/"
+      icon: "/images/sponsors_2019/netflix.png"
     - type: Lanyard
-      name: "Could be you!"
+      name: ""
       href: "https://drive.google.com/open?id=1hV45cEqTmy_SYfNPDuZxMkK972-S8oQ7"
-      icon: "/images/bsides_logo_full-orangeblack.png"
+      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
     - type: Graphic Recordings
-      name: "Could be you!"
+      name: ""
       href: "https://drive.google.com/open?id=1hV45cEqTmy_SYfNPDuZxMkK972-S8oQ7"
-      icon: "/images/bsides_logo_full-orangeblack.png"
+      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
 
 - level:
   sponsors:
     - type: Capture the Flag
-      name: "Could be you!"
+      name: ""
       href: "https://drive.google.com/open?id=1hV45cEqTmy_SYfNPDuZxMkK972-S8oQ7"
-      icon: "/images/bsides_logo_full-orangeblack.png"
+      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
     - type: Village
-      name: "Sold! (announcement soon)"
-      href: "https://drive.google.com/open?id=1hV45cEqTmy_SYfNPDuZxMkK972-S8oQ7"
-      icon: "/images/bsides_logo_full-orangeblack.png"
+      name: "Gusto"
+      href: "https://gusto.com/about/careers"
+      icon: "/images/sponsors_2020/Gusto logo_f45d48.png"
     - type: Village
-      name: "Could be you!"
+      name: ""
       href: "https://drive.google.com/open?id=1hV45cEqTmy_SYfNPDuZxMkK972-S8oQ7"
-      icon: "/images/bsides_logo_full-orangeblack.png"
+      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
     - type: Presenter Gift
-      name: "Could be you!"
+      name: ""
       href: "https://drive.google.com/open?id=1hV45cEqTmy_SYfNPDuZxMkK972-S8oQ7"
-      icon: "/images/bsides_logo_full-orangeblack.png"
+      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
     - type: WiFi
       href: "https://wigle.net"
       icon: "/images/sponsors_2020/WiGLE.png"
@@ -159,37 +159,37 @@
 - level:
   sponsors:
     - type: Lunch
-      name: "Could be you!"
+      name: ""
       href: "https://drive.google.com/open?id=1hV45cEqTmy_SYfNPDuZxMkK972-S8oQ7"
-      icon: "/images/bsides_logo_full-orangeblack.png"
+      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
     - type: Lunch
-      name: "Could be you!"
+      name: ""
       href: "https://drive.google.com/open?id=1hV45cEqTmy_SYfNPDuZxMkK972-S8oQ7"
-      icon: "/images/bsides_logo_full-orangeblack.png"
+      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
     - type: Coffee
-      name: "Could be you!"
+      name: ""
       href: "https://drive.google.com/open?id=1hV45cEqTmy_SYfNPDuZxMkK972-S8oQ7"
-      icon: "/images/bsides_logo_full-orangeblack.png"
+      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
     - type: Coffee
-      name: "Could be you!"
+      name: ""
       href: "https://drive.google.com/open?id=1hV45cEqTmy_SYfNPDuZxMkK972-S8oQ7"
-      icon: "/images/bsides_logo_full-orangeblack.png"
+      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
     - type: Scholarship
-      name: "Could be you!"
+      name: ""
       href: "https://drive.google.com/open?id=1hV45cEqTmy_SYfNPDuZxMkK972-S8oQ7"
-      icon: "/images/bsides_logo_full-orangeblack.png"
+      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
 
 - level:
   sponsors:
     - type: Breakfast
-      name: "Could be you!"
+      name: ""
       href: "https://drive.google.com/open?id=1hV45cEqTmy_SYfNPDuZxMkK972-S8oQ7"
-      icon: "/images/bsides_logo_full-orangeblack.png"
+      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
     - type: Breakfast
-      name: "Could be you!"
+      name: ""
       href: "https://drive.google.com/open?id=1hV45cEqTmy_SYfNPDuZxMkK972-S8oQ7"
-      icon: "/images/bsides_logo_full-orangeblack.png"
+      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
     - type: Water Bottle
-      name: "Could be you!"
+      name: ""
       href: "https://drive.google.com/open?id=1hV45cEqTmy_SYfNPDuZxMkK972-S8oQ7"
-      icon: "/images/bsides_logo_full-orangeblack.png"
+      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"

@@ -3,7 +3,7 @@ layout: page
 title: "Capture The Flag (CTF)"
 --- 
 
-# CTF is coming back to BSidesSF 2019!
-# Special thanks to Facebook for being our CTF Sponsor this year and to Google Cloud for providing hosting services.
+# CTF is coming back to BSidesSF 2020!
+# Special thanks to Google Cloud for providing hosting services.
 
 ### E-mail ctf@bsidessf.org for questions.

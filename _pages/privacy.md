@@ -3,7 +3,7 @@ layout: page
 title: "Privacy Policy"
 ---
 
-Last updated: 2019-02-06
+Last updated: 2019-12-16
 
 Security B-Sides ("BSidesSF", "us", "we", or "our") operates bsidessf.org (the "Site").
 
@@ -13,7 +13,7 @@ This page informs you of our policies regarding the collection, use, and disclos
 
 BSidesSF uses various third party services to provide the Site, related services, and analyze their use. Please refer to the appropriate third party privacy policy for complete information on their privacy practices.
 
-* [Calendly](https://calendly.com/pages/privacy)
+* [CERVIS](https://www.cervistech.com/index.php/volunteer-management-software-privacy)
 
 * [Cloudflare](https://www.cloudflare.com/security-policy/)
 
@@ -34,6 +34,8 @@ BSidesSF uses various third party services to provide the Site, related services
 * [Square](https://squareup.com/legal/privacy-no-account)
 
 * [Stripe](https://stripe.com/us/privacy)
+
+* [Twilio](https://www.twilio.com/legal/privacy)
 
 ## Cookies
 
@@ -95,6 +97,8 @@ BSidesSF provides the following information to Mailchimp in order to send non-tr
 
 * Email address
 
+* Interests in sponsoring, presenting, volunteering, etc.
+
 * Past conferences attended
 
 You may unsubscribe from these emails at any time by clicking on the unsubscribe link included at the bottom of each email or by emailing info[@]bsidessf.org.
@@ -105,9 +109,9 @@ You may unsubscribe from these emails at any time by clicking on the unsubscribe
 
 If you are interested in turning on your browser's privacy and Do Not Track settings, the [Do Not Track](http://donottrack.us/) website has browser-specific instructions.
 
-## Volunteer Registration - Calendly
+## Volunteer Registration - CERVIS
 
-BSidesSF via its provider Calendly collects the following information from volunteers:
+BSidesSF via its provider CERVIS collects the following information from volunteers:
 
 * Name
 
@@ -115,7 +119,9 @@ BSidesSF via its provider Calendly collects the following information from volun
 
 * Phone number
 
-We will use this information to contact you and/or provide updates regarding the volunteer positions you selected during signup. If you do not wish to volunteer after signing up, please contact volunteer[@]bsidessf.org to request removal from the volunteer list.
+* T-shirt size
+
+We will use this information to contact you and/or provide updates regarding the volunteer positions you selected during signup. This may include text messages sent via Twilio. If you do not wish to volunteer after signing up, please contact volunteer[@]bsidessf.org to request removal from the volunteer list.
 
 # Disclosure
 

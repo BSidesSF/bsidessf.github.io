@@ -30,12 +30,12 @@
       href: "https://www.getcruise.com/careers"
       icon: "/images/sponsors_2019/cruise.png"
     - break: true
-    - name: ""
-      href: "https://drive.google.com/open?id=1yFvvChUAXhSHTZo4DYmLwAKG0922Gmmw"
-      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
-    - name: ""
-      href: "https://drive.google.com/open?id=1yFvvChUAXhSHTZo4DYmLwAKG0922Gmmw"
-      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
+    - name: "Salesforce"
+      href: "https://www.salesforce.com/company/careers/"
+      icon: "/images/sponsors_2019/salesforce.png"
+    - name: "Lyft"
+      href: "https://www.lyft.com/careers"
+      icon: "/images/sponsors_2019/lyft.png"
     - name: ""
       href: "https://drive.google.com/open?id=1yFvvChUAXhSHTZo4DYmLwAKG0922Gmmw"
       icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
@@ -65,12 +65,12 @@
     - name: "Sold! (announcement soon)"
       href: ""
       icon: "/images/bsides_logo_full-orangeblack.png"
-    - name: ""
-      href: "https://drive.google.com/open?id=1yFvvChUAXhSHTZo4DYmLwAKG0922Gmmw"
-      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
-    - name: ""
-      href: "https://drive.google.com/open?id=1yFvvChUAXhSHTZo4DYmLwAKG0922Gmmw"
-      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
+    - name: "Sold! (announcement soon)"
+      href: ""
+      icon: "/images/bsides_logo_full-orangeblack.png"
+    - name: "Sold! (announcement soon)"
+      href: ""
+      icon: "/images/bsides_logo_full-orangeblack.png"
 
 - level: Notable
   class: notable
@@ -78,9 +78,9 @@
     - name: "Rapid7"
       href: "https://www.rapid7.com/careers/"
       icon: "/images/sponsors_2020/rapid7-logo-black-orange.png"
-    - name: ""
-      href: "https://drive.google.com/open?id=1yFvvChUAXhSHTZo4DYmLwAKG0922Gmmw"
-      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
+    - name: "Sold! (announcement soon)"
+      href: ""
+      icon: "/images/bsides_logo_full-orangeblack.png"
     - name: ""
       href: "https://drive.google.com/open?id=1yFvvChUAXhSHTZo4DYmLwAKG0922Gmmw"
       icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
@@ -175,9 +175,9 @@
       href: "https://drive.google.com/open?id=1yFvvChUAXhSHTZo4DYmLwAKG0922Gmmw"
       icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
     - type: Scholarship
-      name: ""
-      href: "https://drive.google.com/open?id=1yFvvChUAXhSHTZo4DYmLwAKG0922Gmmw"
-      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
+      name: "Stripe"
+      href: "https://stripe.com/jobs"
+      icon: "/images/sponsors_2019/stripe.png"
 
 - level:
   sponsors:
@@ -186,9 +186,9 @@
       href: "https://drive.google.com/open?id=1yFvvChUAXhSHTZo4DYmLwAKG0922Gmmw"
       icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
     - type: Breakfast
-      name: ""
-      href: "https://drive.google.com/open?id=1yFvvChUAXhSHTZo4DYmLwAKG0922Gmmw"
-      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
+      name: "New Relic"
+      href: "https://newrelic.com/about/careers"
+      icon: "/images/sponsors_2019/new_relic.png"
     - type: Water Bottle
       name: ""
       href: "https://drive.google.com/open?id=1yFvvChUAXhSHTZo4DYmLwAKG0922Gmmw"

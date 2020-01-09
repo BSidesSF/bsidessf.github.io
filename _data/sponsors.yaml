@@ -194,6 +194,7 @@
       href: "https://drive.google.com/open?id=1yFvvChUAXhSHTZo4DYmLwAKG0922Gmmw"
       icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
 - level: 
+  sponsors:
    - type: Special Thanks
       name: "OWASP Foundation"
       href: "https://www.owasp.org/index.php/Careers"

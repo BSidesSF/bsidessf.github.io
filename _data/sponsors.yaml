@@ -10,9 +10,9 @@
     - icon: "/images/sponsors_2020/Valimail__Tag_Primary_Blue (1) copy.png"
       name: "Valimail"
       href: "https://www.valimail.com/about/careers/"
-    - icon: "/images/bsides_logo_full-orangeblack.png"
-      name: "Sold! (announcement soon)"
-      href: ""
+    - icon: "/images/sponsors_2020/adobe_logo-Converted.png"
+      name: "Adobe"
+      href: "https://www.adobe.com/careers.html"
 
 - level: Contributing
   class: contrib
@@ -28,14 +28,14 @@
       icon: "/images/sponsors_2019/google.png"
     - name: "Cruise"
       href: "https://www.getcruise.com/careers"
-      icon: "/images/sponsors_2019/cruise.png"
+      icon: "/images/sponsors_2020/Cruise-Wordmark-Presidio-RGB.png"
     - break: true
     - name: "Salesforce"
       href: "https://www.salesforce.com/company/careers/"
       icon: "/images/sponsors_2020/Salesforce_Logo_RGB_1797c0_8_13_14.png"
     - name: "Lyft"
       href: "https://www.lyft.com/careers"
-      icon: "/images/sponsors_2019/lyft.png"
+      icon: "/images/sponsors_2020/Lyft_Logo_Pink.png"
     - name: ""
       href: "https://drive.google.com/open?id=1yFvvChUAXhSHTZo4DYmLwAKG0922Gmmw"
       icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
@@ -61,16 +61,16 @@
     - break: true
     - name: "Corelight"
       href: "https://corelight.com/company/careers/"
-      icon: "/images/sponsors_2019/corelight.png"
+      icon: "/images/sponsors_2020/corelight-logo.jpg"
     - name: "DomainTools"
       href: "https://www.domaintools.com/company/join-our-team/"
       icon: "/images/sponsors_2020/DomainTools_Logo_Rectangle-(7).png"
-    - name: "Sold! (announcement soon)"
-      href: ""
-      icon: "/images/bsides_logo_full-orangeblack.png"
-    - name: "Sold! (announcement soon)"
-      href: ""
-      icon: "/images/bsides_logo_full-orangeblack.png"
+    - name: "Uptycs"
+      href: "https://www.uptycs.com/about-us/open-positions"
+      icon: "/images/sponsors_2020/Copy of logo-uptycs-stacked.png"
+    - name: "Detectify"
+      href: "https://detectify.teamtailor.com/"
+      icon: "/images/sponsors_2020/detectify_logo_logotype.png"
 
 - level: Notable
   class: notable
@@ -81,13 +81,13 @@
     - name: "Slack"
       href: "https://slack.com/careers"
       icon: "/images/sponsors_2020/Slack_RGB.png"
-    - name: ""
-      href: "https://drive.google.com/open?id=1yFvvChUAXhSHTZo4DYmLwAKG0922Gmmw"
-      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
+    - name: "Nightfall"
+      href: "https://nightfall.ai/careers/"
+      icon: "/images/sponsors_2020/nightfall-ai-dark-vertical-large.png"
     - break: true
-    - name: ""
-      href: "https://drive.google.com/open?id=1yFvvChUAXhSHTZo4DYmLwAKG0922Gmmw"
-      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
+    - name: "Sold! (announcement soon)"
+      href: ""
+      icon: "/images/bsides_logo_full-orangeblack.png"
     - name: ""
       href: "https://drive.google.com/open?id=1yFvvChUAXhSHTZo4DYmLwAKG0922Gmmw"
       icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
@@ -127,7 +127,7 @@
     - type: Lanyard
       name: "Cruise"
       href: "https://www.getcruise.com/careers"
-      icon: "/images/sponsors_2019/cruise.png"
+      icon: "/images/sponsors_2020/Cruise-Wordmark-Presidio-RGB.png"
     - type: Graphic Recordings
       name: ""
       href: "https://drive.google.com/open?id=1yFvvChUAXhSHTZo4DYmLwAKG0922Gmmw"
@@ -177,19 +177,27 @@
     - type: Scholarship
       name: "Stripe"
       href: "https://stripe.com/jobs"
-      icon: "/images/sponsors_2019/stripe.png"
+      icon: "/images/sponsors_2020/Stripe logo - slate_lg.png"
 
 - level:
   sponsors:
     - type: Breakfast
-      name: ""
-      href: "https://drive.google.com/open?id=1yFvvChUAXhSHTZo4DYmLwAKG0922Gmmw"
-      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
+      name: "Sold! (announcement soon)"
+      href: ""
+      icon: "/images/bsides_logo_full-orangeblack.png"
     - type: Breakfast
       name: "New Relic"
       href: "https://newrelic.com/about/careers"
-      icon: "/images/sponsors_2019/new_relic.png"
+      icon: "/images/sponsors_2020/NewRelic-logo-bug.png"
     - type: Water Bottle
       name: ""
       href: "https://drive.google.com/open?id=1yFvvChUAXhSHTZo4DYmLwAKG0922Gmmw"
       icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
+      
+- level: 
+  sponsors:
+    - type: Special Thanks
+      name: "OWASP Foundation"
+      href: "https://www.owasp.org/index.php/Careers"
+      icon: "/images/sponsors_2020/owasp_logo_icon.png"
+  

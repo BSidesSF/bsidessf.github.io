@@ -3,7 +3,7 @@ layout: page
 title: "Privacy Policy"
 ---
 
-Last updated: 2019-12-16
+Last updated: 2020-01-10
 
 Security B-Sides ("BSidesSF", "us", "we", or "our") operates bsidessf.org (the "Site").
 
@@ -25,11 +25,15 @@ BSidesSF uses various third party services to provide the Site, related services
 
 * [Mailchimp](https://mailchimp.com/legal/privacy/)
 
+* [PaperCall](https://www.papercall.io/terms_of_use)
+
 * [PayPal](https://www.paypal.com/us/webapps/mpp/ua/privacy-full)
 
 * [Sched](https://sched.com/about/legal/privacy-policy)
 
 * [Slack](https://slack.com/privacy-policy)
+
+* [Slido](https://www.sli.do/terms#privacy-policy)
 
 * [Square](https://squareup.com/legal/privacy-no-account)
 
@@ -49,7 +53,7 @@ We use Google Analytics as a third party tracking service, but we don’t use it
 
 Google Analytics gathers certain simple, non-personally identifying information over time, such as your IP address, browser type, internet service provider, referring and exit pages, timestamp, and similar data about your use of the Site. We do not link this information to any of your personal information such as your name or email address.
 
-BSidesSF will not, nor will we allow any third party to, use the Google Analytics tool to track our users individually; collect any Personal Information other than IP address; or correlate your IP address with your identity. Google provides further information about its own privacy practices and offers a[ browser add-on to opt out of Google Analytics tracking](https://tools.google.com/dlpage/gaoptout).
+BSidesSF will not, nor will we allow any third party to, use the Google Analytics tool to track our users individually; collect any Personal Information other than IP address; or correlate your IP address with your identity. Google provides further information about its own privacy practices and offers a [browser add-on to opt out of Google Analytics tracking](https://tools.google.com/dlpage/gaoptout).
 
 Certain pages on our site may set other third party cookies. For example, we may embed content, such as maps, from another site that sets a cookie. While we try to minimize these third party cookies, we can’t always control what cookies this third party content sets.
 
@@ -102,6 +106,28 @@ BSidesSF provides the following information to Mailchimp in order to send non-tr
 * Past conferences attended
 
 You may unsubscribe from these emails at any time by clicking on the unsubscribe link included at the bottom of each email or by emailing info[@]bsidessf.org.
+
+## Talk Feedback/Q&A - Slido
+
+BSidesSF via its provider Slido collects the following information from feedback submitters:
+
+* Name
+
+* Email address
+
+We will use this information to contact you and/or provide updates regarding the feedback / Q&A you submitted. If you do not wish for us to retain this information, please contact info[@]bsidessf.org to request removal.
+
+## Talk Submission - PaperCall
+
+BSidesSF via its provider PaperCall collects the following information from presentation submitters:
+
+* Name
+
+* Email address
+
+* T-shirt size
+
+We will use this information to contact you and/or provide updates regarding the presentation / workshop you submitted. If you do not wish for us to retain this information, please contact program[@]bsidessf.org to request removal from the submissions.
 
 ## Tracking
 

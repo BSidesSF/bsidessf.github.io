@@ -132,9 +132,9 @@
 - level:
   sponsors:
     - type: Capture the Flag
-      name: "Sold! (announcement soon)"
-      href: ""
-      icon: "/images/bsides_logo_full-orangeblack.png"
+      name: "Pinterest"
+      href: "https://www.pinterestcareers.com/homepage"
+      icon: "/images/sponsors_2019/pinterest.png"
     - type: Village
       name: "Gusto"
       href: "https://gusto.com/about/careers"

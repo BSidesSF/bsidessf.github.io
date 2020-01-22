@@ -36,9 +36,9 @@
     - name: "Lyft"
       href: "https://www.lyft.com/careers"
       icon: "/images/sponsors_2020/Lyft_Logo_Pink.png"
-    - name: ""
-      href: "https://drive.google.com/open?id=17-RGxGr9DR6kLZQ5m1HmxH6xGDbz9EiR"
-      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
+    - name: "Snyk"
+      href: "https://snyk.io/jobs/"
+      icon: "/images/sponsors_2020/snyk-logo-vertical-black (4).png"
     - name: ""
       href: "https://drive.google.com/open?id=17-RGxGr9DR6kLZQ5m1HmxH6xGDbz9EiR"
       icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
@@ -88,9 +88,9 @@
     - name: "Sold! (announcement soon)"
       href: ""
       icon: "/images/bsides_logo_full-orangeblack.png"
-    - name: ""
-      href: "https://drive.google.com/open?id=17-RGxGr9DR6kLZQ5m1HmxH6xGDbz9EiR"
-      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
+    - name: "Sold! (announcement soon)"
+      href: ""
+      icon: "/images/bsides_logo_full-orangeblack.png"
 
 - level:
   sponsors:
@@ -105,14 +105,10 @@
 
 - level:
   sponsors:
-    - type: Daytime Bar & Chill Out Area
-      name: ""
-      href: "https://drive.google.com/open?id=17-RGxGr9DR6kLZQ5m1HmxH6xGDbz9EiR"
-      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
-    - type: Daytime Bar & Chill Out Area
-      name: ""
-      href: "https://drive.google.com/open?id=17-RGxGr9DR6kLZQ5m1HmxH6xGDbz9EiR"
-      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
+    - type: Daytime Bar & Chill-out Area
+      name: "Verizon Media"
+      href: "https://www.verizonmedia.com/careers/"
+      icon: "/images/sponsors_2020/paranoids_logo_all_black (1) (1).png"
 
 - level:
   sponsors:
@@ -136,17 +132,17 @@
 - level:
   sponsors:
     - type: Capture the Flag
-      name: ""
-      href: "https://drive.google.com/open?id=17-RGxGr9DR6kLZQ5m1HmxH6xGDbz9EiR"
-      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
+      name: "Pinterest"
+      href: "https://www.pinterestcareers.com/homepage"
+      icon: "/images/sponsors_2019/pinterest.png"
     - type: Village
       name: "Gusto"
       href: "https://gusto.com/about/careers"
       icon: "/images/sponsors_2020/Gusto logo_f45d48.png"
     - type: Village
-      name: ""
-      href: "https://drive.google.com/open?id=17-RGxGr9DR6kLZQ5m1HmxH6xGDbz9EiR"
-      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
+      name: "Sold! (announcement soon)"
+      href: ""
+      icon: "/images/bsides_logo_full-orangeblack.png"
     - type: Presenter Gift
       name: ""
       href: "https://drive.google.com/open?id=17-RGxGr9DR6kLZQ5m1HmxH6xGDbz9EiR"
@@ -159,9 +155,9 @@
 - level:
   sponsors:
     - type: Lunch
-      name: ""
-      href: "https://drive.google.com/open?id=17-RGxGr9DR6kLZQ5m1HmxH6xGDbz9EiR"
-      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
+      name: "Sold! (announcement soon)"
+      href: ""
+      icon: "/images/bsides_logo_full-orangeblack.png"
     - type: Lunch
       name: ""
       href: "https://drive.google.com/open?id=17-RGxGr9DR6kLZQ5m1HmxH6xGDbz9EiR"

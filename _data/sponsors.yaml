@@ -51,7 +51,7 @@
       name: "Sophos"
     - name: "Virtru"
       href: "https://www.virtru.com/careers/"
-      icon: "/images/sponsors_2020/VirtruLogo-VirtruBlue-RBG.png"
+      icon: "/images/sponsors_2020/virtru-logo-blue.png"
     - name: "Elastic"
       href: "https://www.elastic.co/about/careers/"
       icon: "/images/sponsors_2020/elastic-logo-V-full color.jpg"
@@ -85,12 +85,12 @@
       href: "https://nightfall.ai/careers/"
       icon: "/images/sponsors_2020/nightfall-ai-dark-vertical-large.png"
     - break: true
-    - name: "Sold! (announcement soon)"
-      href: ""
-      icon: "/images/bsides_logo_full-orangeblack.png"
-    - name: "Sold! (announcement soon)"
-      href: ""
-      icon: "/images/bsides_logo_full-orangeblack.png"
+    - name: "Atlassian"
+      href: "https://www.atlassian.com/company/careers"
+      icon: "/images/sponsors_2020/atlassian-logo-gradient-horizontal-blue@2x (1).png"
+    - name: "Veracode"
+      href: "https://www.veracode.com/about/careers"
+      icon: "/images/sponsors_2020/veracode-black-blue-cmyk.png"
 
 - level:
   sponsors:
@@ -155,9 +155,9 @@
 - level:
   sponsors:
     - type: Lunch
-      name: "Sold! (announcement soon)"
-      href: ""
-      icon: "/images/bsides_logo_full-orangeblack.png"
+      name: "Vectra AI"
+      href: "https://www.vectra.ai/about/careers"
+      icon: "/images/sponsors_2020/vectra-logo-w-security-that-thinks-tagline-pantone.png"
     - type: Lunch
       name: ""
       href: "https://drive.google.com/open?id=17-RGxGr9DR6kLZQ5m1HmxH6xGDbz9EiR"

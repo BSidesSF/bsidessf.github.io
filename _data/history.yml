@@ -15,6 +15,8 @@
       external: "https://bsidessf2019.sched.com/"
     - title: "Security BSides Wiki"
       external: "http://www.securitybsides.com/w/page/132743652/BSidesSF2019"
+    - title: "Sponsors"
+      href: "/2019/sponsors.html"
 
 - "year": "2018"
   categories:
@@ -24,6 +26,8 @@
       external: "https://bsidessf2018.sched.com"
     - title: "Security BSides Wiki"
       external: "http://www.securitybsides.com/w/page/122163258/BSidesSF2018"
+    - title: "Sponsors"
+      href: "/2018/sponsors.html"
 
 - "year": "2017"
   categories:
@@ -31,6 +35,8 @@
       external: "https://bsidessf2017.sched.com/"
     - title: "Security BSides Wiki"
       external: "http://www.securitybsides.com/w/page/111866644/BSidesSF2017"
+    - title: "Sponsors"
+      href: "/2017/sponsors.html"
 
 - year: "2016"
   categories:
@@ -38,6 +44,8 @@
       external: "https://bsidessf2016.sched.com/"
     - title: "Security BSides Wiki"
       external: "http://www.securitybsides.com/w/page/103445197/BSidesSF2016"
+    - title: "Sponsors"
+      href: "/2016/sponsors.html"
 
 - year: "2015"
   categories:

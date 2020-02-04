@@ -39,9 +39,6 @@
     - name: "Snyk"
       href: "https://snyk.io/jobs/"
       icon: "/images/sponsors_2020/snyk-logo-vertical-black (4).png"
-    - name: ""
-      href: "https://drive.google.com/open?id=17-RGxGr9DR6kLZQ5m1HmxH6xGDbz9EiR"
-      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
 
 - level: Supporting
   class: supporting
@@ -208,3 +205,7 @@
       name: "IBM X-Force Red"
       href: "https://www.ibm.com/security/services/x-force-red-team"
       icon: "/images/sponsors_2020/X-Force_Red_lockup_red60_pos_RGB.png"
+    - type: Special Thanks
+      name: "O'Reilly Media"
+      href: "https://www.oreilly.com/careers/"
+      icon: "/images/sponsors_2020/OReilly_logo_rgb.jpg"

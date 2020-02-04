@@ -95,9 +95,9 @@
 - level:
   sponsors:
     - type: Workshop
-      name: "Sold! (announcement soon)"
-      href: ""
-      icon: "/images/bsides_logo_full-orangeblack.png"
+      name: "HashiCorp"
+      href: "https://www.hashicorp.com/jobs"
+      icon: "/images/sponsors_2020/HashiCorp_PrimaryLogo_Black.png"
     - type: Party
       name: ""
       href: "https://drive.google.com/open?id=17-RGxGr9DR6kLZQ5m1HmxH6xGDbz9EiR"
@@ -142,7 +142,7 @@
     - type: Village
       name: "cmd"
       href: "https://cmd.com/about/"
-      icon: "/images/sponsors_2019/cmd.png"
+      icon: "/images/sponsors_2020/cmd-logo-purple.png"
     - type: Presenter Gift
       name: ""
       href: "https://drive.google.com/open?id=17-RGxGr9DR6kLZQ5m1HmxH6xGDbz9EiR"
@@ -186,9 +186,9 @@
       href: "https://newrelic.com/about/careers"
       icon: "/images/sponsors_2020/NewRelic-logo-bug.png"
     - type: Water Bottle
-      name: ""
-      href: "https://drive.google.com/open?id=17-RGxGr9DR6kLZQ5m1HmxH6xGDbz9EiR"
-      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
+      name: "SANS Institute"
+      href: "https://www.sans.org/about/"
+      icon: "/images/sponsors_2020/SANS-Logo-NoTag-Blue.jpg"
       
 - level: 
   sponsors:
@@ -204,4 +204,7 @@
       name: "Hak5"
       href: "https://shop.hak5.org/pages/about"
       icon: "/images/sponsors_2020/Hak5_Black-1024x576.png"
-  
+    - type: Special Thanks
+      name: "IBM X-Force Red"
+      href: "https://www.ibm.com/security/services/x-force-red-team"
+      icon: "/images/sponsors_2020/X-Force_Red_lockup_red60_pos_RGB.png"

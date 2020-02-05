@@ -7,9 +7,51 @@ title: "Volunteer"
 
 BSidesSF is a security event that would not be possible without the work of our local community. Every year, the organizers work hard to build a fun and exciting agenda so you can experience the latest in cool security happenings. However, we rely on contributions from volunteers like you to help with various tasks on the three days of the event. Join us!
 
-## What's in it for me?
+## Tell me more!
 
 Volunteering is a great way to get involved with the local security community, especially if you are a newcomer. It’s a good chance to meet other security-minded people while picking up various skills along the way.  All volunteers that work for a **minimum of 6 hours** will get a free BSidesSF t-shirt + badge (and food), which means you can attend talks during the times that you are not volunteering. All we ask is that you dedicate those hours of your time to help us out!
+
+If you do not complete a minimum of 6 hours of volunteer work, you will need to purchase a participant badge for conference admission. *Please ensure you will be available for the entire duration of your shift.*
+
+## How do I sign up??? What if I have questions?
+
+You can sign up or edit your roles [using CERVIS](https://www.cervistech.com/acts/console.php?console_id=0239&console_type=event). **WE ARE STILL NEEDING PUBLIC SAFETY VOLUNTEERS!**
+
+We have some FAQ-style answers around [upcoming orientation](#is-there-volunteer-orientation), [what the tasks are](#what-type-of-volunteers-are-you-looking-for), and the [various](#attendee-facing-volunteer-positions) [positions](#behind-the-scenes-volunteer-positions) [we have](#public-safety).
+
+Questions can be directed to volunteer@bsidessf.org, or to [\#volunteers](https://bsidessf.slack.com/archives/CNRNRRBS4) in Slack. You can [sign up here for Slack access](https://bsidessf-slack.herokuapp.com/).
+
+---
+
+## Is there volunteer orientation?
+
+Yes! You will also need to attend one of our volunteer orientation sessions to pick up your shirt(s) and badge before the main conference starts on Sunday. Please arrive 15 - 20 minutes prior to orientation to pick up your shirt and badge. Once you sign up for a shift, keep an eye out for an orientation calendar invite.
+
+- **Orientation Location**: [City View at Metreon](https://www.google.com/maps/place/City+View+at+Metreon/@37.7841784,-122.4031244,15z/data=!4m2!3m1!1s0x0:0xad1734a211e090d?sa=X&ved=2ahUKEwj5kOXX27nnAhUAFzQIHV1gD6UQ_BIwDHoECAsQCA)
+- **Check-in Area**: Mezzanine floor of City View at Metreon (up the escalators above AMC Theatres)
+- **Orientation Date**: Saturday, February 22, 2020
+- **Orientation Time**: 10-11 am and 1-2 pm
+
+### What does orientation entail?
+During the session, you’ll have a chance to ask any questions about your shift responsibilities as outlined in the Volunteer Runbook. You’ll also meet with your Volunteer Lead for any additional training or specific questions.
+
+### My volunteer shift is on Saturday - do I still attend orientation and training?
+If you’re working a Workshop or Public Safety shift on Saturday, you can report directly to the Workshop location at Hashicorp to pick up your shirt and badge. If you’re working any other shift on Saturday (Bag Stuffing or Setup/Teardown), report to the Volunteer Check-In station before your shift starts.
+
+### Can I attend conference talks before my volunteer shift?
+Yes! Your volunteer badge from Saturday’s orientation will get you into the conference. If you’re not able to pick up your badge on Saturday, stop by the Volunteer Check-In station Sunday morning and we’ll get you squared away. Please don’t wear your Volunteer or Public Safety shirt while attending conference talks so we know who’s on or off duty. We recommend bringing a spare non-BSides shirt on the day of your shift.
+
+### I’m working multiple shifts. Do I wear the same shirt for all of them?
+For security purposes, Public Safety wears a different shirt than the other volunteers. If you’re working multiple shifts in both Public Safety and another volunteer pool, you’ll receive one shirt for each.
+
+### Can you provide proof of my volunteer hours?
+Absolutely! Reach out to volunteers@bsidessf.org after the conference and we will provide the necessary documentation.
+
+Does your employer offer a charitable giving program? If so, they can donate money to BSidesSF based on your volunteer hours. Reach out to your company’s HR team for more information.
+
+BSidesSF is a [registered 501c3 nonprofit](https://projects.propublica.org/nonprofits/organizations/271830464) so if you like the work we do, we would really appreciate your employer’s donation!
+
+---
 
 ## What type of volunteers are you looking for?
 
@@ -37,23 +79,6 @@ We group our volunteer opportunities into several pools.
 - **Public Safety** - these roles overall will require strong mobility and communication skills.
 
 When you sign up for a shift slot, you will pick one of these larger pools and you will work in one or more of the given roles inside that pool depending on volunteer availability and accessibility needs. See the descriptions below for more information about each opportunity.
-
-## What if I don’t know how to do any of these?
-
-Our volunteer leads **will train you** for the specific tasks you sign up for, and there will also be volunteer **Q&A sessions prior to the event**. Please try to make time to be available on **Saturday, February 22, 2020** for training and Q&A.
-
-## Can you provide proof of my volunteer hours?
-Absolutely! Reach out to volunteers@bsidessf.org after the conference and we will provide the necessary documentation.
-
-Does your employer offer a charitable giving program? If so, they can donate money to BSidesSF based on your volunteer hours. Reach out to your company’s HR team for more information.
-
-BSidesSF is a [registered 501c3 nonprofit](https://projects.propublica.org/nonprofits/organizations/271830464) so if you like the work we do, we would really appreciate your employer’s donation!
-
-## How do I sign up??? What if I have questions?
-
-You can sign up or edit your roles [using CERVIS](https://www.cervistech.com/acts/console.php?console_id=0239&console_type=event).
-
-Questions can be directed to volunteer@bsidessf.org, or to [\#volunteers](https://bsidessf.slack.com/archives/CNRNRRBS4) in Slack. You can [sign up here for Slack access](https://bsidessf-slack.herokuapp.com/).
 
 ---
 

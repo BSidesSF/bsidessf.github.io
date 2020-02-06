@@ -39,6 +39,9 @@
     - name: "Snyk"
       href: "https://snyk.io/jobs/"
       icon: "/images/sponsors_2020/snyk-logo-vertical-black (4).png"
+    - name: "CyberSN"
+      href: "https://cybersn.com/"
+      icon: "/images/sponsors_2020/CyberSN.jpg"
 
 - level: Supporting
   class: supporting

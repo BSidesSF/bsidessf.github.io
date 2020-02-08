@@ -99,9 +99,9 @@
       href: "https://www.hashicorp.com/jobs"
       icon: "/images/sponsors_2020/HashiCorp_PrimaryLogo_Black.png"
     - type: Party
-      name: ""
-      href: "https://drive.google.com/open?id=17-RGxGr9DR6kLZQ5m1HmxH6xGDbz9EiR"
-      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
+      name: "Sold! (announcement soon)"
+      href: ""
+      icon: "/images/bsides_logo_full-orangeblack.png"
 
 - level:
   sponsors:
@@ -113,9 +113,9 @@
 - level:
   sponsors:
     - type: Happy Hour
-      name: ""
-      href: "https://drive.google.com/open?id=17-RGxGr9DR6kLZQ5m1HmxH6xGDbz9EiR"
-      icon: "/images/sponsors_2020/BSidesSF_2020_SponsorshipCouldBeYou.jpg"
+      name: "Sold! (announcement soon)"
+      href: ""
+      icon: "/images/bsides_logo_full-orangeblack.png"
     - type: Lanyard
       name: "Netflix"
       href: "https://jobs.netflix.com/"

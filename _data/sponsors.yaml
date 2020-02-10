@@ -99,9 +99,9 @@
       href: "https://www.hashicorp.com/jobs"
       icon: "/images/sponsors_2020/HashiCorp_PrimaryLogo_Black.png"
     - type: Party
-      name: "Sold! (announcement soon)"
-      href: ""
-      icon: "/images/bsides_logo_full-orangeblack.png"
+      name: "Airbnb"
+      href: "https://careers.airbnb.com/"
+      icon: "/images/sponsors_2020/Airbnb_Horizontal_CMYK_2019.jpg"
 
 - level:
   sponsors:
@@ -113,9 +113,9 @@
 - level:
   sponsors:
     - type: Happy Hour
-      name: "Sold! (announcement soon)"
-      href: ""
-      icon: "/images/bsides_logo_full-orangeblack.png"
+      name: "Airbnb"
+      href: "https://careers.airbnb.com/"
+      icon: "/images/sponsors_2020/Airbnb_Horizontal_CMYK_2019.jpg"
     - type: Lanyard
       name: "Netflix"
       href: "https://jobs.netflix.com/"
@@ -208,7 +208,14 @@
       name: "IBM X-Force Red"
       href: "https://www.ibm.com/security/services/x-force-red-team"
       icon: "/images/sponsors_2020/X-Force_Red_lockup_red60_pos_RGB.png"
+     
+- level: 
+  sponsors:
     - type: Special Thanks
       name: "O'Reilly Media"
       href: "https://www.oreilly.com/careers/"
       icon: "/images/sponsors_2020/OReilly_logo_rgb.jpg"
+    - type: Special Thanks
+      name: "Apple"
+      href: "https://www.apple.com/jobs/us/"
+      icon: "/images/sponsors_2018/apple.png"

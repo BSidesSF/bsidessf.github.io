@@ -13,7 +13,7 @@ Simply put, "Do not be an ass* or we will kick your ass out!"
 
 For clarification, asking questions of a speaker during their talk in order to gain clarity or debate a point is NOT being an ass; heckling or haranguing the speaker is. If you are not sure where to draw this line, err on the side of basic decency and common courtesy. Or ask yourself, "Would I condone this behavior if done to me, my best friend, sister, niece, daughter, brother, nephew, son, mother, or father?" If the answer is anything but yes, then do not treat anyone in this manner. In addition, if someone asks you to stop, you must STOP.
 
-If you have any issue or witness any behavior by any participant, staff, or volunteer (of ANY badge type) that is not consistent with our Code of Conduct, please report it to any radioed staff member or member of our Public Safety Team in a red BSidesSF t-shirt. They will call our Incident Response Team who will take an official incident report and determine next steps.
+If you have any issue or witness any behavior by any participant, staff, or volunteer (of ANY badge type) that is not consistent with our Code of Conduct, please report it to any radioed staff member or member of our Public Safety Team in an orange BSidesSF t-shirt. They will call our Incident Response Team who will take an official incident report and determine next steps.
 
 For other non-event related incident concerns, e-mail _incident@bsidessf.org_ for assistance.
 

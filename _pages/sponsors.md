@@ -3,9 +3,7 @@ layout: page
 title: "Sponsors"
 ---
 
-<h3>Interested in sponsoring? Check out our
-  <a href="https://drive.google.com/open?id=17-RGxGr9DR6kLZQ5m1HmxH6xGDbz9EiR">sponsorship kit</a>
-  and contact sponsors@bsidessf.org for more information.</h3>
+<h3>Sponsorships are now closed. Check back soon for information on how to sponsor BSidesSF 2021.</h3>
 
 {% for class in site.data.sponsors %}
   <hr style="margin-bottom:5px">

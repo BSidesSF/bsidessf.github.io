@@ -101,7 +101,7 @@
     - type: Party
       name: "Airbnb"
       href: "https://careers.airbnb.com/"
-      icon: "/images/sponsors_2020/Airbnb_Horizontal_CMYK_2019.jpg"
+      icon: "/images/sponsors_2020/Airbnb_Horizontal_RGB_cropped.jpg"
 
 - level:
   sponsors:
@@ -189,8 +189,8 @@
       name: "SANS Institute"
       href: "https://www.sans.org/about/"
       icon: "/images/sponsors_2020/SANS-Logo-NoTag-Blue.jpg"
-      
-- level: 
+
+- level:
   sponsors:
     - type: Special Thanks
       name: "OWASP Foundation"
@@ -208,8 +208,8 @@
       name: "IBM X-Force Red"
       href: "https://www.ibm.com/security/services/x-force-red-team"
       icon: "/images/sponsors_2020/X-Force_Red_lockup_red60_pos_RGB.png"
-     
-- level: 
+
+- level:
   sponsors:
     - type: Special Thanks
       name: "O'Reilly Media"

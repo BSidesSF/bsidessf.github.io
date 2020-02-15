@@ -28,7 +28,7 @@ Questions can be directed to volunteer@bsidessf.org, or to [\#volunteers](https:
 Yes! You will also need to attend one of our volunteer orientation sessions to pick up your shirt(s) and badge before the main conference starts on Sunday. Please arrive 15 - 20 minutes prior to orientation to pick up your shirt and badge. Once you sign up for a shift, keep an eye out for an orientation calendar invite.
 
 - **Orientation Location**: [City View at Metreon](https://www.google.com/maps/place/City+View+at+Metreon/@37.7841784,-122.4031244,15z/data=!4m2!3m1!1s0x0:0xad1734a211e090d?sa=X&ved=2ahUKEwj5kOXX27nnAhUAFzQIHV1gD6UQ_BIwDHoECAsQCA)
-- **Check-in Area**: Mezzanine floor of City View at Metreon (up the escalators above AMC Theatres)
+- **Check-in Area**: Fourth floor of Metreon City View (up the escalators past AMC Theatres, look for orientation signage)
 - **Orientation Date**: Saturday, February 22, 2020
 - **Orientation Time**: 10-11 am and 1-2 pm
 

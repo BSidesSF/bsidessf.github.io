@@ -9,9 +9,9 @@ BSidesSF is a security event that would not be possible without the work of our 
 
 ## Tell me more!
 
-Volunteering is a great way to get involved with the local security community, especially if you are a newcomer. It’s a good chance to meet other security-minded people while picking up various skills along the way.  All volunteers that work for a **minimum of 6 hours** will get a free BSidesSF t-shirt + badge (and food), which means you can attend talks during the times that you are not volunteering. All we ask is that you dedicate those hours of your time to help us out!
+Volunteering is a great way to get involved with the local security community, especially if you are a newcomer. It’s a good chance to meet other security-minded people while picking up various skills along the way. All volunteers that work for a **minimum of 6 hours** will get a free BSidesSF t-shirt + badge (and food), which means you can attend talks during the times that you are not volunteering. All we ask is that you dedicate those hours of your time to help us out!
 
-If you do not complete a minimum of 6 hours of volunteer work, you will need to purchase a participant badge for conference admission. *Please ensure you will be available for the entire duration of your shift.*
+If you do not complete a minimum of 6 hours of volunteer work, you will need to purchase a participant badge for conference admission. _Please ensure you will be available for the entire duration of your shift._
 
 ## How do I sign up??? What if I have questions?
 
@@ -33,18 +33,23 @@ Yes! You will also need to attend one of our volunteer orientation sessions to p
 - **Orientation Time**: 10-11 am and 1-2 pm
 
 ### What does orientation entail?
+
 During the session, you’ll have a chance to ask any questions about your shift responsibilities as outlined in the Volunteer Runbook. You’ll also meet with your Volunteer Lead for any additional training or specific questions.
 
 ### My volunteer shift is on Saturday - do I still attend orientation and training?
+
 If you’re working a Workshop or Public Safety shift on Saturday, you can report directly to the Workshop location at Hashicorp to pick up your shirt and badge. If you’re working any other shift on Saturday (Bag Stuffing or Setup/Teardown), report to the Volunteer Check-In station before your shift starts.
 
 ### Can I attend conference talks before my volunteer shift?
+
 Yes! Your volunteer badge from Saturday’s orientation will get you into the conference. If you’re not able to pick up your badge on Saturday, stop by the Volunteer Check-In station Sunday morning and we’ll get you squared away. Please don’t wear your Volunteer or Public Safety shirt while attending conference talks so we know who’s on or off duty. We recommend bringing a spare non-BSides shirt on the day of your shift.
 
 ### I’m working multiple shifts. Do I wear the same shirt for all of them?
+
 For security purposes, Public Safety wears a different shirt than the other volunteers. If you’re working multiple shifts in both Public Safety and another volunteer pool, you’ll receive one shirt for each.
 
 ### Can you provide proof of my volunteer hours?
+
 Absolutely! Reach out to volunteers@bsidessf.org after the conference and we will provide the necessary documentation.
 
 Does your employer offer a charitable giving program? If so, they can donate money to BSidesSF based on your volunteer hours. Reach out to your company’s HR team for more information.
@@ -84,62 +89,75 @@ When you sign up for a shift slot, you will pick one of these larger pools and y
 
 ### Attendee-Facing Volunteer Positions
 
-#### *Registration/Information Desk*
+#### _Registration/Information Desk_
+
 You will be the “face” of BSidesSF for all attendees. Your goal is to make a positive, welcoming first impression for all attendees and visitors.
 
 **Duties include:**
+
 - Greeting attendees arriving (or departing) at each Metreon entrance in an engaging and confident manner
 - Direct attendees to their correct destination (registration desk, sessions, etc.)
 - Answer questions for incoming attendees
 - Check-in pre-registered attendees
 - Ensure attendees have everything they need to enter the conference
-- Sell conference merchandise at the desk, provide a receipt and direct attendee to coat check to retrieve their merchandise    
+- Sell conference merchandise at the desk, provide a receipt and direct attendee to coat check to retrieve their merchandise
 - Share attendee feedback with other volunteers as necessary
 - Handle walk-in ticket sales
 
 **Bonus:**
+
 - Have strong communication skills
 - Have strong customer service skills
 
 **Accessibility:**
+
 - Requires interacting with large numbers of people
 - May require standing for long periods of time (accommodations available)
 
-#### *Coat Check*
+#### _Coat Check_
+
 You will distribute pre-purchased merchandise and collect attendees’ coats/bags.
 
 **Duties Include:**
+
 - Collect attendees’ coats and bags for storage during the conference
 - Act as a cashier and distribute conference merchandise (badges, t-shirts, drink tickets)
 - Answer questions for attendees
 - Manage venue Lost and Found
 
 **Bonus:**
+
 - Have strong communication skills
 - Have strong customer service skills
 
 **Accessibility:**
+
 - Requires interacting with large numbers of people
 - Requires mobility
 - May require carrying/lifting heavy items for attendees
 
-#### *Party Check-in*
+#### _Party Check-in_
+
 In this position, you will deliver the ultimate BSidesSF party experience! You will be ensuring only those with badges are able to enter the party area.
 
 **Duties Include:**
+
 - Check in all party attendees
 - Answer attendee questions
 - Route any complaints to the appropriate core staff member
 
 **Accessibility:**
+
 - Requires interacting with large numbers of people
 - May require standing for long periods of time (accommodations available)
 - May feature loud sounds/noises/flashes
 
-#### *Talk Room Proctor*
+#### _Talk Room Proctor_
+
 This is a customer-facing position that ensures overall speaker readiness, primarily related to technology and announcing speakers and breaks throughout the day.
 
 **Duties Include:**
+
 - Assist speakers with audio
 - Make sure the speaker is present and ready prior to talk
 - Welcome and announce speakers
@@ -149,14 +167,17 @@ This is a customer-facing position that ensures overall speaker readiness, prima
 - Record speaker statistics: # people in talk, talk time, engagement etc
 
 **Accessibility:**
+
 - Requires interacting with people
 - May feature loud sounds/noises/flashes
 - Not wheelchair-friendly
 
-#### *Workshop Room Proctor*
+#### _Workshop Room Proctor_
+
 In this position you will be responsible for making sure the workshops are conducted smoothly. Ensure that all attendees and presenters have everything they need during the workshops.
 
 **Duties include:**
+
 - Direct attendees to their correct destination (registration desk, sessions, etc.)
 - Answer questions for attendees and presenters
 - Check-in pre-registered attendees
@@ -164,6 +185,7 @@ In this position you will be responsible for making sure the workshops are condu
 - Proctor the workshop sessions
 
 **Accessibility:**
+
 - Requires interacting with large numbers of people
 - May require standing for long periods of time
 
@@ -171,60 +193,74 @@ In this position you will be responsible for making sure the workshops are condu
 
 ### Behind-The-Scenes Volunteer Positions
 
-#### *Registration Bag Stuffing*
-Our sponsors provide us with materials to put into the bag participants receive at registration.  This all needs to be put into the bags and organized for registration to be able to hand them out.
-***Please note that this shift will be on February 22 but will be counted towards your volunteer hours.***
+#### _Registration Bag Stuffing_
+
+Our sponsors provide us with materials to put into the bag participants receive at registration. This all needs to be put into the bags and organized for registration to be able to hand them out.
+**_Please note that this shift will be on February 22 but will be counted towards your volunteer hours._**
 
 **Duties Include:**
+
 - Preparing registration swag bags for all attendees
 
 **Accessibility:**
+
 - May require standing or sitting for long periods of time (accommodations available)
 
-#### *Participant Hall*
+#### _Participant Hall_
+
 You will ensure each sponsor/villager has everything they need to set up and operate their booth.
 
 **Duties Include:**
+
 - Welcome all sponsors to the conference
 - Check in hourly with each booth/table in the sponsor lounge
 - Ensure sponsors have everything they need
 - Answer any questions that sponsors have
 
 **Accessibility:**
+
 - Requires interacting with large numbers of people
 - May require standing for long periods of time (accommodations available)
 
-#### *Staff Helper*
+#### _Staff Helper_
+
 You may be called upon to help various BSidesSF Staff during the event.
 
 **Duties Include:**
+
 - Checking on folks/staff
 - Running errands for BSidesSF staff/leads
 
 **Accessibility:**
+
 - May require standing for long periods of time (accommodations available)
 - Communication skills are a plus
 
-#### *Event Setup/Teardown*
+#### _Event Setup/Teardown_
 
 In this position you will be responsible for the appearance of the venue and ultimately support the overall BSidesSF experience!
 
 **Duties Include:**
+
 - Work with Vendors to unload freight from trucks, move it into the venue, and back out again
 - Set up tables, chairs, linens, podiums, stanchions, and signage according to space plans
 
 **Accessibility:**
+
 - Requires strong mobility
 - Requires lifting 30+ lbs
 
-#### *Party Setup/Teardown*
+#### _Party Setup/Teardown_
+
 In this position, you will deliver the ultimate BSidesSF party experience!
 
 **Duties Include:**
+
 - Help with the party set up and/or teardown
 - Work with party vendors to set up bar, tables, etc.
 
 **Accessibility:**
+
 - Requires strong mobility
 - Requires lifting 30+ lbs
 
@@ -232,20 +268,24 @@ In this position, you will deliver the ultimate BSidesSF party experience!
 
 ### Public Safety
 
-#### *Public Safety*
-Public Safety is the group at the con which helps to ensure the protection of our attendees, speakers and guests against threats to their well being and to the con.  Some examples are: ombudspersons, safety monitors, crowd control and sometimes security guards.  Public Safety is not EMS, law enforcement, or fire although we support and extend their reach.
+#### _Public Safety_
+
+Public Safety is the group at the con which helps to ensure the protection of our attendees, speakers and guests against threats to their well being and to the con. Some examples are: ombudspersons, safety monitors, crowd control and sometimes security guards. Public Safety is not EMS, law enforcement, or fire although we support and extend their reach.
 
 **Duties Include:**
+
 - Badge check at all points of entrance and exit
 - Facilitate orderly conduct of the con for all our guests
 - Act as ombudspersons for our guests by representing them to the BSidesSF organizers and staff
 - Observe and report incidents which may endanger the safety of our guests of violates our Code of Conduct
 
 **Bonus:**
+
 - EMT/EMS experience is a plus (but not required!)
 - Prior public safety experience
 
 **Accessibility:**
+
 - Requires mobility
 - Requires strong communication/coordination skills
 - May require going for long periods of time without breaks

@@ -1,4 +1,25 @@
 -
+  title: BSidesSF 2015
+  year: 2015
+  preview:
+    filename: KingmanInk_BSidesSFTripwire_AnalyzeThis
+    original: KingmanInk_BSidesSFTripwire_AnalyzeThis.jpg
+    thumbnail: KingmanInk_BSidesSFTripwire_AnalyzeThis-thumbnail.jpg
+-
+  title: BSidesSF 2016
+  year: 2016
+  preview:
+    filename: DeclarationofIndependenceofCyberspace
+    original: DeclarationofIndependenceofCyberspace.jpg
+    thumbnail: DeclarationofIndependenceofCyberspace-thumbnail.jpg
+-
+  title: BSidesSF 2017
+  year: 2017
+  preview:
+    filename: KingmanInk-BSidesTripwire-Truppi
+    original: KingmanInk-BSidesTripwire-Truppi.jpg
+    thumbnail: KingmanInk-BSidesTripwire-Truppi-thumbnail.jpg
+-
   title: BSidesSF 2018
   year: 2018
   preview:
@@ -12,3 +33,10 @@
     filename: KingmanInk-BSides-Ehrensvard
     original: KingmanInk-BSides-Ehrensvard.jpg
     thumbnail: KingmanInk-BSides-Ehrensvard-thumbnail.jpg
+-
+  title: BSidesSF 2020
+  year: 2020
+  preview:
+    filename: KingmanInk-BSides-Day1-01-Lee
+    original: KingmanInk-BSides-Day1-01-Lee.jpg
+    thumbnail: KingmanInk-BSides-Day1-01-Lee-thumbnail.jpg

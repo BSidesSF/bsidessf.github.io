@@ -1,0 +1,97 @@
+picture_path: posters_2020
+pictures:
+  - filename: KingmanInk-BSides-Day1-01-Lee
+    original: KingmanInk-BSides-Day1-01-Lee.jpg
+    thumbnail: KingmanInk-BSides-Day1-01-Lee-thumbnail.jpg
+    title: "Give Away Security's Legos: Dumping Traditional Security Teams"
+    caption: "Fredrick 'Flee' Lee"
+  - filename: KingmanInk-BSides-Day1-02-Stewart-Kaczorowski
+    original: KingmanInk-BSides-Day1-02-Stewart-Kaczorowski.jpg
+    thumbnail: KingmanInk-BSides-Day1-02-Stewart-Kaczorowski-thumbnail.jpg
+    title: "Checking your --privileged container"
+    caption: "Sam 'Frenchie' Stewart • Maya Kaczorowski"
+  - filename: KingmanInk-BSides-Day1-03-Hering
+    original: KingmanInk-BSides-Day1-03-Hering.jpg
+    thumbnail: KingmanInk-BSides-Day1-03-Hering-thumbnail.jpg
+    title: "How to Kill an AWS Access Key"
+    caption: "Benjamin Hering"
+  - filename: KingmanInk-BSides-Day1-04-Kwok
+    original: KingmanInk-BSides-Day1-04-Kwok.jpg
+    thumbnail: KingmanInk-BSides-Day1-04-Kwok-thumbnail.jpg
+    title: "Secure by Design: Usable Security Tooling"
+    caption: "Hon Kwok"
+  - filename: KingmanInk-BSides-Day1-05-Tetelman
+    original: KingmanInk-BSides-Day1-05-Tetelman.jpg
+    thumbnail: KingmanInk-BSides-Day1-05-Tetelman-thumbnail.jpg
+    title: "Non-Political Security Learnings from the Mueller Report"
+    caption: "Arkadiy Tetelman"
+  - filename: KingmanInk-BSides-Day1-06-Sauter
+    original: KingmanInk-BSides-Day1-06-Sauter.jpg
+    thumbnail: KingmanInk-BSides-Day1-06-Sauter-thumbnail.jpg
+    title: "Human or Machine? The Voight-Kampff Test for Discovering Web Application Vulnerabilities"
+    caption: "Vanessa Sauter"
+  - filename: KingmanInk-BSides-Day1-07-Young
+    original: KingmanInk-BSides-Day1-07-Young.jpg
+    thumbnail: KingmanInk-BSides-Day1-07-Young-thumbnail.jpg
+    title: "Hanging on the telephone: hacking VoIP"
+    caption: "Sarah Young"
+  - filename: KingmanInk-BSides-Day1-08-Bedoya
+    original: KingmanInk-BSides-Day1-08-Bedoya.jpg
+    thumbnail: KingmanInk-BSides-Day1-08-Bedoya-thumbnail.jpg
+    title: "Serverless osquery Backend and Big Data Exploration"
+    caption: "Geller Bedoya"
+  - filename: KingmanInk-BSides-Day1-09-Vilanova-Monsen
+    original: KingmanInk-BSides-Day1-09-Vilanova-Monsen.jpg
+    thumbnail: KingmanInk-BSides-Day1-09-Vilanova-Monsen-thumbnail.jpg
+    title: "Dispatch: Crisis Management Automation When Everything is On Fire"
+    caption: "Marc Vilanova • Forest Monsen"
+  - filename: KingmanInk-BSides-Day1-10-Tobener
+    original: KingmanInk-BSides-Day1-10-Tobener.jpg
+    thumbnail: KingmanInk-BSides-Day1-10-Tobener-thumbnail.jpg
+    title: "Managing the Assets of Your Security Career"
+    caption: "Kyle Tobener"
+  - filename: KingmanInk-BSides-Day2-01-Ryder
+    original: KingmanInk-BSides-Day2-01-Ryder.jpg
+    thumbnail: KingmanInk-BSides-Day2-01-Ryder-thumbnail.jpg
+    title: "What's New or Not in 2020: Are we Making Progress on the Intractable Security Problems?"
+    caption: "Larkin Ryder"
+  - filename: KingmanInk-BSides-Day2-02-OConnor
+    original: KingmanInk-BSides-Day2-02-OConnor.jpg
+    thumbnail: KingmanInk-BSides-Day2-02-OConnor-thumbnail.jpg
+    title: "Security, Politics, Neutrality, and Protecting Users"
+    caption: "Brendan O'Connor"
+  - filename: KingmanInk-BSides-Day2-03-Gaikwad-Schwartz
+    original: KingmanInk-BSides-Day2-03-Gaikwad-Schwartz.jpg
+    thumbnail: KingmanInk-BSides-Day2-03-Gaikwad-Schwartz-thumbnail.jpg
+    title: "Mistakes we made integrating security scanning into CI/CD"
+    caption: "Dinesh Chandrasekaran • Moses Schwartz"
+  - filename: KingmanInk-BSides-Day2-04-Barcellos-Kafle
+    original: KingmanInk-BSides-Day2-04-Barcellos-Kafle.jpg
+    thumbnail: KingmanInk-BSides-Day2-04-Barcellos-Kafle-thumbnail.jpg
+    title: "Chrome extension risks and you"
+    caption: "Chris Barcellos • Abhi Kafle"
+  - filename: KingmanInk-BSides-Day2-05-Mukherjee
+    original: KingmanInk-BSides-Day2-05-Mukherjee.jpg
+    thumbnail: KingmanInk-BSides-Day2-05-Mukherjee-thumbnail.jpg
+    title: "Leveraging Osquery for DFIR at scale"
+    caption: "Sohini Mukherjee"
+  - filename: KingmanInk-BSides-Day2-06-Zimmer
+    original: KingmanInk-BSides-Day2-06-Zimmer.jpg
+    thumbnail: KingmanInk-BSides-Day2-06-Zimmer-thumbnail.jpg
+    title: "So you're the first security hire: Creating a security program and integrating security into your company's culture"
+    caption: "Bryan Zimmer"
+  - filename: KingmanInk-BSides-Day2-07-Gibler
+    original: KingmanInk-BSides-Day2-07-Gibler.jpg
+    thumbnail: KingmanInk-BSides-Day2-07-Gibler-thumbnail.jpg
+    title: "How to 10X Your Company's Security (Without a Series D)"
+    caption: "Clint Gibler"
+  - filename: KingmanInk-BSides-Day2-08-Brackett
+    original: KingmanInk-BSides-Day2-08-Brackett.jpg
+    thumbnail: KingmanInk-BSides-Day2-08-Brackett-thumbnail.jpg
+    title: "RIS-ky Business: Exploiting Medical Information Systems"
+    caption: "Jacob Brackett"
+  - filename: KingmanInk-BSides-Day2-09-Biswas
+    original: KingmanInk-BSides-Day2-09-Biswas.jpg
+    thumbnail: KingmanInk-BSides-Day2-09-Biswas-thumbnail.jpg
+    title: "East vs West: How The Coasts Approach Information Security Differently"
+    caption: "Sourya Biswas"

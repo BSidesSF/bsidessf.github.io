@@ -30,7 +30,7 @@
 
       <ul class="columns medium-3 right primary-nav">
 	{% for socials in site.data.socials %}
-	  <li class="right"><a href="{{ socials.href }}" title="{{ socials.title }}"><span class="icon-{{ socials.title | downcase }} socials"></span></a></li>
+	  <li class="right"><a href="{{ socials.href }}" title="{{ socials.title }}"><span class="icon-{{ socials.title | downcase | remove: ' ' }} socials"></span></a></li>
 	{% endfor %}
       </ul>
     </div>

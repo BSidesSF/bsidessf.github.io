@@ -54,7 +54,7 @@ Additionally, Kubernetes provides capabilities like load balancing that allow us
 to scale challenges up when some people feel the need to try to brute force.
 
 This year, for the first time, we attempted to use Network Policies to prevent
-access to the GCP metadata API, which worked, until I inadvertantly deleted the
+access to the GCP metadata API, which worked, until I inadvertently deleted the
 policies while debugging an issue with another challenge.  Fortunately, I don't
 believe this was exploited during the CTF, but I did notice some exploitation
 attempts after the game.

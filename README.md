@@ -5,6 +5,10 @@ Theme is based on [Slim Pickins](https://chrisanthropic.github.io/slim-pickins-j
 
 Thanks to [ShmooCon](http://shmoocon.org/) for some navigation and content help.
 
+#Who can contribute to this project
+
+
+
 Running Locally
 =================
 

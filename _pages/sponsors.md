@@ -3,7 +3,7 @@ layout: page
 title: "Sponsors"
 ---
 
-<h3>Sponsorships are now closed. Check back soon for information on how to sponsor BSidesSF 2021.</h3>
+<h3>Check back soon for information on how to sponsor BSidesSF 2021.</h3>
 
 {% for class in site.data.sponsors %}
   <hr style="margin-bottom:5px">
@@ -37,6 +37,6 @@ title: "Sponsors"
 
 <center>
   <p>
-    If you have an idea for a sponsorship type you don't see listed, please reach out with your idea
+    If you have an idea for a sponsorship type you don't see listed, please reach out with your idea.
   </p>
 </center>

@@ -22,17 +22,5 @@
     - subtitle: "Donate"
       subhref: "/donate.html"
 
-- title: "Venue"
-  href: "/venue.html"
-
 - title: "Sponsors"
   href: "/sponsors.html"
-
-- title: "Schedule"
-  href: "/schedule.html"
-
-- title: "Tickets"
-  href: "/tickets.html"
-
-- title: "Streams"
-  href: "/streams.html"

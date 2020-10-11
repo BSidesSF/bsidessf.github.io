@@ -3,5 +3,5 @@
 .sass-cache
 _site
 bin
-vendor/ruby
+vendor
 Gemfile.lock

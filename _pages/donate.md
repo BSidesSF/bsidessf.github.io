@@ -30,3 +30,5 @@ Security B-Sides is a federally recognized 501(c)(3) non-profit entity.
 Your donation is tax deductible to the extent allowed by the IRS.
 
 **Our EIN is 27-1830464**.
+
+<a href="https://www.guidestar.org/profile/27-1830464" target="_blank"><img src="https://widgets.guidestar.org/gximage2?o=9335988&l=v4" /></a>

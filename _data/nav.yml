@@ -8,7 +8,7 @@
     - subtitle: "Security BSides"
       external: "http://www.securitybsides.com"
     - subtitle: "News"
-      subhref: "/news/"
+      subhref: "/news"
     - subtitle: "Past Events"
       subhref: "/about/past-events.html"
     - subtitle: "Code of Conduct"

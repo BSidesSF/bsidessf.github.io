@@ -1,14 +1,14 @@
 // Base Colors
-$primary-color: #272727;
-$secondary-color: #cd502b;
+$primary-color: #01274C;
+$secondary-color: #3AB54A;
 $complimentary-color: #fff;
-$body-bg: #fff;
-$body-font-color: #222;
+$body-bg: #01274C;
+$body-font-color: #F47822;
 
 // Links
 $link-color: $secondary-color;
 $link-hover-color: $body-font-color;
-$link-visited-color: #cd502b;
+$link-visited-color: $secondary-color;
 
 // Text
 $base-font-family: Helvetica, Arial, sans-serif;
@@ -34,8 +34,8 @@ $socials-font-size: 1.5em;
 $spacing-unit: 30px;
 
 // Header
-$header-gradient-start: #fff8c3;
-$header-gradient-end: #fbcebe;
+$header-gradient-start: #002753;
+$header-gradient-end: #002753;
 
 // Footer
 $footer-height: 54px;

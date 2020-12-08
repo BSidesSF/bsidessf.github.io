@@ -1,14 +1,14 @@
 // Base Colors
-$primary-color: #01274C;
-$secondary-color: #3AB54A;
-$complimentary-color: #fff;
-$body-bg: #01274C;
-$body-font-color: #F47822;
+$primary-color: #01274C; // blue
+$secondary-color: #3AB54A; // green
+$complimentary-color: #fff; // white
+$body-bg: #fff; // white
+$body-font-color: $primary-color; // blue
 
 // Links
 $link-color: $secondary-color;
-$link-hover-color: $body-font-color;
-$link-visited-color: darken($secondary-color, 20%);
+$link-hover-color: darken($body-font-color, 20%);
+$link-visited-color: darken($secondary-color, 10%);
 
 // Text
 $base-font-family: Helvetica, Arial, sans-serif;
@@ -20,9 +20,9 @@ $base-line-height: 1.5;
 // Primary Navbar Settings
 $navbar-height: 44px;
 $navbar-color: $primary-color;
-$navbar-text-color: $body-font-color;
-$navbar-hover-color: darken($complimentary-color, 75%);
-$navbar-active-color: $body-font-color;
+$navbar-text-color: $secondary-color;
+$navbar-hover-color: lighten($complimentary-color, 75%);
+$navbar-active-color: #F47822; // orange
 $navbar-font-size: 13px;
 $navbar-font-family: "Open Sans", Helvetica, Arial, sans-serif;
 
@@ -34,8 +34,8 @@ $socials-font-size: 1.5em;
 $spacing-unit: 30px;
 
 // Header
-$header-gradient-start: #002753;
-$header-gradient-end: #002753;
+$header-gradient-start: #002753; // blue
+$header-gradient-end: #002753; // blue
 
 // Footer
 $footer-height: 54px;

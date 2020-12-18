@@ -17,6 +17,6 @@
 - level: Capture The Flag
   class: ctf
   sponsors:
-    - icon: "/images/sponsors_2021/BSidesSF_2021_SponsorshipCouldBeYou.png"
-      href: "https://drive.google.com/open?id=15WvmBretODyvGKaumcJWDqpjk0PZBSQN"
-      name: ""
+    - icon: "/images/sponsors_2021/google.png"
+      href: "https://careers.google.com"
+      name: "Google"

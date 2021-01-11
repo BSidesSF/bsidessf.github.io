@@ -3,7 +3,7 @@ layout: page
 title: "Sample Submission"
 ---
 
-**Note to the reader**: This is a completely made up talk (*courtesy of [ShmooCon](http://shmoocon.org/)*). However it should give you an idea of what types of information to include, the lowest level of detail to use, and the overall flow of a good submission.
+**Note to the reader**: This is a completely made up talk (*courtesy of [ShmooCon](https://shmoocon.org/)*). However it should give you an idea of what types of information to include, the lowest level of detail to use, and the overall flow of a good submission.
 
 **1. Title of Presentation**
 
@@ -19,7 +19,7 @@ Bruce Potter is jack of many trades and master of none… well, maybe public spe
 
 **4. Abstract**
 
-Osiris is an open source integrity monitoring software system written by the Shmoo Group many years ago. It is used in many organizations as a scalable means to monitor for changes created by change management violations and penetration by external actors. One of the challenges with Osiris (and any integrity monitoring tool) is minimizing the amount of noise created by inconsequential changes. Osiris addresses this problem through the use of templates that limit the scope of monitoring based on the host OS and user customizations. Unfortunately as OS's evolve, the set of files that SHOULD be monitored can often change and osiris templates don't account for these changes.
+Osiris is an open source integrity monitoring software system written by the Shmoo Group many years ago. It is used in many organizations as a scalable means to monitor for changes created by change management violations and penetration by external actors. One of the challenges with Osiris (and any integrity monitoring tool) is minimizing the amount of noise created by inconsequential changes. Osiris addresses this problem through the use of templates that limit the scope of monitoring based on the host OS and user customizations. Unfortunately as OSs evolve, the set of files that SHOULD be monitored can often change and osiris templates don't account for these changes.
 
 We have developed a lightweight tool to monitor running systems to instrument changes over time and ultimately recommend changes to the currently deployed templates. Rather than performing full blown scans and checksumming to look for changes, this tool will only examine MAC times thereby dramatically reducing a "normal" instrumentation scan. Administrators are able to look at the statistical data under the tool and determine what changes to accept to the running template. We have also developed a public database of templates based on results from the tool so that organizations can provide updated templates back to the community.
 
@@ -39,10 +39,10 @@ We have developed a lightweight tool to monitor running systems to instrument ch
 
 We presented our data on system file drift at BSides Antarctica in July. However that research as been updated and the tools and database are completely new.
 
-**7. Why is this a good fit for BSides SF**
+**7. Why is this a good fit for BSidesSF**
 
 We feel that integrity management is an important capability for any modern enterprise, especially with the ease of which adversaries can modify attacks and malware to avoid detection by AV and IPS. We feel that our template update system provides a key component that is otherwise missing in integrity management systems.
 
 **8. Previous experience**
 
-We have presented at BSides SF before. We have also delivered presentations at DefCon, Blackhat, The Gathering of The Shmoo, and InfoSec Anonymous
+We have presented at BSidesSF before. We have also delivered presentations at DEF CON, Black Hat, The Gathering of The Shmoo, and InfoSec Anonymous

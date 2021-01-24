@@ -3,9 +3,9 @@ layout: page
 title: "Privacy Policy"
 ---
 
-Last updated: 2020-01-10
+Last updated: 2021-01-24
 
-Security B-Sides ("BSidesSF", "us", "we", or "our") operates bsidessf.org (the "Site").
+Security B-Sides ("BSidesSF", "us", "we", or "our") operates bsidessf.org, bsidessf.net, and other relevant domains and subdomains (the "Site").
 
 This page informs you of our policies regarding the collection, use, and disclosure of Personal Information we receive from users of the Site. We use your Personal Information only for providing and improving the Site and for providing services related to your conference registration and participation. By using the Site, you agree to the collection and use of information in accordance with this policy.
 
@@ -29,7 +29,11 @@ BSidesSF uses various third party services to provide the Site, related services
 
 * [PayPal](https://www.paypal.com/us/webapps/mpp/ua/privacy-full)
 
+* [Reddit](https://www.redditinc.com/policies/privacy-policy)
+
 * [Sched](https://sched.com/about/legal/privacy-policy)
+
+* [Shopify](https://www.shopify.com/legal/privacy)
 
 * [Slack](https://slack.com/privacy-policy)
 
@@ -56,6 +60,10 @@ Google Analytics gathers certain simple, non-personally identifying information 
 BSidesSF will not, nor will we allow any third party to, use the Google Analytics tool to track our users individually; collect any Personal Information other than IP address; or correlate your IP address with your identity. Google provides further information about its own privacy practices and offers a [browser add-on to opt out of Google Analytics tracking](https://tools.google.com/dlpage/gaoptout).
 
 Certain pages on our site may set other third party cookies. For example, we may embed content, such as maps, from another site that sets a cookie. While we try to minimize these third party cookies, we can’t always control what cookies this third party content sets.
+
+## Log Files
+
+BSidesSF uses logs to track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
 
 ## Conference Registration - RegFox
 
@@ -107,6 +115,20 @@ BSidesSF provides the following information to Mailchimp in order to send non-tr
 
 You may unsubscribe from these emails at any time by clicking on the unsubscribe link included at the bottom of each email or by emailing info[@]bsidessf.org.
 
+## Store - Shopify
+
+When you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers), email address, and phone number.  We refer to this information as "Order Information."
+
+We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations).  Additionally, we use this Order Information to:
+
+* Communicate with you;
+
+* Screen our orders for potential risk or fraud; and
+
+* When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.
+
+When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.
+
 ## Talk Feedback/Q&A - Slido
 
 BSidesSF via its provider Slido collects the following information from feedback submitters:
@@ -151,4 +173,14 @@ We will use this information to contact you and/or provide updates regarding the
 
 # Disclosure
 
-BSidesSF will not sell, trade, or otherwise disclose your Personal Information to third parties except when necessary to fulfill your conference registration and participation or when compelled to by a valid and legal court order. If we are going to release your Personal Information, our policy is to provide you with notice unless we are prohibited from doing so by law or court order (including orders under 18 U.S.C. § 2705(b)).
+BSidesSF will not sell, trade, or otherwise disclose your Personal Information to third parties except when necessary to fulfill your conference registration and participation, store order, when compelled to by applicable laws and regulations or a valid and legal court order (such as a subpoena, search warrant, or other lawful request for information we receive), or to otherwise protect our rights. If we are going to release your Personal Information, our policy is to provide you with notice unless we are prohibited from doing so by law or court order (including orders under 18 U.S.C. § 2705(b)).
+
+# Changes
+
+We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal, or regulatory reasons.
+
+# Contact Us
+
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at info[@]bsidessf.org or by mail using the details provided below:
+
+  548 Market Street PMB 22241, San Francisco, CA, 94104, United States

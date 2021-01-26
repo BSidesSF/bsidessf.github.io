@@ -7,12 +7,12 @@
     - icon: "/images/sponsors_2021/corelight.jpg"
       href: "https://corelight.com/company/careers/"
       name: "Corelight"
+    - icon: "/images/sponsors_2021/gusto.png"
+      href: "https://gusto.com/about/careers"
+      name: "Gusto"
     - icon: "/images/sponsors_2021/snyk.png"
       href: "https://snyk.io/careers/"
       name: "Snyk"
-    - icon: "/images/sponsors_2021/BSidesSF_2021_SponsorshipCouldBeYou.png"
-      href: "https://drive.google.com/open?id=1Su6g558mQ_B07UGoIv49zrie5qoWDLOV"
-      name: ""
 
 - level: Capture The Flag
   class: ctf

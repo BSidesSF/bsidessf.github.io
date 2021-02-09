@@ -20,3 +20,17 @@
     - icon: "/images/sponsors_2021/google.png"
       href: "https://careers.google.com"
       name: "Google"
+
+- level:
+  sponsors:
+    - type: Mental Health Panel
+      icon: "/images/sponsors_2021/netflix.jpg"
+      href: "https://jobs.netflix.com/"
+      name: "Netflix"
+
+- level:
+  sponsors:
+    - type: Special Thanks
+      icon: "/images/sponsors_2021/hackerone.png"
+      href: "https://www.hackerone.com/careers"
+      name: "HackerOne"

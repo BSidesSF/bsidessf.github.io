@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'icomoon';
-	src:  url('../fonts/icomoon.eot?4g7k7a');
-	src:  url('../fonts/icomoon.eot?4g7k7a#iefix') format('embedded-opentype'),
-	  url('../fonts/icomoon.ttf?4g7k7a') format('truetype'),
-	  url('../fonts/icomoon.woff?4g7k7a') format('woff'),
-	  url('../fonts/icomoon.svg?4g7k7a#icomoon') format('svg');
+	src:  url('../fonts/icomoon.eot?r00c68');
+	src:  url('../fonts/icomoon.eot?r00c68#iefix') format('embedded-opentype'),
+	  url('../fonts/icomoon.ttf?r00c68') format('truetype'),
+	  url('../fonts/icomoon.woff?r00c68') format('woff'),
+	  url('../fonts/icomoon.svg?r00c68#icomoon') format('svg');
 	font-weight: normal;
 	font-style: normal;
 	font-display: block;
@@ -14,7 +14,7 @@
 [class^="icon-"], [class*=" icon-"] {
 	/* use !important to prevent issues with browser extensions that change fonts */
 	font-family: 'icomoon' !important;
-	speak: none;
+	speak: never;
 	font-style: normal;
 	font-weight: normal;
 	font-variant: normal;
@@ -54,11 +54,14 @@
 .icon-slack:before {
 	content: "\e607";
 }
+.icon-graphicrecordings:before {
+	content: "\e90d";
+}
 .icon-youtube:before {
 	content: "\ea9d";
 }
-.icon-graphicrecordings:before {
-	content: "\e90d";
+.icon-reddit:before {
+	content: "\eac6";
 }
  
 // Base styling for all icons with the :hover psuedoclass
@@ -97,9 +100,12 @@
 .icon-slack:hover {
 	color: #fff;
 }
+.icon-graphicrecordings:hover {
+	color: #fff;
+}
 .icon-youtube:hover {
 	color: #ef3340;
 }
-.icon-graphicrecordings:hover {
-	color: #fff;
+.icon-reddit:hover {
+	color: #ff4301;
 }

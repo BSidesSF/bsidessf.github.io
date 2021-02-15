@@ -31,6 +31,10 @@
 - level:
   sponsors:
     - type: Special Thanks
+      icon: "/images/sponsors_2021/apple.png"
+      href: "https://www.apple.com/jobs/us/"
+      name: "Apple"
+    - type: Special Thanks
       icon: "/images/sponsors_2021/hackerone.png"
       href: "https://www.hackerone.com/careers"
       name: "HackerOne"

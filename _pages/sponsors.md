@@ -43,6 +43,7 @@ title: "Sponsors"
   </p>
   <p>
     <em>
+      All names and logos are property of their respective owners.
       {% for class in site.data.sponsors %}
         {% for sponsor in class.sponsors %}
           {{ sponsor.credits }}

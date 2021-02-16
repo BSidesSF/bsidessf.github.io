@@ -31,9 +31,10 @@
 - level:
   sponsors:
     - type: Special Thanks
-      icon: "/images/sponsors_2021/apple.png"
+      icon: "/images/sponsors_2021/apple.svg"
       href: "https://www.apple.com/jobs/us/"
       name: "Apple"
+      credits: "Apple&reg; and the Apple logo&reg; are registered trademarks of Apple Inc."
     - type: Special Thanks
       icon: "/images/sponsors_2021/hackerone.png"
       href: "https://www.hackerone.com/careers"

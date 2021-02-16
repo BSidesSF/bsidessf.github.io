@@ -39,4 +39,13 @@ title: "Sponsors"
   <p>
     Have further questions about sponsorships? Contact sponsors@bsidessf.org.
   </p>
+  <p>
+    <em>
+      {% for class in site.data.sponsors %}
+        {% for sponsor in class.sponsors %}
+          {{ sponsor.credits }}
+        {% endfor %}
+      {% endfor %}
+    </em>
+  </p>
 </center>

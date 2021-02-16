@@ -6,6 +6,7 @@ title: "Sponsors"
 <h3>Sponsorships are now closed. Check back soon for information on how to sponsor BSidesSF 2022.</h3>
 
 {% for class in site.data.sponsors %}
+
   <hr style="margin-bottom:5px">
   <div style="text-align: center;" class="sponsors {{ class.class }}">
     <h1>{{ class.level }}</h1>
@@ -18,7 +19,7 @@ title: "Sponsors"
         {% endif %}
         <div class="column">
           <h1>{{ sponsor.type }}</h1>
-          <a href="{{ sponsor.href }}" target="new">
+          <a href="{{ sponsor.href }}" target="_blank">
             <div class="imgdiv">
                 <img src="{{site.url}}{{sponsor.icon}}" />
             </div>
@@ -30,6 +31,7 @@ title: "Sponsors"
       {% endfor %}
 
     </div>
+
   </div>
 {% endfor %}
 
@@ -37,7 +39,7 @@ title: "Sponsors"
 
 <center>
   <p>
-    Have further questions about sponsorships? Contact sponsors@bsidessf.org.
+    Have further questions about sponsorships? Contact <a href="mailto:sponsors@bsidessf.org">sponsors@bsidessf.org</a>.
   </p>
   <p>
     <em>

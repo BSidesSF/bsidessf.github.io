@@ -20,26 +20,25 @@
   display: block;
 }
 
-
 // Pages
 .page-content {
-    padding: $spacing-unit;
+  padding: $spacing-unit;
 }
 
 .page-heading {
-    font-size: 20px;
+  font-size: 20px;
 }
 
 // Posts
 
 .post-header {
-    margin: $spacing-unit;
+  margin: $spacing-unit;
 }
 
 .post-title {
-    font-size: 2em;
-    letter-spacing: -1px;
-    line-height: 1;
+  font-size: 2em;
+  letter-spacing: -1px;
+  line-height: 1;
 }
 
 .post-content {
@@ -48,26 +47,26 @@
 }
 
 .post-list {
-    margin-left: 0;
-    list-style: none;
+  margin-left: 0;
+  list-style: none;
 
-    > li {
-        margin-bottom: $spacing-unit;
-    }
+  > li {
+    margin-bottom: $spacing-unit;
+  }
 }
 
 .post-meta {
-    font-size: $small-font-size;
-    color: darken($complimentary-color, 35%)
+  font-size: $small-font-size;
+  color: darken($complimentary-color, 35%);
 }
 
 .post-link {
-    display: block;
-    font-size: 24px;
+  display: block;
+  font-size: 24px;
 }
 
 // Header
-header[role=banner] {
+header[role="banner"] {
   background: linear-gradient($header-gradient-start, $header-gradient-end);
 }
 
@@ -76,7 +75,8 @@ header[role=banner] {
   background-color: $footer-color;
 }
 
-.site-footer, .wrap:after {
+.site-footer,
+.wrap:after {
   height: $footer-height;
 }
 .site-footer {
@@ -85,7 +85,8 @@ header[role=banner] {
 
 // Styling for mobile devices
 @media screen and (max-width: 768px) {
-  .site-footer, .wrap:after {
+  .site-footer,
+  .wrap:after {
     height: $footer-height * 2.8;
   }
 
@@ -93,7 +94,6 @@ header[role=banner] {
     margin-bottom: 2em;
   }
 }
-
 
 .sponsors .row {
   display: flex;
@@ -103,37 +103,44 @@ header[role=banner] {
 .sponsors .column {
   float: left;
   padding: 5px;
+  align-content: space-around;
 }
 
 div.imgdiv {
-  align-content: space-around;
-  min-height: 125px;
+  //width: 150px;
+  position: relative;
+  align-content: center;
+  align-items: center;
+  height: 150px;
 }
 
 .sponsors img {
-  min-width: 125px;
+  display: inline-block;
+  // min-width: 125px;
   // min-height: 125px;
-  max-width: 125px;
+  max-width: 162px;
   max-height: 125px;
-  margin: 10px;
+  vertical-align: middle;
+  //height: 100%;
+  margin: 0 auto;
 }
 
 .leading img {
-  max-width: 150px;
+  max-width: 200px;
   max-height: 150px;
 }
 
 .marquee img {
-  max-width: 150px;
+  max-width: 200px;
   max-height: 150px;
 }
 
 .contrib img {
-  max-width: 140px;
-  max-height: 140px;
+  max-width: 150px;
+  max-height: 115px;
 }
 
 .ctf img {
-  max-width: 140px;
-  max-height: 140px;
+  max-width: 150px;
+  max-height: 115px;
 }

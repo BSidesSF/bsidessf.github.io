@@ -106,6 +106,19 @@ header[role="banner"] {
   align-content: space-around;
 }
 
+.sponsors a {
+    color: #000000;
+
+    &:visited {
+        color: #000000;
+    }
+
+    &:hover {
+        color: #000000;
+    }
+}
+
+
 div.imgdiv {
   //width: 150px;
   position: relative;

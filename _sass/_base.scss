@@ -79,7 +79,7 @@ a {
     }
 
     &:hover {
-        color: link-hover-color;
+        color: $link-hover-color;
         text-decoration: underline;
     }
 }

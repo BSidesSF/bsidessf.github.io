@@ -39,8 +39,10 @@ title: "Sponsors"
     Have further questions about sponsorships? Contact <a href="mailto:sponsors@bsidessf.org">sponsors@bsidessf.org</a>.
   </p>
   <p>
+    <em>All names and logos are property of their respective owners.</em>
+  </p>
+  <p>
     <em>
-      All names and logos are property of their respective owners.
       {% for class in site.data.sponsors %}
         {% for sponsor in class.sponsors %}
           {{ sponsor.credits }}

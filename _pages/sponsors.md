@@ -23,9 +23,6 @@ title: "Sponsors"
             <div class="imgdiv">
               <img src="{{ site.url }}{{ sponsor.icon }}" />
             </div>
-            <div>
-              <p>{{ sponsor.name }}</p>
-            </div>
           </a>
         </div>
       {% endfor %}

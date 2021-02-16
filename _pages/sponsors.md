@@ -7,7 +7,7 @@ title: "Sponsors"
 
 {% for class in site.data.sponsors %}
 
-  <hr style="margin-bottom:5px">
+  <hr style="margin-bottom: 5px">
   <div style="text-align: center;" class="sponsors {{ class.class }}">
     <h1>{{ class.level }}</h1>
     <div class="row">
@@ -21,12 +21,12 @@ title: "Sponsors"
           <h1>{{ sponsor.type }}</h1>
           <a href="{{ sponsor.href }}" target="_blank">
             <div class="imgdiv">
-                <img src="{{ site.url }}{{ sponsor.icon }}" />
+              <img src="{{ site.url }}{{ sponsor.icon }}" />
+            </div>
+            <div>
+              <p>{{ sponsor.name }}</p>
             </div>
           </a>
-          <div>
-            <p>{{ sponsor.name }}</p>
-          </div>
         </div>
       {% endfor %}
 
@@ -35,7 +35,7 @@ title: "Sponsors"
   </div>
 {% endfor %}
 
-<hr style="margin-bottom:5px">
+<hr style="margin-bottom: 5px">
 
 <center>
   <p>

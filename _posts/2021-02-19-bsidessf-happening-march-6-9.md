@@ -16,7 +16,7 @@ To subscribe to future email updates (_highly recommended!_), you can do so [her
 Over the course of four days (Saturday through Tuesday), we will be virtually replaying the following talks and pairing the replays with presenter Q&A via Reddit. This is a great opportunity to hear from presenters on new developments since they originally gave their talk.
 
 *   _Checking your --privileged container_ by Maya Kaczorowski and Sam Stewart
-*   _Dispatch: Crisis Management Automation When Everything is On Fire_ by Marc Villanova and Forest Monsen
+*   _Dispatch: Crisis Management Automation When Everything is On Fire_ by Marc Vilanova and Forest Monsen
 *   _Give Away Security’s Legos: Dumping Traditional Security Teams_ by Fredrick "Flee" Lee
 *   _How to Kill an AWS Access Key_ by Benjamin Hering
 *   _How to Orchestrate a Cyber Security Incident Tabletop Exercise_ by Melanie Masterson

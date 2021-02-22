@@ -34,7 +34,7 @@ In the spirit of recharging ourselves, this year's event will also feature two s
 
 **Villages · CTF**
 
-In addition to the keynotes and talks, we are also hosting village presentations and a virtual CTF. The [CTF](/ctf.html) will run Sunday through Monday for 50 hours total, with the winners being announced during Tuesday’s sessions. This year's winning CTF team will receive a $1,500 gift card. Second place will receive a $750 gift card and third place a $250 gift card. Thank you to Google for their sponsorship of the CTF!
+In addition to the keynotes and talks, we are also hosting village presentations and a virtual CTF. The [CTF](/ctf.html) will run Saturday through Monday for 50 hours total, with the winners being announced during Tuesday’s sessions. This year's winning CTF team will receive a $1,500 gift card. Second place will receive a $750 gift card and third place a $250 gift card. Thank you to Google for their sponsorship of the CTF!
 
 **Schedule · How to Attend**
 

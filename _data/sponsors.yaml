@@ -1,7 +1,7 @@
 - level: Marquee
   class: marquee
   sponsors:
-    - icon: "/images/sponsors_2021/adobe.jpg"
+    - icon: "/images/sponsors_2021/adobe.png"
       href: "https://www.adobe.com/careers.html"
       name: "Adobe"
     - icon: "/images/sponsors_2021/corelight.jpg"

@@ -156,10 +156,10 @@
 
 // Active state of the links
 #nav>.primary-nav>li>ul>li.active {
-	background-color: $navbar-active-color;
+	color: $navbar-active-color;
 
 	a {
-		background-color: $navbar-active-color;
+		color: $navbar-active-color;
 	}
 }
 

@@ -7,6 +7,6 @@ title: "Capture The Flag (CTF)"
 
 ## Special thanks to Google for sponsoring this year's CTF.
 
-Please see https://ctf.bsidessf.net/ for scoreboard, challenges, and details.
+Please see [https://ctf.bsidessf.net](https://ctf.bsidessf.net/) for scoreboard, challenges, and details.
 
 ### E-mail ctf@bsidessf.org for questions.

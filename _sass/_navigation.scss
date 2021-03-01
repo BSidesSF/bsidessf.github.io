@@ -65,8 +65,8 @@
 }
 
 // Active state of the links
-#nav>.primary-nav>li.active {
-	background-color: $navbar-active-color;
+#nav>.primary-nav>li.active>a {
+	color: $navbar-active-color;
 }
 
 #nav>.primary-nav>li.dropdown>a {

@@ -22,6 +22,12 @@
     - subtitle: "Donate"
       subhref: "/donate.html"
 
+- title: "CTF"
+  href: "/ctf.html"
+
+- title: "Schedule"
+  href: "/schedule.html"
+
 - title: "Sponsors"
   href: "/sponsors.html"
 

@@ -24,7 +24,7 @@ All of the talks will be streamed on our [YouTube channel](https://www.youtube.c
 
 ## BSidesSF Swag 
 
-Time is almost up to order BSidesSF 2021 swag! If you'd like to make a purchase please visit our virtual store at [https://store.bsidessf.org/](https://store.bsidessf.org/). Proceeds benefit this year's recipient charities -- EFF, Hackers for Charity, and the Malala Fund.
+Time is almost up to order BSidesSF 2021 swag! If you'd like to make a purchase, please visit our virtual store at [https://store.bsidessf.org/](https://store.bsidessf.org/). Proceeds benefit this year's recipient charities -- EFF, Hackers for Charity, and the Malala Fund.
 
 [![BSidesSF 2021 SwagBox](/images/posts_2021/swagbox.jpg "BSidesSF 2021 SwagBox")](https://store.bsidessf.org/)
 

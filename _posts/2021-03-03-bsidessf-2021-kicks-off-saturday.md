@@ -30,7 +30,7 @@ Also kicking off at 12:00pm PST on Saturday is our [CTF](https://ctf.bsidessf.ne
 
 ## Swag Store
 
-If you would like to show your support for BSidesSF we encourage you to visit our virtual store at [https://store.bsidessf.org/](https://store.bsidessf.org/). The store features six new t-shirt designs, as well as masks, socks, and a swag box, all available for pre-order now. Proceeds will benefit this year's recipient charities -- EFF, Hackers for Charity, and the Malala Fund.
+If you would like to show your support for BSidesSF, we encourage you to visit our virtual store at [https://store.bsidessf.org/](https://store.bsidessf.org/). The store features six new t-shirt designs, as well as masks, socks, and a swag box, all available for pre-order now. Proceeds will benefit this year's recipient charities -- EFF, Hackers for Charity, and the Malala Fund.
 
 [![BSidesSF 2021 SwagBox](/images/posts_2021/swagbox.jpg "BSidesSF 2021 SwagBox")](https://store.bsidessf.org/)
 

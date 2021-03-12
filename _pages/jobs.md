@@ -11,11 +11,11 @@ Please note that BSidesSF is a 100% volunteer-run organization. All roles are vo
 
 ## Open Positions
 
-* [Program Manager](mailto:jobs@bsidessf.org?subject=Program%20Manager)
-* [Project Manager](mailto:jobs@bsidessf.org?subject=Project%20Manager)
-* [Quartermaster](mailto:jobs@bsidessf.org?subject=Quartermaster)
-* [Social Media Manager](mailto:jobs@bsidessf.org?subject=Social%20Media%20Manager)
-* [Sponsor Operations](mailto:jobs@bsidessf.org?subject=Sponsor%20Operations)
-* [Volunteer Staff Coordinator](mailto:jobs@bsidessf.org?subject=Volunteer%20Staff%20Coordinator)
+* [Program Manager](mailto:jobs@bsidessf.org?subject=I%27d+like+to+be+the+BSidesSF+Program+Manager)
+* [Project Manager](mailto:jobs@bsidessf.org?subject=I%27d+like+to+be+the+BSidesSF+Project+Manager)
+* [Quartermaster](mailto:jobs@bsidessf.org?subject=I%27d+like+to+be+the+BSidesSF+Quartermaster)
+* [Social Media Manager](mailto:jobs@bsidessf.org?subject=I%27d+like+to+be+the+BSidesSF+Social+Media+Manager)
+* [Sponsor Operations](mailto:jobs@bsidessf.org?subject=I%27d+like+to+be+the+BSidesSF+Sponsor+Operations)
+* [Volunteer Staff Coordinator](mailto:jobs@bsidessf.org?subject=I%27d+like+to+be+the+BSidesSF+Volunteer+Staff+Coordinator)
 
 Have some special skill that you think we need that's not listed above? Let us know! jobs [at] bsidessf.org

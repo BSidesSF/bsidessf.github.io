@@ -3,7 +3,7 @@ layout: page
 title: "Privacy Policy"
 ---
 
-Last updated: 2021-01-24
+Last updated: 2021-03-09
 
 Security B-Sides ("BSidesSF", "us", "we", or "our") operates bsidessf.org, bsidessf.net, and other relevant domains and subdomains (the "Site").
 
@@ -41,7 +41,7 @@ BSidesSF uses various third party services to provide the Site, related services
 
 * [Square](https://squareup.com/legal/privacy-no-account)
 
-* [Stripe](https://stripe.com/us/privacy)
+* [Stripe](https://stripe.com/privacy)
 
 * [Twilio](https://www.twilio.com/legal/privacy)
 
@@ -101,6 +101,8 @@ BSidesSF via its providers Donorbox, PayPal, Square, Stripe, and any sub-process
 
 BSidesSF's providers will use this information to validate your donation and send you a receipt. BSidesSF will use your name and email address to thank you for the donation and to provide you information about future events or donation opportunities. You may unsubscribe from future emails at any time by clicking the unsubscribe link in any non-transactional email or by emailing info[@]bsidessf.org.
 
+For donations where Stripe is utilized, Stripe collects identifying information about the devices that connect to its services. Stripe uses this information to operate and improve the services it provides to BSidesSF, including for fraud detection.
+
 ## Mailing List
 
 BSidesSF provides the following information to Mailchimp in order to send non-transactional emails (i.e. newsletters and information about future events):
@@ -117,9 +119,9 @@ You may unsubscribe from these emails at any time by clicking on the unsubscribe
 
 ## Store - Shopify
 
-When you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers), email address, and phone number.  We refer to this information as "Order Information."
+When you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers), email address, and phone number. We refer to this information as "Order Information."
 
-We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations).  Additionally, we use this Order Information to:
+We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations). Additionally, we use this Order Information to:
 
 * Communicate with you;
 

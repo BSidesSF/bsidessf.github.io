@@ -11,7 +11,7 @@ Please note that BSidesSF is a 100% volunteer-run organization. All roles are vo
 
 ## Open Positions
 
-* [Program Manager](mailto:jobs@bsidessf.org?subject=I%27d+like+to+be+the+BSidesSF+Program+Manager)
+* [CFP Manager](mailto:jobs@bsidessf.org?subject=I%27d+like+to+be+the+BSidesSF+CFP+Manager)
 * [Project Manager](mailto:jobs@bsidessf.org?subject=I%27d+like+to+be+the+BSidesSF+Project+Manager)
 * [Quartermaster](mailto:jobs@bsidessf.org?subject=I%27d+like+to+be+the+BSidesSF+Quartermaster)
 * [Social Media Manager](mailto:jobs@bsidessf.org?subject=I%27d+like+to+be+the+BSidesSF+Social+Media+Manager)

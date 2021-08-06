@@ -3,10 +3,8 @@ layout: page
 title: "Capture The Flag (CTF)"
 --- 
 
-# CTF is coming back to BSidesSF 2021!
+# CTF is coming back to BSidesSF 2022!
 
-## Special thanks to Google for sponsoring this year's CTF.
-
-Please see [https://ctf.bsidessf.net](https://ctf.bsidessf.net/) for scoreboard, challenges, and details.
+More details coming soon.
 
 ### E-mail ctf@bsidessf.org for questions.

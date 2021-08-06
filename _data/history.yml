@@ -7,6 +7,11 @@
 #
 ###
 
+- "year": "2021"
+  categories:
+    - title: "Schedule"
+      external: "https://bsidessf2021.sched.com/"
+
 - "year": "2020"
   categories:
     - title: "Posters"

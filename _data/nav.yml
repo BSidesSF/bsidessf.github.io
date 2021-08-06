@@ -22,17 +22,8 @@
     - subtitle: "Donate"
       subhref: "/donate"
 
-- title: "CTF"
-  href: "/ctf"
-
 - title: "Jobs"
   href: "/jobs"
 
-- title: "Schedule"
-  href: "/schedule"
-
 - title: "Sponsors"
   href: "/sponsors"
-
-- title: "Store"
-  external: "https://store.bsidessf.org"

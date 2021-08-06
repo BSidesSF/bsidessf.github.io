@@ -1,9 +1,9 @@
 // Base Colors
-$primary-color: #01274C; // blue
-$secondary-color: #3AB54A; // green
-$complimentary-color: #fff; // white
+$primary-color: #603813; // brown
+$secondary-color: #2DB428; // light green
+$complimentary-color: #1F6026; // dark green
 $body-bg: #fff; // white
-$body-font-color: $primary-color; // blue
+$body-font-color: $primary-color;
 
 // Links
 $link-color: $secondary-color;
@@ -21,8 +21,8 @@ $base-line-height: 1.5;
 $navbar-height: 44px;
 $navbar-color: $primary-color;
 $navbar-text-color: $secondary-color;
-$navbar-hover-color: lighten($complimentary-color, 75%);
-$navbar-active-color: #F47822; // orange
+$navbar-hover-color: lighten($complimentary-color, 60%);
+$navbar-active-color: #fff; // white
 $navbar-font-size: 13px;
 $navbar-font-family: "Open Sans", Helvetica, Arial, sans-serif;
 
@@ -34,9 +34,9 @@ $socials-font-size: 1.5em;
 $spacing-unit: 30px;
 
 // Header
-$header-gradient-start: #002753; // blue
-$header-gradient-end: #002753; // blue
+$header-gradient-start: #fff; // white
+$header-gradient-end: #fff; // white
 
 // Footer
 $footer-height: 54px;
-$footer-color: lighten($primary-color, 5%);
+$footer-color: lighten($primary-color, 15%);

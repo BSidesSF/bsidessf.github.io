@@ -18,7 +18,7 @@ The BSides community has continuously raised the bar and put the info back in in
 Please note that workshops will be held on Saturday, February 5, 2022 at a different location. Please see more information on the [Call for Workshops](/cfw.html)
 
 **Talks: February 6-7, 2022**
-Please note that all talks are limited to two speakers only. Panels are limited to 5 participants (including the moderator).
+Please note that all talks are limited to two presenters only. Panels are limited to 5 participants (including the moderator).
 
 **General talks** – 25 min regular talk format for various topics in security and privacy.
 **Deep dive talks** – 50 min talk format to cover more technical deep dives.
@@ -29,21 +29,21 @@ Please note that all talks are limited to two speakers only. Panels are limited 
 **Important Dates**
 - August 30, 2021 – Call for submissions opens
 - September 20, 2021 – Papers and Workshop proposals for early-bird consideration due
-- October 4, 2021 – First round speakers and trainers notified
+- October 4, 2021 – First round presenters and trainers notified
 - October 11, 2021 – Final due date for all submissions, rolling notifications begin
 - November 15, 2021 – All notifications, including waitlist, sent
-- December 6, 2021 – Participation confirmed by speakers and details finalized
+- December 6, 2021 – Participation confirmed by presenters and details finalized
 - February 5-7, 2022 – BSidesSF 2022
 
 # What You Need
-- Speaker name(s) and contact information
+- Presenter name(s) and contact information
 - Bio(s)
 - Submission Title
-- Abstract – Limited to 200 words
-- Detailed Outline and Key Takeaways – Tell us more details about your presentation and why people will want to attend. These details will help us make an informed decision about your submission.
+- Abstract – Limited to 300 words (your "Elevator Pitch" for the talk)
+- Talk Description – A detailed outline and the key takeaways for your presentation. Tell us more details about your presentation and why people will want to attend. These details will help us make an informed decision about your submission.
 - T-shirt size(s)
 - Are you interested in working with a program committee member for a dry run?
-- Would you like to donate your speaker gift to one of our charities?
+- Would you like to donate your presenter gift to one of our charities?
 - Scheduling preferences
 
 # Submit to the CFP

@@ -1,11 +1,6 @@
 ---
 layout: page
 title: "BSidesSF 2022 Call For Participation"
-<<<<<<< Updated upstream
-redirect_from: "/cfw"
-redirect_from: "/cfw.html"
----
-=======
 permalink: /cfp.html
 ---
 

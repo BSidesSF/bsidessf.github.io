@@ -79,13 +79,12 @@ Are you interested in helping with conference organizing? Are you interested in 
 
 In this position, you will shadow and support our BSidesSF volunteer leads in the volunteer staffing lifecycle for BSidesSF 2022. Prior to the event, you will attend weekly staff meetings (virtually) to discuss volunteer staffing logistics, design the conference volunteer shift schedule, identify gaps in volunteer postings and help recruit around 300 volunteers. During the conference, you will help train volunteers for shift responsibilities (instructions will be provided), ensure volunteers are at their stations on time, ensure the conference schedule runs smoothly from a staffing perspective, and also serve as a backup volunteer in last-minute shift gaps.
 
-You will also be expected to be “oncall” for the conference, i.e. available on the conference floor, from setup (as early as 6AM) to teardown (as late as 10PM). “Oncall” here means that there may be long periods of no clear assigned work available, however we would still require you to be ready to respond in the event of a staffing problem/concern. During downtime, you are free to explore the conference venue, check in on other volunteers, or suggest other tasks to keep the conference running smoothly. :)
+You will also be expected to be “oncall” for the conference, i.e. available on the conference floor, from setup (as early as 6AM) to teardown (as late as 10PM). “Oncall” here means that there may be long periods of no clear assigned work available, however we would still require you to be ready to respond in the event of a staffing problem/concern. During downtime, you are free to explore the conference venue, check in on other volunteers, or other tasks to keep the conference running smoothly.
 
 Note:
 * The ideal candidate has experience with high stress situations, for example, tight deadlines, ambiguity, challenging individuals, etc.
 * You will only be required to serve as “oncall” for one conference day, but you may do both days if you so choose. 
 * You will be expected to attend weekly staff meetings from Sept 2021-Feb 2022.
-* If you meet all these commitments, you will be invited to the conference organizer staff dinner at the end of the event, and receive cool staff swag.
 
 ---
 

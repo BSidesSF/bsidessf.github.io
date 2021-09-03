@@ -87,32 +87,6 @@ Note:
 * You will be expected to attend weekly staff meetings from Sept 2021-Feb 2022.
 * If you meet all these commitments, you will be invited to the conference organizer staff dinner at the end of the event, and receive cool staff swag.
 
-**Dress Code**: Please wear comfortable shoes and wear your staff shirt and badge ONLY when you are on your shift. Please wear your regular attire at all other times. 
-
-**How should I prepare?**
-* Drink lots of water
-* Eat a good meal before coming
-* Get a good night's rest 
-* Take care of yourself
-
-**What will be provided?**
-* Water
-* Snacks
-* Bathrooms
-* A place to store your belongings
-* Staff shirt
-* Staff badge
-* Loaned radio for communication during the event
-* Bragging rights to put on your resume
-
-**What should I bring?**
-* Cell Phone charger 
-* Comfortable shoes
-* Change of clothes for after or before your shift
-* Watch or some device to easily keep time
-* Positive mental attitude
-
-
 ---
 
 Have some special skill that you think we need that's not listed above? Let us know! jobs [at] bsidessf.org

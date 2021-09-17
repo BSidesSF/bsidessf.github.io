@@ -23,7 +23,7 @@ title: "Sponsors"
           <h1>{{ sponsor.type }}</h1>
           <a href="{{ sponsor.href }}" target="_blank">
             <div class="imgdiv">
-              <img src="{{ site.url }}{{ sponsor.icon }}" />
+              <img src="{{ site.url }}{{ sponsor.icon }}" alt="{{ sponsor.name }}" />
             </div>
           </a>
         </div>

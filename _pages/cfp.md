@@ -33,7 +33,7 @@ Please note that all talks are limited to two presenters only. Panels are limite
 - October 11, 2021 – Final due date for all submissions, rolling notifications begin
 - November 15, 2021 – All notifications, including waitlist, sent
 - December 6, 2021 – Participation confirmed by presenters and details finalized
-- February 5-7, 2022 – BSidesSF 2022
+- February 5-6, 2022 – BSidesSF 2022
 
 # What You Need
 - Presenter name(s) and contact information

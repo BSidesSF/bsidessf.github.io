@@ -6,7 +6,7 @@ permalink: /cfw.html
 
 **What:** BSidesSF 2022 Call For Workshops
 
-**When:** BSidesSF will take place in San Francisco from February 5-7, 2022. The Call for Participation for talks and workshops will close on October 11, 2021 at 11:59 PM PST.
+**When:** BSidesSF will take place in San Francisco from February 5-6, 2022. The Call for Participation for talks and workshops will close on October 11, 2021 at 11:59 PM PST.
 
 **How:** Complete the Call for Papers Form
 
@@ -17,7 +17,7 @@ permalink: /cfw.html
 - September 20, 2021 – Workshop proposals for early-bird consideration due
 - October 11, 2021 – Final due date for all submissions, rolling notifications begin
 - November 15, 2021 – All notifications, including waitlist, sent
-- February 5, 2022 - Workshops Presented
+- February ~4-6, 2022 - Workshops Presented (exact date TBD)
 
 **About BSidesSF**
 

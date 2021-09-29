@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "BSidesSF 2022 Call For Workshops"
-permalink: /cfw.html
 ---
 
 **What:** BSidesSF 2022 Call For Workshops

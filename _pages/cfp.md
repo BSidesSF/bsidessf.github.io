@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "BSidesSF 2022 Call For Participation"
-permalink: /cfp.html
 ---
 
 **What:** BSidesSF 2022 Call For Participation for Talks and Workshops

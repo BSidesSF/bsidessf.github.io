@@ -14,7 +14,7 @@ title: "BSidesSF 2022 Call For Workshops"
 -**Important Dates**
 - August 30, 2021 – Call for submissions opens
 - September 20, 2021 – Workshop proposals for early-bird consideration due
-- October 11, 2021 – Final due date for all submissions, rolling notifications begin
+- October 25, 2021 – Final due date for all submissions, rolling notifications begin
 - November 15, 2021 – All notifications, including waitlist, sent
 - February ~4-6, 2022 - Workshops Presented (exact date TBD)
 

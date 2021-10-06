@@ -8,7 +8,7 @@ BSidesSF is excited to open the Call for Presentations and Call for Workshops fo
 
 Our Call for Presentations process is fairly standard, but please do take the time to read through the information, as there are changes every year.
 
-To all of you who think you have something to say – take a look and get writing. You have until October 11th to make your submission.
+To all of you who think you have something to say – take a look and get writing. You have until October 25th to make your submission.
 
 For complete details and information on how to submit, check out the [Call for Presentations](/cfp.html) and the [Call for Workshops](/cfw.html).
 

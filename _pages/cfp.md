@@ -11,7 +11,7 @@ We are a practitioner focused event that attracts a wide range of attendees rang
 
 The BSides community has continuously raised the bar and put the info back in infosec. We thank each and every member/participant/organizer of this community for their hard work, sweat, and relentless pursuit of making high quality content accessible. We celebrate diverse approaches and points of view and believe that our commitment to diversity fosters innovation. BSidesSF is continuing to build upon a culture that drives our community to include a wide range of thoughts and ideas.
 
-**When:** BSidesSF will take place in San Francisco from February 5-6, 2022. The Call for Participation for talks and workshops will open on August 30, 2021, and will close on October 11, 2021 at 11:59 PM PST.
+**When:** BSidesSF will take place in San Francisco from February 5-6, 2022. The Call for Participation for talks and workshops will open on August 30, 2021, and will close on October 25, 2021 at 11:59 PM PST.
 
 **Workshops**
 Please note that workshops will be held during or before BSidesSF at a different location. Please see more information on the [Call for Workshops](/cfw.html).
@@ -29,7 +29,7 @@ Please note that all talks are limited to two presenters only. Panels are limite
 - August 30, 2021 – Call for submissions opens
 - September 20, 2021 – Papers and Workshop proposals for early-bird consideration due
 - October 4, 2021 – First round presenters and trainers notified
-- October 11, 2021 – Final due date for all submissions, rolling notifications begin
+- October 25, 2021 – Final due date for all submissions, rolling notifications begin
 - November 15, 2021 – All notifications, including waitlist, sent
 - December 6, 2021 – Participation confirmed by presenters and details finalized
 - February 5-6, 2022 – BSidesSF 2022

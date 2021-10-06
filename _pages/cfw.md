@@ -5,28 +5,20 @@ title: "BSidesSF 2022 Call For Workshops"
 
 **What:** BSidesSF 2022 Call For Workshops
 
-**When:** BSidesSF will take place in San Francisco from February 5-6, 2022. The Call for Participation for talks and workshops will close on October 11, 2021 at 11:59 PM PST.
+**When:** BSidesSF will take place in San Francisco from February 5-6, 2022. The Call for Participation for talks and workshops will close on October 25, 2021 at 11:59 PM PST.
 
 **How:** Complete the Call for Papers Form
 
 **Length:** Short (2 hours, 45 minutes) and Long (5 hours, 30 minutes)
 
--**Important Dates**
+**Important Dates**
 - August 30, 2021 – Call for submissions opens
 - September 20, 2021 – Workshop proposals for early-bird consideration due
 - October 25, 2021 – Final due date for all submissions, rolling notifications begin
 - November 15, 2021 – All notifications, including waitlist, sent
 - February ~4-6, 2022 - Workshops Presented (exact date TBD)
 
-**About BSidesSF**
-
-BSidesSF is a non-profit organization designed to advance the body of Information Security knowledge, by providing an annual, two day, open forum for discussion and debate for security engineers and their affiliates. We produce a conference that is a source of education, collaboration, and continued conversation for information technologists and those associated with this field. The technical and academic presentations at BSidesSF are given in the spirit of peer review and advanced knowledge dissemination. This allows the field of Information Security to grow in breadth and depth, and continue in its pursuit of highly advanced scientifically based knowledge.
-
-The BSides community has continuously raised the bar and put the INFO back in INFOSEC. We thank each and every member/participant/organizer of this community for their hard work, sweat, and relentless pursuit of High Quality information.
-
-With some of the most passionate and influential infosec practitioners from around the country, and the world, coming to RSA Conference, BSidesSF is the place to be. The mix ranges from “down in the trenches” engineers, to business leaders, thought leaders, and executive decision makers of all stripes.
-
-# What You Need
+**What You Need**
 - Trainer name(s) and contact information
 - Bio(s)
 - Course Title

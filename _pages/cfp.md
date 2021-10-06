@@ -46,7 +46,7 @@ Please note that all talks are limited to two presenters only. Panels are limite
 - Presenter name(s) and contact information
 - Bio(s)
 - Submission Title
-- Abstract – Limited to 300 words (your "Elevator Pitch" for the talk)
+- Abstract – Limited to 300 characters (your "Elevator Pitch" for the talk)
 - Talk Description – A detailed outline and the key takeaways for your presentation. Tell us more details about your presentation and why people will want to attend. These details will help us make an informed decision about your submission.
 - T-shirt size(s)
 - Are you interested in working with a program committee member for a dry run?

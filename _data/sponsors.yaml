@@ -134,10 +134,6 @@
 
 - level:
   sponsors:
-    - type: Happy Hour
-      name: "Could Be You!"
-      href: "https://drive.google.com/open?id=1ikaCYdQMkEwWVwaqpmFFLaX8Ss_X7Fdg"
-      icon: "/images/sponsors_2022/BSidesSF_2022_SponsorshipCouldBeYou.png"
     - type: Lanyard
       name: "Doyensec"
       href: "https://www.doyensec.com/careers.html"
@@ -146,6 +142,13 @@
       name: "Panther Labs"
       href: "https://boards.greenhouse.io/pantherlabs"
       icon: "/images/sponsors_2022/PantherLabs.png"
+
+- level:
+  sponsors:
+    - type: Happy Hour
+      name: "Pentera"
+      href: "https://www.pentera.io/careers/"
+      icon: "/images/sponsors_2022/Pentera.png"
 
 - level:
   sponsors:

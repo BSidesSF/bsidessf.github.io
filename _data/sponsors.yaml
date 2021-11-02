@@ -1,19 +1,19 @@
 - level: Leading
   class: leading
   sponsors:
+    - icon: "/images/sponsors_2022/Adobe.png"
+      name: "Adobe"
+      href: "https://www.adobe.com/careers.html"
     - icon: "/images/sponsors_2022/AppOmni.png"
       href: "https://appomni.com/careers/"
       name: "AppOmni"
     - icon: "/images/sponsors_2022/CodeRedPartners.png"
       name: "Code Red Partners"
       href: "https://www.linkedin.com/company/coderedpartners"
+    - break: true
     - icon: "/images/sponsors_2022/Uptycs.png"
       name: "Uptycs"
       href: "https://www.uptycs.com/careers"
-    - break: true
-    - icon: "/images/sponsors_2022/BSidesSF_2022_SponsorshipCouldBeYou.png"
-      name: "Could Be You!"
-      href: "https://drive.google.com/open?id=1ikaCYdQMkEwWVwaqpmFFLaX8Ss_X7Fdg"
     - icon: "/images/sponsors_2022/BSidesSF_2022_SponsorshipCouldBeYou.png"
       name: "Could Be You!"
       href: "https://drive.google.com/open?id=1ikaCYdQMkEwWVwaqpmFFLaX8Ss_X7Fdg"

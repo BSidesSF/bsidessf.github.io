@@ -235,13 +235,13 @@
 - level:
   sponsors:
     - type: Coffee
+      name: "Sweetpea"
+      href: "https://twitter.com/FlyingBlueMonki"
+      icon: "/images/sponsors_2022/Sweetpea.jpg"
+    - type: Coffee
       name: "Tailscale"
       href: "https://apply.workable.com/tailscale/"
       icon: "/images/sponsors_2022/Tailscale.png"
-    - type: Coffee
-      name: "Could Be You!"
-      href: "https://drive.google.com/open?id=1ikaCYdQMkEwWVwaqpmFFLaX8Ss_X7Fdg"
-      icon: "/images/sponsors_2022/BSidesSF_2022_SponsorshipCouldBeYou.png"
     - type: Info Desk
       name: "Could Be You!"
       href: "https://drive.google.com/open?id=1ikaCYdQMkEwWVwaqpmFFLaX8Ss_X7Fdg"

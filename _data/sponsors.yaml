@@ -11,12 +11,12 @@
       name: "Code Red Partners"
       href: "https://www.linkedin.com/company/coderedpartners"
     - break: true
+    - icon: "/images/sponsors_2022/Google.png"
+      name: "Google"
+      href: "https://careers.google.com/"
     - icon: "/images/sponsors_2022/Uptycs.png"
       name: "Uptycs"
       href: "https://www.uptycs.com/careers"
-    - icon: "/images/sponsors_2022/BSidesSF_2022_SponsorshipCouldBeYou.png"
-      name: "Could Be You!"
-      href: "https://drive.google.com/open?id=1ikaCYdQMkEwWVwaqpmFFLaX8Ss_X7Fdg"
 
 - level: Contributing
   class: contrib
@@ -127,9 +127,9 @@
 - level:
   sponsors:
     - type: Capture The Flag (CTF)
-      name: "Could Be You!"
-      href: "https://drive.google.com/open?id=1ikaCYdQMkEwWVwaqpmFFLaX8Ss_X7Fdg"
-      icon: "/images/sponsors_2022/BSidesSF_2022_SponsorshipCouldBeYou.png"
+      name: "Google"
+      href: "https://careers.google.com/"
+      icon: "/images/sponsors_2022/Google.png"
 
 - level:
   sponsors:

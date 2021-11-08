@@ -148,6 +148,10 @@
       name: "Pentera"
       href: "https://www.pentera.io/careers/"
       icon: "/images/sponsors_2022/Pentera.png"
+    - type: Happy Hour
+      name: "Vectra AI"
+      href: "https://www.vectra.ai/about/careers"
+      icon: "/images/sponsors_2022/VectraAI.png"
 
 - level:
   sponsors:

@@ -32,6 +32,7 @@
       icon: "/images/sponsors_2022/StackHawk.png"
     - name: "Wazuh"
       href: "https://wazuh.com/our-team/"
+      icon: "/images/sponsors_2022/Wazuh.png"
     - break: true
     - name: "Could Be You!"
       href: "https://drive.google.com/open?id=1ikaCYdQMkEwWVwaqpmFFLaX8Ss_X7Fdg"

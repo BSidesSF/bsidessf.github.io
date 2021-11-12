@@ -79,12 +79,12 @@
 - level: Notable
   class: notable
   sponsors:
+    - name: "Netflix"
+      href: "https://jobs.netflix.com/"
+      icon: "/images/sponsors_2022/Netflix.jpg"
     - name: "Veracode"
       href: "https://www.veracode.com/about/careers"
       icon: "/images/sponsors_2022/Veracode.png"
-    - name: "Could Be You!"
-      href: "https://drive.google.com/open?id=1JhTfatB4iGIN3wut92I4XNqx6fLS8o1-"
-      icon: "/images/sponsors_2022/BSidesSF_2022_SponsorshipCouldBeYou.png"
     - name: "Could Be You!"
       href: "https://drive.google.com/open?id=1JhTfatB4iGIN3wut92I4XNqx6fLS8o1-"
       icon: "/images/sponsors_2022/BSidesSF_2022_SponsorshipCouldBeYou.png"

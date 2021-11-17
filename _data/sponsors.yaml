@@ -56,9 +56,9 @@
     - name: "Cyolo"
       href: "https://cyolo.io/careers/"
       icon: "/images/sponsors_2022/Cyolo.png"
-    - name: "Could Be You!"
-      href: "https://drive.google.com/open?id=13NilqQZ-gqWdBjtbZMbqFiG4HQdf_2zF"
-      icon: "/images/sponsors_2022/BSidesSF_2022_SponsorshipCouldBeYou.png"
+    - name: "Intezer"
+      href: "https://www.intezer.com/careers/"
+      icon: "/images/sponsors_2022/Intezer.png"
     - name: "Could Be You!"
       href: "https://drive.google.com/open?id=13NilqQZ-gqWdBjtbZMbqFiG4HQdf_2zF"
       icon: "/images/sponsors_2022/BSidesSF_2022_SponsorshipCouldBeYou.png"
@@ -110,9 +110,9 @@
 - level:
   sponsors:
     - type: Party
-      name: "Could Be You!"
-      href: "https://drive.google.com/open?id=13NilqQZ-gqWdBjtbZMbqFiG4HQdf_2zF"
-      icon: "/images/sponsors_2022/BSidesSF_2022_SponsorshipCouldBeYou.png"
+      name: "Intezer"
+      href: "https://www.intezer.com/careers/"
+      icon: "/images/sponsors_2022/Intezer.png"
 
 - level:
   sponsors:

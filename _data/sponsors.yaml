@@ -50,6 +50,9 @@
 - level: Supporting
   class: supporting
   sponsors:
+    - name: "Avatao"
+      href: "https://avatao.com/careers/"
+      icon: "/images/sponsors_2022/Avatao.png"
     - name: "Corelight"
       href: "https://corelight.com/company/careers"
       icon: "/images/sponsors_2022/Corelight.png"
@@ -59,13 +62,10 @@
     - name: "Intezer"
       href: "https://www.intezer.com/careers/"
       icon: "/images/sponsors_2022/Intezer.png"
+    - break: true
     - name: "Tines"
       href: "https://www.tines.com/careers"
       icon: "/images/sponsors_2022/Tines.png"
-    - break: true
-    - name: "Could Be You!"
-      href: "https://drive.google.com/open?id=13NilqQZ-gqWdBjtbZMbqFiG4HQdf_2zF"
-      icon: "/images/sponsors_2022/BSidesSF_2022_SponsorshipCouldBeYou.png"
     - name: "Could Be You!"
       href: "https://drive.google.com/open?id=13NilqQZ-gqWdBjtbZMbqFiG4HQdf_2zF"
       icon: "/images/sponsors_2022/BSidesSF_2022_SponsorshipCouldBeYou.png"

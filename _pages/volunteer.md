@@ -68,7 +68,7 @@ We are still closely monitoring the health and safety orders provided by the Cit
 
 ## How do I sign up???
 
-We’re using Timecounts for managing event volunteer shifts this year so you will need to [create a Timecounts account first](https://timecounts.org/signup) and **verify your email address** before signing up for any shifts. Then you can sign up directly on the [BSidesSF Volunteer Shift Page]( https://timecounts.org/bsidessf/events/37970).
+We’re using Timecounts for managing event volunteer shifts this year so you will need to [create a Timecounts account first](https://timecounts.org/signup) and **verify your email address** before signing up for any shifts. Then you can sign up directly on the [BSidesSF Volunteer Shift Page](https://timecounts.org/bsidessf/events/37970).
 
 ## What if I have further questions?
 

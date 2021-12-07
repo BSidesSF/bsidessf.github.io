@@ -63,7 +63,7 @@
       href: "https://www.intezer.com/careers/"
       icon: "/images/sponsors_2022/Intezer.png"
     - break: true
-      name: "Panther Labs"
+    - name: "Panther Labs"
       href: "https://boards.greenhouse.io/pantherlabs"
       icon: "/images/sponsors_2022/PantherLabs.png"
     - name: "Tines"

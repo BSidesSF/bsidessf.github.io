@@ -79,22 +79,22 @@
 - level: Notable
   class: notable
   sponsors:
+    - name: "Atlassian"
+      href: "https://www.atlassian.com/company/careers"
+      icon: "/images/sponsors_2022/Atlassian.png"
     - name: "Netflix"
       href: "https://jobs.netflix.com/"
       icon: "/images/sponsors_2022/Netflix.png"
     - name: "Slack"
       href: "https://slack.com/careers"
       icon: "/images/sponsors_2022/Slack.png"
+    - break: true
     - name: "Thinkst Canary"
       href: "https://canary.tools/hiring"
       icon: "/images/sponsors_2022/ThinkstCanary.png"
-    - break: true
     - name: "Veracode"
       href: "https://www.veracode.com/about/careers"
       icon: "/images/sponsors_2022/Veracode.png"
-    - name: "Could Be You!"
-      href: "https://drive.google.com/open?id=1GVsPScWz_6T-eiHw8rnBZkM8d-dDcOfg"
-      icon: "/images/sponsors_2022/BSidesSF_2022_SponsorshipCouldBeYou.png"
 
 - level:
   sponsors:

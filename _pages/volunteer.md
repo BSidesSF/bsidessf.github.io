@@ -63,11 +63,7 @@ BSidesSF is a [registered 501(c)(3) non-profit](https://projects.propublica.org/
 
 ## Are there any other additional requirements this year?
 
-Vaccinations: In accordance with [San Francisco and California law](https://www.sfdph.org/dph/alerts/files/C19-07-Safer-Return-Together-Health-Order.pdf), we will be requiring ALL people affiliated with BSidesSF (leads, staff, volunteers, vendors, participants, etc.) to be fully vaccinated before they step into the conference area. If you are not fully vaccinated as [per CDC guidelines](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/fully-vaccinated.html) (this includes the 14-day “bake-in” period) by the day of the event, you WILL NOT be allowed into the conference area, and you WILL NOT be able to volunteer.
-
-Masks: At this time, the City of San Francisco [still requires](https://sf.gov/information/masks-and-face-coverings-added-protection-coronavirus) that people be masked when entering indoor venues with a large number of attendees. You should be prepared to show up with a mask for the days you’re at the conference.
-
-We are still closely monitoring the health and safety orders provided by the City of San Francisco and the state of California. Things can change at any time. We will remind all registered volunteers of the current health and safety requirements 1 week prior to the event, so that we can ensure a smooth conference experience from day 1. Unlike previous years, you should expect to show up 15-20 mins early to check-in, to accommodate possible delays from the implementation of our health and safety plan.
+Please refer to our [COVID-19 Safety Policy](/about/covid-19-safety-policy) for additional requirements prior to entering the event.
 
 ## How do I sign up???
 
@@ -75,7 +71,7 @@ We’re using Timecounts for managing event volunteer shifts this year so you wi
 
 ## What if I have further questions?
 
-Please reach out to volunteer@bsidessf.org, or to [\#volunteers](https://bsidessf.slack.com/archives/CNRNRRBS4) in Slack and tag @sarah or @jesse. You can [sign up here for Slack access](https://bsidessf-slack.herokuapp.com/).
+Please reach out to volunteer@bsidessf.org, or to [\#volunteers](https://bsidessf.slack.com/archives/CNRNRRBS4) in Slack and tag @sarah or @jesse.
 
 ---
 

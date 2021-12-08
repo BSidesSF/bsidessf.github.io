@@ -48,18 +48,21 @@ Our volunteer leads **will train you** for the specific tasks you sign up for, a
 You can sign up to be on the waitlist for a given shift, but be aware that there is no guarantee that you will get that shift at that time. We recommend you consider other open shifts, and if we see you are under the minimum 6 hours, we will reach out to see where else you may be able to help out. You can also always send us an email with questions to volunteer@bsidessf.org.
  
 ## What if there are specific talks I want to go to?
+
 We understand that our volunteers may want to attend specific talks, whether it’s an interesting topic or just to show support for a friend or coworker. Share your preferences with your volunteer lead and we will do our best to accommodate your request.
 
 ## Can you provide proof of my volunteer hours?
+
 Absolutely! Reach out to volunteer@bsidessf.org after the conference and we will provide the necessary documentation. Note that you will be responsible for checking in and checking out with BSidesSF Event Volunteer registration to keep your hours accurate.
 
 ## Do you work with Benevity, etc. to facilitate donations based on matching volunteer hours?
 
 If your employer offers a [charitable giving program](https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=1799), they can donate money to BSidesSF based on your volunteer hours. Reach out to your company’s HR team for more information.
 
-BSidesSF is a [registered 501c3 nonprofit](https://projects.propublica.org/nonprofits/organizations/271830464) so if you like the work we do, we would really appreciate your employer’s donation!
+BSidesSF is a [registered 501(c)(3) non-profit](https://projects.propublica.org/nonprofits/organizations/271830464), so if you like the work we do, we would really appreciate your employer’s donation!
 
 ## Are there any other additional requirements this year?
+
 Vaccinations: In accordance with [San Francisco and California law](https://www.sfdph.org/dph/alerts/files/C19-07-Safer-Return-Together-Health-Order.pdf), we will be requiring ALL people affiliated with BSidesSF (leads, staff, volunteers, vendors, participants, etc.) to be fully vaccinated before they step into the conference area. If you are not fully vaccinated as [per CDC guidelines](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/fully-vaccinated.html) (this includes the 14-day “bake-in” period) by the day of the event, you WILL NOT be allowed into the conference area, and you WILL NOT be able to volunteer.
 
 Masks: At this time, the City of San Francisco [still requires](https://sf.gov/information/masks-and-face-coverings-added-protection-coronavirus) that people be masked when entering indoor venues with a large number of attendees. You should be prepared to show up with a mask for the days you’re at the conference.

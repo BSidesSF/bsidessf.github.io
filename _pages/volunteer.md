@@ -63,7 +63,7 @@ BSidesSF is a [registered 501(c)(3) non-profit](https://projects.propublica.org/
 
 ## Are there any other additional requirements this year?
 
-Please refer to our [COVID-19 Safety Policy](https://bsidessf.org/about/covid-19-safety-policy) for additional requirements prior to entering the event.
+Please refer to our [COVID-19 Safety Policy](/about/covid-19-safety-policy) for additional requirements prior to entering the event.
 
 ## How do I sign up???
 
@@ -71,7 +71,7 @@ We’re using Timecounts for managing event volunteer shifts this year so you wi
 
 ## What if I have further questions?
 
-Please reach out to volunteer@bsidessf.org, or to [\#volunteers](https://bsidessf.slack.com/archives/CNRNRRBS4) in Slack and tag @sarah or @jesse. You can [sign up here for Slack access](https://bsidessf-slack.herokuapp.com/).
+Please reach out to volunteer@bsidessf.org, or to [\#volunteers](https://bsidessf.slack.com/archives/CNRNRRBS4) in Slack and tag @sarah or @jesse.
 
 ---
 

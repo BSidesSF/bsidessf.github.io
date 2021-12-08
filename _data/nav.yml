@@ -13,6 +13,8 @@
       subhref: "/about/past-events"
     - subtitle: "Code of Conduct"
       subhref: "/about/code-of-conduct"
+    - subtitle: "COVID-19 Safety Policy"
+      subhref: "/about/covid-19-safety-policy"
     - subtitle: "Photo and Video Policy"
       subhref: "/about/photo-policy"
     - subtitle: "Privacy Policy"

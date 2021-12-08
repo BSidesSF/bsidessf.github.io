@@ -9,7 +9,7 @@ Your health and safety is our top priority. We are closely monitoring the health
 
 Please expect additional delays during registration to accommodate the implementation of our health and safety plan. Reminders will be sent out to all registered participants two weeks prior to the event to help ensure a smooth conference experience for all.
 
-**Vaccinations**: In accordance with [San Francisco and California law](https://www.sfdph.org/dph/alerts/files/C19-07-Safer-Return-Together-Health-Order.pdf), as a “Large Indoor Event”, all participants of BSidesSF (including leads, staff, volunteers, vendors, presenters, general participants, etc. -- this means everyone) must be fully vaccinated before they enter the conference area. If you are not fully vaccinated as per FDA or WHO guidelines (this includes any 14-day “bake-in” period) by the day of the event, you **will not** be allowed into the conference. For all participants, the last day to have completed your CDC-approved COVID-19 vaccinations is January 21, 2022.
+**Vaccinations**: In accordance with [San Francisco and California law](https://www.sfdph.org/dph/alerts/files/C19-07-Safer-Return-Together-Health-Order.pdf), as a "Large Indoor Event", all participants of BSidesSF (including leads, staff, volunteers, vendors, presenters, general participants, etc. -- this means everyone) must be fully vaccinated before they enter the conference area. If you are not fully vaccinated as per FDA or WHO guidelines (this includes any 14-day "bake-in" period) by the day of the event, you **will not** be allowed into the conference. For all participants, the last day to have completed your FDA-approved COVID-19 vaccinations is January 21, 2022.
 
 Medical, religious, or philosophical objections **will not** be accepted. We also highly recommend that if you are eligible that you have received your booster dose.
 
@@ -23,7 +23,7 @@ The name and birthdate on your ID and your proof of vaccination must match.
 
 We highly recommend that you bring your digital proof of vaccination for expedited processing.
 
-**Masks**: We will comply and enforce all relevant (local, state, federal) regulations that apply to an event of our size. At this time, San Francisco [requires](https://sf.gov/information/masks-and-face-coverings-added-protection-coronavirus) that people be masked when entering indoor venues with a large number of attendees, even if you are fully vaccinated. You must wear a mask for the entirety of the conference, except when you’re actively eating or drinking. Masks must be worn completely over both your mouth and nose.
+**Masks**: We will comply and enforce all relevant (local, state, federal) regulations that apply to an event of our size. At this time, San Francisco [requires](https://sf.gov/information/masks-and-face-coverings-added-protection-coronavirus) that people be masked when entering indoor venues with a large number of attendees, even if you are fully vaccinated. You must wear a mask for the entirety of the conference, except when you're actively eating or drinking. Masks must be worn completely over both your mouth and nose.
 
 <u>Failure to comply with our mask policy will result in removal from the event without refund or recourse.</u>
 
@@ -53,9 +53,9 @@ A good mask has a double layer of washable, breathable thick fabric that helps k
 
 **Handwashing**: Multiple bathrooms are available with soap and water. Instructions are posted reminding all participants to wash hands for at least 20 seconds in accordance with CDC/WHO guidelines.
 
-**Social distancing**:** **Remember that some people without symptoms may be able to spread virus. Where possible, we recommend that you stay at least 6 feet (about 2 arm lengths) away from other people, especially if you are at a higher risk of getting very sick.
+**Social distancing**: Remember that some people without symptoms may be able to spread virus. Where possible, we recommend that you stay at least 6 feet (about 2 arm lengths) away from other people, especially if you are at a higher risk of getting very sick.
 
-**Not feeling well?** Out of respect for everyone’s health, we ask that you do not attend if any of the following is true:
+**Not feeling well?** Out of respect for everyone's health, we ask that you do not attend if any of the following is true:
 
 * You are not feeling well.
 * You have any of the symptoms related to COVID-19, especially loss of taste or smell and/or fever.

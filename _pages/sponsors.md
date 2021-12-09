@@ -11,7 +11,9 @@ title: "Sponsors"
 
   <hr style="margin-bottom: 5px">
   <div style="text-align: center;" class="sponsors {{ class.class }}">
-    <h1>{{ class.level }}</h1>
+    {% if class.level %}
+      <h1>{{ class.level }}</h1>
+    {% endif %}
     <div class="row">
 
       {% for sponsor in class.sponsors %}
@@ -20,7 +22,9 @@ title: "Sponsors"
           {% continue %}
         {% endif %}
         <div class="column">
-          <h1>{{ sponsor.type }}</h1>
+          {% if sponsor.type %}
+            <h1>{{ sponsor.type }}</h1>
+          {% endif %}
           <a href="{{ sponsor.href }}" target="_blank">
             <div class="imgdiv">
               {% if sponsor.icon %}

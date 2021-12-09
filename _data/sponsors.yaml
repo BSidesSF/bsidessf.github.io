@@ -110,14 +110,12 @@
       href: "https://www.intezer.com/careers/"
       icon: "/images/sponsors_2022/Intezer.png"
 
-- level:
+- level: Tent
   sponsors:
-    - type: Tent
-      name: "Could Be You!"
+    - name: "Could Be You!"
       href: "https://drive.google.com/open?id=1fsH0yd14QCcyWlZomfeEVbLkt5LmpYKf"
       icon: "/images/sponsors_2022/BSidesSF_2022_SponsorshipCouldBeYou.png"
-    - type: Tent
-      name: "Could Be You!"
+    - name: "Could Be You!"
       href: "https://drive.google.com/open?id=1fsH0yd14QCcyWlZomfeEVbLkt5LmpYKf"
       icon: "/images/sponsors_2022/BSidesSF_2022_SponsorshipCouldBeYou.png"
 
@@ -128,36 +126,30 @@
       href: "https://careers.google.com/"
       icon: "/images/sponsors_2022/Google.png"
 
-- level:
+- level: Lanyard
   sponsors:
-    - type: Lanyard
-      name: "Doyensec"
+    - name: "Doyensec"
       href: "https://www.doyensec.com/careers.html"
       icon: "/images/sponsors_2022/Doyensec.png"
-    - type: Lanyard
-      name: "Panther Labs"
+    - name: "Panther Labs"
       href: "https://boards.greenhouse.io/pantherlabs"
       icon: "/images/sponsors_2022/PantherLabs.png"
 
-- level:
+- level: Happy Hour
   sponsors:
-    - type: Happy Hour
-      name: "Pentera"
+    - name: "Pentera"
       href: "https://www.pentera.io/careers/"
       icon: "/images/sponsors_2022/Pentera.png"
-    - type: Happy Hour
-      name: "Vectra AI"
+    - name: "Vectra AI"
       href: "https://www.vectra.ai/about/careers"
       icon: "/images/sponsors_2022/VectraAI.png"
 
-- level:
+- level: Village
   sponsors:
-    - type: Village
-      name: "Could Be You!"
+    - name: "Could Be You!"
       href: "https://drive.google.com/open?id=1fsH0yd14QCcyWlZomfeEVbLkt5LmpYKf"
       icon: "/images/sponsors_2022/BSidesSF_2022_SponsorshipCouldBeYou.png"
-    - type: Village
-      name: "Could Be You!"
+    - name: "Could Be You!"
       href: "https://drive.google.com/open?id=1fsH0yd14QCcyWlZomfeEVbLkt5LmpYKf"
       icon: "/images/sponsors_2022/BSidesSF_2022_SponsorshipCouldBeYou.png"
 
@@ -201,22 +193,18 @@
       href: "https://careers.arubanetworks.com/"
       icon: "/images/sponsors_2022/Aruba.png"
 
-- level:
+- level: Massage
   sponsors:
-    - type: Massage
-      name: "Sprinkles"
+    - name: "Sprinkles"
       href: "https://twitter.com/shh_kitties"
       icon: "/images/sponsors_2022/Sprinkles.jpg"
-    - type: Massage
-      name: "Could Be You!"
+    - name: "Could Be You!"
       href: "https://drive.google.com/open?id=1fsH0yd14QCcyWlZomfeEVbLkt5LmpYKf"
       icon: "/images/sponsors_2022/BSidesSF_2022_SponsorshipCouldBeYou.png"
-    - type: Massage
-      name: "Could Be You!"
+    - name: "Could Be You!"
       href: "https://drive.google.com/open?id=1fsH0yd14QCcyWlZomfeEVbLkt5LmpYKf"
       icon: "/images/sponsors_2022/BSidesSF_2022_SponsorshipCouldBeYou.png"
-    - type: Massage
-      name: "Could Be You!"
+    - name: "Could Be You!"
       href: "https://drive.google.com/open?id=1fsH0yd14QCcyWlZomfeEVbLkt5LmpYKf"
       icon: "/images/sponsors_2022/BSidesSF_2022_SponsorshipCouldBeYou.png"
 
@@ -239,9 +227,11 @@
       href: "https://trufflesecurity.com/"
       icon: "/images/sponsors_2022/TruffleSecurity.png"
 
-- level:
+- level: Special Thanks
   sponsors:
-    - type: Special Thanks
-      name: "Could Be You!"
+    - name: "O'Reilly Media"
+      href: "https://www.oreilly.com/careers/"
+      icon: "/images/sponsors_2022/OReillyMedia.png"
+    - name: "Could Be You!"
       href: "https://drive.google.com/open?id=1fsH0yd14QCcyWlZomfeEVbLkt5LmpYKf"
       icon: "/images/sponsors_2022/BSidesSF_2022_SponsorshipCouldBeYou.png"

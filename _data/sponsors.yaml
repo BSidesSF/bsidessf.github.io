@@ -1,22 +1,22 @@
 - level: Leading
   class: leading
   sponsors:
-    - icon: "/images/sponsors_2022/Adobe.png"
-      name: "Adobe"
+    - name: "Adobe"
       href: "https://www.adobe.com/careers.html"
-    - icon: "/images/sponsors_2022/AppOmni.png"
+      icon: "/images/sponsors_2022/Adobe.png"
+    - name: "AppOmni"
       href: "https://appomni.com/careers/"
-      name: "AppOmni"
-    - icon: "/images/sponsors_2022/CodeRedPartners.png"
-      name: "Code Red Partners"
+      icon: "/images/sponsors_2022/AppOmni.png"
+    - name: "Code Red Partners"
       href: "https://www.linkedin.com/company/coderedpartners"
+      icon: "/images/sponsors_2022/CodeRedPartners.png"
     - break: true
-    - icon: "/images/sponsors_2022/Google.png"
-      name: "Google"
+    - name: "Google"
       href: "https://careers.google.com/"
-    - icon: "/images/sponsors_2022/Uptycs.png"
-      name: "Uptycs"
+      icon: "/images/sponsors_2022/Google.png"
+    - name: "Uptycs"
       href: "https://www.uptycs.com/careers"
+      icon: "/images/sponsors_2022/Uptycs.png"
 
 - level: Contributing
   class: contrib
@@ -229,6 +229,9 @@
 
 - level: Special Thanks
   sponsors:
+    - name: "No Starch Press"
+      href: "https://nostarch.com/Jobs.htm"
+      icon: "/images/sponsors_2022/NoStarchPress.png"
     - name: "O'Reilly Media"
       href: "https://www.oreilly.com/careers/"
       icon: "/images/sponsors_2022/OReillyMedia.png"

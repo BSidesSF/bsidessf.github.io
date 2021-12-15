@@ -3,7 +3,7 @@ layout: page
 title: "COVID-19 Safety Policy"
 ---
 
-**Last Updated**: December 7, 2021
+**Last Updated**: December 15, 2021
 
 Your health and safety is our top priority. We are closely monitoring the health and safety orders provided by the City and County of San Francisco and the State of California. Things can change at any time, especially with the arrival of new variants. If we change this policy in any material way, we will provide updates via this page, our newsletter, blog, and social media.
 
@@ -39,7 +39,7 @@ A good mask has a double layer of washable, breathable thick fabric that helps k
 * It stays in place during talking and moving, so it can be worn without slipping and so it does not require you to touch it frequently.
 * The mask is comfortable enough to wear without adjusting it for the amount of time you need to keep it on.
 
-**Children**: If you bring a child under the age of 5, proof of vaccination is not required. However, said child must provide proof of a negative COVID-19 test within the last 72 hours. Children under the age of 2 are not required to wear a mask. All said, probably best to keep your young kids at home this year. Sorry!
+**Children**: If you bring a child under the age of 5, proof of vaccination is not required. However, said child must provide proof of a negative COVID-19 test within the last 24 hours for antigen tests and within 48 hours for PCR tests. Children under the age of 2 are not required to wear a mask. All said, probably best to keep your young kids at home this year. Sorry!
 
 **Hand sanitizer**: Hand sanitizer containing at least 60% alcohol is available throughout the event space. Please make liberal use of it.
 

@@ -60,7 +60,7 @@ layout: default
     </form>
 
     <p>
-       Free tickets are also available for volunteers with a six hour time commitment. Check out our <a href="/volunteer.html">volunteer opportunities</a> and help us make BSidesSF 2022 a success!
+       Free tickets are also available for volunteers with a six hour time commitment. Check out our <a href="/volunteer">volunteer opportunities</a> and help us make BSidesSF 2022 a success!
     </p>
   </section>
 

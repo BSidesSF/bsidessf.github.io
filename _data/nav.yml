@@ -34,7 +34,7 @@
   href: "/schedule"
 
 - title: "Tickets"
-  href: "/tickets"
+  external: "https://bsidessf.regfox.com/2022"
 
 - title: "Volunteer"
   href: "/volunteer"

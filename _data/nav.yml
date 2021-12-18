@@ -24,14 +24,17 @@
     - subtitle: "Donate"
       subhref: "/donate"
 
-- title: "Schedule"
-  href: "/schedule"
-
 - title: "Venue"
   href: "/venue"
 
 - title: "Sponsors"
   href: "/sponsors"
+
+- title: "Schedule"
+  href: "/schedule"
+
+- title: "Tickets"
+  href: "/tickets"
 
 - title: "Volunteer"
   href: "/volunteer"

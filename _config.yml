@@ -9,10 +9,10 @@ description: >
 url: https://bsidessf.org
 
 header: yes
-header_sm: images/bsides_logo_2022.png
-header_med: images/bsides_logo_2022.png
-header_large: images/bsides_logo_2022.png
-header_xl: images/bsides_logo_2022.png
+header_sm: images/bsides_logo_2022.jpg
+header_med: images/bsides_logo_2022.jpg
+header_large: images/bsides_logo_2022.jpg
+header_xl: images/bsides_logo_2022.jpg
 
 # Exclude our ruby stuff and other files
 exclude:

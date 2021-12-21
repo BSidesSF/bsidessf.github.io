@@ -1,5 +1,5 @@
 // Base Colors
-$primary-color: #534741; // brown
+$primary-color: #1E6126; // dark green
 $secondary-color: #2DB428; // light green
 $complimentary-color: #1F6026; // dark green
 $body-bg: #fff; // white
@@ -20,14 +20,14 @@ $base-line-height: 1.5;
 // Primary Navbar Settings
 $navbar-height: 44px;
 $navbar-color: $primary-color;
-$navbar-text-color: $secondary-color;
-$navbar-hover-color: lighten($complimentary-color, 60%);
-$navbar-active-color: #fff; // white
+$navbar-text-color: #fff; // white
+$navbar-hover-color: $secondary-color;
+$navbar-active-color: lighten($secondary-color, 20%);
 $navbar-font-size: 13px;
 $navbar-font-family: "Open Sans", Helvetica, Arial, sans-serif;
 
 // Socials Navbar Settings
-$socials-font-color: $secondary-color;
+$socials-font-color: #fff;
 $socials-font-size: 1.5em;
 
 // Utility

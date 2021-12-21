@@ -46,7 +46,7 @@
 	font-family: $navbar-font-family;
 	font-size: $navbar-font-size;
 	font-weight: 700;
-	color: $secondary-color;
+	color: $navbar-text-color;
 	text-transform: uppercase;
 	text-decoration: none;
 	
@@ -138,7 +138,7 @@
 	font-family: $navbar-font-family;
 	font-size: ($navbar-font-size * .92);
 	text-decoration: none;
-	color: $secondary-color;
+	color: $navbar-text-color;
 	font-weight: 400;
 	
 	/* Background & effects */

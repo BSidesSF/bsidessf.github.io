@@ -232,3 +232,6 @@
     - name: "O'Reilly Media"
       href: "https://www.oreilly.com/careers/"
       icon: "/images/sponsors_2022/OReillyMedia.png"
+    - name: "X-Force Red"
+      href: "https://www.ibm.com/employment/#jobs?&job-search=X-Force%20Red"
+      icon: "/images/sponsors_2022/XForceRed.png"

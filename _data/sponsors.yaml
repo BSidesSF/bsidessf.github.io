@@ -21,6 +21,9 @@
 - level: Contributing
   class: contrib
   sponsors:
+    - name: "Bridgecrew"
+      href: "https://jobs.paloaltonetworks.com/en/jobs/?search=Bridgecrew"
+      icon: "/images/sponsors_2022/Bridgecrew.png"
     - name: "Motorola Solutions"
       href: "https://www.motorolasolutions.com/en_us/about/careers.html"
       icon: "/images/sponsors_2022/MotorolaSolutions.png"
@@ -30,19 +33,16 @@
     - name: "Spyderbat"
       href: "https://www.spyderbat.com/careers"
       icon: "/images/sponsors_2022/Spyderbat.png"
+    - break: true
     - name: "StackHawk"
       href: "https://www.stackhawk.com/jobs/"
       icon: "/images/sponsors_2022/StackHawk.png"
-    - break: true
     - name: "Wazuh"
       href: "https://wazuh.com/our-team/"
       icon: "/images/sponsors_2022/Wazuh.png"
     - name: "Webflow"
       href: "https://webflow.com/careers"
       icon: "/images/sponsors_2022/Webflow.png"
-    - name: "Could Be You!"
-      href: "https://drive.google.com/open?id=1ebJjV0z51g5e48-c4FVNQyGfotKXq1UV"
-      icon: "/images/sponsors_2022/BSidesSF_2022_SponsorshipCouldBeYou.png"
     - name: "Could Be You!"
       href: "https://drive.google.com/open?id=1ebJjV0z51g5e48-c4FVNQyGfotKXq1UV"
       icon: "/images/sponsors_2022/BSidesSF_2022_SponsorshipCouldBeYou.png"

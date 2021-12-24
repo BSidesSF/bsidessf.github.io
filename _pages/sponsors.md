@@ -4,7 +4,7 @@ title: "Sponsors"
 ---
 
 <h3>Interested in sponsoring? Check out our
-  <a href="https://drive.google.com/open?id=1ebJjV0z51g5e48-c4FVNQyGfotKXq1UV">sponsorship kit</a>
+  <a href="https://drive.google.com/open?id=1n0YXuqwov6sMiZ9lMExd9N78FnmZh36v">sponsorship kit</a>
   and contact sponsors@bsidessf.org for more information.</h3>
 
 {% for class in site.data.sponsors %}

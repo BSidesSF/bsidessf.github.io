@@ -160,16 +160,17 @@
 - level:
   sponsors:
     - type: WiFi
+      name: "WiGLE"
       href: "https://wigle.net"
       icon: "/images/sponsors_2022/WiGLE.png"
-      name: "WiGLE"
 
 - level:
   sponsors:
     - type: Scholarship
-      href: "https://drive.google.com/open?id=1n0YXuqwov6sMiZ9lMExd9N78FnmZh36v"
-      icon: "/images/sponsors_2022/BSidesSF_2022_SponsorshipCouldBeYou.png"
-      name: "Could Be You!"
+      name: "Apple"
+      href: "https://www.apple.com/careers/us/"
+      icon: "/images/sponsors_2022/Apple.png"
+      credits: "The Apple logo is a trademark of Apple Inc., registered in the U.S. and other countries."
     - type: Presenter Gift
       name: "Maltego"
       href: "https://www.maltego.com/careers/"

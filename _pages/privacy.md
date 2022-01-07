@@ -3,7 +3,7 @@ layout: page
 title: "Privacy Policy"
 ---
 
-Last updated: 2021-03-09
+Last updated: 2022-01-06
 
 Security B-Sides ("BSidesSF", "us", "we", or "our") operates bsidessf.org, bsidessf.net, and other relevant domains and subdomains (the "Site").
 
@@ -13,9 +13,9 @@ This page informs you of our policies regarding the collection, use, and disclos
 
 BSidesSF uses various third party services to provide the Site, related services, and analyze their use. Please refer to the appropriate third party privacy policy for complete information on their privacy practices.
 
-* [CERVIS](https://www.cervistech.com/index.php/volunteer-management-software-privacy)
-
 * [Cloudflare](https://www.cloudflare.com/security-policy/)
+
+* [Coinbase](https://commerce.coinbase.com/legal/privacy-policy/)
 
 * [Donorbox](https://donorbox.org/privacy)
 
@@ -29,8 +29,6 @@ BSidesSF uses various third party services to provide the Site, related services
 
 * [PayPal](https://www.paypal.com/us/webapps/mpp/ua/privacy-full)
 
-* [Reddit](https://www.redditinc.com/policies/privacy-policy)
-
 * [Sched](https://sched.com/about/legal/privacy-policy)
 
 * [Shopify](https://www.shopify.com/legal/privacy)
@@ -43,7 +41,7 @@ BSidesSF uses various third party services to provide the Site, related services
 
 * [Stripe](https://stripe.com/privacy)
 
-* [Twilio](https://www.twilio.com/legal/privacy)
+* [Timecounts](https://timecounts.org/privacy)
 
 ## Cookies
 
@@ -87,7 +85,7 @@ BSidesSF's provider will use this information to validate your credit card purch
 
 ## Donations
 
-BSidesSF via its providers Donorbox, PayPal, Square, Stripe, and any sub-processors collects the following information in order to facilitate your donation(s):
+BSidesSF via its providers Coinbase, Donorbox, PayPal, Square, Stripe, and any sub-processors collects the following information in order to facilitate your donation(s):
 
 * Name
 
@@ -159,9 +157,9 @@ We will use this information to contact you and/or provide updates regarding the
 
 If you are interested in turning on your browser's privacy and Do Not Track settings, the [Do Not Track](http://donottrack.us/) website has browser-specific instructions.
 
-## Volunteer Registration - CERVIS
+## Volunteer Registration - Timecounts
 
-BSidesSF via its provider CERVIS collects the following information from volunteers:
+BSidesSF via its provider Timecounts collects the following information from volunteers:
 
 * Name
 
@@ -171,7 +169,7 @@ BSidesSF via its provider CERVIS collects the following information from volunte
 
 * T-shirt size
 
-We will use this information to contact you and/or provide updates regarding the volunteer positions you selected during signup. This may include text messages sent via Twilio. If you do not wish to volunteer after signing up, please contact volunteer[@]bsidessf.org to request removal from the volunteer list.
+We will use this information to contact you and/or provide updates regarding the volunteer positions you selected during signup. If you do not wish to volunteer after signing up, please contact volunteer[@]bsidessf.org to request removal from the volunteer list.
 
 # Disclosure
 

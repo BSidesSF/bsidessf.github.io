@@ -182,6 +182,19 @@
       name: "HackerOne"
       href: "https://www.hackerone.com/careers"
       icon: "/images/sponsors_2022/HackerOne.png"
+    - type: Menu
+      name: "Could Be You!"
+      href: "https://drive.google.com/open?id=1n0YXuqwov6sMiZ9lMExd9N78FnmZh36v"
+      icon: "/images/sponsors_2022/BSidesSF_2022_SponsorshipCouldBeYou.png"
+    - type: Menu
+      name: "Could Be You!"
+      href: "https://drive.google.com/open?id=1n0YXuqwov6sMiZ9lMExd9N78FnmZh36v"
+      icon: "/images/sponsors_2022/BSidesSF_2022_SponsorshipCouldBeYou.png"
+    - break: true
+    - type: Menu
+      name: "Could Be You!"
+      href: "https://drive.google.com/open?id=1n0YXuqwov6sMiZ9lMExd9N78FnmZh36v"
+      icon: "/images/sponsors_2022/BSidesSF_2022_SponsorshipCouldBeYou.png"
     - type: Water Bottle
       name: "Optiv & Fortinet"
       href: "https://www.optiv.com/company/careers"
@@ -217,9 +230,9 @@
       href: "https://apply.workable.com/tailscale/"
       icon: "/images/sponsors_2022/Tailscale.png"
     - type: Info Desk
-      name: "Could Be You!"
-      href: "https://drive.google.com/open?id=1n0YXuqwov6sMiZ9lMExd9N78FnmZh36v"
-      icon: "/images/sponsors_2022/BSidesSF_2022_SponsorshipCouldBeYou.png"
+      name: "Cribl"
+      href: "https://cribl.io/jobs/"
+      icon: "/images/sponsors_2022/Cribl.png"
     - type: Hand Sanitizer
       name: "Truffle Security"
       href: "https://trufflesecurity.com/"

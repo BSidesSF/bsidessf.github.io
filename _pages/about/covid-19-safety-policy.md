@@ -3,6 +3,8 @@ layout: page
 title: "COVID-19 Safety Policy"
 ---
 
+# THIS PAGE IS OUTDATED DUE TO RECENT HEALTH ORDER CHANGES -- UPDATED POLICY WILL BE MADE AVAILABLE CLOSER TO THE EVENT
+
 **Last Updated**: December 16, 2021
 
 Your health and safety is our top priority. We are closely monitoring the health and safety orders provided by the City and County of San Francisco and the State of California. Things can change at any time, especially with the arrival of new variants. If we change this policy in any material way, we will provide updates via this page, our newsletter, blog, and social media.

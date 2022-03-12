@@ -67,7 +67,7 @@ Please refer to our [COVID-19 Safety Policy](/about/covid-19-safety-policy) for 
 
 ## How do I sign up???
 
-We’re using Timecounts for managing event volunteer shifts this year so you will need to [create a Timecounts account first](https://timecounts.org/signup) and **verify your email address** before signing up for any shifts. Then you can sign up directly on the [BSidesSF Volunteer Shift Page](https://timecounts.org/bsidessf/events/37970).
+We’re using Timecounts for managing event volunteer shifts this year so you will need to [create a Timecounts account first](https://timecounts.org/signup) and **verify your email address** before signing up for any shifts. Then you can sign up directly on the [BSidesSF Volunteer Shift Page](https://timecounts.org/bsidessf/events/38611).
 
 ## What if I have further questions?
 

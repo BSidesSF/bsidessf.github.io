@@ -187,14 +187,14 @@
       href: "https://instacart.careers/"
       icon: "/images/sponsors_2022/Instacart.png"
     - type: Menu
+      name: "Intel"
+      href: "https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html"
+      icon: "/images/sponsors_2022/Intel.png"
+    - break: true
+    - type: Menu
       name: "Teleport"
       href: "https://goteleport.com/careers/"
       icon: "/images/sponsors_2022/Teleport.png"
-    - break: true
-    - type: Menu
-      name: "Could Be You!"
-      href: "https://drive.google.com/open?id=1PbDXgGF0KUwC4OEZ_N4zCBsDJ3bTimqx"
-      icon: "/images/sponsors_2022/BSidesSF_2022_SponsorshipCouldBeYou.png"
     - type: Water Bottle
       name: "Optiv & Fortinet"
       href: "https://www.optiv.com/company/careers"

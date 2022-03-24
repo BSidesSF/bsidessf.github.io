@@ -153,9 +153,9 @@
 - level:
   sponsors:
     - type: Graphic Recordings
-      name: "F-Secure"
-      href: "https://www.f-secure.com/en/about-us/careers"
-      icon: "/images/sponsors_2022/FSecure.png"
+      name: "WithSecure"
+      href: "https://www.withsecure.com/en/about-us/careers-at-withsecure"
+      icon: "/images/sponsors_2022/WithSecure.png"
 
 - level:
   sponsors:

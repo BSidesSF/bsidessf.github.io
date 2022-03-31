@@ -60,7 +60,7 @@
       href: "https://cyolo.io/careers/"
       icon: "/images/sponsors_2022/Cyolo.png"
     - name: "Intezer"
-      href: "https://www.intezer.com/careers/"
+      href: "https://www.intezer.com/"
       icon: "/images/sponsors_2022/Intezer.png"
     - break: true
     - name: "NeuraLegion"
@@ -107,7 +107,7 @@
   sponsors:
     - type: Party
       name: "Intezer"
-      href: "https://www.intezer.com/careers/"
+      href: "https://www.intezer.com/"
       icon: "/images/sponsors_2022/Intezer.png"
 
 - level: Tent

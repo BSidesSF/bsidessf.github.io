@@ -28,6 +28,7 @@ exclude:
     CNAME,
     README.md,
     LICENSE,
+    SECURITY.md,
   ]
 include: [.well-known]
 

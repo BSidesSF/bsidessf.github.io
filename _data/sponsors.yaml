@@ -53,22 +53,22 @@
     - name: "Avatao"
       href: "https://avatao.com/careers/"
       icon: "/images/sponsors_2022/Avatao.png"
+    - name: "Bright Security"
+      href: "https://brightsec.com/careers/"
+      icon: "/images/sponsors_2022/BrightSecurity.png"
     - name: "Corelight"
       href: "https://corelight.com/company/careers"
       icon: "/images/sponsors_2022/Corelight.png"
     - name: "Cyolo"
       href: "https://cyolo.io/careers/"
       icon: "/images/sponsors_2022/Cyolo.png"
+    - break: true
     - name: "Intezer"
       href: "https://www.intezer.com/"
       icon: "/images/sponsors_2022/Intezer.png"
-    - break: true
-    - name: "NeuraLegion"
-      href: "https://www.neuralegion.com/careers/"
-      icon: "/images/sponsors_2022/NeuraLegion.png"
     - name: "Panther"
       href: "https://panther.com/company/careers/"
-      icon: "/images/sponsors_2022/PantherLabs.png"
+      icon: "/images/sponsors_2022/Panther.png"
     - name: "Tines"
       href: "https://www.tines.com/careers"
       icon: "/images/sponsors_2022/Tines.png"
@@ -133,7 +133,7 @@
       icon: "/images/sponsors_2022/Doyensec.png"
     - name: "Panther"
       href: "https://panther.com/company/careers/"
-      icon: "/images/sponsors_2022/PantherLabs.png"
+      icon: "/images/sponsors_2022/Panther.png"
 
 - level: Happy Hour
   sponsors:

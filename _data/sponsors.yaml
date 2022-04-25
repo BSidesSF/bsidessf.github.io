@@ -206,6 +206,9 @@
 
 - level: Massage
   sponsors:
+    - name: "Code42"
+      href: "https://www.code42.com/careers/"
+      icon: "/images/sponsors_2022/Code42.png"
     - name: "Sprinkles"
       href: "https://twitter.com/shh_kitties"
       icon: "/images/sponsors_2022/Sprinkles.jpg"

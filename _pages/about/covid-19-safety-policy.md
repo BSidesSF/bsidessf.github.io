@@ -3,7 +3,7 @@ layout: page
 title: "COVID-19 Safety Policy"
 ---
 
-**Last Updated**: April 16, 2022
+**Last Updated**: May 9, 2022
 
 Your health and safety is our top priority. We are closely monitoring the health and safety orders provided by the City and County of San Francisco and the State of California. Things can change at any time, especially with the arrival of new variants. If we change this policy in any material way, we will provide updates via this page, our newsletter, blog, and social media.
 
@@ -25,9 +25,23 @@ We highly recommend that you bring your digital proof of vaccination for expedit
 
 **Wristbands**: Once your vaccination status has been confirmed, you will be issued a wristband. Wristbands must be worn visibly for the duration of your stay at the event. If you need to replace your wristband, please visit registration for a new vaccination check.
 
-**Masks**: [San Francisco no longer requires masks](https://sf.gov/information/know-when-masks-are-needed) for indoor [Mega-Events](https://www.sfdph.org/dph/alerts/files/C19-07-Safer-Return-Together-Health-Order.pdf) and recommends individuals wear a mask based on personal comfort level.
+**Masks**: Based on recent increases in COVID-19 cases in the San Francisco Bay Area, we are **requiring** that all participants of BSidesSF wear a mask for the entirety of the conference, except when you're actively eating or drinking. Masks must be worn completely over both your mouth and nose.
 
-**Children**: If you bring a child under the age of 5, proof of vaccination is not required. However, said child must provide proof of a negative COVID-19 test within the last 24 hours for antigen tests and within 48 hours for PCR tests. You will need to stop at registration daily for a check of test results and to get a special daily wristband. All said, it might be best to keep your young kids at home this year. Sorry!
+<u>Failure to comply with our mask policy will result in removal from the event without refund or recourse.</u>
+
+A bandanna, gaiter (a tube of thin, stretchy knit fabric that can be worn around the neck and pulled up to cover the nose and mouth), face shield only, or masks with exhalation valves are **not** permitted.
+
+A good mask has a double layer of washable, breathable thick fabric that helps keep the wearer from spreading potentially infected droplets into the air. In addition:
+
+* It is worn consistently and appropriately.
+* A mask that is frequently pulled down to breathe or talk, or is worn under the nose, is not effective.
+* The mask conforms to your face without gaps — it is important that most of the air you breathe in and out flows through the mask rather than around the mask through gaps at the sides, top, or bottom.
+* It is made from several layers of tightly woven fabric in order to be an effective filter.
+* The mask has a flexible nose bridge to conform to the face and prevent fogging of eyeglasses.
+* It stays in place during talking and moving, so it can be worn without slipping and so it does not require you to touch it frequently.
+* The mask is comfortable enough to wear without adjusting it for the amount of time you need to keep it on.
+
+**Children**: If you bring a child under the age of 5, proof of vaccination is not required. However, said child must provide proof of a negative COVID-19 test within the last 24 hours for antigen tests and within 48 hours for PCR tests. Children under the age of 2 are not required to wear a mask. You will need to stop at registration daily for a check of test results and to get a special daily wristband. All attendees 2 years and older must comply with our mask policy. All said, probably best to keep your young kids at home this year. Sorry!
 
 **Hand sanitizer**: Hand sanitizer containing at least 60% alcohol is available throughout the event space. Please make liberal use of it.
 

@@ -31,7 +31,7 @@ Be careful with the words that you choose. We are a community of professionals, 
 
 When we disagree, try to understand why. Disagreements, both social and technical, happen all the time, and the BSidesSF community is no exception. We must resolve disputes and differing views constructively. Remember that we're different. The strength of our community comes from its varied perspectives. We pride ourselves on being people from a diverse range of backgrounds. We thrive because other people have different views on issues. Being unable to understand why someone holds a viewpoint doesn't mean that they're wrong. Don't forget that it is human to err, and blaming each other doesn't get us anywhere. Instead, focus on helping to resolve issues and learning from mistakes.
 
-If you have any issue or witness any behavior by any participant, staff, or volunteer (no matter who they are) that is not consistent with our Code of Conduct, please report it to a staff member or to a member of our Public Safety Team. They will call our Incident Response Team, who will take an official incident report and determine the next steps.
+If you have any issue or witness any behavior by any participant, staff, or volunteer (no matter who they are) that is not consistent with our Code of Conduct, please report it to a staff member or to a member of our Safety Ops Team. They will call our Incident Response Team, who will take an official incident report and determine the next steps.
 
 For other non-event related incident concerns, e-mail _incident@bsidessf.org_ for assistance.
 

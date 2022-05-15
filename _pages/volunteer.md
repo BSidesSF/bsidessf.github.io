@@ -35,7 +35,7 @@ We group our volunteer opportunities into several pools.
 
 - **Room Moderators** - these roles require that you are comfortable acting as an MC for event talks/workshops. This means you should be able to communicate clearly for both the speaker’s and the audience’s benefit, and ideally have a strong command of the English language.
 
-- **Public Safety** - these roles overall will require strong mobility and communication skills.
+- **Safety Ops** - these roles overall will require strong mobility and communication skills.
 
 When you sign up for a shift slot, you will pick one of these larger pools and you will work in one or more of the given roles inside that pool depending on volunteer availability and accessibility needs. See the descriptions below for more information about each opportunity.
 

@@ -3,7 +3,7 @@ layout: page
 title: "COVID-19 Safety Policy"
 ---
 
-**Last Updated**: May 9, 2022
+**Last Updated**: May 17, 2022
 
 Your health and safety is our top priority. We are closely monitoring the health and safety orders provided by the City and County of San Francisco and the State of California. Things can change at any time, especially with the arrival of new variants. If we change this policy in any material way, we will provide updates via this page, our newsletter, blog, and social media.
 
@@ -25,7 +25,7 @@ We highly recommend that you bring your digital proof of vaccination for expedit
 
 **Wristbands**: Once your vaccination status has been confirmed, you will be issued a wristband. Wristbands must be worn visibly for the duration of your stay at the event. If you need to replace your wristband, please visit registration for a new vaccination check.
 
-**Masks**: Based on recent increases in COVID-19 cases in the San Francisco Bay Area, we are **requiring** that all participants of BSidesSF wear a mask for the entirety of the conference, except when you're actively eating or drinking. Masks must be worn completely over both your mouth and nose.
+**Masks**: Based on recent increases in COVID-19 cases in the San Francisco Bay Area, we are **requiring** that all participants of BSidesSF wear a mask while inside for the entirety of the conference, except when you are 1) actively eating or drinking; or 2) a presenter actively giving your talk/workshop. Masks must be worn completely over both your mouth and nose.
 
 <u>Failure to comply with our mask policy will result in removal from the event without refund or recourse.</u>
 
@@ -55,7 +55,7 @@ A good mask has a double layer of washable, breathable thick fabric that helps k
 
 **Handwashing**: Multiple bathrooms are available with soap and water. Instructions are posted reminding all participants to wash hands for at least 20 seconds in accordance with CDC/WHO guidelines.
 
-**Signage**: Signage highlighting healthy habits will be posted in throughout the event space.
+**Signage**: Signage highlighting healthy habits will be posted throughout the event space.
 
 **Not feeling well?** Out of respect for everyone's health, we ask that you do not attend if any of the following is true:
 

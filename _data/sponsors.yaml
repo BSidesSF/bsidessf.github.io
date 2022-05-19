@@ -234,19 +234,25 @@
 
 - level: Special Thanks
   sponsors:
+    - name: "Bidwell Design"
+      href: "https://www.bidwelldesign.com/"
+      icon: "/images/sponsors_2022/BidwellDesign.png"
+    - name: "JupiterOne"
+      href: "https://jupiterone.com/careers/"
+      icon: "/images/sponsors_2022/JupiterOne.png"
     - name: "No Starch Press"
       href: "https://nostarch.com/Jobs.htm"
       icon: "/images/sponsors_2022/NoStarchPress.png"
     - name: "O'Reilly Media"
       href: "https://www.oreilly.com/careers/"
       icon: "/images/sponsors_2022/OReillyMedia.png"
+    - break: true
     - name: "RSA Conference 2022"
       href: "https://www.rsaconference.com/usa"
       icon: "/images/sponsors_2022/RSAConference2022.png"
     - name: "Slido"
       href: "https://www.sli.do/careers"
       icon: "/images/sponsors_2022/Slido.png"
-    - break: true
     - name: "IBM X-Force Red"
       href: "https://www.ibm.com/employment/#jobs?&job-search=X-Force%20Red"
       icon: "/images/sponsors_2022/XForceRed.png"

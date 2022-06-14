@@ -1,0 +1,67 @@
+picture_path: posters_2022
+pictures:
+  - filename: KingmanInk-BSidesSF2022-Day1-01-Bow
+    original: KingmanInk-BSidesSF2022-Day1-01-Bow.jpg
+    thumbnail: KingmanInk-BSidesSF2022-Day1-01-Bow-thumbnail.jpg
+    title: "We Need More Mediocre Security Engineers"
+    caption: "Jackie Bow"
+  - filename: KingmanInk-BSidesSF2022-Day1-02-Dreixler-Landers
+    original: KingmanInk-BSidesSF2022-Day1-02-Dreixler-Landers.jpg
+    thumbnail: KingmanInk-BSidesSF2022-Day1-02-Dreixler-Landers-thumbnail.jpg
+    title: "An Unlikely Friendship: Why Security Engineers and Product Managers Should Be Working Together"
+    caption: "Leif Dreizler • Rachel Landers"
+  - filename: KingmanInk-BSidesSF2022-Day1-03-Nicole-Ryan
+    original: KingmanInk-BSidesSF2022-Day1-03-Nicole-Ryan.jpg
+    thumbnail: KingmanInk-BSidesSF2022-Day1-03-Nicole-Ryan-thumbnail.jpg
+    title: "Go With The (Work)flow"
+    caption: "Ryan Robinson • Nicole Fishbein"
+  - filename: KingmanInk-BSidesSF2022-Day1-04-Boland
+    original: KingmanInk-BSidesSF2022-Day1-04-Boland.jpg
+    thumbnail: KingmanInk-BSidesSF2022-Day1-04-Boland-thumbnail.jpg
+    title: "Read the Fantastic Manual: Writing Security Docs People Will Actually Read"
+    caption: "Breanne Boland"
+  - filename: KingmanInk-BSidesSF2022-Day1-05-Loehr
+    original: KingmanInk-BSidesSF2022-Day1-05-Loehr.jpg
+    thumbnail: KingmanInk-BSidesSF2022-Day1-05-Loehr-thumbnail.jpg
+    title: "Emerging Best Practices in Software Supply Chain Security: What We Can Learn from Google, the White House, OWASP, and Gartner"
+    caption: "Tony Loehr"
+  - filename: KingmanInk-BSidesSF2022-Day1-06-Fortuna-Nagra
+    original: KingmanInk-BSidesSF2022-Day1-06-Fortuna-Nagra.jpg
+    thumbnail: KingmanInk-BSidesSF2022-Day1-06-Fortuna-Nagra-thumbnail.jpg
+    title: "Achieving the Web Isolation Nirvana - How far along are we?"
+    caption: "Pedro Fortuna • Jasvir Nagra"
+  - filename: KingmanInk-BSidesSF2022-Day2-01-Singhal
+    original: KingmanInk-BSidesSF2022-Day2-01-Singhal.jpg
+    thumbnail: KingmanInk-BSidesSF2022-Day2-01-Singhal-thumbnail.jpg
+    title: "Building sustainable security programs"
+    caption: "Astha Singhal"
+  - filename: KingmanInk-BSidesSF2022-Day2-02-Jackson
+    original: KingmanInk-BSidesSF2022-Day2-02-Jackson.jpg
+    thumbnail: KingmanInk-BSidesSF2022-Day2-02-Jackson-thumbnail.jpg
+    title: "Exposed secrets - How public git repositories and docker images expose millions of secrets like API keys and security certificates every year"
+    caption: "Mackenzie Jackson"
+  - filename: KingmanInk-BSidesSF2022-Day2-03-Dai-Hardaway
+    original: KingmanInk-BSidesSF2022-Day2-03-Dai-Hardaway.jpg
+    thumbnail: KingmanInk-BSidesSF2022-Day2-03-Dai-Hardaway-thumbnail.jpg
+    title: "The power of guardrails: How to slash your risk of XSS in half"
+    caption: "Colleen Dai • Grayson Hardaway"
+  - filename: KingmanInk-BSidesSF2022-Day2-04-MetaBadger
+    original: KingmanInk-BSidesSF2022-Day2-04-MetaBadger.jpg
+    thumbnail: KingmanInk-BSidesSF2022-Day2-04-MetaBadger-thumbnail.jpg
+    title: "Metabadger: Automating IMDS Protection at Scale in AWS"
+    caption: "Ashish Patel"
+  - filename: KingmanInk-BSidesSF2022-Day2-05-Mirzaei
+    original: KingmanInk-BSidesSF2022-Day2-05-Mirzaei.jpg
+    thumbnail: KingmanInk-BSidesSF2022-Day2-05-Mirzaei-thumbnail.jpg
+    title: "Practical Threat Hunting With Machine Learning"
+    caption: "Omid Mirzaei • Craig Chamberlain"
+  - filename: KingmanInk-BSidesSF2022-Day2-06-Ruth
+    original: KingmanInk-BSidesSF2022-Day2-06-Ruth.jpg
+    thumbnail: KingmanInk-BSidesSF2022-Day2-06-Ruth-thumbnail.jpg
+    title: "Attacking and Defending Infrastructure with Terraform: How we got admin across cloud environments"
+    caption: "Mike Ruth • Francisco Oca"
+  - filename: KingmanInk-BSidesSF2022-Day2-07-Aviat-Turckheim
+    original: KingmanInk-BSidesSF2022-Day2-07-Aviat-Turckheim.jpg
+    thumbnail: KingmanInk-BSidesSF2022-Day2-07-Aviat-Turckheim-thumbnail.jpg
+    title: "XSS mitigation: the state of the art"
+    caption: "Jean-Baptiste Aviat • Vladimir de Turckheim"

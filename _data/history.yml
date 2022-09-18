@@ -7,17 +7,26 @@
 #
 ###
 
+- "year": "2022"
+  categories:
+    - title: "Videos"
+      external: "https://www.youtube.com/playlist?list=PLbZzXF2qC3RtbIyOKsjYzAN6rIjsKiZCt"
+    - title: "Posters"
+      href: "/graphic-recordings/2022.html"
+    - title: "Schedule"
+      external: "https://bsidessf2022.sched.com/"
+
 - "year": "2021"
   categories:
     - title: "Videos"
-      external: "https://www.youtube.com/watch?v=ljBju-TONss&list=PLbZzXF2qC3RvWn6Nne_Jj8IkLXZP3tgE6"
+      external: "https://www.youtube.com/playlist?list=PLbZzXF2qC3RvWn6Nne_Jj8IkLXZP3tgE6"
     - title: "Schedule"
       external: "https://bsidessf2021.sched.com/"
 
 - "year": "2020"
   categories:
     - title: "Videos"
-      external: "https://www.youtube.com/watch?v=QBQXfOUahz4&list=PLbZzXF2qC3RvlcHIxrqrsN1XhwHX8SQ-g"
+      external: "https://www.youtube.com/playlist?list=PLbZzXF2qC3RvlcHIxrqrsN1XhwHX8SQ-g"
     - title: "Posters"
       href: "/graphic-recordings/2020.html"
     - title: "Schedule"
@@ -28,7 +37,7 @@
 - "year": "2019"
   categories:
     - title: "Videos"
-      external: "https://www.youtube.com/watch?v=2KfZJRsacNM&list=PLbZzXF2qC3RvGRbNQwKcf2KVaTCjzOB8o"
+      external: "https://www.youtube.com/playlist?list=PLbZzXF2qC3RvGRbNQwKcf2KVaTCjzOB8o"
     - title: "Posters"
       href: "/graphic-recordings/2019.html"
     - title: "Schedule"
@@ -39,7 +48,7 @@
 - "year": "2018"
   categories:
     - title: "Videos"
-      external: "https://www.youtube.com/watch?v=Gh8C2G3qHIw&list=PLbZzXF2qC3RuL2K7KQVHe0aqdXbZC9Lnz"
+      external: "https://www.youtube.com/playlist?list=PLbZzXF2qC3RuL2K7KQVHe0aqdXbZC9Lnz"
     - title: "Posters"
       href: "/graphic-recordings/2018.html"
     - title: "Schedule"
@@ -50,7 +59,7 @@
 - "year": "2017"
   categories:
     - title: "Videos"
-      external: "https://www.youtube.com/watch?v=LxvkAN_TSKQ&list=PLbZzXF2qC3Rsv-7uUugKLaz5CzQUnuAk8"
+      external: "https://www.youtube.com/playlist?list=PLbZzXF2qC3Rsv-7uUugKLaz5CzQUnuAk8"
     - title: "Schedule"
       external: "https://bsidessf2017.sched.com/"
     - title: "Security BSides Wiki"
@@ -59,7 +68,7 @@
 - year: "2016"
   categories:
     - title: "Videos"
-      external: "https://www.youtube.com/watch?v=8nwcZs7cMxk&list=PLbZzXF2qC3RuSwuyJLQ6Hrx1ps9No6Lso"
+      external: "https://www.youtube.com/playlist?list=PLbZzXF2qC3RuSwuyJLQ6Hrx1ps9No6Lso"
     - title: "Schedule"
       external: "https://bsidessf2016.sched.com/"
     - title: "Security BSides Wiki"
@@ -85,7 +94,7 @@
 - year: "2012"
   categories:
     - title: "Videos"
-      external: "https://www.youtube.com/watch?v=4jA6_cqSneY&list=PLbZzXF2qC3RvjNaKOwD7qzJYnRaKYvSE4"
+      external: "https://www.youtube.com/playlist?list=PLbZzXF2qC3RvjNaKOwD7qzJYnRaKYvSE4"
     - title: "Security BSides Wiki"
       external: "http://www.securitybsides.com/w/page/47572893/BSidesSanFrancisco2012"
 

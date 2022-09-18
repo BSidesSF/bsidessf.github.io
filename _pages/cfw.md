@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "BSidesSF 2022 Call For Workshops"
+title: "BSidesSF 2023 Call For Workshops"
 ---
 
-The BSidesSF 2022 CFW is now closed. See all our amazing presenters June 4-5, 2022 in San Francisco.
+The BSidesSF 2023 CFW has not yet opened. Stay tuned for more information.
 
 Questions? E-mail workshops [at] bsidessf.org

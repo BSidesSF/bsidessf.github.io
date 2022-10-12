@@ -67,7 +67,7 @@
 
 // Header
 header[role="banner"] {
-  background: linear-gradient($header-gradient-start, $header-gradient-end);
+  background: url($header-background-img);
 }
 
 // Footer

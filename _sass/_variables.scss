@@ -7,7 +7,7 @@ $body-font-color: $complimentary-color;
 
 // Links
 $link-color: $secondary-color;
-$link-hover-color: darken($body-font-color, 20%);
+$link-hover-color: darken($secondary-color, 40%);
 $link-visited-color: darken($secondary-color, 10%);
 
 // Text
@@ -21,14 +21,15 @@ $base-line-height: 1.5;
 $navbar-height: 44px;
 $navbar-color: $primary-color;
 $navbar-text-color: #fff; // white
-$navbar-hover-color: $secondary-color;
-$navbar-active-color: lighten($secondary-color, 20%);
+$navbar-hover-color: darken($secondary-color, 25%);
+$navbar-active-color: lighten($secondary-color, 25%);
 $navbar-font-size: 13px;
 $navbar-font-family: "Open Sans", Helvetica, Arial, sans-serif;
 
 // Socials Navbar Settings
-$socials-font-color: #fff;
+$socials-font-color: #fff; // white
 $socials-font-size: 1.5em;
+$socials-border-color: #fff; // white
 
 // Utility
 $spacing-unit: 30px;

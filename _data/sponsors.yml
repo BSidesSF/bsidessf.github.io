@@ -76,12 +76,12 @@ levels:
       href: "https://netography.com/netography-careers/"
       icon: "/images/sponsors_2023/Netography.png"
     - break: true
-    - name: "Could Be You!"
-      href: ""
-      icon: "/images/sponsors_2023/BSidesSF_2023_SponsorshipCouldBeYou.png"
-    - name: "Could Be You!"
-      href: ""
-      icon: "/images/sponsors_2023/BSidesSF_2023_SponsorshipCouldBeYou.png"
+    - name: "SOFTwarfare"
+      href: "https://www.softwarfare.com/"
+      icon: "/images/sponsors_2023/SOFTwarfare.png"
+    - name: "Truffle Security"
+      href: "https://trufflesecurity.com/careers/"
+      icon: "/images/sponsors_2023/TruffleSecurity.png"
 
 - level:
   sponsors:

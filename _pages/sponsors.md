@@ -4,10 +4,10 @@ title: "Sponsors"
 ---
 
 <h3>Interested in sponsoring? Check out our
-  <a href="https://drive.google.com/open?id=1wJ37FxBTWxHMpD1lFi82tAaalLZgFQ5p">sponsorship kit</a>
+  <a href="{{ site.data.sponsors.sponsorship_kit_url }}">sponsorship kit</a>
   and contact sponsors@bsidessf.org for more information.</h3>
 
-{% for class in site.data.sponsors %}
+{% for class in site.data.sponsors.levels %}
 
   <hr style="margin-bottom: 5px">
   <div style="text-align: center;" class="sponsors {{ class.class }}">
@@ -25,7 +25,11 @@ title: "Sponsors"
           {% if sponsor.type %}
             <h1>{{ sponsor.type }}</h1>
           {% endif %}
-          <a href="{{ sponsor.href }}" target="_blank">
+          {% if sponsor.name == "Could Be You!" %}
+            <a href="{{ site.data.sponsors.sponsorship_kit_url }}" target="_blank">
+          {% else %}
+            <a href="{{ sponsor.href }}" target="_blank">
+          {% endif %}
             <div class="imgdiv">
               {% if sponsor.icon %}
                 <img src="{{ site.url }}{{ sponsor.icon }}" alt="{{ sponsor.name }}" />
@@ -53,7 +57,7 @@ title: "Sponsors"
   </p>
   <p>
     <em>
-      {% for class in site.data.sponsors %}
+      {% for class in site.data.sponsors.levels %}
         {% for sponsor in class.sponsors %}
           {{ sponsor.credits }}
         {% endfor %}

@@ -46,15 +46,15 @@ levels:
 - level: Supporting
   class: supporting
   sponsors:
+    - name: "Maltego"
+      href: "https://www.maltego.com/careers/"
+      icon: "/images/sponsors_2023/Maltego.jpg"
     - name: "Panther"
       href: "https://panther.com/company/careers/"
       icon: "/images/sponsors_2023/Panther.jpg"
     - name: "Thinkst Canary"
       href: "https://canary.tools/hiring"
       icon: "/images/sponsors_2023/ThinkstCanary.png"
-    - name: "Could Be You!"
-      href: ""
-      icon: "/images/sponsors_2023/BSidesSF_2023_SponsorshipCouldBeYou.png"
     - break: true
     - name: "Could Be You!"
       href: ""

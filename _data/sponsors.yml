@@ -59,9 +59,9 @@ levels:
     - name: "Wiz"
       href: "https://www.wiz.io/careers"
       icon: "/images/sponsors_2023/Wiz.png"
-    - name: "Could Be You!"
-      href: ""
-      icon: "/images/sponsors_2023/BSidesSF_2023_SponsorshipCouldBeYou.png"
+    - name: "Uptycs"
+      href: "https://www.uptycs.com/careers"
+      icon: "/images/sponsors_2023/Uptycs.png"
     - name: "Could Be You!"
       href: ""
       icon: "/images/sponsors_2023/BSidesSF_2023_SponsorshipCouldBeYou.png"
@@ -166,9 +166,9 @@ levels:
       href: ""
       icon: "/images/sponsors_2023/BSidesSF_2023_SponsorshipCouldBeYou.png"
     - type: Presenter Gift
-      name: "Could Be You!"
-      href: ""
-      icon: "/images/sponsors_2023/BSidesSF_2023_SponsorshipCouldBeYou.png"
+      name: "Doyensec"
+      href: "https://doyensec.com/careers.html"
+      icon: "/images/sponsors_2023/Doyensec.png"
 
 - level:
   sponsors:

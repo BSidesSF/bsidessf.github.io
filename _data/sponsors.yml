@@ -142,9 +142,9 @@ levels:
 - level:
   sponsors:
     - type: Scholarship
-      name: "Could Be You!"
-      href: ""
-      icon: "/images/sponsors_2023/BSidesSF_2023_SponsorshipCouldBeYou.png"
+      name: "Marsh"
+      href: "https://careers.marshmclennan.com/global/en/marsh"
+      icon: "/images/sponsors_2023/Marsh.png"
     - type: WiFi
       name: "Could Be You!"
       href: ""

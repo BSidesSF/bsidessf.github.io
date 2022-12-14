@@ -3,12 +3,12 @@ levels:
 - level: Leading
   class: leading
   sponsors:
+    - name: "Adobe"
+      href: "https://careers.adobe.com/us/en"
+      icon: "/images/sponsors_2023/Adobe.png"
     - name: "Code Red Partners"
       href: "https://coderedpartners.com/search-jobs/"
       icon: "/images/sponsors_2023/CodeRedPartners.png"
-    - name: "Could Be You!"
-      href: ""
-      icon: "/images/sponsors_2023/BSidesSF_2023_SponsorshipCouldBeYou.png"
     - name: "Could Be You!"
       href: ""
       icon: "/images/sponsors_2023/BSidesSF_2023_SponsorshipCouldBeYou.png"
@@ -29,9 +29,9 @@ levels:
     - name: "Semgrep"
       href: "https://semgrep.dev/"
       icon: "/images/sponsors_2023/Semgrep.png"
-    - name: "Could Be You!"
-      href: ""
-      icon: "/images/sponsors_2023/BSidesSF_2023_SponsorshipCouldBeYou.png"
+    - name: "Snyk"
+      href: "https://snyk.io/careers/"
+      icon: "/images/sponsors_2023/Snyk.png"
     - break: true
     - name: "Could Be You!"
       href: ""

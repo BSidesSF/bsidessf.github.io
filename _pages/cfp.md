@@ -19,6 +19,10 @@ BSidesSF will take place in San Francisco from April 22-23, 2023. The Call for P
 
 Check out the [Call for Workshops](/cfp/workshops).
 
+# **Villages**
+
+Check out the [Call for Villages](/cfp/villages).
+
 # **Talks**
 
 April 22-23, 2023

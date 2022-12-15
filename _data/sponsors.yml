@@ -9,9 +9,9 @@ levels:
     - name: "Code Red Partners"
       href: "https://coderedpartners.com/search-jobs/"
       icon: "/images/sponsors_2023/CodeRedPartners.png"
-    - name: "Could Be You!"
-      href: ""
-      icon: "/images/sponsors_2023/BSidesSF_2023_SponsorshipCouldBeYou.png"
+    - name: "Google"
+      href: "https://careers.google.com/"
+      icon: "/images/sponsors_2023/Google.png"
     - break: true
     - name: "Could Be You!"
       href: ""

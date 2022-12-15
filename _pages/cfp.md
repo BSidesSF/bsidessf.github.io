@@ -33,8 +33,6 @@ Please note that all talks are limited to two presenters only. Panels are limite
 # **Important Dates**
 
 - October 13, 2022 – Call for submissions opens
-- November 29, 2022 – Paper proposals for early-bird consideration due
-- December 13, 2022 – First round presenters notified
 - January 8, 2023 – Final due date for all submissions, rolling notifications begin
 - January 22, 2023 – All notifications, including waitlist, sent
 - February 7, 2023 – Participation confirmed by presenters and details finalized

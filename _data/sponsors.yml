@@ -23,22 +23,22 @@ levels:
 - level: Contributing
   class: contrib
   sponsors:
+    - name: "ForAllSecure"
+      href: "https://forallsecure.com/careers"
+      icon: "/images/sponsors_2023/ForAllSecure.png"
     - name: "Kondukto"
       href: "https://kondukto.io/careers"
       icon: "/images/sponsors_2023/Kondukto.png"
     - name: "Prisma Cloud"
       href: "https://jobs.paloaltonetworks.com/en/jobs/?search=Prisma+Cloud"
       icon: "/images/sponsors_2023/PaloAltoNetworks.png"
+    - break: true
     - name: "Semgrep"
       href: "https://semgrep.dev/"
       icon: "/images/sponsors_2023/Semgrep.png"
-    - break: true
     - name: "Snyk"
       href: "https://snyk.io/careers/"
       icon: "/images/sponsors_2023/Snyk.png"
-    - name: "Could Be You!"
-      href: ""
-      icon: "/images/sponsors_2023/BSidesSF_2023_SponsorshipCouldBeYou.png"
     - name: "Could Be You!"
       href: ""
       icon: "/images/sponsors_2023/BSidesSF_2023_SponsorshipCouldBeYou.png"

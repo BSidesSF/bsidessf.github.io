@@ -55,6 +55,6 @@ Please note that all talks are limited to two presenters only. Panels are limite
 
 # **Submit to the CFP**
 
-To submit your presentation, please go **---> [here!](https://www.papercall.io/bsidessf-2023) <---**
+To submit your presentation, please go **---> [here!](https://pretalx.com/bsidessf2023) <---**
 
 Questions? E-mail program [at] bsidessf.org

@@ -3,7 +3,7 @@ layout: page
 title: "Privacy Policy"
 ---
 
-Last updated: 2022-12-22
+Last updated: 2022-12-27
 
 Security B-Sides ("BSidesSF", "us", "we", or "our") operates bsidessf.org, bsidessf.net, and other relevant domains and subdomains (the "Site").
 
@@ -25,11 +25,10 @@ BSidesSF uses various third party services to provide the Site, related services
 
 * [Mailchimp](https://mailchimp.com/legal/privacy/)
 
-* [PaperCall](https://www.papercall.io/terms_of_use)
-
 * [PayPal](https://www.paypal.com/us/webapps/mpp/ua/privacy-full)
 
 * [pretalx](https://pretalx.com/p/privacy)
+
 * [Sched](https://sched.com/about/legal/privacy-policy)
 
 * [Shopify](https://www.shopify.com/legal/privacy)
@@ -140,9 +139,9 @@ BSidesSF via its provider Slido collects the following information from feedback
 
 We will use this information to contact you and/or provide updates regarding the feedback / Q&A you submitted. If you do not wish for us to retain this information, please contact info[@]bsidessf.org to request removal.
 
-## Talk Submissions
+## Talk Submissions - pretalx
 
-BSidesSF via its providers PaperCall and pretalx collects the following information from presentation submitters:
+BSidesSF via its provider pretalx collects the following information from presentation submitters:
 
 * Name
 

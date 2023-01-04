@@ -176,9 +176,9 @@ levels:
 - level:
   sponsors:
     - type: Coat Check
-      name: "Could Be You!"
-      href: ""
-      icon: "/images/sponsors_2023/BSidesSF_2023_SponsorshipCouldBeYou.png"
+      name: "Netflix"
+      href: "https://jobs.netflix.com/"
+      icon: "/images/sponsors_2023/Netflix.png"
 
 - level: Special Thanks
   sponsors:

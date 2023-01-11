@@ -27,7 +27,7 @@ Check out the [Call for Presentations](/cfp).
 # **Important Dates**
 
 - November 17, 2022 – Call for submissions opens
-- January 8, 2023 – Final due date for all submissions, rolling notifications begin
+- January 15, 2023 – Final due date for all submissions, rolling notifications begin
 - January 22, 2023 – All notifications, including waitlist, sent
 - April 22-23, 2023 - Workshops Presented
 

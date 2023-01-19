@@ -23,13 +23,7 @@
       subhref: "/donate"
 
 - title: "CFP"
-  subcategories:
-    - subtitle: "Talks"
-      subhref: "/cfp"
-    - subtitle: "Workshops"
-      subhref: "/cfp/workshops"
-    - subtitle: "Villages"
-      subhref: "/cfp/villages"
+  href: "/cfp"
 
 - title: "Join us!"
   href: "/jobs"

@@ -126,9 +126,9 @@ levels:
     - name: "GitGuardian"
       href: "https://www.gitguardian.com/careers"
       icon: "/images/sponsors_2023/GitGuardian.png"
-    - name: "Could Be You!"
-      href: ""
-      icon: "/images/sponsors_2023/BSidesSF_2023_SponsorshipCouldBeYou.png"
+    - name: "Tessian"
+      href: "https://www.tessian.com/careers/"
+      icon: "/images/sponsors_2023/Tessian.png"
 
 - level: Lanyard
   sponsors:

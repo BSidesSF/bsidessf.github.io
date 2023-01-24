@@ -152,15 +152,15 @@ levels:
 
 - level: Espresso and Coffee
   sponsors:
+    - name: "Opal"
+      href: "https://opal.dev/careers"
+      icon: "/images/sponsors_2023/Opal.png"
     - name: "Sprinkles"
       href: "https://twitter.com/shh_kitties"
       icon: "/images/sponsors_2023/Sprinkles.jpg"
     - name: "Tailscale"
       href: "https://tailscale.com/careers/"
       icon: "/images/sponsors_2023/Tailscale.png"
-    - name: "Could Be You!"
-      href: ""
-      icon: "/images/sponsors_2023/BSidesSF_2023_SponsorshipCouldBeYou.png"
 
 - level:
   sponsors:

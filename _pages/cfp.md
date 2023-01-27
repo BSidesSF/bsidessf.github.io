@@ -8,7 +8,7 @@ title: "BSidesSF 2023 Call For Participation"
 The BSidesSF 2023 CFP is now closed. Check back for updated deadlines for accepted presenters.
 
 - January 24, 2023 – Notifications on talk/workshop acceptance/rejection start being sent.
-- February 6, 2023 - Confirmation-to-present deadline for accepted talks/workshops.
+- February 6, 2023 - Confirmation-to-present deadline + presenter agreement signing deadline for accepted talks/workshops.
 - February 7, 2023 - Conference talk/workshop program published.
 - February 28, 2023 - Final tweaks to abstract/speaker bio due.
 - March 23, 2023 - First draft of slides for review due.

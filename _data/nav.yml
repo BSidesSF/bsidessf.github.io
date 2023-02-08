@@ -22,8 +22,11 @@
     - subtitle: "Donate"
       subhref: "/donate"
 
-- title: "CFP"
-  href: "/cfp"
+- title: "Schedule"
+  href: "/schedule"
+
+- title: "Venue"
+  href: "/venue"
 
 - title: "Join us!"
   href: "/jobs"

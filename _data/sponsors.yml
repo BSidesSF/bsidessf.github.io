@@ -49,22 +49,22 @@ levels:
     - name: "Maltego"
       href: "https://www.maltego.com/careers/"
       icon: "/images/sponsors_2023/Maltego.png"
+    - name: "Material Security"
+      href: "https://material.security/love"
+      icon: "/images/sponsors_2023/MaterialSecurity.png"
     - name: "Panther"
       href: "https://panther.com/company/careers/"
       icon: "/images/sponsors_2023/Panther.jpg"
+    - break: true
     - name: "Thinkst Canary"
       href: "https://canary.tools/hiring"
       icon: "/images/sponsors_2023/ThinkstCanary.png"
-    - break: true
     - name: "Wiz"
       href: "https://www.wiz.io/careers"
       icon: "/images/sponsors_2023/Wiz.png"
     - name: "Uptycs"
       href: "https://www.uptycs.com/careers"
       icon: "/images/sponsors_2023/Uptycs.png"
-    - name: "Could Be You!"
-      href: ""
-      icon: "/images/sponsors_2023/BSidesSF_2023_SponsorshipCouldBeYou.png"
 
 - level: Emerging Technology
   class: emerging
@@ -132,12 +132,12 @@ levels:
 
 - level: Lanyard
   sponsors:
+    - name: "Material Security"
+      href: "https://material.security/love"
+      icon: "/images/sponsors_2023/MaterialSecurity.png"
     - name: "Tailscale"
       href: "https://tailscale.com/careers/"
       icon: "/images/sponsors_2023/Tailscale.png"
-    - name: "Could Be You!"
-      href: ""
-      icon: "/images/sponsors_2023/BSidesSF_2023_SponsorshipCouldBeYou.png"
 
 - level:
   sponsors:

@@ -37,7 +37,7 @@ We group our volunteer opportunities into several pools.
 When you sign up for a shift slot, you will pick one of these larger pools and you will work in one or more of the given roles inside that pool depending on volunteer availability and accessibility needs. For more information on the individual roles, see descriptions below.
 ## What if I don’t know how to do any of these?
 
-Our volunteer leads **will train you** for the specific tasks you sign up for, and there will also be volunteer **Q&A sessions prior to the event**. Please try to make time to be available on **Friday, June 3, 2022** at **12PM-1PM** or **6-7PM** for training and Q&A.
+Our volunteer leads **will train you** for the specific tasks you sign up for, and there will also be volunteer **Q&A sessions prior to the event**. Please try to make time to be available on **Friday, April 21, 2022** at **12PM-1PM** or **6-7PM** for training and Q&A.
 
 ## What if the shift I want is filled up?
 

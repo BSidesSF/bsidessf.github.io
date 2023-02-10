@@ -7,6 +7,10 @@ title: "Volunteer"
 
 BSidesSF is a security event that would not be possible without the work of our local community. Every year, the organizers work hard to build a fun and exciting agenda so you can experience the latest in cool security happenings. However, we rely on contributions from volunteers like you to help with various tasks leading up to and on the two days of the event. Join us!
 
+## How do I sign up???
+
+We’re using Timecounts for managing event volunteer shifts this year so you will need to [create a Timecounts account first](https://timecounts.org/signup) and **verify your email address** before signing up for any shifts. Then you can sign up directly on the [BSidesSF Volunteer Shift Page](https://timecounts.org/bsidessf/events/49743).
+
 ## What’s in it for me?
 
 Volunteering is a great way to get involved with the local security community, especially if you are a newcomer. It’s also a good chance to meet other security-minded people while picking up various skills along the way.  All volunteers must work for a minimum of 6 hours and will get a free BSidesSF t-shirt + badge (and, if available, food) as part of their volunteer admission. This means you can attend talks during the times that you are not volunteering, using the provided volunteer badge.
@@ -35,6 +39,7 @@ We group our volunteer opportunities into several pools.
 * Public Safety - These roles are the eyes, ears, and voices of BsidesSF staff, as well as a friendly face for attendees and other volunteers to go to if something is going wrong. Strong communication skills and a cool head are a major benefit to these roles.
 
 When you sign up for a shift slot, you will pick one of these larger pools and you will work in one or more of the given roles inside that pool depending on volunteer availability and accessibility needs. For more information on the individual roles, see descriptions below.
+
 ## What if I don’t know how to do any of these?
 
 Our volunteer leads **will train you** for the specific tasks you sign up for, and there will also be volunteer **Q&A sessions prior to the event**. Please try to make time to be available on **Friday, April 21, 2022** at **12PM-1PM** or **6-7PM** for training and Q&A.
@@ -56,10 +61,6 @@ Absolutely! Reach out to volunteer@bsidessf.org after the conference and we will
 If your employer offers a [charitable giving program](https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=1799), they can donate money to BSidesSF based on your volunteer hours. Reach out to your company’s HR team for more information.
 
 BSidesSF is a [registered 501(c)(3) non-profit](https://projects.propublica.org/nonprofits/organizations/271830464), so if you like the work we do, we would really appreciate your employer’s donation!
-
-## How do I sign up???
-
-We’re using Timecounts for managing event volunteer shifts this year so you will need to [create a Timecounts account first](https://timecounts.org/signup) and **verify your email address** before signing up for any shifts. Then you can sign up directly on the [BSidesSF Volunteer Shift Page](https://timecounts.org/bsidessf/events/49743).
 
 ## What if I have further questions?
 

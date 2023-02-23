@@ -27,6 +27,9 @@
 - title: "Schedule"
   href: "/schedule"
 
+- title: "Tickets"
+  external: "https://bsidessf.regfox.com/2023"
+
 - title: "Venue"
   href: "/venue"
 

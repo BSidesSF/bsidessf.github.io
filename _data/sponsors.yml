@@ -1,4 +1,4 @@
-sponsorship_kit_url: "https://drive.google.com/open?id=1Oh69l5YTTcBeRjoWihgE3w0QamnMtKmI"
+sponsorship_kit_url: "https://drive.google.com/open?id=1R-z2Ns87Fr89BxCExdvmEDQlYHYKR2hD"
 levels:
 - level: Leading
   class: leading
@@ -6,19 +6,15 @@ levels:
     - name: "Adobe"
       href: "https://careers.adobe.com/us/en"
       icon: "/images/sponsors_2023/Adobe.png"
+    - name: "Apiiro"
+      href: "https://apiiro.com/careers/"
+      icon: "/images/sponsors_2023/Apiiro.png"
     - name: "Code Red Partners"
       href: "https://coderedpartners.com/search-jobs/"
       icon: "/images/sponsors_2023/CodeRedPartners.png"
     - name: "Google"
       href: "https://careers.google.com/"
       icon: "/images/sponsors_2023/Google.png"
-    - break: true
-    - name: "Could Be You!"
-      href: ""
-      icon: "/images/sponsors_2023/BSidesSF_2023_SponsorshipCouldBeYou.png"
-    - name: "Could Be You!"
-      href: ""
-      icon: "/images/sponsors_2023/BSidesSF_2023_SponsorshipCouldBeYou.png"
 
 - level: Contributing
   class: contrib
@@ -69,9 +65,19 @@ levels:
 - level: Emerging Technology
   class: emerging
   sponsors:
+    - name: "ComplianceCow"
+      href: "https://compliancecow.com/"
+      icon: "/images/sponsors_2023/ComplianceCow.png"
     - name: "CyberSN"
       href: "https://cybersn.com/sign-up"
       icon: "/images/sponsors_2023/CyberSN.png"
+    - name: "Deepfactor"
+      href: "https://www.deepfactor.io/careers/"
+      icon: "/images/sponsors_2023/Deepfactor.png"
+    - break: true
+    - name: "Foretrace"
+      href: "https://www.foretrace.com/"
+      icon: "/images/sponsors_2023/Foretrace.png"
     - name: "LimaCharlie"
       href: "https://limacharlie.io/careers"
       icon: "/images/sponsors_2023/LimaCharlie.png"
@@ -79,6 +85,9 @@ levels:
       href: "https://netography.com/netography-careers/"
       icon: "/images/sponsors_2023/Netography.png"
     - break: true
+    - name: "SecureStack"
+      href: "https://securestack.com/"
+      icon: "/images/sponsors_2023/SecureStack.png"
     - name: "SOFTwarfare"
       href: "https://www.softwarfare.com/"
       icon: "/images/sponsors_2023/SOFTwarfare.png"
@@ -88,6 +97,10 @@ levels:
 
 - level:
   sponsors:
+    - type: Daytime Bar & Chill-out Space
+      name: "Conveyor"
+      href: "https://www.conveyor.com/company/careers"
+      icon: "/images/sponsors_2023/Conveyor.png"
     - type: Daytime Bar & Chill-out Space
       name: "Could Be You!"
       href: ""
@@ -164,7 +177,7 @@ levels:
 
 - level:
   sponsors:
-    - type: Graphic Recordings
+    - type: Headshots
       name: "Could Be You!"
       href: ""
       icon: "/images/sponsors_2023/BSidesSF_2023_SponsorshipCouldBeYou.png"
@@ -185,6 +198,9 @@ levels:
     - name: "Bidwell Design"
       href: "https://www.bidwelldesign.com/"
       icon: "/images/sponsors_2023/BidwellDesign.png"
-    - name: "Could Be You!"
-      href: ""
-      icon: "/images/sponsors_2023/BSidesSF_2023_SponsorshipCouldBeYou.png"
+    - name: "Hak5"
+      href: "https://hak5.org/"
+      icon: "/images/sponsors_2023/Hak5.png"
+    - name: "No Starch Press"
+      href: "https://nostarch.com/"
+      icon: "/images/sponsors_2023/NoStarchPress.png"

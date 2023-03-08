@@ -3,9 +3,30 @@ layout: page
 title: "COVID-19 Safety Policy"
 ---
 
-**Last Updated**: February 19, 2023
+**Last Updated**: March 1, 2023
 
-Your health and safety is our top priority. We are closely monitoring current community spread, as well as the recommendations provided by both the San Francisco and California Departments of Public Health and the CDC. At this time, community spread is low, and there are no regulatory requirements for masking or vaccination.
+Your health and safety is our top priority. We are closely monitoring current community spread, as well as the recommendations provided by both the San Francisco and California Departments of Public Health and the CDC. Our guidance is based on U.S. Centers for Disease Control and Prevention's (CDC), California, San Francisco City & County recommendations and transmission risk levels.
+
+- **Mask Policy**: We strongly encourage that masks be worn by all participants at all times at all meeting events, unless actively dining, or speaking at a microphone. Masks will be available for those that have not brought their own.
+- **Vaccination Policy**: To protect all attendees, communities, volunteers, and staff  from the known and substantial risks of COVID-19, BSidesSF strongly urges up to date vaccinations. COVID-19 vaccines protect us. They provide strong protection against workers unintentionally carrying the disease to work and spreading it to our peers.
+
+This policy is conditional and based on current public health orders and conditions. We reserve the right to change this policy without notice.
+
+**BEFORE Attending BSidesSF**
+
+- Follow current guidance provided by the CDC and your local health authority.
+- You may not attend BSidesSF if you are experiencing, within the 10 days prior to the conference or have experienced, symptoms associated with COVID-19. If you do not feel well, protect yourself and others and stay home. Wearing a mask is not the same as staying home.
+- You may not attend BSidesSF if you suspect or have had confirmed COVID-10 exposure within 10 days of the conference
+- You should not attend any events at BSidesSF if you have been diagnosed with COVID-19 within 5 days prior to the conference.
+- Follow travel restrictions and guidance issued by the region you are traveling to and from.
+- Follow guidance from CDC and local health authorities to minimize the spread of viruses. The steps that you should take include:
+	- Wash your hands regularly and thoroughly for at least 20 seconds.
+	- Sanitize hands regularly throughout the day.
+	- Alert BSidesSF Staff if you feel unwell, start experiencing symptoms, or test positive for COVID-19 during BSidesSF.
+- BSidesSF is committed to providing all necessary equipment to assist in following measures (Hand sanitizer stations, signage, event reminders, etc.)
+
+*To be explicitly clear*, if you were exposed to the virus that causes COVID-19 or have been told by a healthcare provider, public health authority, or you suspect that you may have been exposed: regardless of your symptoms, recent test status, your vaccination status, or if you have had a previous infection within the previous 10 days, **<u>please stay away</u>.** A MASK is not the same as STAY AWAY.
+
 
 **We strongly encourage**:
 
@@ -14,16 +35,6 @@ Your health and safety is our top priority. We are closely monitoring current co
 - **Regularly sanitizing your hands**. Hand sanitizer will be available throughout the venue.
 - **Taking an at-home COVID-19 test** prior to and following the event.
 
-**Not feeling well?** Out of respect for everyone's health, we ask that you do not attend if any of the following is true:
-
-* You are not feeling well.
-* You have any of the symptoms related to COVID-19, especially loss of taste or smell and/or fever.
-* You have been in contact with someone diagnosed with or suspected to have COVID-19 within the last 10 days.
-* You have been diagnosed with COVID-19 within the last 10 days.
-* The CDC Guidelines indicate that you should quarantine or limit your exposure to other people, especially due to COVID-19.
-
-To be explicitly clear, if you were exposed to the virus that causes COVID-19 or have been told by a healthcare provider, public health authority, or you suspect that you may have been exposed: regardless of your symptoms, recent test status, your vaccination status, or if you have had a previous infection within the previous 10 days, **<u>please stay away</u>.** A MASK is not the same as STAY AWAY.
-
 Things can change at any time, especially with the arrival of new variants. As such, this policy is subject to change as more information becomes available or if regulatory requirements are imposed. If we change this policy in any material way, we will strive to provide updates via this page, our newsletter, blog, and/or social media.
 
 ## Measures we're taking
@@ -31,7 +42,7 @@ Things can change at any time, especially with the arrival of new variants. As s
 **Improved Ventilation**:
 
 * In the AMC theaters, fresh, outdoor air is constantly circulated by opening HVAC dampers, running supply fans, and by running exhaust fans 24/7. The filtration systems have also been upgraded beyond the industry standard of MERV 8 to MERV 13 filters. MERV 13 filters capture the tiniest of droplets, which could contain the COVID-19 virus, whereas the industry standard MERV 8 filter does not.
-* In the City View space, a large outdoor space is available, and we will open doors for fresh air where feasible.
+* In the City View space, a large (11,000 sq ft) outdoor space is available, and we will open doors for fresh air where feasible.
 
 **Surface Cleaning**:
 
@@ -68,5 +79,3 @@ No matter what kind of mask you wear, check the fit and eliminate gaps above the
 ## Additional Information
 
 **Refund**: If you are not able to attend due to health reasons or your inability to comply with this policy, please contact [tickets@bsidessf.org](mailto:tickets@bsidessf.org) to request a refund for your registration. Refunds may be granted at our discretion.
-
-**Questions**: If you have any questions or concerns about this policy, please reach out to [info@bsidessf.org](mailto:info@bsidessf.org).

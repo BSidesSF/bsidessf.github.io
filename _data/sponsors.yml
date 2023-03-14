@@ -51,10 +51,13 @@ levels:
     - name: "Panther"
       href: "https://panther.com/company/careers/"
       logo: "/images/sponsors_2023/Panther.jpg"
-    - break: true
     - name: "Thinkst Canary"
       href: "https://canary.tools/hiring"
       logo: "/images/sponsors_2023/ThinkstCanary.png"
+    - break: true
+    - name: "Tines"
+      href: "https://www.tines.com/careers"
+      logo: "/images/sponsors_2023/Tines.png"
     - name: "Wiz"
       href: "https://www.wiz.io/careers"
       logo: "/images/sponsors_2023/Wiz.png"

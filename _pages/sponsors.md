@@ -4,7 +4,7 @@ title: "Sponsors"
 ---
 
 <h3>Interested in sponsoring? Check out our
-  <a href="{{ site.data.sponsors.sponsorship_kit_url }}">sponsorship kit</a>
+  <a href="{{ site.data.sponsors.sponsorship_kit_url }}" target="_blank">sponsorship kit</a>
   and contact sponsors@bsidessf.org for more information.</h3>
 
 {% for class in site.data.sponsors.levels %}
@@ -31,8 +31,8 @@ title: "Sponsors"
             <a href="{{ sponsor.href }}" target="_blank">
           {% endif %}
             <div class="imgdiv">
-              {% if sponsor.icon %}
-                <img src="{{ site.url }}{{ sponsor.icon }}" alt="{{ sponsor.name }}" />
+              {% if sponsor.logo %}
+                <img src="{{ site.url }}{{ sponsor.logo }}" alt="{{ sponsor.name }}" />
               {% else %}
                 <p><strong>{{ sponsor.name }}</strong></p>
               {% endif %}

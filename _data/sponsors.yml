@@ -78,6 +78,9 @@ levels:
       href: "https://www.deepfactor.io/careers/"
       logo: "/images/sponsors_2023/Deepfactor.png"
     - break: true
+    - name: "Flare"
+      href: "https://flare.systems/company/careers/"
+      logo: "/images/sponsors_2023/Flare.png"
     - name: "Foretrace"
       href: "https://www.foretrace.com/"
       logo: "/images/sponsors_2023/Foretrace.png"

@@ -210,3 +210,6 @@ levels:
     - name: "No Starch Press"
       href: "https://nostarch.com/"
       logo: "/images/sponsors_2023/NoStarchPress.png"
+    - name: "O'Reilly"
+      href: "https://www.oreilly.com/"
+      logo: "/images/sponsors_2023/OReilly.jpg"

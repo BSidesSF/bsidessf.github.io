@@ -3,11 +3,30 @@ layout: page
 title: "COVID-19 Safety Policy"
 ---
 
-**Last Updated**: March 19, 2023
+**Last Updated**: March 20, 2023
 
 Your health and safety is our top priority. We are closely monitoring current community spread, as well as the recommendations provided by both the San Francisco and California Departments of Public Health and the CDC. Our guidance is based on such recommendations and transmission risk levels.
 
 Things can change at any time, especially with the arrival of new variants. As such, this policy is subject to change at anytime as more information becomes available or if regulatory requirements are imposed. If we change this policy in any material way, we will strive to provide updates via this page, our newsletter, blog, and/or social media.
+
+**Mask Policy**: We strongly encourage that masks be worn by all participants at all times at all meeting events, unless actively dining, or speaking at a microphone. Masks will be available for those that have not brought their own.
+
+**Vaccination Policy**: To protect all attendees, communities, volunteers, and staff  from the known and substantial risks of COVID-19, BSidesSF strongly urges up to date vaccinations. COVID-19 vaccines protect us. They provide strong protection against workers unintentionally carrying the disease to work and spreading it to our peers.
+
+**BEFORE Attending BSidesSF**
+
+- Follow current guidance provided by the CDC and your local health authority.
+- You may not attend BSidesSF if you are experiencing, within the 10 days prior to the conference or have experienced, symptoms associated with COVID-19. If you do not feel well, protect yourself and others and stay home. Wearing a mask is not the same as staying home.
+- You may not attend BSidesSF if you suspect or have had confirmed COVID-10 exposure within 10 days of the conference
+- You should not attend any events at BSidesSF if you have been diagnosed with COVID-19 within 5 days prior to the conference.
+- Follow travel restrictions and guidance issued by the region you are traveling to and from.
+- Follow guidance from CDC and local health authorities to minimize the spread of viruses. The steps that you should take include:
+	- Wash your hands regularly and thoroughly for at least 20 seconds.
+	- Sanitize hands regularly throughout the day.
+	- Alert BSidesSF Staff if you feel unwell, start experiencing symptoms, or test positive for COVID-19 during BSidesSF.
+- BSidesSF is committed to providing all necessary equipment to assist in following measures (Hand sanitizer stations, signage, event reminders, etc.)
+
+*To be explicitly clear*, if you were exposed to the virus that causes COVID-19 or have been told by a healthcare provider, public health authority, or you suspect that you may have been exposed: regardless of your symptoms, recent test status, your vaccination status, or if you have had a previous infection within the previous 10 days, **<u>please stay away</u>.** A MASK is not the same as STAY AWAY.
 
 **We strongly encourage**:
 

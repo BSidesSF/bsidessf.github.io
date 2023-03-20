@@ -3,9 +3,11 @@ layout: page
 title: "COVID-19 Safety Policy"
 ---
 
-**Last Updated**: February 19, 2023
+**Last Updated**: March 19, 2023
 
-Your health and safety is our top priority. We are closely monitoring current community spread, as well as the recommendations provided by both the San Francisco and California Departments of Public Health and the CDC. At this time, community spread is low, and there are no regulatory requirements for masking or vaccination.
+Your health and safety is our top priority. We are closely monitoring current community spread, as well as the recommendations provided by both the San Francisco and California Departments of Public Health and the CDC. Our guidance is based on such recommendations and transmission risk levels.
+
+Things can change at any time, especially with the arrival of new variants. As such, this policy is subject to change at anytime as more information becomes available or if regulatory requirements are imposed. If we change this policy in any material way, we will strive to provide updates via this page, our newsletter, blog, and/or social media.
 
 **We strongly encourage**:
 
@@ -13,6 +15,7 @@ Your health and safety is our top priority. We are closely monitoring current co
 - **Being vaccinated** to the fullest extent you are eligible.
 - **Regularly sanitizing your hands**. Hand sanitizer will be available throughout the venue.
 - **Taking an at-home COVID-19 test** prior to and following the event.
+- **Review all current guidance** provided by the CDC and your local health authority, as well as any relevant travel restrictions.
 
 **Not feeling well?** Out of respect for everyone's health, we ask that you do not attend if any of the following is true:
 
@@ -24,14 +27,14 @@ Your health and safety is our top priority. We are closely monitoring current co
 
 To be explicitly clear, if you were exposed to the virus that causes COVID-19 or have been told by a healthcare provider, public health authority, or you suspect that you may have been exposed: regardless of your symptoms, recent test status, your vaccination status, or if you have had a previous infection within the previous 10 days, **<u>please stay away</u>.** A MASK is not the same as STAY AWAY.
 
-Things can change at any time, especially with the arrival of new variants. As such, this policy is subject to change as more information becomes available or if regulatory requirements are imposed. If we change this policy in any material way, we will strive to provide updates via this page, our newsletter, blog, and/or social media.
+If at any time during the event you feel unwell, start experiencing symptoms, or test positive for COVID-19, please notify one of our staffers and promptly leave the venue.
 
 ## Measures we're taking
 
 **Improved Ventilation**:
 
 * In the AMC theaters, fresh, outdoor air is constantly circulated by opening HVAC dampers, running supply fans, and by running exhaust fans 24/7. The filtration systems have also been upgraded beyond the industry standard of MERV 8 to MERV 13 filters. MERV 13 filters capture the tiniest of droplets, which could contain the COVID-19 virus, whereas the industry standard MERV 8 filter does not.
-* In the City View space, a large outdoor space is available, and we will open doors for fresh air where feasible.
+* In the City View space, a large (11,000 sq. ft.) outdoor space is available, and we will open doors for fresh air where feasible.
 
 **Surface Cleaning**:
 

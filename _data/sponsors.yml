@@ -58,12 +58,12 @@ levels:
     - name: "Tines"
       href: "https://www.tines.com/careers"
       logo: "/images/sponsors_2023/Tines.png"
-    - name: "Wiz"
-      href: "https://www.wiz.io/careers"
-      logo: "/images/sponsors_2023/Wiz.png"
     - name: "Uptycs"
       href: "https://www.uptycs.com/careers"
       logo: "/images/sponsors_2023/Uptycs.png"
+    - name: "Wiz"
+      href: "https://www.wiz.io/careers"
+      logo: "/images/sponsors_2023/Wiz.png"
 
 - level: Emerging Technology
   class: emerging

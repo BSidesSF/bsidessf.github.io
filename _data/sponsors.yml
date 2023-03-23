@@ -136,9 +136,9 @@ levels:
 - level:
   sponsors:
     - type: Capture The Flag (CTF)
-      name: "Could Be You!"
-      href: ""
-      logo: "/images/sponsors_2023/BSidesSF_2023_SponsorshipCouldBeYou.png"
+      name: "Socket"
+      href: "https://socket.dev/"
+      logo: "/images/sponsors_2023/Socket.png"
 
 - level: Village
   sponsors:

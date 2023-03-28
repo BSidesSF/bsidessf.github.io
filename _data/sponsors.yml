@@ -129,9 +129,9 @@ levels:
 - level:
   sponsors:
     - type: Happy Hour
-      name: "Could Be You!"
-      href: ""
-      logo: "/images/sponsors_2023/BSidesSF_2023_SponsorshipCouldBeYou.png"
+      name: "Ory"
+      href: "https://www.ory.sh/jobs/"
+      logo: "/images/sponsors_2023/Ory.png"
 
 - level:
   sponsors:

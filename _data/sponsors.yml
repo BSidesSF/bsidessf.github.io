@@ -107,17 +107,13 @@ levels:
       name: "Conveyor"
       href: "https://www.conveyor.com/company/careers"
       logo: "/images/sponsors_2023/Conveyor.png"
-    - type: Daytime Bar & Chill-out Space
-      name: "Could Be You!"
-      href: ""
-      logo: "/images/sponsors_2023/BSidesSF_2023_SponsorshipCouldBeYou.png"
 
 - level:
   sponsors:
     - type: Party
-      name: "Could Be You!"
-      href: ""
-      logo: "/images/sponsors_2023/BSidesSF_2023_SponsorshipCouldBeYou.png"
+      name: "Lacework"
+      href: "https://www.lacework.com/careers/"
+      logo: "/images/sponsors_2023/Lacework.png"
 
 - level:
   sponsors:
@@ -183,10 +179,6 @@ levels:
 
 - level:
   sponsors:
-    - type: Headshots
-      name: "Could Be You!"
-      href: ""
-      logo: "/images/sponsors_2023/BSidesSF_2023_SponsorshipCouldBeYou.png"
     - type: Presenter Gift
       name: "Doyensec"
       href: "https://doyensec.com/careers.html"

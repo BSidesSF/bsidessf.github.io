@@ -126,7 +126,7 @@ levels:
   sponsors:
     - type: Happy Hour
       name: "Ory"
-      href: "https://www.ory.sh/jobs/"
+      href: "https://www.ory.sh/"
       logo: "/images/sponsors_2023/Ory.png"
 
 - level:

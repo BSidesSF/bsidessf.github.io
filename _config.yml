@@ -9,14 +9,13 @@ description: >
 url: https://bsidessf.org
 
 header: yes
-header_sm: images/bsides_logo_2023.jpg
-header_med: images/bsides_logo_2023.jpg
-header_large: images/bsides_logo_2023.jpg
-header_xl: images/bsides_logo_2023.jpg
+header_sm: images/bsides_logo_full-orangeblack.png
+header_med: images/bsides_logo_full-orangeblack.png
+header_large: images/bsides_logo_full-orangeblack.png
+header_xl: images/bsides_logo_full-orangeblack.png
 
 # Exclude our ruby stuff and other files
-exclude:
-  [
+exclude: [
     .bundle,
     bin,
     vendor,
@@ -29,8 +28,11 @@ exclude:
     README.md,
     LICENSE,
     SECURITY.md,
-  ]
-include: [.well-known]
+    _pages/2023/*, 
+]
+include: [
+  .well-known
+]
 
 collections:
   pages:

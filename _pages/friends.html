@@ -1,0 +1,39 @@
+---
+layout: page
+title: Friends of BSidesSF
+---
+
+<hr style="margin-bottom: 5px" />
+<div style="text-align: center" class="friends {{ class.class }}">
+  {% assign friends_by_name = site.data.friends | sort: "name" %}
+  {% for friend in friends_by_name %} {% assign mod = forloop.index | modulo:
+  4 %} {% if mod == 1 %}
+  <div class="friends row">
+    {% endif %}
+    <div class="friends column">
+      <a href="{{friend.link}}" target="_{{friend.name}}">
+        {{ friend.name }}
+      </a>
+    </div>
+      {% if mod == 0 %}
+      </div>
+    {% endif %} {% endfor %}
+  </div>
+
+  <hr style="margin-bottom: 5px" />
+
+  <center>
+    <p>
+      Have further questions about becoming a "Friend" of BSidesSF 2024? Contact
+      <a href="mailto:sponsors@bsidessf.org">sponsors@bsidessf.org</a>.
+    </p>
+    <p>
+      <em>All names and logos are property of their respective owners.</em>
+    </p>
+    <p>
+      <em>
+        {% for friend in class.friends %} {{ friend.name }} {% endfor %}
+      </em>
+    </p>
+  </center>
+</div>

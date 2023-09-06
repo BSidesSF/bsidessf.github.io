@@ -1,207 +1,197 @@
-sponsorship_kit_url: "https://drive.google.com/open?id=1r4R8VWQRyBTQL7b_UoDhcLFjAiDePk9O"
+#
+# level - creates a section with this key as the header
+#       - used for categories with more than one sponsorship availabled
+# type - puts a header on the single sponsor
+#      - best for single sponsor items
+# break - puts in a row break
+#
+sponsorship_kit_url: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
 levels:
 - level: Leading
   class: leading
   sponsors:
-    - name: "Adobe"
-      href: "https://careers.adobe.com/us/en"
-      logo: "/images/sponsors_2023/Adobe.png"
-    - name: "Apiiro"
-      href: "https://apiiro.com/careers/"
-      logo: "/images/sponsors_2023/Apiiro.png"
-    - name: "Code Red Partners"
-      href: "https://coderedpartners.com/search-jobs/"
-      logo: "/images/sponsors_2023/CodeRedPartners.png"
-    - name: "Google"
-      href: "https://careers.google.com/"
-      logo: "/images/sponsors_2023/Google.png"
+    - name: "Available"
+      logo: "/images/bsides_logo_full-orangeblack.png"
+      href: "https://bsidessf.org/"
+    - name: "Available"
+      logo: "/images/bsides_logo_full-orangeblack.png"
+      href: "https://bsidessf.org/"
+    - name: "Available"
+      logo: "/images/bsides_logo_full-orangeblack.png"
+      href: "https://bsidessf.org/"
+    - break: true
+    - name: "Available"
+      logo: "/images/bsides_logo_full-orangeblack.png"
+      href: "https://bsidessf.org/"
+    - name: "Available"
+      logo: "/images/bsides_logo_full-orangeblack.png"
+      href: "https://bsidessf.org/"
 
 - level: Contributing
   class: contrib
   sponsors:
-    - name: "Bishop Fox"
-      href: "https://bishopfox.com/careers"
-      logo: "/images/sponsors_2023/BishopFox.png"
-    - name: "ForAllSecure"
-      href: "https://forallsecure.com/careers"
-      logo: "/images/sponsors_2023/ForAllSecure.png"
-    - name: "Kondukto"
-      href: "https://kondukto.io/careers"
-      logo: "/images/sponsors_2023/Kondukto.png"
+    - name: "Available"
+      logo: "/images/bsides_logo_full-orangeblack.png"
+      href: "https://bsidessf.org/"
+    - name: "Available"
+      logo: "/images/bsides_logo_full-orangeblack.png"
+      href: "https://bsidessf.org/"
+    - name: "Available"
+      logo: "/images/bsides_logo_full-orangeblack.png"
+      href: "https://bsidessf.org/"
     - break: true
-    - name: "Prisma Cloud"
-      href: "https://jobs.paloaltonetworks.com/en/jobs/?search=Prisma+Cloud"
-      logo: "/images/sponsors_2023/PaloAltoNetworks.png"
-    - name: "Semgrep"
-      href: "https://semgrep.dev/"
-      logo: "/images/sponsors_2023/Semgrep.png"
-    - name: "Snyk"
-      href: "https://snyk.io/careers/"
-      logo: "/images/sponsors_2023/Snyk.png"
+    - name: "Available"
+      logo: "/images/bsides_logo_full-orangeblack.png"
+      href: "https://bsidessf.org/"
+    - name: "Available"
+      logo: "/images/bsides_logo_full-orangeblack.png"
+      href: "https://bsidessf.org/"
+    - name: "Available"
+      logo: "/images/bsides_logo_full-orangeblack.png"
+      href: "https://bsidessf.org/"
 
 - level: Supporting
   class: supporting
   sponsors:
-    - name: "Maltego"
-      href: "https://www.maltego.com/careers/"
-      logo: "/images/sponsors_2023/Maltego.png"
-    - name: "Material Security"
-      href: "https://material.security/love"
-      logo: "/images/sponsors_2023/MaterialSecurity.png"
-    - name: "Panther"
-      href: "https://panther.com/company/careers/"
-      logo: "/images/sponsors_2023/Panther.jpg"
-    - name: "Thinkst Canary"
-      href: "https://canary.tools/hiring"
-      logo: "/images/sponsors_2023/ThinkstCanary.png"
+    - name: "Available"
+      logo: "/images/bsides_logo_full-orangeblack.png"
+      href: "https://bsidessf.org/"
+    - name: "Available"
+      logo: "/images/bsides_logo_full-orangeblack.png"
+      href: "https://bsidessf.org/"
+    - name: "Available"
+      logo: "/images/bsides_logo_full-orangeblack.png"
+      href: "https://bsidessf.org/"
     - break: true
-    - name: "Tines"
-      href: "https://www.tines.com/careers"
-      logo: "/images/sponsors_2023/Tines.png"
-    - name: "Uptycs"
-      href: "https://www.uptycs.com/careers"
-      logo: "/images/sponsors_2023/Uptycs.png"
-    - name: "Wiz"
-      href: "https://www.wiz.io/careers"
-      logo: "/images/sponsors_2023/Wiz.png"
+    - name: "Available"
+      logo: "/images/bsides_logo_full-orangeblack.png"
+      href: "https://bsidessf.org/"
+    - name: "Available"
+      logo: "/images/bsides_logo_full-orangeblack.png"
+      href: "https://bsidessf.org/"
+    - name: "Available"
+      logo: "/images/bsides_logo_full-orangeblack.png"
+      href: "https://bsidessf.org/"
 
 - level: Emerging Technology
   class: emerging
   sponsors:
-    - name: "ComplianceCow"
-      href: "https://compliancecow.com/"
-      logo: "/images/sponsors_2023/ComplianceCow.png"
-    - name: "CyberSN"
-      href: "https://cybersn.com/sign-up"
-      logo: "/images/sponsors_2023/CyberSN.png"
-    - name: "Deepfactor"
-      href: "https://www.deepfactor.io/careers/"
-      logo: "/images/sponsors_2023/Deepfactor.png"
+    - name: "Available"
+      logo: "/images/bsides_logo_full-orangeblack.png"
+      href: "https://bsidessf.org/"
+    - name: "Available"
+      logo: "/images/bsides_logo_full-orangeblack.png"
+      href: "https://bsidessf.org/"
+    - name: "Available"
+      logo: "/images/bsides_logo_full-orangeblack.png"
+      href: "https://bsidessf.org/"
+    - name: "Available"
+      logo: "/images/bsides_logo_full-orangeblack.png"
+      href: "https://bsidessf.org/"
     - break: true
-    - name: "Flare"
-      href: "https://flare.systems/company/careers/"
-      logo: "/images/sponsors_2023/Flare.png"
-    - name: "Foretrace"
-      href: "https://www.foretrace.com/"
-      logo: "/images/sponsors_2023/Foretrace.png"
-    - name: "LimaCharlie"
-      href: "https://limacharlie.io/careers"
-      logo: "/images/sponsors_2023/LimaCharlie.png"
-    - name: "Netography"
-      href: "https://netography.com/netography-careers/"
-      logo: "/images/sponsors_2023/Netography.png"
-    - break: true
-    - name: "SecureStack"
-      href: "https://securestack.com/"
-      logo: "/images/sponsors_2023/SecureStack.png"
-    - name: "SOFTwarfare"
-      href: "https://www.softwarfare.com/"
-      logo: "/images/sponsors_2023/SOFTwarfare.png"
-    - name: "Truffle Security"
-      href: "https://trufflesecurity.com/careers/"
-      logo: "/images/sponsors_2023/TruffleSecurity.png"
+    - name: "Available"
+      logo: "/images/bsides_logo_full-orangeblack.png"
+      href: "https://bsidessf.org/"
+    - name: "Available"
+      logo: "/images/bsides_logo_full-orangeblack.png"
+      href: "https://bsidessf.org/"
+    - name: "Available"
+      logo: "/images/bsides_logo_full-orangeblack.png"
+      href: "https://bsidessf.org/"
+    - name: "Available"
+      logo: "/images/bsides_logo_full-orangeblack.png"
+      href: "https://bsidessf.org/"
+
+- level: Lanyard
+  sponsors:
+  - name: "Available"
+    logo: "/images/bsides_logo_full-orangeblack.png"
+    href: "https://bsidessf.org/"
+  - name: "Available"
+    logo: "/images/bsides_logo_full-orangeblack.png"
+    href: "https://bsidessf.org/"
 
 - level:
   sponsors:
-    - type: Daytime Bar & Chill-out Space
-      name: "Conveyor"
-      href: "https://www.conveyor.com/company/careers"
-      logo: "/images/sponsors_2023/Conveyor.png"
-
-- level:
-  sponsors:
-    - type: Party
-      name: "Lacework"
-      href: "https://www.lacework.com/careers/"
-      logo: "/images/sponsors_2023/Lacework.png"
-
-- level:
-  sponsors:
-    - type: Lounge
-      name: "Slack"
-      href: "https://slack.com/careers"
-      logo: "/images/sponsors_2023/Slack.png"
-
-- level:
-  sponsors:
+    - type: Saturday Night Party
+      name: "Available"
+      logo: "/images/bsides_logo_full-orangeblack.png"
+      href: "https://bsidessf.org/"
     - type: Happy Hour
-      name: "Ory"
-      href: "https://www.ory.sh/"
-      logo: "/images/sponsors_2023/Ory.png"
+      name: "Available"
+      logo: "/images/bsides_logo_full-orangeblack.png"
+      href: "https://bsidessf.org/"
+    - type: Daytime Bar & Chill Out Space
+      name: "Available"
+      logo: "/images/bsides_logo_full-orangeblack.png"
+      href: "https://bsidessf.org/"
+    - type: Lounge
+      name: "Available"
+      logo: "/images/bsides_logo_full-orangeblack.png"
+      href: "https://bsidessf.org/"
+    - break: true
+    - type: "Espresso and Coffee"
+      name: "Available"
+      logo: "/images/bsides_logo_full-orangeblack.png"
+      href: "https://bsidessf.org/"
+    - type: "Espresso and Coffee"
+      name: "Available"
+      logo: "/images/bsides_logo_full-orangeblack.png"
+      href: "https://bsidessf.org/"
+    - type: "Espresso and Coffee"
+      name: "Available"
+      logo: "/images/bsides_logo_full-orangeblack.png"
+      href: "https://bsidessf.org/"
+
+- level: Villages
+  sponsors:
+  - name: "Available"
+    logo: "/images/bsides_logo_full-orangeblack.png"
+    href: "https://bsidessf.org/"
+  - name: "Available"
+    logo: "/images/bsides_logo_full-orangeblack.png"
+    href: "https://bsidessf.org/"
+  - name: "Available"
+    logo: "/images/bsides_logo_full-orangeblack.png"
+    href: "https://bsidessf.org/"
 
 - level:
   sponsors:
     - type: Capture The Flag (CTF)
-      name: "Socket"
-      href: "https://socket.dev/"
-      logo: "/images/sponsors_2023/Socket.png"
-
-- level: Village
-  sponsors:
-    - name: "GitGuardian"
-      href: "https://www.gitguardian.com/careers"
-      logo: "/images/sponsors_2023/GitGuardian.png"
-    - name: "Tessian"
-      href: "https://www.tessian.com/careers/"
-      logo: "/images/sponsors_2023/Tessian.png"
-
-- level: Lanyard
-  sponsors:
-    - name: "Material Security"
-      href: "https://material.security/love"
-      logo: "/images/sponsors_2023/MaterialSecurity.png"
-    - name: "Tailscale"
-      href: "https://tailscale.com/careers/"
-      logo: "/images/sponsors_2023/Tailscale.png"
+      name: "Available"
+      logo: "/images/bsides_logo_full-orangeblack.png"
+      href: "https://bsidessf.org/"
 
 - level:
   sponsors:
+    - type: Presenter Appreciation
+      name: "Available"
+      logo: "/images/bsides_logo_full-orangeblack.png"
+      href: "https://bsidessf.org/"    
     - type: Scholarship
-      name: "Marsh"
-      href: "https://careers.marshmclennan.com/global/en/marsh"
-      logo: "/images/sponsors_2023/Marsh.png"
+      name: "Available"
+      logo: "/images/bsides_logo_full-orangeblack.png"
+      href: "https://bsidessf.org/"
     - type: WiFi
-      name: "Kandji"
-      href: "https://www.kandji.io/company/careers/"
-      logo: "/images/sponsors_2023/Kandji.png"
-
-- level: Espresso and Coffee
-  sponsors:
-    - name: "Opal"
-      href: "https://opal.dev/careers"
-      logo: "/images/sponsors_2023/Opal.png"
-    - name: "Sprinkles"
-      href: "https://twitter.com/shh_kitties"
-      logo: "/images/sponsors_2023/Sprinkles.jpg"
-    - name: "Tailscale"
-      href: "https://tailscale.com/careers/"
-      logo: "/images/sponsors_2023/Tailscale.png"
-
-- level:
-  sponsors:
-    - type: Presenter Gift
-      name: "Doyensec"
-      href: "https://doyensec.com/careers.html"
-      logo: "/images/sponsors_2023/Doyensec.png"
-
-- level:
-  sponsors:
+      name: "Available"
+      logo: "/images/bsides_logo_full-orangeblack.png"
+      href: "https://bsidessf.org/"
+    - break: true
+    - type: Headshots
+      name: "Available"
+      logo: "/images/bsides_logo_full-orangeblack.png"
+      href: "https://bsidessf.org/"
+    - type: Graphical Recordings
+      name: "Available"
+      logo: "/images/bsides_logo_full-orangeblack.png"
+      href: "https://bsidessf.org/"
     - type: Coat Check
-      name: "Netflix"
-      href: "https://jobs.netflix.com/"
-      logo: "/images/sponsors_2023/Netflix.png"
+      name: "Available"
+      logo: "/images/bsides_logo_full-orangeblack.png"
+      href: "https://bsidessf.org/"
 
 - level: Special Thanks
   sponsors:
     - name: "Bidwell Design"
       href: "https://www.bidwelldesign.com/"
       logo: "/images/sponsors_2023/BidwellDesign.png"
-    - name: "Hak5"
-      href: "https://hak5.org/"
-      logo: "/images/sponsors_2023/Hak5.png"
-    - name: "No Starch Press"
-      href: "https://nostarch.com/"
-      logo: "/images/sponsors_2023/NoStarchPress.png"
-    - name: "O'Reilly"
-      href: "https://www.oreilly.com/"
-      logo: "/images/sponsors_2023/OReilly.jpg"

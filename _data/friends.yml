@@ -1,0 +1,6 @@
+# Schema:
+#  name: The name to be displayed on the "Friends of BSidesSF" page
+#  link: The single URL they provided (if)
+#
+# must have at least 1 entry to avoid a build error, blank name works
+- name: 

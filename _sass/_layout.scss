@@ -119,6 +119,29 @@ header[role="banner"] {
     }
 }
 
+.friends .row {
+  display: flex;
+  float: center;
+  padding: 10px;
+}
+
+.friends .column {
+  float: left;
+  padding: 5px;
+  align-content: space-around;
+}
+
+.friends a {
+  color: #000000;
+  &:visited {
+      color: #000000;
+  }
+  &:hover {
+      color: #000000;
+  }
+}
+
+
 
 div.imgdiv {
   //width: 150px;

@@ -125,8 +125,16 @@ levels:
       name: "Available"
       logo: "/images/bsides_logo_full-orangeblack.png"
       href: "https://bsidessf.org/"
-    - break: true
     - type: Lounge
+      name: "Available"
+      logo: "/images/bsides_logo_full-orangeblack.png"
+      href: "https://bsidessf.org/"
+    - break: true
+    - type: "Espresso and Coffee"
+      name: "Available"
+      logo: "/images/bsides_logo_full-orangeblack.png"
+      href: "https://bsidessf.org/"
+    - type: "Espresso and Coffee"
       name: "Available"
       logo: "/images/bsides_logo_full-orangeblack.png"
       href: "https://bsidessf.org/"

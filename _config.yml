@@ -30,12 +30,20 @@ exclude:
     LICENSE,
     SECURITY.md,
   ]
-include:
-  [
-    .well-known
-  ]
+include: [.well-known]
+
+defaults:
+  - scope:
+      path: "/a/*"
+      type: "archive"
+    values:
+      layout: "archive"
 
 collections:
+  archive:
+    output: true
+    permalink: /a/:path
+
   pages:
     output: true
     permalink: /:path

@@ -3,19 +3,11 @@ layout: page
 title: "Capture The Flag (CTF)"
 --- 
 
-# CTF will be back at BSidesSF 2023!
+# CTF will be back at BSidesSF 2024!
 
-The CTF will run for 48 hours straight from April 21 17:00 PDT to April 23 17:00
-PDT.  (April 22 00:00 - April 23 23:59 UTC)
+More details forthcoming.
 
-**Register and play at [https://ctf.bsidessf.net](https://ctf.bsidessf.net).**
-
-Available both online and in-person.  Play in person in the CTF room at BSidesSF
-during conference hours!
-
-CTF sponsored by [socket.dev](https://socket.dev/).
-
-Join the **#ctf channel** in the BSidesSF Slack with questions.
+Questions? Email ctf [at] bsidessf.org.
 
 ## CTF Resources
 

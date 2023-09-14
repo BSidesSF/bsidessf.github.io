@@ -38,7 +38,7 @@ layout: default
 <article class="row">
   <section class="post-content">
 
-    <h2><b>BSidesSF 2023</b></h2>
+    <h2><b>BSidesSF 2024</b></h2>
 
     <p>
        If you're a student or otherwise in academia, please use the form below with the email address provided by your institution.
@@ -60,7 +60,7 @@ layout: default
     </form>
 
     <p>
-       Free tickets are also available for volunteers with a six hour time commitment. Check out our <a href="/volunteer">volunteer opportunities</a> and help us make BSidesSF 2023 a success!
+       Free tickets are also available for volunteers with a six hour time commitment. Check out our <a href="/volunteer">volunteer opportunities</a> and help us make BSidesSF 2024 a success!
     </p>
   </section>
 

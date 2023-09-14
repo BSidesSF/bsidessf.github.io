@@ -13,8 +13,6 @@
       subhref: "/about/past-events"
     - subtitle: "Code of Conduct"
       subhref: "/about/code-of-conduct"
-    - subtitle: "COVID-19 Safety Policy"
-      subhref: "/about/covid-19-safety-policy"
     - subtitle: "Photo and Video Policy"
       subhref: "/about/photo-policy"
     - subtitle: "Privacy Policy"
@@ -24,17 +22,8 @@
     - subtitle: "Donate"
       subhref: "/donate"
 
-- title: "Schedule"
-  href: "/schedule"
-
-- title: "Tickets"
-  external: "https://bsidessf.regfox.com/2023"
-
-- title: "Venue"
-  href: "/venue"
-
-- title: "Volunteer"
-  href: "/volunteer"
+- title: "Join us!"
+  href: "/jobs"
 
 - title: "Sponsors"
   href: "/sponsors"

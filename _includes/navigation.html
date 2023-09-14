@@ -15,7 +15,7 @@
 		    {% if subcategory.subhref %}
 		    <li{% if subcategory.subhref == page.url %} class="active"{% endif %}><a href="{{ site.baseurl }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
 		    {% elsif subcategory.external %}
-		    <li><a href="{{ subcategory.external }}">{{ subcategory.subtitle }}</a></li>
+		    <li><a href="{{ subcategory.external }}" target="_blank">{{ subcategory.subtitle }}</a></li>
 		    {% endif %}
 		  {% endfor %}
 		</ul>

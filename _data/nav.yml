@@ -1,6 +1,12 @@
 - title: "Home"
   href: "/"
 
+#- title: "Sponsors"
+#  href: "/sponsors"
+
+#- title: "Friends"
+#  href: "/friends"
+
 - title: "About"
   subcategories:
     - subtitle: "BSidesSF"
@@ -24,17 +30,3 @@
     - subtitle: "Donate"
       subhref: "/donate"
 
-- title: "Schedule"
-  href: "/schedule"
-
-- title: "Tickets"
-  external: "https://bsidessf.regfox.com/2023"
-
-- title: "Venue"
-  href: "/venue"
-
-- title: "Volunteer"
-  href: "/volunteer"
-
-- title: "Sponsors"
-  href: "/sponsors"

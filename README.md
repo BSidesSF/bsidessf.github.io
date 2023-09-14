@@ -1,21 +1,18 @@
-BSidesSF Website
-=================
+# BSidesSF Website
 
 Theme is based on [Slim Pickins](https://chrisanthropic.github.io/slim-pickins-jekyll-theme/).
 
 Thanks to [ShmooCon](http://shmoocon.org/) for some navigation and content help.
 
-Running Locally
-=================
+# Running Locally
 
-If you haven't run this previoiusly, start with ```bundle install``` to install all of the gems necessary for the site.
+If you haven't run this previoiusly, start with `bundle install` to install all of the gems necessary for the site.
 
-To run the site locally, run ```bundle exec jekyll serve``` or ```rake watch``` on the command line. The address will be listed as ```Server address``` in the output when this runs correctly.
+To run the site locally, run `bundle exec jekyll serve` or `rake watch` on the command line. The address will be listed as `Server address` in the output when this runs correctly.
 
-Adding pages
-============
+# Adding pages
 
-You can create a new page in \_pages, which will generate the page at the root of the site.  The top of your page (md or html) should look like:
+You can create a new page in \_pages, which will generate the page at the root of the site. The top of your page (md or html) should look like:
 
 ```
 ---
@@ -24,7 +21,21 @@ title: "My Page Title"
 ---
 ```
 
-After that you can put your content in either html or md form, depending on your file extension.   _filename_.md will become `filename.html`
+After that you can put your content in either html or md form, depending on your file extension. _filename_.md will become `filename.html`
 
-If you want the page to be linked, you should update __\_data/nav.yml__ with the proper
+If you want the page to be linked, you should update **\_data/nav.yml** with the proper
 location in the navigation.
+
+### Default values (or reference)
+
+\_config.yaml:
+
+header_sm: images/bsides_logo_full-orangeblack.png
+header_med: images/bsides_logo_full-orangeblack.png
+header_large: images/bsides_logo_full-orangeblack.png
+header_xl: images/bsides_logo_full-orangeblack.png
+
+\_sass/\_variables.scss:
+
+$primary-color: #272727; // black
+$secondary-color: #cd5026; // orange

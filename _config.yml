@@ -66,8 +66,8 @@ google_analytics: UA-69569651-1
 facebook_app_id: 1522022128111003
 facebook_locale: en_US
 facebook_type: website
-facebook_image: /images/bsides_logo_short_2023.png
+facebook_image: /images/bsides_logo_short.png
 # Twitter Cards
 twitter_user: "@BSidesSF"
 twitter_card: true
-twitter_image: /images/bsides_logo_short_2023.png
+twitter_image: /images/bsides_logo_short.png

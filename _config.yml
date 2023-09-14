@@ -15,7 +15,8 @@ header_large: images/bsides_logo_full-orangeblack.png
 header_xl: images/bsides_logo_full-orangeblack.png
 
 # Exclude our ruby stuff and other files
-exclude: [
+exclude:
+  [
     .bundle,
     bin,
     vendor,
@@ -28,11 +29,8 @@ exclude: [
     README.md,
     LICENSE,
     SECURITY.md,
-    _pages/2023/*, 
-]
-include: [
-  .well-known
-]
+  ]
+include: [.well-known]
 
 collections:
   pages:

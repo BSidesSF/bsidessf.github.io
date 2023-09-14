@@ -1,0 +1,52 @@
+---
+layout: page
+title: Friends of BSidesSF
+---
+{% assign cols = 4 %}
+
+<p class="friends">
+BSidesSF celebrates the following people and organizations 
+who have donated $1000 or more making BSidesSF 2024 possible!
+</p>
+
+<hr style="margin-bottom: 5px" />
+<div style="text-align: center" class="friends {{ class.class }}">
+  {% assign friends_by_name = site.data.friends | sort: "name" %}
+  {% for friend in friends_by_name %} 
+    {% assign mod = forloop.index | modulo: cols %} 
+    {% if mod == 1 %}
+    <div class="friends row">
+    {% endif %}
+      <div class="friends column">
+        <a href="{{friend.link}}" target="_{{friend.name}}">
+          <p>{{ friend.name }}</p>
+        </a>
+      </div>
+    {% if mod == 0 %}
+    </div>
+    {% endif %} 
+    {% if forloop.last and mod != 0 %}
+      {% assign cnt =  mod | plus: 1 %}
+      {% for i in (cnt..cols) %}
+        <div class="friends column">
+          <!-- column filler -->
+        </div>
+      {% endfor %}
+      </div>
+    {% endif %}
+  {% endfor %}
+  </div>
+
+  <hr style="margin-bottom: 5px" />
+
+  <center>
+    <p>
+      Have further questions about becoming a Friend of BSidesSF 2024? 
+      <br/> See our <a href="{{ site.data.sponsors.sponsorship_kit_url }}"> sponsorship kit (page ) </a>
+      <br/>Or contact <a href="mailto:sponsors@bsidessf.org">sponsors@bsidessf.org</a>.
+    </p>
+    <p>
+      <em>All names and logos are property of their respective owners.</em>
+    </p>
+  </center>
+</div>

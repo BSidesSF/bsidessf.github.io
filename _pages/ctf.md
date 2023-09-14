@@ -17,3 +17,4 @@ Questions? Email ctf [at] bsidessf.org.
 * [RequestBin](https://pipedream.com/requestbin) to receive requests.
 * [CyberChef](https://gchq.github.io/CyberChef/) for quick data processing in
   the browser.
+* [CTFtime](https://ctftime.org/) for finding other CTFs to play.

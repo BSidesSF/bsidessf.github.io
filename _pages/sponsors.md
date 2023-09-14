@@ -4,8 +4,8 @@ title: "Sponsors"
 ---
 
 <h3>Interested in sponsoring? Check out our
-<a href="{{ site.data.sponsors.sponsorship_kit_url }}" target="_blank">sponsorship kit</a>
-and contact sponsors@bsidessf.org for more information.</h3>
+  <a href="{{ site.data.sponsors.sponsorship_kit_url }}" target="_blank">sponsorship kit</a>
+  and contact sponsors@bsidessf.org for more information.</h3>
 
 {% for class in site.data.sponsors.levels %}
 

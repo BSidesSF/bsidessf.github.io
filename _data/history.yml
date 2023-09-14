@@ -7,6 +7,13 @@
 #
 ###
 
+- "year": "2023"
+  categories:
+    - title: "Videos"
+      external: "https://www.youtube.com/playlist?list=PLbZzXF2qC3RuQAuC0C4Q7Lk4eQluqIVzL"
+    - title: "Schedule"
+      external: "https://bsidessf2023.sched.com/"
+
 - "year": "2022"
   categories:
     - title: "Videos"

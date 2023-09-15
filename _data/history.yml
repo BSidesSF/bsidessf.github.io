@@ -65,6 +65,8 @@
 
 - "year": "2017"
   categories:
+    - title: "2017 Website"
+      href: "/a/2017.html"
     - title: "Videos"
       external: "https://www.youtube.com/playlist?list=PLbZzXF2qC3Rsv-7uUugKLaz5CzQUnuAk8"
     - title: "Schedule"

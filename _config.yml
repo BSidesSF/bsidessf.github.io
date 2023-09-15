@@ -32,13 +32,6 @@ exclude:
   ]
 include: [.well-known]
 
-defaults:
-  - scope:
-      path: "/a/*"
-      type: "archive"
-    values:
-      layout: "archive"
-
 collections:
   archive:
     output: true

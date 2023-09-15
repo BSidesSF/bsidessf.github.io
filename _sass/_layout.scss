@@ -276,3 +276,22 @@ div.imgdiv {
     }
   }
 }
+
+div.archive {
+  width: 80%;
+  height: 1024;
+  margin: auto;
+}
+
+div.banner {
+  background: $secondary-color;
+  color: $primary-color;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  text-align: center;
+  border: 10px solid $secondary-color;
+}
+
+strong.banner {
+  font-size: $large-font-size;
+}

@@ -104,9 +104,9 @@ levels:
 
 - level: Lanyard
   sponsors:
-  - name: "Available"
-    logo: "/images/bsides_logo_full-orangeblack.png"
-    href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
+  - name: "Doyensec"
+    logo: "/images/sponsors_2024/Doyensec.png"
+    href: "https://doyensec.com/careers.html"
   - name: "Available"
     logo: "/images/bsides_logo_full-orangeblack.png"
     href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"

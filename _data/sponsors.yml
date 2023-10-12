@@ -53,9 +53,9 @@ levels:
 - level: Supporting
   class: supporting
   sponsors:
-    - name: "Available"
-      logo: "/images/bsides_logo_full-orangeblack.png"
-      href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
+    - name: "Deepfactor"
+      logo: "/images/sponsors_2024/Deepfactor.png"
+      href: "https://www.deepfactor.io/careers/"
     - name: "Available"
       logo: "/images/bsides_logo_full-orangeblack.png"
       href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"

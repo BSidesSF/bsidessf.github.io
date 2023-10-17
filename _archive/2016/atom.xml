@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="https://bsidessf.com/a/2016/atom.xml" rel="self" type="application/atom+xml" /><link href="https://bsidessf.com/a/2016/" rel="alternate" type="text/html" /><updated>2023-09-14T03:16:45-07:00</updated><id>https://bsidessf.com/a/2016/atom.xml</id><title type="html">BSides SF</title><subtitle>Security BSides San Francisco is a two-day information security conference. It is a conference by the community for the community.
+</subtitle><author><name>BSides SF</name></author><entry><title type="html">BSidesSF Date Change - Behind the Scenes</title><link href="https://bsidessf.com/a/2016/news/2021/12/date-changed" rel="alternate" type="text/html" title="BSidesSF Date Change - Behind the Scenes" /><published>2021-12-30T00:00:00-08:00</published><updated>2021-12-30T00:00:00-08:00</updated><id>https://bsidessf.com/a/2016/news/2021/12/date-changed</id><content type="html" xml:base="https://bsidessf.com/a/2016/news/2021/12/date-changed">&lt;h1 id=&quot;bsidessf---a-behind-the-scenes-look-at-the-date-change&quot;&gt;BSidesSF - A behind the scenes look at the date change&lt;/h1&gt;
+
+&lt;p&gt;From the outside, changing the date looks a lot like a single announcement gets
+made after a leader make a decision to change the date. In our case, we do our
+best to bookend the RSA conference as a fair amount of our participants are
+travellers (for 2019 we looked at zip codes for pre-registration and 32% were
+not from Bay Area zip codes).&lt;/p&gt;
+
+&lt;p&gt;Things that happen behind the scenes when an event like ours changes the dates
+at the (almost literal) last minute. I’m going to break this list up a bit by
+“department” or how we have our leaders organized. We change how this
+looks almost every year, based on what was sucessful or not successful during
+the previous event. Remember that BSidesSF is an entirely volunteer organized
+event, so most of us also have to handle our normal day job(s) while also
+managing this sudden change.&lt;/p&gt;
+
+&lt;h4 id=&quot;general-administration&quot;&gt;General Administration:&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Check in with 2 venues to determine if the new dates are available. They were available so we didn’t have much else to check. If they were not available, we would have needed to decide what other dates to go for, or if we were going to cancel entirely.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Write up a blog post about the change in date.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;General Blog post on updated dates and all associated changes&lt;/li&gt;
+  &lt;li&gt;General Change hotel reservation to new dates&lt;/li&gt;
+  &lt;li&gt;General Package Acceptance plan - Use PO Plux for revised dates?&lt;/li&gt;
+  &lt;li&gt;General Package Acceptance plan - Contract Dates Moved?&lt;/li&gt;
+  &lt;li&gt;General Package Acceptance plan - Shipped Packages&lt;/li&gt;
+  &lt;li&gt;General Email registered attendees about date change&lt;/li&gt;
+  &lt;li&gt;General General announcement of Date Change - Full Blog Post with all the parts this affects&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;general-accountability--scheduling&quot;&gt;General Accountability &amp;amp; Scheduling&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Update the published schedule – which should now be viewed as TBD, as this may now change based on availability of speakers, villages, and workshops.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Track all of the items that need to be updated with the change&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Schedule Update Sched dates&lt;/li&gt;
+  &lt;li&gt;Schedule Update web page&lt;/li&gt;
+  &lt;li&gt;General Accountability Update Organizers calendar with new dates&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;artwork&quot;&gt;Artwork&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Change the dates aon all printed and online artwork. This includes T-shirts, web banners, our printed program, registration bags, and the sponsorship kit cover. Forunately we had not yet gone to production with any of these items so we do not have any loss related to previously printed materials.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;community-events&quot;&gt;Community Events&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Villages Send date change to villages&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;social-events&quot;&gt;Social Events&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Re-schedule the entertainment for new dates, fortunately they were available.&lt;/li&gt;
+  &lt;li&gt;Party DJ Notified of new date&lt;/li&gt;
+  &lt;li&gt;Contiune working with party sponsor about entertainment ideas - the change gives us more time to find something that will excite them and work for BSidesSF&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;social-events-1&quot;&gt;Social Events&lt;/h4&gt;
+
+&lt;h4 id=&quot;marketing&quot;&gt;Marketing&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Writing this post (hahahahaha)&lt;/li&gt;
+  &lt;li&gt;Changing any scheduled posts that reference the dates, pausing some posts until later
+Marketing Unschedule CFV posts
+Marketing Unschedule — posts
+Marketing Post about date change
+Marketing Change Social Media management software (and be able to better catch and respond to @mentions and DMs)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;presenters-and-workshops&quot;&gt;Presenters and Workshops&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Presenters Email speakers (bulk) with information, give deadline (3-4 weeks?) to confirm they can move&lt;/li&gt;
+  &lt;li&gt;Presenters Email keynote speakers directly&lt;/li&gt;
+  &lt;li&gt;Presenters Email review committee to give them a heads up as potential attendees and to let them know we will assess if a renewed CFP is necessary by EO January&lt;/li&gt;
+  &lt;li&gt;Presenters Email Workshops - same plan as speakers&lt;/li&gt;
+  &lt;li&gt;Presenters Verify availability for new dates of existing speakers&lt;/li&gt;
+  &lt;li&gt;Presenters Un-Waitlist speakers to fill gaps&lt;/li&gt;
+  &lt;li&gt;Presenters Reschedule all talks to new dates (GA may do this for Sched)&lt;/li&gt;
+  &lt;li&gt;Presenters Additional CFP if not enough waitlist speakers available?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;public-safety&quot;&gt;Public Safety&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Contract updates to new dates for our radios.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Public Safety Radio Contract change dates&lt;/li&gt;
+  &lt;li&gt;Public Safety SF DPH Large Event plan update&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;quartermaster&quot;&gt;Quartermaster&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Quartermaster Update agreement (not yet signed) with Hensely (tent &amp;amp; furnishings)&lt;/li&gt;
+  &lt;li&gt;Quartermaster Update agreement (not yet signed) with Green Mary&lt;/li&gt;
+  &lt;li&gt;Registration Pause Ticket sales?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;tickets--registgration&quot;&gt;Tickets &amp;amp; Registgration&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Update the registration page to havew the new dates&lt;/li&gt;
+  &lt;li&gt;Determine what to do about tickets sold for the previous dates&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Expect some addtional work closer to the event if refunds are needed&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Registration Determine status for sold tickets (refunds for unavailablility)&lt;/li&gt;
+  &lt;li&gt;Registration Update Regfox with new dates&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;sponsorships&quot;&gt;Sponsorships&lt;/h4&gt;
+
+&lt;p&gt;Without our sponsors, this event cannot happen. Every year we stress about how much money are we trying to raise, what can we ask for the various sponsorships we offer, and if we will be able to find organizations willing to fill the sponsorship opportunities. This year we’ve been fortunate and have almost all of our sponsorships claimed. However, with the change of date…&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Communicate to the sponsors the date change, try to predict their concerns and address them in the announcement&lt;/li&gt;
+  &lt;li&gt;Sponsors Swap Ordering&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Sponsors Swag Shipping - changes + how to handle what has already been shipped&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Sponsors Notify sponsors of date change (email?)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;technology&quot;&gt;Technology&lt;/h4&gt;
+
+&lt;p&gt;Technology Webpass date change&lt;/p&gt;
+
+&lt;h4 id=&quot;volunteers&quot;&gt;Volunteers&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Close out our current Volunteer recruitment tool, and set it up for the future recruitment for volunteers&lt;/li&gt;
+  &lt;li&gt;Update volunteer staffers (year round volunteers) with changes&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Notify existing volunteers (we opened volunteer )&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Email Volunteers about change in dates&lt;/li&gt;
+  &lt;li&gt;Cancel all current volunteer shifts&lt;/li&gt;
+  &lt;li&gt;Update CFV with new dates&lt;/li&gt;
+  &lt;li&gt;Answer Volunteer emails&lt;/li&gt;
+  &lt;li&gt;Update CFV webpage to reflect new dates (but don’t delete)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And there you have it, an inside look at all of the things that had to rapidly
+happen, and a bunch of things that are still happening in order for us to move
+to a new date.&lt;/p&gt;
+
+&lt;p&gt;Looking forward to seeing you all in June.&lt;/p&gt;</content><author><name>BSides SF</name></author><category term="post" /><summary type="html">BSidesSF - A behind the scenes look at the date change</summary></entry><entry><title type="html">Schedule, Keynote, and Livestreaming</title><link href="https://bsidessf.com/a/2016/news/2016/02/schedule-2016" rel="alternate" type="text/html" title="Schedule, Keynote, and Livestreaming" /><published>2016-02-27T14:00:00-08:00</published><updated>2016-02-27T14:00:00-08:00</updated><id>https://bsidessf.com/a/2016/news/2016/02/schedule-2016</id><content type="html" xml:base="https://bsidessf.com/a/2016/news/2016/02/schedule-2016">&lt;p&gt;Tomorrow’s the big day! BSides SF 2016 kicks off with
+&lt;a href=&quot;https://en.wikipedia.org/wiki/John_Perry_Barlow&quot;&gt;John Perry Barlow&lt;/a&gt; as our keynote.&lt;/p&gt;
+
+&lt;p&gt;If you haven’t already gotten your tickets, grab them
+&lt;a href=&quot;https://www.dnalounge.com/calendar/2016/02-28a.html&quot;&gt;now here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Schedule is &lt;a href=&quot;/schedule.html&quot;&gt;available here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Both tracks will be livestreamed and recorded. For the livestream, go
+&lt;a href=&quot;https://www.dnalounge.com/webcast/&quot;&gt;here&lt;/a&gt; starting at 10am on Sunday and Monday.
+Track 1 is “A” stream. Track 2 is “B” stream.&lt;/p&gt;
+
+&lt;p&gt;Excited to see everybody there tomorrow!&lt;/p&gt;</content><author><name>BSides SF</name></author><summary type="html">Tomorrow’s the big day! BSides SF 2016 kicks off with John Perry Barlow as our keynote.</summary></entry><entry><title type="html">Get your tickets for BSides SF 2016</title><link href="https://bsidessf.com/a/2016/news/2016/01/tickets-on-sale-2016" rel="alternate" type="text/html" title="Get your tickets for BSides SF 2016" /><published>2016-01-12T00:00:00-08:00</published><updated>2016-01-12T00:00:00-08:00</updated><id>https://bsidessf.com/a/2016/news/2016/01/tickets-on-sale-2016</id><content type="html" xml:base="https://bsidessf.com/a/2016/news/2016/01/tickets-on-sale-2016">&lt;p&gt;Tickets are &lt;a href=&quot;https://www.dnalounge.com/calendar/2016/02-28a.html&quot;&gt;now available&lt;/a&gt; for BSides SF 2016.&lt;/p&gt;
+
+&lt;p&gt;If you loved BSides SF in 2015, imagine how great it will be in 2016 @ DNA Lounge (with booze)!&lt;/p&gt;
+
+&lt;p&gt;The cost is $25/person in advance ($30 at door). This includes friends, food, and fun!&lt;/p&gt;
+
+&lt;p&gt;So, head over and &lt;a href=&quot;https://www.dnalounge.com/calendar/2016/02-28a.html&quot;&gt;sign-up now&lt;/a&gt; to ensure you don’t miss out.&lt;/p&gt;
+
+&lt;p&gt;NOTE: We’re still looking for volunteers, so sign-up &lt;a href=&quot;/volunteer.html&quot;&gt;here&lt;/a&gt; if you can help.&lt;/p&gt;</content><author><name>BSides SF</name></author><summary type="html">Tickets are now available for BSides SF 2016.</summary></entry><entry><title type="html">Call for Volunteers for BSides SF 2016</title><link href="https://bsidessf.com/a/2016/news/2015/12/call-for-volunteers-2016" rel="alternate" type="text/html" title="Call for Volunteers for BSides SF 2016" /><published>2015-12-13T00:00:00-08:00</published><updated>2015-12-13T00:00:00-08:00</updated><id>https://bsidessf.com/a/2016/news/2015/12/call-for-volunteers-2016</id><content type="html" xml:base="https://bsidessf.com/a/2016/news/2015/12/call-for-volunteers-2016">&lt;p&gt;Interested in helping at BSides SF 2016?&lt;/p&gt;
+
+&lt;p&gt;As a community-driven event, BSides SF would not be possible without the work of volunteers. The organizers have worked hard to build a fun and exciting agenda. In order to execute this event and make it successful, we seeking additional volunteers to help with the tasks on the two days of the event (February 28-29, 2016), which include, but are not limited to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Registration / Information&lt;/li&gt;
+  &lt;li&gt;Audio/Visual&lt;/li&gt;
+  &lt;li&gt;Room moderators / security&lt;/li&gt;
+  &lt;li&gt;Speaker wrangling&lt;/li&gt;
+  &lt;li&gt;Top secret undercover missions&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We understand that our volunteers want to hear some of the talks as well, and we will work with you to ensure you are able to do so.&lt;/p&gt;
+
+&lt;p&gt;You can sign up to be a volunteer &lt;a href=&quot;/volunteer.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content><author><name>BSides SF</name></author><summary type="html">Interested in helping at BSides SF 2016?</summary></entry><entry><title type="html">Call for Papers for BSides SF 2016</title><link href="https://bsidessf.com/a/2016/news/2015/11/call-for-papers-2016" rel="alternate" type="text/html" title="Call for Papers for BSides SF 2016" /><published>2015-11-30T00:00:00-08:00</published><updated>2015-11-30T00:00:00-08:00</updated><id>https://bsidessf.com/a/2016/news/2015/11/call-for-papers-2016</id><content type="html" xml:base="https://bsidessf.com/a/2016/news/2015/11/call-for-papers-2016">&lt;p&gt;BSides SF is soliciting papers and presentations for the 2016 BSides SF conference to be held at DNA Lounge in San Francisco on February 28-29, 2016.&lt;/p&gt;
+
+&lt;p&gt;Our call for papers process is fairly standard, but please do take the time to read through the information, as there are changes every year.&lt;/p&gt;
+
+&lt;p&gt;To all of you who think you have something to say – take a look and get writing. You’ve got until January 10th to make your submission.&lt;/p&gt;
+
+&lt;p&gt;For complete details and information on how to submit, check out &lt;a href=&quot;/cfp.html&quot;&gt;Call for Papers&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Spread the word!&lt;/p&gt;</content><author><name>BSides SF</name></author><summary type="html">BSides SF is soliciting papers and presentations for the 2016 BSides SF conference to be held at DNA Lounge in San Francisco on February 28-29, 2016.</summary></entry></feed>

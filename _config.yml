@@ -30,12 +30,13 @@ exclude:
     LICENSE,
     SECURITY.md,
   ]
-include:
-  [
-    .well-known
-  ]
+include: [.well-known]
 
 collections:
+  archive:
+    output: true
+    permalink: /a/:path
+
   pages:
     output: true
     permalink: /:path

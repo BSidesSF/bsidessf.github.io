@@ -24,10 +24,8 @@
 
 - title: "CFP"
   subcategories:
-    - subtitle: "Talks"
+    - subtitle: "Talks / Workshops"
       subhref: "/cfp"
-    - subtitle: "Workshops"
-      subhref: "/cfp/workshops"
     - subtitle: "Villages"
       subhref: "/cfp/villages"
 

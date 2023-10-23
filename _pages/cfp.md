@@ -15,10 +15,6 @@ The BSides community has continuously raised the bar and put the info back in in
 
 BSidesSF will take place in San Francisco from May 4-5, 2024. The Call for Participation for presentations and panels will close on December 11, 2023 (Monday) at 11:59 PM Pacific Time. The Call for Participation for workshops, villages, and BoF will close on January 8, 2024 (Monday) at 11:59 PM Pacific Time.
 
-# **Workshops**
-
-Check out the [Call for Workshops](/cfp/workshops).
-
 # **Villages**
 
 Check out the [Call for Villages](/cfp/villages).

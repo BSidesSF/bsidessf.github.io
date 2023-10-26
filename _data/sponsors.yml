@@ -186,9 +186,9 @@ levels:
       logo: "/images/bsides_logo_full-orangeblack.png"
       href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
     - type: Coat Check
-      name: "Available"
-      logo: "/images/bsides_logo_full-orangeblack.png"
-      href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
+      name: "HPE Aruba Networking"
+      logo: "/images/sponsors_2024/ArubaHPE.png"
+      href: "https://careers.hpe.com/us/en/hpe-aruba"
 
 - level: Special Thanks
   sponsors:

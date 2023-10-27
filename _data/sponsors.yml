@@ -10,9 +10,9 @@ levels:
 - level: Leading
   class: leading
   sponsors:
-    - name: "Available"
-      logo: "/images/bsides_logo_full-orangeblack.png"
-      href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
+    - name: "Google"
+      logo: "/images/sponsors_2024/Google.png"
+      href: "https://careers.google.com/"
     - name: "Available"
       logo: "/images/bsides_logo_full-orangeblack.png"
       href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"

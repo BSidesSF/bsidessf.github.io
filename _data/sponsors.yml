@@ -30,9 +30,9 @@ levels:
 - level: Contributing
   class: contrib
   sponsors:
-    - name: "Available"
-      logo: "/images/bsides_logo_full-orangeblack.png"
-      href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
+    - name: "Teleport"
+      logo: "/images/sponsors_2024/Teleport.png"
+      href: "https://goteleport.com/careers/"
     - name: "Available"
       logo: "/images/bsides_logo_full-orangeblack.png"
       href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"

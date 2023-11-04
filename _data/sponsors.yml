@@ -89,18 +89,18 @@ levels:
       logo: "/images/sponsors_2024/P0Security.png"
       href: "https://p0.dev/?utm_source=bsides_sf&utm_medium=sponsor_site&utm_campaign=event_bsides_2024"
     - break: true
+    - name: "Probely"
+      logo: "/images/sponsors_2024/Probely.png"
+      href: "https://careers.probely.com/"
+    - name: "RunReveal"
+      logo: "/images/sponsors_2024/RunReveal.png"
+      href: "https://runreveal.com/"
     - name: "Socket"
       logo: "/images/sponsors_2024/Socket.png"
       href: "https://socket.dev/careers"
     - name: "Truffle Security"
       logo: "/images/sponsors_2024/TruffleSecurity.png"
       href: "https://trufflesecurity.com/careers/"
-    - name: "Available"
-      logo: "/images/bsides_logo_full-orangeblack.png"
-      href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
-    - name: "Available"
-      logo: "/images/bsides_logo_full-orangeblack.png"
-      href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
 
 - level: Lanyard
   sponsors:

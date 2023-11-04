@@ -50,4 +50,4 @@ To submit your presentation, please go **---> [here!](https://pretalx.com/bsides
 
 Questions? E-mail program [at] bsidessf.org
 
-You can also ping **@program-ops** in **#[2024-cfp-helpdesk](https://bsidessf.slack.com/archives/C05U24PACSD)** on the BSidesSF Slack (Click [here](https://join.slack.com/t/bsidessf/shared_invite/zt-iaendt9d-274svOeE9GzEGLscio2ZZg) for an invite to the Slack).
+You can also ping **@program-ops** in **#[2024-cfp-helpdesk](https://bsidessf.slack.com/archives/C05U24PACSD)** on the BSidesSF Slack (use the Slack logo at top right of page for an invite to the Slack).

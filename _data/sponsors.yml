@@ -59,13 +59,13 @@ levels:
     - name: "GitHub"
       logo: "/images/sponsors_2024/GitHub.png"
       href: "https://github.com/about/careers"
+    - name: "Panther"
+      logo: "/images/sponsors_2024/Panther.jpg"
+      href: "https://panther.com/company/careers/"
+    - break: true
     - name: "Tines"
       logo: "/images/sponsors_2024/Tines.png"
       href: "https://www.tines.com/careers/"
-    - break: true
-    - name: "Available"
-      logo: "/images/bsides_logo_full-orangeblack.png"
-      href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
     - name: "Available"
       logo: "/images/bsides_logo_full-orangeblack.png"
       href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"

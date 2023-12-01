@@ -158,16 +158,16 @@ levels:
 - level:
   sponsors:
     - type: Capture The Flag (CTF)
-      name: "Available"
-      logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
-      href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
+    - name: "Google"
+      logo: "/images/sponsors_2024/Google.png"
+      href: "https://careers.google.com/"
 
 - level:
   sponsors:
     - type: Presenter Appreciation
       name: "Available"
       logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
-      href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"    
+      href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
     - type: Scholarship
       name: "Available"
       logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"

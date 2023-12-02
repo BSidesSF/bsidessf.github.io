@@ -83,6 +83,8 @@
 
 - year: "2015"
   categories:
+    - title: "Videos"
+      external: "https://www.youtube.com/playlist?list=PLbZzXF2qC3RshjvKGmXcNAJtKKXdjXRf0"
     - title: "Schedule"
       external: "https://bsidessf2015.sched.com/"
     - title: "Security BSides Wiki"

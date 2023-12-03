@@ -13,8 +13,8 @@ levels:
     - name: "Google"
       logo: "/images/sponsors_2024/Google.png"
       href: "https://careers.google.com/"
-    - name: "Available"
-      logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+    - name: "ZZZ Pending"
+      logo: "/images/BSidesSF_SponsorshipPending.png"
       href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
     - name: "Available"
       logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
@@ -33,11 +33,11 @@ levels:
     - name: "Teleport"
       logo: "/images/sponsors_2024/Teleport.png"
       href: "https://goteleport.com/careers/"
-    - name: "Available"
-      logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+    - name: "ZZZ Pending"
+      logo: "/images/BSidesSF_SponsorshipPending.png"
       href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
-    - name: "Available"
-      logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+    - name: "ZZZ Pending"
+      logo: "/images/BSidesSF_SponsorshipPending.png"
       href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
     - break: true
     - name: "Available"
@@ -69,8 +69,8 @@ levels:
     - name: "Tines"
       logo: "/images/sponsors_2024/Tines.png"
       href: "https://www.tines.com/careers/"
-    - name: "Available"
-      logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+    - name: "ZZZ Pending"
+      logo: "/images/BSidesSF_SponsorshipPending.png"
       href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
 
 - level: Emerging Technology
@@ -158,7 +158,7 @@ levels:
 - level:
   sponsors:
     - type: Capture The Flag (CTF)
-    - name: "Google"
+      name: "Google"
       logo: "/images/sponsors_2024/Google.png"
       href: "https://careers.google.com/"
 

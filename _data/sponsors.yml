@@ -145,9 +145,9 @@ levels:
 
 - level: Villages
   sponsors:
-  - name: "Available"
-    logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
-    href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
+  - name: "GitGuardian"
+    logo: "/images/sponsors_2024/GitGuardian.png"
+    href: "https://www.gitguardian.com/careers"
   - name: "Available"
     logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
     href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"

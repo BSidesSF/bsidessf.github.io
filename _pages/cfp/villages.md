@@ -29,6 +29,10 @@ Note: If you'd like to separately submit a presentation to the main [BSidesSF CF
 
 Coming soon.
 
+# Submit to the CFP!
+
+Please go **---> [HERE](https://pretalx.com/bsidessf-2024/submit/?track=4131-collaborative-workshop-village-bof&submission_type=3484-village-community-group) <---** for Village submissions!
+
 # Contact
 
 Overall CFP/Program operation inquiries (include problems with Pretalx) should be sent to program [at] bsidessf [dot] org.

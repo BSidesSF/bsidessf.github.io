@@ -35,6 +35,6 @@ Please go **---> [HERE](https://pretalx.com/bsidessf-2024/submit/?track=4131-col
 
 # Contact
 
-Overall CFP/Program operation inquiries (include problems with Pretalx) should be sent to program [at] bsidessf [dot] org.
+Overall CFP/Program operation inquiries (include problems with Pretalx) should be sent to program [at] bsidessf.org.
 
-Village operation inquiries should be sent to villages [at] bsidessf [dot] org.
+Village operation inquiries should be sent to villages [at] bsidessf.org.

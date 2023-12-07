@@ -5,7 +5,7 @@ title: "BSidesSF 2024 Call For Participation"
 
 BSidesSF is *still* soliciting submissions for the annual BSidesSF conference on May 4-5, 2024. Call for Participation is currently open for both Informational/Collaborative Tracks.  Please note that all presentations are limited to two speakers only. Panels are limited to 5 participants (including the moderator).
 
-Note: We **DO NOT** provide speaker or travel stipends at this time. We also DO NOT accept vendor pitches of any sort in our conference program. Thank you for your understanding.
+Note: We **DO NOT** provide presenter or travel stipends at this time (except on a case-by-case basis with villages). We also DO NOT accept vendor pitches of any sort in our conference program. Thank you for your understanding.
 
 # **What**
 

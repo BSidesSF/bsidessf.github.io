@@ -30,15 +30,15 @@ levels:
 - level: Contributing
   class: contrib
   sponsors:
+    - name: "Code Red Partners"
+      logo: "/images/sponsors_2024/CodeRedPartners.png"
+      href: "https://coderedpartners.com/"
     - name: "Rippling"
       logo: "/images/sponsors_2024/Rippling.png"
       href: "https://www.rippling.com/careers"
     - name: "Teleport"
       logo: "/images/sponsors_2024/Teleport.png"
       href: "https://goteleport.com/careers/"
-    - name: "ZZZ Pending"
-      logo: "/images/BSidesSF_SponsorshipPending.png"
-      href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
     - break: true
     - name: "Available"
       logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"

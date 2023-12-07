@@ -3,6 +3,10 @@ layout: page
 title: "BSidesSF 2024 Call For Participation"
 ---
 
+BSidesSF is *still* soliciting submissions for the annual BSidesSF conference on May 4-5, 2024. Call for Participation is currently open for both Informational/Collaborative Tracks.  Please note that all presentations are limited to two speakers only. Panels are limited to 5 participants (including the moderator).
+
+Note: We **DO NOT** provide speaker or travel stipends at this time (except on a case-by-case basis with villages). We also DO NOT accept vendor pitches of any sort in our conference program. Thank you for your understanding.
+
 # **What**
 
 BSidesSF is a non-profit organization designed to advance the body of Information Security knowledge, by providing an annual, open forum for discussion and debate for security practitioners. We produce a conference that is a source of education, collaboration, and continued conversation for information technologists. The technical and academic presentations at BSidesSF are given in the spirit of peer review and advanced knowledge dissemination. This allows the field of Information Security to grow in breadth and depth, and continue in its pursuit of highly advanced, scientifically based knowledge.
@@ -11,19 +15,29 @@ We are a practitioner focused event that attracts a wide range of attendees rang
 
 The BSides community has continuously raised the bar and put the info back in infosec. We thank each and every member/participant/organizer of this community for their hard work, sweat, and relentless pursuit of making high quality content accessible. We celebrate diverse approaches and points of view and believe that our commitment to diversity fosters innovation. BSidesSF is continuing to build upon a culture that drives our community to include a wide range of thoughts and ideas.
 
-# **When**
+# **When/Where**
 
-BSidesSF will take place in San Francisco from May 4-5, 2024. The Call for Participation for presentations and panels will close on December 11, 2023 (Monday) at 11:59 PM Pacific Time. The Call for Participation for workshops, villages, and BoF will close on January 8, 2024 (Monday) at 11:59 PM Pacific Time.
+BSidesSF will take place on May 4-5, 2024. The conference will be located at City View at the Metreon in downtown San Francisco.
 
-# **Villages**
+# **Topics**
 
-Check out the [Call for Villages](/cfp/villages).
+The following topics are of interest and in scope for BSidesSF 2024 submissions:
+- Protective and Corrective Security Controls
+- Security Leadership and Culture
+- Security at Scale
+- Usable Privacy and Security
+- Privacy and Governance
+- Detection and Response
 
-# **Talks**
+Let us help you get the word out on The Next Big Thing!
 
-May 4-5, 2024
+# **Theme**
 
-Please note that all talks are limited to two presenters only. Panels are limited to 5 participants (including the moderator).
+You can't spell dystopia without AI
+
+# **Tracks**
+
+2024 marks our first year in streamlining the CFP process.
 
 * **Informational Track**
     * Presentation, General – 30m regular presentation format
@@ -31,22 +45,23 @@ Please note that all talks are limited to two presenters only. Panels are limite
     * Panels – 45m with 1 facilitator + 3-4 expert panelists
 * **Collaborative Track**
     * Workshops – 120m collaborative / interactive session with attendees
-    * Villages – all-day dedicated spaces on a specific topic, often holding various hands-on activities
+    * [Villages](/cfp/villages) – all-day dedicated spaces on a specific topic, often with various hands-on activities
     * Birds of a Feather (NEW!) – 45m, very informal gatherings of persons interested in a particular topic led by 1 facilitator
 
 # **Important Dates**
 
-- October 20, 2023 – Call for participation (Presentations / Panels / Workshops) opens
-- October ??, 2023 – Call for participation (Villages / BoF) opens
-- **December 11, 2023 (Monday) – Deadline: Presentations / Panels**
-- **January 8, 2024 (Monday) – Deadline: Workshops / Villages / BoF**
-- February 5, 2024 – All notifications, including waitlist, sent
-- February 26, 2024 – Participation confirmed by speakers and details finalized
-- May 4-5, 2024 – BSidesSF 2024
+* October 20, 2023 – CFP (Presentations / Panels / Workshops) opens
+* December 7, 2023 – CFP (Villages / BoF) opens
+* *~~December 11~~* **January 8, 2024 (Monday) – Deadline: Presentations / Panels (Informational Track)**
+* *~~January 8~~* **February 5, 2024 (Monday) – Deadline: Workshops / Villages / BoF (Collaborative Track)**
+* *~~February 5~~* February 17, 2024 – All notifications, including waitlist, sent
+* *~~February 26~~* March 3, 2024 – Participation/details finalized by speakers
+* March 11, 2024 – Conference schedule goes live; Registrations open
+* May 4-5, 2024 – BSidesSF 2024
 
-# **Submit to the CFP**
+# **Submit to the CFP!**
 
-To submit your presentation, please go **---> [here!](https://pretalx.com/bsidessf-2024) <---**
+Please go **---> [HERE](https://pretalx.com/bsidessf-2024) <---** for Presentation, Panel, Workshop, Village, or BoF submissions!
 
 Questions? E-mail program [at] bsidessf.org
 

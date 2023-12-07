@@ -5,7 +5,7 @@ title: "BSidesSF 2024 Call For Participation"
 
 BSidesSF is *still* soliciting submissions for the annual BSidesSF conference on May 4-5, 2024. Call for Participation is currently open for both Informational/Collaborative Tracks.  Please note that all presentations are limited to two speakers only. Panels are limited to 5 participants (including the moderator).
 
-Note: We **DO NOT** provide presenter or travel stipends at this time (except on a case-by-case basis with villages). We also DO NOT accept vendor pitches of any sort in our conference program. Thank you for your understanding.
+Note: We **DO NOT** provide speaker or travel stipends at this time (except on a case-by-case basis with villages). We also DO NOT accept vendor pitches of any sort in our conference program. Thank you for your understanding.
 
 # **What**
 
@@ -45,7 +45,7 @@ You can't spell dystopia without AI
     * Panels – 45m with 1 facilitator + 3-4 expert panelists
 * **Collaborative Track**
     * Workshops – 120m collaborative / interactive session with attendees
-    * [Villages](/cfp/villages) – all-day dedicated spaces on a specific topic, often holding various hands-on activities
+    * [Villages](/cfp/villages) – all-day dedicated spaces on a specific topic, often with various hands-on activities
     * Birds of a Feather (NEW!) – 45m, very informal gatherings of persons interested in a particular topic led by 1 facilitator
 
 # **Important Dates**
@@ -55,7 +55,7 @@ You can't spell dystopia without AI
 * *~~December 11~~* **January 8, 2024 (Monday) – Deadline: Presentations / Panels (Informational Track)**
 * *~~January 8~~* **February 5, 2024 (Monday) – Deadline: Workshops / Villages / BoF (Collaborative Track)**
 * *~~February 5~~* February 17, 2024 – All notifications, including waitlist, sent
-* *~~February 26~~* March 3, 2024 – Participation/details finalized by presenters
+* *~~February 26~~* March 3, 2024 – Participation/details finalized by speakers
 * March 11, 2024 – Conference schedule goes live; Registrations open
 * May 4-5, 2024 – BSidesSF 2024
 

@@ -2,15 +2,23 @@
 layout: page
 title: Friends of BSidesSF 2024
 ---
+
 {% assign cols = 4 %}
 
-<script type="text/javascript" defer src="https://donorbox.org/install-popup-button.js"></script>
-<a class="dbox-donation-button" style="background: #128aed url(https://donorbox.org/images/white_logo.svg) no-repeat 45px;color: #fff;text-decoration: none;font-family: Verdana,sans-serif;display: inline-block;font-size: 16px;padding: 15px 45px;padding-left: 70px;-webkit-border-radius: 8px;-moz-border-radius: 8px;border-radius: 8px;" href="https://donorbox.org/friends-of-bsidessf-2024?default_interval=o">Become a Friend of BSidesSF</a>
-
-<p class="friends">
-BSidesSF celebrates the following people and organizations
-who have donated $1500 or more making BSidesSF 2024 possible!
+<center>
+<p>
+BSidesSF celebrates the following people and organizations 
+who have donated $1,500 or more making BSidesSF 2024 possible!
 </p>
+
+<p>
+<script type="text/javascript" defer src="https://donorbox.org/install-popup-button.js"></script>
+<a class="dbox-donation-button" 
+  style="background: #128aed url(https://donorbox.org/images/white_logo.svg) no-repeat 45px;color: #fff;text-decoration: none;font-family: Verdana,sans-serif;display: inline-block;font-size: 16px;padding: 15px 45px;padding-left: 70px;-webkit-border-radius: 8px;-moz-border-radius: 8px;border-radius: 8px;" 
+  href="https://donorbox.org/friends-of-bsidessf-2024?default_interval=o">
+  Become a Friend of BSidesSF</a>
+</p>
+</center>
 
 <hr style="margin-bottom: 5px" />
 <div style="text-align: center" class="friends {{ class.class }}">
@@ -35,17 +43,18 @@ who have donated $1500 or more making BSidesSF 2024 possible!
           <!-- column filler -->
         </div>
       {% endfor %}
-    </div>
+      </div>
     {% endif %}
   {% endfor %}
-</div>
+  </div>
+  <hr style="margin-bottom: 5px" />
 
 <hr style="margin-bottom: 5px" />
 
 <center>
   <p>
-    Have further questions or interested in sponsoring in a larger capacity?
-    <br/>Check out the <a href="{{ site.data.sponsors.sponsorship_kit_url }}">sponsorship kit</a>
-    <br/>or contact <a href="mailto:sponsors@bsidessf.org">sponsors@bsidessf.org</a>.
+      Have further questions about becoming a Friend of BSidesSF 2024, or sponsoring? 
+      <br/> See our <a href="{{ site.data.sponsors.sponsorship_kit_url }}" target=_blank> sponsorship kit (page) </a>
+      <br/>Or contact <a href="mailto:sponsors@bsidessf.org" target=_blank>sponsors@bsidessf.org</a>.
   </p>
 </center>

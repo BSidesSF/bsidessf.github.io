@@ -10,6 +10,10 @@ title: Friends of BSidesSF 2024
 BSidesSF celebrates the following people and organizations 
 who have donated $1,500 or more making BSidesSF 2024 possible!
 </p>
+<p>
+  You can join the Friends of BSidesSF 2024 via our <i><a href="https://donorbox.org/friends-of-bsidessf-2024" target=_blank>donorbox form</a></i>, thank you for your support!
+</p>
+</center>
 
 <p>
 <script type="text/javascript" defer src="https://donorbox.org/install-popup-button.js"></script>
@@ -52,7 +56,7 @@ who have donated $1,500 or more making BSidesSF 2024 possible!
   <center>
     <p>
       Have further questions about becoming a Friend of BSidesSF 2024, or sponsoring? 
-      <br/> See our <a href="{{ site.data.sponsors.sponsorship_kit_url }}" target=_blank> sponsorship kit (page) </a>
+      <br/> See our <a href="{{ site.data.sponsors.sponsorship_kit_url }}" target=_blank> sponsorship kit</a>
       <br/>Or contact <a href="mailto:sponsors@bsidessf.org" target=_blank>sponsors@bsidessf.org</a>.
     </p>
     <p>

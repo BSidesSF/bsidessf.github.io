@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Donate"
---- 
+---
 
 # Want to donate to making BSidesSF awesome?
 

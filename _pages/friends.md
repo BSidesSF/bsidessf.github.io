@@ -10,6 +10,10 @@ title: Friends of BSidesSF 2024
 BSidesSF celebrates the following people and organizations 
 who have donated $1,500 or more making BSidesSF 2024 possible!
 </p>
+<p>
+  You can join the Friends of BSidesSF 2024 via our <i><a href="https://donorbox.org/friends-of-bsidessf-2024" target=_blank>donorbox form</a></i>, thank you for your support!
+</p>
+</center>
 
 <p>
 <script type="text/javascript" defer src="https://donorbox.org/install-popup-button.js"></script>
@@ -49,6 +53,7 @@ who have donated $1,500 or more making BSidesSF 2024 possible!
   </div>
   <hr style="margin-bottom: 5px" />
 
+<<<<<<< HEAD:_pages/friends.md
 <hr style="margin-bottom: 5px" />
 
 <center>
@@ -58,3 +63,16 @@ who have donated $1,500 or more making BSidesSF 2024 possible!
       <br/>Or contact <a href="mailto:sponsors@bsidessf.org" target=_blank>sponsors@bsidessf.org</a>.
   </p>
 </center>
+=======
+  <center>
+    <p>
+      Have further questions about becoming a Friend of BSidesSF 2024, or sponsoring? 
+      <br/> See our <a href="{{ site.data.sponsors.sponsorship_kit_url }}"> sponsorship kit (page ) </a>
+      <br/>Or contact <a href="mailto:sponsors@bsidessf.org">sponsors@bsidessf.org</a>.
+    </p>
+    <p>
+      <em>All names and logos are property of their respective owners.</em>
+    </p>
+  </center>
+</div>
+>>>>>>> 1d63e1c (Updated friends page.  Removed AMZN Smile.  Nav addition):_pages/friends.html

@@ -44,8 +44,8 @@ who have donated $1500 or more making BSidesSF 2024 possible!
 
 <center>
   <p>
-    Have further questions about becoming a Friend of BSidesSF 2024?
-    <br/>See the last page of our <a href="{{ site.data.sponsors.sponsorship_kit_url }}">sponsorship kit</a>
+    Have further questions or interested in sponsoring in a larger capacity?
+    <br/>Check out the <a href="{{ site.data.sponsors.sponsorship_kit_url }}">sponsorship kit</a>
     <br/>or contact <a href="mailto:sponsors@bsidessf.org">sponsors@bsidessf.org</a>.
   </p>
 </center>

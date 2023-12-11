@@ -3,4 +3,5 @@
 #  link: The single URL they provided (if)
 #
 # must have at least 1 entry to avoid a build error, blank name works
-- name: 
+- name: Be the first!
+  link: https://bsidessf.org/friends

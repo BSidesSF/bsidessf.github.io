@@ -5,7 +5,7 @@
 #      - best for single sponsor items
 # break - puts in a row break
 #
-sponsorship_kit_url: "https://drive.google.com/open?id=1jlKVF-_HDP-ovi7rQsxzcMejajKDDQbP"
+sponsorship_kit_url: "https://drive.google.com/open?id=1zwhSVi7-YElnLaU9rIaobQ7f7C0FaMSL"
 levels:
 - level: Leading
   class: leading
@@ -131,8 +131,8 @@ levels:
       href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
     - break: true
     - type: "Espresso and Coffee"
-      name: "Available"
-      logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+      name: "ZZZ Pending"
+      logo: "/images/BSidesSF_SponsorshipPending.png"
       href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
     - type: "Espresso and Coffee"
       name: "Available"

@@ -1,8 +1,11 @@
 // Base Colors
-$primary-color: #272727; // black
-$secondary-color: #CD502B; // orange
-$complimentary-color: #fff; // white
-$body-bg: #fff; // white
+//$primary-color: #272727; // black
+//$secondary-color: #CD502B; // orange
+//$complimentary-color: #fff; // white
+$primary-color: #000; // black
+$secondary-color: #be202e; // orange
+$complimentary-color: #d0cbc0; // white
+$body-bg: #d0cbc0; // white
 $body-font-color: $primary-color;
 
 // Links
@@ -35,9 +38,9 @@ $socials-border-color: #fff; // white
 $spacing-unit: 30px;
 
 // Header
-$header-gradient-start: #fff; // white
+$header-gradient-start: #000; // white
 $header-gradient-end: #fff; // white
-$header-background-img: "../images/header_background_2024.jpg";
+$header-background-img: url('/images/header_background_2024.jpg');
 
 // Footer
 $footer-height: 54px;

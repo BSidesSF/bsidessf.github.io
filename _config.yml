@@ -13,6 +13,8 @@ header_sm: images/bsides_logo_2024.png
 header_med: images/bsides_logo_2024.png
 header_large: images/bsides_logo_2024.png
 header_xl: images/bsides_logo_2024.png
+header_left: images/bsides_header_left_2024.png
+header_right: images/bsides_header_right_2024.png
 
 # Exclude our ruby stuff and other files
 exclude:

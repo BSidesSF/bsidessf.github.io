@@ -1,9 +1,35 @@
 {% if page.header %}
-  <header role="banner">
-    <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/{{ page.header_xl }}" srcset="{{ site.baseurl }}/{{ page.header_sm }} 200w, {{ site.baseurl }}/{{ page.header_med }} 641w, {{ site.baseurl }}/{{ page.header_large }} 1025w, {{ site.baseurl }}/{{ page.header_xl }} 1441w" alt="{{ site.name }} header image" title="{{ site.name }} header image" class="center"></a>
-  </header>
+<header role="banner">
+  <a href="{{ site.baseurl }}/"
+    ><img
+      src="{{ site.baseurl }}/{{ page.header_xl }}"
+      srcset="{{ site.baseurl }}/{{ page.header_sm }} 200w, {{ site.baseurl }}/{{ page.header_med }} 641w, {{ site.baseurl }}/{{ page.header_large }} 1025w, {{ site.baseurl }}/{{ page.header_xl }} 1441w"
+      alt="{{ site.name }} header image"
+      title="{{ site.name }} header image"
+      class="center"
+  /></a>
+</header>
 {% elsif site.header %}
-  <header role="banner">
-    <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/{{ site.header_xl }}" srcset="{{ site.baseurl }}/{{ site.header_sm }} 200w, {{ site.baseurl }}/{{ site.header_med }} 641w, {{ site.baseurl }}/{{ site.header_large }} 1025w, {{ site.baseurl }}/{{ site.header_xl }} 1441w" alt="{{ site.name }} header image" title="{{ site.name }} header image" class="center"></a>
-  </header>
+<header role="banner">
+  <img
+    width="25%"
+    align="middle"
+    src="{{ site.baseurl }}/{{ site.header_left }}"
+  />
+  <a href="{{ site.baseurl }}/">
+    <img
+      width="45%"
+      src="{{ site.baseurl }}/{{ site.header_xl }}"
+      srcset="{{ site.baseurl }}/{{ site.header_sm }} 200w, {{ site.baseurl }}/{{ site.header_med }} 641w, {{ site.baseurl }}/{{ site.header_large }} 1025w, {{ site.baseurl }}/{{ site.header_xl }} 1441w"
+      alt="{{ site.name }} header image"
+      title="{{ site.name }} header image"
+      align="center"
+    />
+  </a>
+  <img
+    width="20%"
+    align="middle"
+    src="{{ site.baseurl }}/{{ site.header_right }}"
+  />
+</header>
 {% endif %}

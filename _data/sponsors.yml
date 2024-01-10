@@ -107,8 +107,8 @@ levels:
   - name: "Doyensec"
     logo: "/images/sponsors_2024/Doyensec.png"
     href: "https://doyensec.com/careers.html"
-  - name: "Available"
-    logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+  - name: "ZZZ Pending"
+    logo: "/images/BSidesSF_SponsorshipPending.png"
     href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
 
 - level:
@@ -182,8 +182,8 @@ levels:
       logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
       href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
     - type: Graphical Recordings
-      name: "Available"
-      logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+      name: "ZZZ Pending"
+      logo: "/images/BSidesSF_SponsorshipPending.png"
       href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
     - type: Coat Check
       name: "HPE Aruba Networking"

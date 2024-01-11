@@ -3,7 +3,7 @@ layout: page
 title: "BSidesSF 2024 Call For Participation"
 ---
 
-BSidesSF is *still* soliciting submissions for the annual BSidesSF conference on May 4-5, 2024. Call for Participation is currently open for both Informational/Collaborative Tracks.  Please note that all presentations are limited to two speakers only. Panels are limited to 5 participants (including the moderator).
+BSidesSF is soliciting submissions for the annual BSidesSF conference on May 4-5, 2024. Call for Participation is currently open for the Collaborative Track.
 
 Note: We **DO NOT** provide speaker or travel stipends at this time (except on a case-by-case basis with villages). We also DO NOT accept vendor pitches of any sort in our conference program. Thank you for your understanding.
 
@@ -39,7 +39,7 @@ You can't spell dystopia without AI
 
 2024 marks our first year in streamlining the CFP process.
 
-* **Informational Track**
+* **Informational Track (CFP CLOSED)**
     * Presentation, General – 30m regular presentation format
     * Presentation, Deep Dive – 45m extended presentation format
     * Panels – 45m with 1 facilitator + 3-4 expert panelists
@@ -50,9 +50,9 @@ You can't spell dystopia without AI
 
 # **Important Dates**
 
-* October 20, 2023 – CFP (Presentations / Panels / Workshops) opens
-* December 7, 2023 – CFP (Villages / BoF) opens
-* *~~December 11~~* **January 8, 2024 (Monday) – Deadline: Presentations / Panels (Informational Track)**
+* ~~October 20, 2023 – CFP (Presentations / Panels / Workshops) opens~~
+* ~~December 7, 2023 – CFP (Villages / BoF) opens~~
+* ~~*December 11* **January 8, 2024 (Monday) – Deadline: Presentations / Panels (Informational Track)**~~
 * *~~January 8~~* **February 5, 2024 (Monday) – Deadline: Workshops / Villages / BoF (Collaborative Track)**
 * *~~February 5~~* February 17, 2024 – All notifications, including waitlist, sent
 * *~~February 26~~* March 3, 2024 – Participation/details finalized by speakers
@@ -61,7 +61,7 @@ You can't spell dystopia without AI
 
 # **Submit to the CFP!**
 
-Please go **---> [HERE](https://pretalx.com/bsidessf-2024) <---** for Presentation, Panel, Workshop, Village, or BoF submissions!
+Please go **---> [HERE](https://pretalx.com/bsidessf-2024) <---** for Workshop, Village, or BoF submissions!
 
 Questions? E-mail program [at] bsidessf.org
 

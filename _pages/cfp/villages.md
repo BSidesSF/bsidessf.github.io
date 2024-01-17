@@ -58,8 +58,7 @@ Calling all information security enthusiasts! BSidesSF 2024 invites passionate l
 
 Note: If you'd like to separately submit a presentation to the main [BSidesSF CFP](/cfp), you're welcome to, but note that being accepted or rejected for a village will *not* impact eligibility for a panel.
 
-
-# Submit your Village proposal **---> [HERE](https://pretalx.com/bsidessf-2024/submit/?track=4131-collaborative-workshop-village-bof&submission_type=3484-village-community-group) <---** today!
+## Submit your Village proposal **---> [HERE](https://pretalx.com/bsidessf-2024/submit/?track=4131-collaborative-workshop-village-bof&submission_type=3484-village-community-group) <---** today!
 
 # Contact
 

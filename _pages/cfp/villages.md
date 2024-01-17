@@ -3,7 +3,9 @@ layout: page
 title: "BSidesSF 2024 Villages"
 ---
 
-# Dive Deep, Connect, Shape the Future: Become a BSidesSF 2024 Village Leader!
+# Dive Deep, Connect, Shape the Future
+
+## Become a BSidesSF 2024 Village Leader!
 
 Calling all information security enthusiasts! BSidesSF 2024 invites passionate leaders to host Villages, dedicated spaces for immersive learning and collaboration on May 4-5, 2024.
 

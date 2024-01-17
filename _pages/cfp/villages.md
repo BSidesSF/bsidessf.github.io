@@ -3,8 +3,6 @@ layout: page
 title: "BSidesSF 2024 Villages"
 ---
 
-Note: Check the [Call for Participation](/cfp) page for overall conference timelines/deadlines and information.
-
 # Dive Deep, Connect, Shape the Future: Become a BSidesSF 2024 Village Leader!
 
 Calling all information security enthusiasts! BSidesSF 2024 invites passionate leaders to host Villages, dedicated spaces for immersive learning and collaboration on May 4-5, 2024.

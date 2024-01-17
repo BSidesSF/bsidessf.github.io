@@ -5,11 +5,44 @@ title: "BSidesSF 2024 Villages"
 
 Note: Check the [Call for Participation](/cfp) page for overall conference timelines/deadlines and information.
 
-# Pre-show Logistics
+# Dive Deep, Connect, Shape the Future: Become a BSidesSF 2024 Village Leader!
 
-Coming soon.
+Calling all information security enthusiasts! BSidesSF 2024 invites passionate leaders to host Villages, dedicated spaces for immersive learning and collaboration on May 4-5, 2024.
 
-# Venue Logistics
+## Imagine a vibrant hub buzzing with:
+
+* Hands-on activities: That spark curiosity and foster learning for all skill levels.
+* Lively discussions: Open forums where ideas flow freely and everyone feels empowered to contribute.
+* Focused themes: Deep dives into specific security topics, attracting passionate individuals and fostering learning. 
+
+## What makes a thriving BSidesSF Village?
+
+* Engaging Activities: That spark curiosity and foster learning for diverse skill levels. Keep it fun and interactive! 
+* Open & Collaborative: Create a welcoming space where knowledge sharing, mentorship, and collaborative problem-solving thrive.
+* Focused Theme: This year’s theme is; “You can’t spell dystopia without AI.” Please try to weave the theme into your Village if possible. 
+
+## We offer:
+
+* Dedicated space: Host your Village at City View at Metreon in downtown San Francisco.
+* Supportive infrastructure: Get tables, chairs, and an optional monitor.
+* Potential travel assistance: To ensure Villages participation is accessible limited financial support for Village leaders travel may be available.. Contact us for more information.
+
+# Ready to Dive in?
+
+* Location: Villages @ BSidesSF 2024 is located in City View @ Metreon, 135 4th St, San Francisco, CA 94103.
+* Dates: Saturday, May 4 and Sunday, May 5
+
+## CFV Deadlines
+
+* December 7, 2023 – Call for Villages opens (as part of collaborative track)
+* February 5, 2024 (Monday) – Deadline for CFV (and other collab submissions)
+* February 17, 2024 - Formal acceptances/rejections sent out
+* March 3, 2024 – Villages formally confirm participation at BSidesSF
+* March 11, 2024 – Conference schedule goes live; Conference registrations open
+* April - Conference operations communications
+* May 4-5, 2024 – BSidesSF 2024
+
+## Venue Logistics
 
 * We have a finite amount of space for villages; typically villages get 1-2 large tables & chairs with an optional monitor
 * Villages have the following hours during the event:
@@ -25,16 +58,11 @@ Coming soon.
 
 Note: If you'd like to separately submit a presentation to the main [BSidesSF CFP](/cfp), you're welcome to, but note that being accepted or rejected for a village will *not* impact eligibility for a panel.
 
-# BSidesSF-provided support
 
-Coming soon.
-
-# Submit to the CFP!
-
-Please go **---> [HERE](https://pretalx.com/bsidessf-2024/submit/?track=4131-collaborative-workshop-village-bof&submission_type=3484-village-community-group) <---** for Village submissions!
+# Submit your Village proposal **---> [HERE](https://pretalx.com/bsidessf-2024/submit/?track=4131-collaborative-workshop-village-bof&submission_type=3484-village-community-group) <---** today!
 
 # Contact
 
-Overall CFP/Program operation inquiries (include problems with Pretalx) should be sent to program [at] bsidessf.org.
+* Village operation inquiries should be sent to villages [at] bsidessf.org
+* Overall Pretalx/Program Ops bugs should be sent to program [at] bsidessf.org
 
-Village operation inquiries should be sent to villages [at] bsidessf.org.

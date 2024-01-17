@@ -39,7 +39,7 @@ Calling all information security enthusiasts! BSidesSF 2024 invites passionate l
 * February 17, 2024 - Formal acceptances/rejections sent out
 * March 3, 2024 – Villages formally confirm participation at BSidesSF
 * March 11, 2024 – Conference schedule goes live; Conference registrations open
-* April - Conference operations communications
+* April, 2024 - Conference operations communications
 * May 4-5, 2024 – BSidesSF 2024
 
 ## Venue Logistics

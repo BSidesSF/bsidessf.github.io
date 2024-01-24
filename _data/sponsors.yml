@@ -131,9 +131,9 @@ levels:
       href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
     - break: true
     - type: "Espresso and Coffee"
-      name: "ZZZ Pending"
-      logo: "/images/BSidesSF_SponsorshipPending.png"
-      href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
+      name: "Apiiro"
+      logo: "/images/sponsors_2024/Apiiro.png"
+      href: "https://apiiro.com/careers/"
     - type: "Espresso and Coffee"
       name: "Available"
       logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"

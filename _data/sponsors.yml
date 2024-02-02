@@ -126,8 +126,8 @@ levels:
       logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
       href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
     - type: Lounge
-      name: "Available"
-      logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+      name: "ZZZ Pending"
+      logo: "/images/BSidesSF_SponsorshipPending.png"
       href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
     - break: true
     - type: "Espresso and Coffee"
@@ -139,8 +139,8 @@ levels:
       logo: "/images/BSidesSF_SponsorshipPending.png"
       href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
     - type: "Espresso and Coffee"
-      name: "Available"
-      logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+      name: "ZZZ Pending"
+      logo: "/images/BSidesSF_SponsorshipPending.png"
       href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
 
 - level: Villages

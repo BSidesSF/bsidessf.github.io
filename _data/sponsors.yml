@@ -114,8 +114,8 @@ levels:
 - level:
   sponsors:
     - type: Saturday Night Party
-      name: "Available"
-      logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+      name: "ZZZ Pending"
+      logo: "/images/BSidesSF_SponsorshipPending.png"
       href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
     - type: Happy Hour
       name: "Available"

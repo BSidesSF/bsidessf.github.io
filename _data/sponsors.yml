@@ -111,8 +111,20 @@ levels:
     logo: "/images/BSidesSF_SponsorshipPending.png"
     href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
 
-- level:
+- level: 
   sponsors:
+    - type: Daytime Bar & Chill-Out Space
+      name: "ZZZ Pending"
+      logo: "/images/BSidesSF_SponsorshipPending.png"
+      href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
+    - type: Daytime Bar & Chill-Out Space
+      name: "Available"
+      logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+      href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
+    - break: true
+    - type: Lounge
+      name: "ZZZ Pending"
+      logo: "/images/BSidesSF_SponsorshipPending.png"
     - type: Saturday Night Party
       name: "ZZZ Pending"
       logo: "/images/BSidesSF_SponsorshipPending.png"
@@ -120,14 +132,6 @@ levels:
     - type: Happy Hour
       name: "Available"
       logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
-      href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
-    - type: Daytime Bar & Chill Out Space
-      name: "Available"
-      logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
-      href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
-    - type: Lounge
-      name: "ZZZ Pending"
-      logo: "/images/BSidesSF_SponsorshipPending.png"
       href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
     - break: true
     - type: "Espresso and Coffee"
@@ -148,8 +152,8 @@ levels:
   - name: "GitGuardian"
     logo: "/images/sponsors_2024/GitGuardian.png"
     href: "https://www.gitguardian.com/careers"
-  - name: "Available"
-    logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+  - name: "ZZZ Pending"
+    logo: "/images/BSidesSF_SponsorshipPending.png"
     href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
   - name: "Available"
     logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"

@@ -126,9 +126,9 @@ levels:
       name: "ZZZ Pending"
       logo: "/images/BSidesSF_SponsorshipPending.png"
     - type: Saturday Night Party
-      name: "ZZZ Pending"
-      logo: "/images/BSidesSF_SponsorshipPending.png"
-      href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
+      name: "Party"
+      logo: "/images/sponsors_2024/Adobe.png"
+      href: "https://www.adobe.com/careers.html"
     - type: Happy Hour
       name: "Available"
       logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"

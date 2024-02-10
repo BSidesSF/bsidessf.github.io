@@ -108,7 +108,7 @@ levels:
   - name: "Doyensec"
     logo: "/images/sponsors_2024/Doyensec.png"
     href: "https://doyensec.com/careers.html"
-  - name: "ZZZ Pending"
+  - name: "NetSPI"
     logo: "/images/BSidesSF_SponsorshipPending.png"
     href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
 
@@ -124,10 +124,11 @@ levels:
       href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
     - break: true
     - type: Lounge
-      name: "ZZZ Pending"
+      name: "Vanta"
       logo: "/images/BSidesSF_SponsorshipPending.png"
+      href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
     - type: Saturday Night Party
-      name: "Party"
+      name: "Adobe"
       logo: "/images/sponsors_2024/Adobe.png"
       href: "https://www.adobe.com/careers.html"
     - type: Happy Hour
@@ -140,7 +141,7 @@ levels:
       logo: "/images/sponsors_2024/Apiiro.png"
       href: "https://apiiro.com/careers/"
     - type: "Espresso and Coffee"
-      name: "ZZZ Pending"
+      name: "Vanta"
       logo: "/images/BSidesSF_SponsorshipPending.png"
       href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
     - type: "Espresso and Coffee"
@@ -153,9 +154,9 @@ levels:
   - name: "GitGuardian"
     logo: "/images/sponsors_2024/GitGuardian.png"
     href: "https://www.gitguardian.com/careers"
-  - name: "ZZZ Pending"
-    logo: "/images/BSidesSF_SponsorshipPending.png"
-    href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
+  - name: "Dropzone AI"
+    logo: "/images/sponsors_2024/DropzoneAI.png"
+    href: "https://dropzone.ai/"
   - name: "Available"
     logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
     href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"

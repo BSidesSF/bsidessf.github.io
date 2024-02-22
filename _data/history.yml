@@ -13,6 +13,8 @@
       external: "https://www.youtube.com/playlist?list=PLbZzXF2qC3RuQAuC0C4Q7Lk4eQluqIVzL"
     - title: "Schedule"
       external: "https://bsidessf2023.sched.com/"
+    - title: "Printed Program"
+      external: "https://drive.google.com/file/d/1W2YTJsKle0D-Y6jUkY3mpjPqWu2633zg/view?usp=drive_link"
 
 - "year": "2022"
   categories:
@@ -22,6 +24,10 @@
       href: "/graphic-recordings/2022.html"
     - title: "Schedule"
       external: "https://bsidessf2022.sched.com/"
+    - title: "Printed Program"
+      external: "https://drive.google.com/file/d/14dw-J5v4r0vcdL7CmiWJfYrbmVoDmXia/view?usp=drive_link"
+    - title: "Program Map"
+      external: "https://drive.google.com/file/d/14ejQUhywZyLeD3VZO_DWXShNW57hnt6m/view?usp=sharing"
 
 - "year": "2021"
   categories:
@@ -38,6 +44,8 @@
       href: "/graphic-recordings/2020.html"
     - title: "Schedule"
       external: "https://bsidessf2020.sched.com/"
+    - title: "Printed Program"
+      external: "https://drive.google.com/file/d/10fQ9EclEu9OguphU4ouDcEnyxRonSApp/view?usp=sharing"
     - title: "Security BSides Wiki"
       external: "http://www.securitybsides.com/w/page/132831939/BSidesSF2020"
 
@@ -49,6 +57,8 @@
       href: "/graphic-recordings/2019.html"
     - title: "Schedule"
       external: "https://bsidessf2019.sched.com/"
+    - title: "Printed Program"
+      external: "https://drive.google.com/file/d/1s9Y33utbFcbPW1KwlFOpRbGnSMfD6714/view?usp=sharing"
     - title: "Security BSides Wiki"
       external: "http://www.securitybsides.com/w/page/132743652/BSidesSF2019"
 

@@ -6,7 +6,7 @@
     - subtitle: "BSidesSF"
       subhref: "/about"
     - subtitle: "Security BSides"
-      external: "https://www.securitybsides.org"
+      external: "https://bsides.org"
     - subtitle: "News"
       subhref: "/news"
     - subtitle: "Past Events"

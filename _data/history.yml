@@ -47,7 +47,7 @@
     - title: "Printed Program"
       external: "https://drive.google.com/file/d/10fQ9EclEu9OguphU4ouDcEnyxRonSApp/view?usp=sharing"
     - title: "Security BSides Wiki"
-      external: "http://www.securitybsides.com/w/page/132831939/BSidesSF2020"
+      external: "https://bsides.org/w/page/132831939/BSidesSF2020"
 
 - "year": "2019"
   categories:
@@ -60,7 +60,7 @@
     - title: "Printed Program"
       external: "https://drive.google.com/file/d/1s9Y33utbFcbPW1KwlFOpRbGnSMfD6714/view?usp=sharing"
     - title: "Security BSides Wiki"
-      external: "http://www.securitybsides.com/w/page/132743652/BSidesSF2019"
+      external: "https://bsides.org/w/page/132743652/BSidesSF2019"
 
 - "year": "2018"
   categories:
@@ -71,7 +71,7 @@
     - title: "Schedule"
       external: "https://bsidessf2018.sched.com"
     - title: "Security BSides Wiki"
-      external: "http://www.securitybsides.com/w/page/122163258/BSidesSF2018"
+      external: "https://bsides.org/w/page/122163258/BSidesSF2018"
 
 - "year": "2017"
   categories:
@@ -80,7 +80,7 @@
     - title: "Schedule"
       external: "https://bsidessf2017.sched.com/"
     - title: "Security BSides Wiki"
-      external: "http://www.securitybsides.com/w/page/111866644/BSidesSF2017"
+      external: "https://bsides.org/w/page/111866644/BSidesSF2017"
 
 - year: "2016"
   categories:
@@ -89,7 +89,7 @@
     - title: "Schedule"
       external: "https://bsidessf2016.sched.com/"
     - title: "Security BSides Wiki"
-      external: "http://www.securitybsides.com/w/page/103445197/BSidesSF2016"
+      external: "https://bsides.org/w/page/103445197/BSidesSF2016"
 
 - year: "2015"
   categories:
@@ -98,31 +98,31 @@
     - title: "Schedule"
       external: "https://bsidessf2015.sched.com/"
     - title: "Security BSides Wiki"
-      external: "http://www.securitybsides.com/w/page/90944586/BSidesSF2015"
+      external: "https://bsides.org/w/page/90944586/BSidesSF2015"
 
 - year: "2014"
   categories:
     - title: "Security BSides Wiki"
-      external: "http://www.securitybsides.com/w/page/70849271/BSidesSF2014"
+      external: "https://bsides.org/w/page/70849271/BSidesSF2014"
 
 - year: "2013"
   categories:
     - title: "Security BSides Wiki"
-      external: "http://www.securitybsides.com/w/page/35868077/BSidesSanFrancisco2013"
+      external: "https://bsides.org/w/page/35868077/BSidesSanFrancisco2013"
 
 - year: "2012"
   categories:
     - title: "Videos"
       external: "https://www.youtube.com/playlist?list=PLbZzXF2qC3RvjNaKOwD7qzJYnRaKYvSE4"
     - title: "Security BSides Wiki"
-      external: "http://www.securitybsides.com/w/page/47572893/BSidesSanFrancisco2012"
+      external: "https://bsides.org/w/page/47572893/BSidesSanFrancisco2012"
 
 - year: "2011"
   categories:
     - title: "Security BSides Wiki"
-      external: "http://www.securitybsides.com/w/page/56409738/BSidesSanFrancisco2011"
+      external: "https://bsides.org/w/page/56409738/BSidesSanFrancisco2011"
 
 - year: "2010"
   categories:
     - title: "Security BSides Wiki"
-      external: "http://www.securitybsides.com/w/page/12194147/BSidesSanFrancisco01"
+      external: "https://bsides.org/w/page/12194147/BSidesSanFrancisco01"

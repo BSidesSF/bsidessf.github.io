@@ -5,7 +5,7 @@ title: "BSidesSF 2024 Call For Participation"
 
 BSidesSF CFP is Closed! Thanks to all who submitted.
 
-We received a total of 334 reviewable submissions (up 59.8% from 209 in 2023), but could only accept 60. This means we had an unusually low acceptance rate of 17.9% (compared to 28.7% in 2023).
+We received a total of 334 reviewable submissions (up 59.8% from 209 in 2023), but could only accept 60. This means we had an unusually low acceptance rate of 17.9% (compared to 28.7% in 2023), despite 45% of the submissions receiving favorable reviews.
 
 We will be reviewing ways to improve the CFP process and acceptance rate for 2025+. Stay tuned!
 

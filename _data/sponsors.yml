@@ -112,7 +112,7 @@ levels:
     logo: "/images/sponsors_2024/NetSPI.png"
     href: "https://www.netspi.com/careers/"
 
-- level: 
+- level:
   sponsors:
     - type: Daytime Bar & Chill-Out Space
       name: "ZZZ Pending"
@@ -125,8 +125,8 @@ levels:
     - break: true
     - type: Lounge
       name: "Vanta"
-      logo: "/images/BSidesSF_SponsorshipPending.png"
-      href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
+      logo: "/images/sponsors_2024/Vanta.png"
+      href: "https://www.vanta.com/company/careers"
     - type: Saturday Night Party
       name: "Adobe"
       logo: "/images/sponsors_2024/Adobe.png"
@@ -142,12 +142,12 @@ levels:
       href: "https://apiiro.com/careers/"
     - type: "Espresso and Coffee"
       name: "Vanta"
-      logo: "/images/BSidesSF_SponsorshipPending.png"
-      href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
+      logo: "/images/sponsors_2024/Vanta.png"
+      href: "https://www.vanta.com/company/careers"
     - type: "Espresso and Coffee"
-      name: "ZZZ Pending"
-      logo: "/images/BSidesSF_SponsorshipPending.png"
-      href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
+      name: "Webflow"
+      logo: "/images/sponsors_2024/Webflow.png"
+      href: "https://webflow.com/careers"
 
 - level: Villages
   sponsors:

@@ -15,6 +15,8 @@
       external: "https://bsidessf2023.sched.com/"
     - title: "Printed Program"
       external: "https://drive.google.com/file/d/1W2YTJsKle0D-Y6jUkY3mpjPqWu2633zg/view?usp=drive_link"
+    - title: "Closing Remarks Slides" 
+      external: "https://docs.google.com/presentation/d/13yhjMMH0qlAtu1g7ZaV_XHLxTBQMZ-47WpNhY50RRtI/edit?usp=sharing"
 
 - "year": "2022"
   categories:
@@ -28,6 +30,8 @@
       external: "https://drive.google.com/file/d/14dw-J5v4r0vcdL7CmiWJfYrbmVoDmXia/view?usp=drive_link"
     - title: "Program Map"
       external: "https://drive.google.com/file/d/14ejQUhywZyLeD3VZO_DWXShNW57hnt6m/view?usp=sharing"
+    - title: "Closing Remarks Slides"
+      external: "https://docs.google.com/presentation/d/159zlpNuZlhwD7kB-zpTmhgub_UQmVf1grssI-rn7juo/edit?usp=sharing"
 
 - "year": "2021"
   categories:
@@ -35,6 +39,8 @@
       external: "https://www.youtube.com/playlist?list=PLbZzXF2qC3RvWn6Nne_Jj8IkLXZP3tgE6"
     - title: "Schedule"
       external: "https://bsidessf2021.sched.com/"
+    - title: "Closing Remarks Slides"
+      external: "https://docs.google.com/presentation/d/1ks4uKoXBxN5SyRM6OqeVPZDbjPPCTy_XzjyslN1mEpM/edit?usp=sharing"
 
 - "year": "2020"
   categories:
@@ -61,6 +67,8 @@
       external: "https://drive.google.com/file/d/1s9Y33utbFcbPW1KwlFOpRbGnSMfD6714/view?usp=sharing"
     - title: "Security BSides Wiki"
       external: "https://bsides.org/w/page/132743652/BSidesSF2019"
+    - title: "Closing Remarks Slides"
+      external: "https://docs.google.com/presentation/d/1s0Q7ogG0a_vmBexzsiplQMfGQJBLku3wPQrenOf_4-g/edit?usp=sharing" 
 
 - "year": "2018"
   categories:
@@ -72,6 +80,8 @@
       external: "https://bsidessf2018.sched.com"
     - title: "Security BSides Wiki"
       external: "https://bsides.org/w/page/122163258/BSidesSF2018"
+    - title: "Closing Remarks Slides"
+      external: "https://docs.google.com/presentation/d/1JAn0jeGvhC4DaebJkv0zI1zffzmrDb66nQXB_hBPQyM/edit#slide=id.g37041135a4_0_76" 
 
 - "year": "2017"
   categories:

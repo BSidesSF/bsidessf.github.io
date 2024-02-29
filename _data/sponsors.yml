@@ -200,4 +200,7 @@ levels:
   sponsors:
     - name: "Bidwell Design"
       href: "https://www.bidwelldesign.com/"
-      logo: "/images/sponsors_2023/BidwellDesign.png"
+      logo: "/images/sponsors_2024/BidwellDesign.png"
+    - name: "IBM X-Force"
+      href: "https://www.ibm.com/x-force"
+      logo: "/images/sponsors_2024/XForceRed.png"

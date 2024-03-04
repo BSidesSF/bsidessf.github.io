@@ -171,8 +171,8 @@ levels:
 - level:
   sponsors:
     - type: Presenter Appreciation
-      name: "Available"
-      logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+      name: "ZZZ Pending"
+      logo: "/images/BSidesSF_SponsorshipPending.png"
       href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
     - type: Scholarship
       name: "Available"

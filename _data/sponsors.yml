@@ -96,7 +96,7 @@ levels:
     - name: "RunReveal"
       logo: "/images/sponsors_2024/RunReveal.png"
       href: "https://runreveal.com/"
-    - name: "Socket"
+    - name: "Socket Security"
       logo: "/images/sponsors_2024/Socket.png"
       href: "https://socket.dev/careers"
     - name: "Truffle Security"
@@ -171,9 +171,9 @@ levels:
 - level:
   sponsors:
     - type: Presenter Appreciation
-      name: "ZZZ Pending"
-      logo: "/images/BSidesSF_SponsorshipPending.png"
-      href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
+      name: "Socket Security"
+      logo: "/images/sponsors_2024/Socket.png"
+      href: "https://socket.dev/careers"
     - type: Scholarship
       name: "Available"
       logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
@@ -188,8 +188,8 @@ levels:
       logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
       href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
     - type: Graphical Recordings
-      name: "ZZZ Pending"
-      logo: "/images/BSidesSF_SponsorshipPending.png"
+      name: "Available"
+      logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
       href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
     - type: Coat Check
       name: "HPE Aruba Networking"

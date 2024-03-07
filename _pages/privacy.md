@@ -3,7 +3,7 @@ layout: page
 title: "Privacy Policy"
 ---
 
-Last updated: 2022-12-27
+Last updated: 2024-03-07
 
 Security B-Sides ("BSidesSF", "us", "we", or "our") operates bsidessf.org, bsidessf.net, and other relevant domains and subdomains (the "Site").
 
@@ -41,7 +41,7 @@ BSidesSF uses various third party services to provide the Site, related services
 
 * [Stripe](https://stripe.com/privacy)
 
-* [Timecounts](https://timecounts.org/privacy)
+* [VolunteerLocal](https://www.volunteerlocal.com/privacy-policy.php)
 
 ## Cookies
 
@@ -157,9 +157,9 @@ We will use this information to contact you and/or provide updates regarding the
 
 If you are interested in turning on your browser's privacy and Do Not Track settings, the [Do Not Track](http://donottrack.us/) website has browser-specific instructions.
 
-## Volunteer Registration - Timecounts
+## Volunteer Registration - VolunteerLocal
 
-BSidesSF via its provider Timecounts collects the following information from volunteers:
+BSidesSF via its provider VolunteerLocal collects the following information from volunteers:
 
 * Name
 

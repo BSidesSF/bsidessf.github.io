@@ -151,7 +151,7 @@ levels:
 
 - level: Villages
   sponsors:
-   - name: "Dropzone AI"
+  - name: "Dropzone AI"
     logo: "/images/sponsors_2024/DropzoneAI.png"
     href: "https://dropzone.ai/"
   - name: "GitGuardian"

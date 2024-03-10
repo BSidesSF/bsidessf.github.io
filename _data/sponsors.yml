@@ -151,12 +151,13 @@ levels:
 
 - level: Villages
   sponsors:
+   - name: "Dropzone AI"
+    logo: "/images/sponsors_2024/DropzoneAI.png"
+    href: "https://dropzone.ai/"
   - name: "GitGuardian"
     logo: "/images/sponsors_2024/GitGuardian.png"
     href: "https://www.gitguardian.com/careers"
-  - name: "Dropzone AI"
-    logo: "/images/sponsors_2024/DropzoneAI.png"
-    href: "https://dropzone.ai/"
+
   - name: "ZZZ Pending"
     logo: "/images/BSidesSF_SponsorshipPending.png"
     href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"

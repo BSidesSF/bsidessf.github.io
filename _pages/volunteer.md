@@ -33,7 +33,7 @@ We group our volunteer opportunities into several pools.
 * Behind-the-Scenes - These roles require less attendee interaction, but will often require a higher level of agency or operational ability. These roles often involve the setup or teardown of various pieces of the event as it goes along.
 * Social Media  - This role will involve documenting the Bsides experience on social media, as well as talk with attendees about their experiences at Bsides.
 * Safety Ops - These roles are the eyes, ears, and voices of BsidesSF staff, as well as a friendly face for attendees and other volunteers to go to if something is going wrong. Strong communication skills and a cool head are a major benefit to these roles.
-* Room moderators - This attendee-facing role requires that you are comfortable acting as an MC for event talks/workshops. This means you should be able to communicate clearly for both the speaker’s and the audience’s benefit, and ideally have a strong command of the English language. **This role will require a pre-screening, if you'd like to be considered for this role please fill out [this form](https://forms.gle/uz8SDQGyaG5Qbv9x6).
+* Room moderators - This attendee-facing role requires that you are comfortable acting as an MC for event talks/workshops. This means you should be able to communicate clearly for both the speaker’s and the audience’s benefit, and ideally have a strong command of the English language. **This role will require a pre-screening, if you'd like to be considered for this role please fill out [this form](https://forms.gle/uz8SDQGyaG5Qbv9x6).**
 
 When you sign up for a shift slot, you will pick one of these larger pools and you will work in one or more of the given roles inside that pool depending on volunteer availability and accessibility needs. For more information on the individual roles, see descriptions below.
 
@@ -45,7 +45,7 @@ Our volunteer leads **will train you** for the specific tasks you sign up for, a
 
 You can sign up to be on the waitlist for a given role, but be aware that there is no guarantee that you will get that shift at that time. We recommend you consider other open shifts, and if we see you are under the minimum, we will reach out to see where else you may be able to help out. You can also always send us an email with questions to volunteer@bsidessf.org.
 
-## Are all the shift even?
+## Are all the shifts even?
 
 In the past, we have counted volunteer minimums by a number of hours. This year we are trying out a different strategy, and going for a shift count approach instead. While the shift minimum will put everyone around the same amount of time, we chose to optimize for not having volunteers be on shift when they don't need to be, rather than making all shifts even. Yes, there is a potential to game this system, if it becomes a problem then we will make changes.
 

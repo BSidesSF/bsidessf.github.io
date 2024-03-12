@@ -4,13 +4,9 @@ title: Friends of BSidesSF 2024
 ---
 {% assign cols = 4 %}
 
-<script type="text/javascript" defer src="https://donorbox.org/install-popup-button.js"></script>
-<a class="dbox-donation-button" style="background: #128aed url(https://donorbox.org/images/white_logo.svg) no-repeat 45px;color: #fff;text-decoration: none;font-family: Verdana,sans-serif;display: inline-block;font-size: 16px;padding: 15px 45px;padding-left: 70px;-webkit-border-radius: 8px;-moz-border-radius: 8px;border-radius: 8px;" href="https://donorbox.org/friends-of-bsidessf-2024?default_interval=o">Become a Friend of BSidesSF</a>
-
-<p class="friends">
-BSidesSF celebrates the following people and organizations
-who have donated $1500 or more making BSidesSF 2024 possible!
-</p>
+<center>
+  <p>BSidesSF thanks the following friends who have donated $300 or more to help make BSidesSF 2024 possible!</p>
+</center>
 
 <hr style="margin-bottom: 5px" />
 <div style="text-align: center" class="friends {{ class.class }}">
@@ -44,7 +40,8 @@ who have donated $1500 or more making BSidesSF 2024 possible!
 
 <center>
   <p>
-    Have further questions or interested in sponsoring in a larger capacity?
+    Want to become a Friend of BSidesSF? Purchase your <a href="/tickets">ticket</a> today!
+    <br/>Interested in sponsoring in a larger capacity?
     <br/>Check out the <a href="{{ site.data.sponsors.sponsorship_kit_url }}">sponsorship kit</a>
     <br/>or contact <a href="mailto:sponsors@bsidessf.org">sponsors@bsidessf.org</a>.
   </p>

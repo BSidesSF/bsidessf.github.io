@@ -158,9 +158,9 @@ levels:
     logo: "/images/sponsors_2024/GitGuardian.png"
     href: "https://www.gitguardian.com/careers"
 
-  - name: "ZZZ Pending"
-    logo: "/images/BSidesSF_SponsorshipPending.png"
-    href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
+  - name: "Semgrep"
+    logo: "/images/sponsors_2024/Semgrep.png"
+    href: "https://semgrep.dev/about/careers/"
 
 - level:
   sponsors:

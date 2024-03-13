@@ -188,10 +188,6 @@ levels:
       name: "Available"
       logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
       href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
-    - type: Graphical Recordings
-      name: "Available"
-      logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
-      href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
     - type: Coat Check
       name: "HPE Aruba Networking"
       logo: "/images/sponsors_2024/ArubaHPE.png"

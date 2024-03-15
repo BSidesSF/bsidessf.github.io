@@ -1,6 +1,21 @@
 - title: "Home"
   href: "/"
 
+- title: "Join us!"
+  href: "/volunteer"
+
+- title: "Tickets"
+  href: "/tickets"
+
+- title: "Schedule"
+  href: "/schedule"
+
+- title: "Friends"
+  href: "/friends"
+
+- title: "Sponsors"
+  href: "/sponsors"
+
 - title: "About"
   subcategories:
     - subtitle: "BSidesSF"
@@ -22,21 +37,3 @@
     - subtitle: "Donate"
       subhref: "/donate"
 
-- title: "CFP"
-  subcategories:
-    - subtitle: "Talks / Workshops"
-      subhref: "/cfp"
-    - subtitle: "Villages"
-      subhref: "/cfp/villages"
-
-- title: "Join us!"
-  href: "/volunteer"
-
-- title: "Tickets"
-  href: "/tickets"
-
-- title: "Friends"
-  href: "/friends"
-
-- title: "Sponsors"
-  href: "/sponsors"

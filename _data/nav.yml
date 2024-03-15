@@ -1,25 +1,34 @@
 - title: "Home"
   href: "/"
 
-- title: "Join us!"
-  href: "/volunteer"
 
-- title: "Tickets"
-  href: "/tickets"
-
-- title: "Schedule"
-  href: "/schedule"
-
-- title: "Friends"
-  href: "/friends"
-
-- title: "Sponsors"
-  href: "/sponsors"
-
-- title: "About"
+- title: Attend
   subcategories:
-    - subtitle: "BSidesSF"
-      subhref: "/about"
+    - subtitle: Schedule
+      subhref: /schedule
+    - subtitle: Tickets
+      subhref: /tickets
+
+- title: "Sponsors & Friends"
+  subcategories:
+    - subtitle: "Sponsors"
+      subhref: "/sponsors"
+    - subtitle: "Friends"
+      subhref: "/friends"
+
+- title: "Volunteers & Presenters"
+  subcategories:
+    - subtitle: "Volunteers"
+      subhref: "/volunteer"
+    - subtitle: "Presenters"
+      subhref: "/cfp"
+    - subtitle: "Organizers"
+      subhref: "/jobs"
+
+- title: About
+  subcategories:
+    - subtitle: BSidesSF
+      subhref: /about
     - subtitle: "Security BSides"
       external: "https://bsides.org"
     - subtitle: "News"
@@ -36,4 +45,3 @@
       subhref: "/about/contact"
     - subtitle: "Donate"
       subhref: "/donate"
-

@@ -1,12 +1,17 @@
 ---
 layout: page
-title: "Jobs"
+title: "Organizer Roles"
 ---
 
 # Come help us plan the next BSidesSF!
 
 We're looking for a Few Good Humans to help us present the Next Big Thing.
 
-Please note that BSidesSF is a 100% volunteer-run organization. All roles are volunteer-based with no pay.
+BSidesSF is a 100% volunteer-run organization. All roles are volunteer-based with no pay.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSevYdZizTCsUK5CaAMkNYOz0N3s7RsNfIL93KnpRy8cz70RVQ/viewform?embedded=true" width="800" height="1800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+We are currently in the final stages or BSidesSF 2024 planning, and not taking on any additional organizers.  
+
+Volunteering is a good way to show your enthusiasm and ability to work with the group, especially if you can
+help with setup, teardown, and different tasks througout the event. All organizers work from the start of 
+setup through the end of teardown.
+

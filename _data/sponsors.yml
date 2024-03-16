@@ -115,9 +115,9 @@ levels:
 - level:
   sponsors:
     - type: Daytime Bar & Chill-Out Space
-      name: "ZZZ Pending"
-      logo: "/images/BSidesSF_SponsorshipPending.png"
-      href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
+      name: "Optiv"
+      logo: "/images/sponsors_2024/Optiv.png"
+      href: "https://www.optiv.com/company/careers"
     - type: Daytime Bar & Chill-Out Space
       name: "Available"
       logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"

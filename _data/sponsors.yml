@@ -180,9 +180,9 @@ levels:
       logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
       href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
     - type: WiFi
-      name: "Available"
-      logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
-      href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
+      name: "Sprinkles"
+      logo: "/images/sponsors_2024/Sprinkles.jpg"
+      href: "https://twitter.com/shh_kitties"
     - break: true
     - type: Headshots
       name: "Available"

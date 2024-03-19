@@ -119,9 +119,9 @@ levels:
       logo: "/images/sponsors_2024/Optiv.png"
       href: "https://www.optiv.com/company/careers"
     - type: Daytime Bar & Chill-Out Space
-      name: "Pending"
-      logo: "/images/BSidesSF_SponsorshipPending.png"
-      href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
+      name: "Safebase"
+      logo: "/images/sponsors_2024/Safebase.png"
+      href: "https://safebase.io/careers"
     - break: true
     - type: Lounge
       name: "Vanta"

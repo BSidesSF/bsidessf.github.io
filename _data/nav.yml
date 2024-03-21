@@ -11,19 +11,15 @@
     - subtitle: "Venue"
       subhref: "/venue"
 
-- title: "Sponsors & Friends"
-  subcategories:
-    - subtitle: "Sponsors"
-      subhref: "/sponsors"
-    - subtitle: "Friends"
-      subhref: "/friends"
+- title: "Sponsors"
+  href: "/sponsors"
+- title: "Friends"
+  href: "/friends"
 
 - title: "Volunteers & Presenters"
   subcategories:
     - subtitle: "Volunteers"
       subhref: "/volunteer"
-    - subtitle: "Presenters"
-      subhref: "/cfp"
     - subtitle: "Organizers"
       subhref: "/jobs"
 

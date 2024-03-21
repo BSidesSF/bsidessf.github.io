@@ -4,10 +4,12 @@
 
 - title: Attend
   subcategories:
-    - subtitle: Schedule
-      subhref: /schedule
-    - subtitle: Tickets
-      subhref: /tickets
+    - subtitle: "Schedule"
+      subhref: "/schedule"
+    - subtitle: "Tickets"
+      subhref: "/tickets"
+    - subtitle: "Venue"
+      subhref: "/venue"
 
 - title: "Sponsors & Friends"
   subcategories:

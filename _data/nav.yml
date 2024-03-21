@@ -22,18 +22,17 @@
     - subtitle: "Donate"
       subhref: "/donate"
 
-- title: "CFP"
+- title: "Attend"
   subcategories:
-    - subtitle: "Talks / Workshops"
-      subhref: "/cfp"
-    - subtitle: "Villages"
-      subhref: "/cfp/villages"
+    - subtitle: "Schedule"
+      subhref: "/schedule"
+    - subtitle: "Tickets"
+      subhref: "/tickets"
+    - subtitle: "Venue"
+      subhref: "/venue"
 
-- title: "Join us!"
+- title: "Volunteer"
   href: "/volunteer"
-
-- title: "Tickets"
-  href: "/tickets"
 
 - title: "Friends"
   href: "/friends"

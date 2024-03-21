@@ -201,3 +201,7 @@ levels:
     - name: "IBM X-Force"
       href: "https://www.ibm.com/x-force"
       logo: "/images/sponsors_2024/XForceRed.png"
+    - name: "RSA Conference"
+      href: "https://www.rsaconference.com/usa?utm_source=assoc-bsides&utm_medium=referral&utm_campaign=textad-us2024"
+      logo: "/images/sponsors_2024/RSAConference.png"
+      text: "Get an Extra $150 off RSAC 2024.  Join us May 6 – 9 at RSAC 2024. Immerse yourself in expert-led sessions, connect with industry leaders, and discover the latest trends and best practices. Elevate your cybersecurity game and be a part of shaping the industry's future. Don't miss this opportunity to advance your skills and network with the best in the field.  Plus, BSides attendees save an additional $150 when registering with code 14UBSIDESFD."

@@ -32,11 +32,7 @@ title: "Sponsors"
           {% endif %}
             <div class="imgdiv">
               {% if sponsor.logo %}
-                {% if sponsor.text %}
-                	<img src="{{ site.url }}{{ sponsor.logo }}" alt="{{ sponsor.name }}" title="{{ sponsor.text }}"/>
-		{% else %}
-                	<img src="{{ site.url }}{{ sponsor.logo }}" alt="{{ sponsor.name }}" title="{{ sponsor.name }}"/>
-                {% endif %}
+                <img src="{{ site.url }}{{ sponsor.logo }}" alt="{{ sponsor.name }}" title="{% if sponsor.text %}{{ sponsor.text }}{% else %}{{ sponsor.name }}{% endif %}" />
               {% else %}
                 <p><strong>{{ sponsor.name }}</strong></p>
               {% endif %}

@@ -3,5 +3,11 @@
 #  link: The single URL they provided (if)
 #
 # must have at least 1 entry to avoid a build error, blank name works
-- name: Be the first!
-  link: https://bsidessf.org/friends
+- name: Larkin Ryder
+- name: Remco - Enso
+- name: Edward - Enso
+- name: "@JGamblin"
+- name: dean.
+- name: Vincent
+
+

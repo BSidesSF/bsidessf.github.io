@@ -29,8 +29,8 @@
 
 - title: About
   subcategories:
-    - subtitle: BSidesSF
-      subhref: /about
+    - subtitle: "BSidesSF"
+      subhref: "/about"
     - subtitle: "Security BSides"
       external: "https://bsides.org"
     - subtitle: "News"

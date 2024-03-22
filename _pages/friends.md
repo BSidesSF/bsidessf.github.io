@@ -10,7 +10,7 @@ title: Friends of BSidesSF 2024
 
 <hr style="margin-bottom: 5px" />
 <div style="text-align: center" class="friends {{ class.class }}">
-  {% assign friends_by_name = site.data.friends | sort: "name" %}
+  {% assign friends_by_name = site.data.friends %}
   {% for friend in friends_by_name %} 
     {% assign mod = forloop.index | modulo: cols %} 
     {% if mod == 1 %}

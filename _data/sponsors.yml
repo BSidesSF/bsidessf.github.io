@@ -181,7 +181,7 @@ levels:
       href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
     - type: WiFi
       name: "Sprinkles"
-      logo: "/images/sponsors_2024/Sprinkles.jpg"
+      logo: "/images/sponsors_2024/Sprinkles.png"
       href: "https://twitter.com/shh_kitties"
     - break: true
     - type: Headshots
@@ -201,6 +201,10 @@ levels:
     - name: "Hak5"
       href: "https://hak5.org/"
       logo: "/images/sponsors_2024/Hak5.png"
+    - name: "O'Reilly"
+      href: "https://www.oreilly.com/"
+      logo: "/images/sponsors_2024/OReilly.jpg"
+    - break: true
     - name: "IBM X-Force"
       href: "https://www.ibm.com/x-force"
       logo: "/images/sponsors_2024/XForceRed.png"

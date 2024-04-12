@@ -37,6 +37,14 @@ For other non-event related incident concerns, e-mail _incident@bsidessf.org_ fo
 
 *\*The BSidesSF staff reserves the right to determine what constitutes "being an ass". It may include any unlawful behavior.*
 
+## Health and Wellness
+
+BSidesSF is committed to the well-being of all participants.
+
+To ensure we are fostering a safe environment, we kindly request that if you are feeling unwell, experiencing symptoms of illness, or have recently been exposed to a contagious disease, that you stay home until you’re fully recovered.
+
+We appreciate everyone’s cooperation in ensuring a healthy experience for all.
+
 ## Risks
 
 There are risks involved in any event. By attending BSidesSF, you assume all risks incidental to the event and release BSidesSF and its respective staff and affiliates from all claims related to or arising out of the event or your presence at the event. In other words, you, your heirs, assigns, successors, personal representatives, and executors will not make a claim against, sue, or attach the property of BSidesSF or any BSidesSF director, officer, or volunteer for injury or damages arising out of or in connection to your participation in this event. Your badge/access is a revocable license to enter the event. If you do not comply with all applicable policies of the event, we reserve the right, without providing a refund (if applicable), to refuse entry or eject you (or any other intermediate step, such as muting or banning, as applicable).

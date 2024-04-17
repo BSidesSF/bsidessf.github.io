@@ -5,6 +5,7 @@
 # must have at least 1 entry to avoid a build error, blank name works
 #
 - name: "Leeloo1313"
+- name: "t3rmit3"
 - name: "Kyle Smith"
 - name: "Larkin Ryder"
 - name: "Patrick Vance"
@@ -28,3 +29,4 @@
 - name: "Jason Chan"
 - name: "Maria Mora (riamaria)"
 - name: "Ian - Seats.aero"
+

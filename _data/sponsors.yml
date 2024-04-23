@@ -103,6 +103,22 @@ levels:
       logo: "/images/sponsors_2024/TruffleSecurity.png"
       href: "https://trufflesecurity.com/careers/"
 
+- level:
+  sponsors:
+    - type: Saturday Night Party
+      name: "Adobe"
+      logo: "/images/sponsors_2024/Adobe.png"
+      href: "https://www.adobe.com/careers.html"
+    - type: Happy Hour
+      name: "Bolster"
+      logo: "/images/sponsors_2024/Bolster.png"
+      href: "https://bolster.ai/career"
+    - type: Capture the Flag
+      name: "Google"
+      logo: "/images/sponsors_2024/Google.png"
+      href: "https://careers.google.com/"
+
+
 - level: Lanyard
   sponsors:
   - name: "Doyensec"
@@ -111,6 +127,19 @@ levels:
   - name: "NetSPI"
     logo: "/images/sponsors_2024/NetSPI.png"
     href: "https://www.netspi.com/careers/"
+
+- level: Villages
+  sponsors:
+  - name: "Dropzone AI"
+    logo: "/images/sponsors_2024/DropzoneAI.png"
+    href: "https://dropzone.ai/"
+  - name: "GitGuardian"
+    logo: "/images/sponsors_2024/GitGuardian.png"
+    href: "https://www.gitguardian.com/careers"
+  - name: "Semgrep"
+    logo: "/images/sponsors_2024/Semgrep.png"
+    href: "https://semgrep.dev/about/careers/"
+
 
 - level:
   sponsors:
@@ -122,20 +151,13 @@ levels:
       name: "Safebase"
       logo: "/images/sponsors_2024/Safebase.png"
       href: "https://safebase.io/careers"
-    - break: true
     - type: Lounge
       name: "Vanta"
       logo: "/images/sponsors_2024/Vanta.png"
       href: "https://www.vanta.com/company/careers"
-    - type: Saturday Night Party
-      name: "Adobe"
-      logo: "/images/sponsors_2024/Adobe.png"
-      href: "https://www.adobe.com/careers.html"
-    - type: Happy Hour
-      name: "Bolster"
-      logo: "/images/sponsors_2024/Bolster.png"
-      href: "https://bolster.ai/career"
-    - break: true
+
+- level:
+  sponsors:
     - type: "Espresso and Coffee"
       name: "Apiiro"
       logo: "/images/sponsors_2024/Apiiro.png"
@@ -149,45 +171,16 @@ levels:
       logo: "/images/sponsors_2024/Webflow.png"
       href: "https://webflow.com/careers"
 
-- level: Villages
-  sponsors:
-  - name: "Dropzone AI"
-    logo: "/images/sponsors_2024/DropzoneAI.png"
-    href: "https://dropzone.ai/"
-  - name: "GitGuardian"
-    logo: "/images/sponsors_2024/GitGuardian.png"
-    href: "https://www.gitguardian.com/careers"
-
-  - name: "Semgrep"
-    logo: "/images/sponsors_2024/Semgrep.png"
-    href: "https://semgrep.dev/about/careers/"
-
-- level:
-  sponsors:
-    - type: Capture The Flag (CTF)
-      name: "Google"
-      logo: "/images/sponsors_2024/Google.png"
-      href: "https://careers.google.com/"
-
 - level:
   sponsors:
     - type: Presenter Appreciation
       name: "Socket Security"
       logo: "/images/sponsors_2024/Socket.png"
       href: "https://socket.dev/careers"
-    - type: Scholarship
-      name: "Available"
-      logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
-      href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
     - type: WiFi
       name: "Sprinkles"
       logo: "/images/sponsors_2024/Sprinkles.png"
       href: "https://twitter.com/shh_kitties"
-    - break: true
-    - type: Headshots
-      name: "Available"
-      logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
-      href: "https://drive.google.com/open?id=1jBPQMZqiEiiFdZGfuMepWQf1TMtTtxqs"
     - type: Coat Check
       name: "HPE Aruba Networking"
       logo: "/images/sponsors_2024/ArubaHPE.png"

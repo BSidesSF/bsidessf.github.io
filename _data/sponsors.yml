@@ -194,10 +194,13 @@ levels:
     - name: "Hak5"
       href: "https://hak5.org/"
       logo: "/images/sponsors_2024/Hak5.png"
+    - name: "No Starch Press"
+      href: "https://https://nostarch.com/"
+      logo: "/images/sponsors_2024/NoStarchPress.png"
+    - break: true
     - name: "O'Reilly"
       href: "https://www.oreilly.com/"
       logo: "/images/sponsors_2024/OReilly.jpg"
-    - break: true
     - name: "IBM X-Force"
       href: "https://www.ibm.com/x-force"
       logo: "/images/sponsors_2024/XForceRed.png"

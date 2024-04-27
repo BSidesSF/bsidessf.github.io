@@ -33,7 +33,7 @@ We group our volunteer opportunities into several pools.
 * Behind-the-Scenes - These roles require less attendee interaction, but will often require a higher level of agency or operational ability. These roles often involve the setup or teardown of various pieces of the event as it goes along.
 * Social Media  - This role will involve documenting the Bsides experience on social media, as well as talk with attendees about their experiences at Bsides.
 * Safety Ops - These roles are the eyes, ears, and voices of BsidesSF staff, as well as a friendly face for attendees and other volunteers to go to if something is going wrong. Strong communication skills and a cool head are a major benefit to these roles.
-* Room moderators - This attendee-facing role requires that you are comfortable acting as an MC for event talks/workshops. This means you should be able to communicate clearly for both the speaker’s and the audience’s benefit, and ideally have a strong command of the English language. **This role will require a pre-screening, if you'd like to be considered for this role please fill out [this form](https://forms.gle/uz8SDQGyaG5Qbv9x6).**
+* Room moderators - This attendee-facing role requires that you are comfortable acting as an MC for event talks/workshops. This means you should be able to communicate clearly for both the speaker’s and the audience’s benefit, and ideally have a strong command of the English language. **This role is currently closed**
 
 When you sign up for a shift slot, you will pick one of these larger pools and you will work in one or more of the given roles inside that pool depending on volunteer availability and accessibility needs. For more information on the individual roles, see descriptions below.
 

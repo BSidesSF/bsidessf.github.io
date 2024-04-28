@@ -8,7 +8,7 @@ title: "Capture The Flag (CTF)"
 ## How to play?
 
 * You can [register](https://ctf.bsidessf.net/register) and check out challenges on our [scoreboard](https://ctf.bsidessf.net)
-* Join us on [Discord](https://discord.gg/QxFf8crUPw)
+* Join us on [Discord](https://discord.gg/kB7C4BDmGH)
 
 Questions? Email ctf [at] bsidessf.org.
 

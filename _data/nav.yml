@@ -30,6 +30,8 @@
       subhref: "/tickets"
     - subtitle: "Venue"
       subhref: "/venue"
+    - subtitle: "CTF"
+      subhref: "/ctf"
 
 - title: "Volunteer"
   href: "/volunteer"

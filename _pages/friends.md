@@ -4,22 +4,41 @@ title: Friends of BSidesSF 2024
 ---
 {% assign cols = 4 %}
 
-<center>
-  <p>BSidesSF thanks the following friends who have donated $300 or more to help make BSidesSF 2024 possible!</p>
-</center>
 
 <hr style="margin-bottom: 5px" />
 <div style="text-align: center" class="friends {{ class.class }}">
-  {% assign friends_by_name = site.data.friends %}
+<center>
+  <p>BSidesSF thanks the following organizations and individuals who have donated $300 or more to help make BSidesSF 2024 possible!</p>
+</center>
+{% assign orgs_by_name = site.data.friends.orgs %}
+{% for org in orgs_by_name  %}
+    {% assign mod = forloop.index | modulo: cols %}
+      {% if mod == 1 %}
+      <div class="friends row">
+      {% endif %}
+        <div class="friends column">
+          <a href="{{org.link}}" target="_{{org.name}}" rel="noopener noreferrer">
+            <p>{{ org.name }}</p>
+          </a>
+        </div>
+      {% if mod == 0 %}
+      </div>
+      {% endif %}
+    {% if mod == 0 %}
+    </div>
+    {% endif %}
+{% endfor %}
+</div>
+
+<div style="text-align: center" class="friends {{ class.class }}">
+  {% assign friends_by_name = site.data.friends.people %}
   {% for friend in friends_by_name %} 
     {% assign mod = forloop.index | modulo: cols %} 
     {% if mod == 1 %}
     <div class="friends row">
     {% endif %}
       <div class="friends column">
-        <a href="{{friend.link}}" target="_{{friend.name}}">
-          <p>{{ friend.name }}</p>
-        </a>
+         <p>{{ friend.name }}</p>
       </div>
     {% if mod == 0 %}
     </div>

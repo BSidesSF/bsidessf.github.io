@@ -6,6 +6,8 @@
 orgs:
   - name: "Tercero Solutions"
     link: "https://www.tercerosolutions.com"
+  - name: "Pacific Hackers Associaction"
+    link: "https://www.pacifichackers.org/"
 people:
   - name: "Leeloo1313"
   - name: "t3rmit3"
@@ -44,3 +46,6 @@ people:
   - name: "Hassan @ Cybermindr"
   - name: "John Cowgill"
   - name: "Dmitri"
+  - name: "Pacific Hackers Associaction"
+  - name: "jackiesinsecurity"
+  - name: "Rhett"

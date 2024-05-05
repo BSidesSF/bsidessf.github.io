@@ -13,7 +13,7 @@ We expect to open the BSidesSF 2025 CFP by October 2024 (with an expected deadli
 
 We're always looking for folks to help us shape BSidesSF content! CFP reviewers typically spend 30-40 hours (if not more) around the Dec 2024/Jan 2025 timeframe. We also typically ask reviewers for recommendations for new keynote speakers. You will receive free admission to BSidesSF at the end for all your hard work.
 
-Submit an application here: https://forms.gle/4BGiKQC1Cdko4cYdA
+Submit an application here: [https://forms.gle/4BGiKQC1Cdko4cYdA](https://forms.gle/4BGiKQC1Cdko4cYdA)
 
 # **Questions?**
 

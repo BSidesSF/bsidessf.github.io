@@ -7,7 +7,7 @@ title: "Capture The Flag (CTF)"
 
 ## How to play?
 
-Our 2024 CTF has enced, see you next year!
+Our 2024 CTF has ended, see you next year!
 
 In the meantime, you can join us on [Discord](https://discord.gg/kB7C4BDmGH) as we count down to 2024.
 

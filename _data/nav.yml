@@ -33,8 +33,14 @@
     - subtitle: "CTF"
       subhref: "/ctf"
 
-- title: "Volunteer"
-  href: "/volunteer"
+- title: "Work With Us"
+  subcategories:
+    - subtitle: "Volunteers"
+      subhref: "/volunteer"
+    - subtitle: "Organizers"
+      subhref: "/jobs"
+    - subtitle: "Program Team"
+      subhref: "/cfp"
 
 - title: "Friends"
   href: "/friends"

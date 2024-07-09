@@ -7,6 +7,13 @@
 #
 ###
 
+- "year": "2024"
+  categories:
+    - title: "Videos"
+      external: "https://www.youtube.com/playlist?list=PLbZzXF2qC3RtlV2pwcvdbsCBc1Vb8kwVw"
+    - title: "Schedule"
+      external: "https://bsidessf2024.sched.com/"
+
 - "year": "2023"
   categories:
     - title: "Videos"
@@ -15,7 +22,7 @@
       external: "https://bsidessf2023.sched.com/"
     - title: "Printed Program"
       external: "https://drive.google.com/file/d/1W2YTJsKle0D-Y6jUkY3mpjPqWu2633zg/view?usp=drive_link"
-    - title: "Closing Remarks Slides" 
+    - title: "Closing Remarks Slides"
       external: "https://docs.google.com/presentation/d/13yhjMMH0qlAtu1g7ZaV_XHLxTBQMZ-47WpNhY50RRtI/edit?usp=sharing"
 
 - "year": "2022"
@@ -68,7 +75,7 @@
     - title: "Security BSides Wiki"
       external: "https://bsides.org/w/page/132743652/BSidesSF2019"
     - title: "Closing Remarks Slides"
-      external: "https://docs.google.com/presentation/d/1s0Q7ogG0a_vmBexzsiplQMfGQJBLku3wPQrenOf_4-g/edit?usp=sharing" 
+      external: "https://docs.google.com/presentation/d/1s0Q7ogG0a_vmBexzsiplQMfGQJBLku3wPQrenOf_4-g/edit?usp=sharing"
 
 - "year": "2018"
   categories:
@@ -81,7 +88,7 @@
     - title: "Security BSides Wiki"
       external: "https://bsides.org/w/page/122163258/BSidesSF2018"
     - title: "Closing Remarks Slides"
-      external: "https://docs.google.com/presentation/d/1JAn0jeGvhC4DaebJkv0zI1zffzmrDb66nQXB_hBPQyM/edit#slide=id.g37041135a4_0_76" 
+      external: "https://docs.google.com/presentation/d/1JAn0jeGvhC4DaebJkv0zI1zffzmrDb66nQXB_hBPQyM/edit#slide=id.g37041135a4_0_76"
 
 - "year": "2017"
   categories:

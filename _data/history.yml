@@ -13,6 +13,10 @@
       external: "https://www.youtube.com/playlist?list=PLbZzXF2qC3RtlV2pwcvdbsCBc1Vb8kwVw"
     - title: "Schedule"
       external: "https://bsidessf2024.sched.com/"
+    - title: "Printed Program"
+      external: "https://drive.google.com/open?id=1Gk_oyUgeRDbM_BAon_ItQfNICnseZr6C"
+    - title: "Closing Ceremony Slides (external)"
+      external: https://docs.google.com/presentation/d/1m9zf2YEfG7WkhgV3zq9ECOfK24zWHbwPYesBqU_MQ9A/
 
 - "year": "2023"
   categories:

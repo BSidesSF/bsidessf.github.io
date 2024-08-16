@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Friends of BSidesSF 2024
+title: Friends of BSidesSF 2025
 ---
-{% assign cols = 4 %}
 
+{% assign cols = 4 %}
 
 <hr style="margin-bottom: 5px" />
 <div style="text-align: center" class="friends {{ class.class }}">
 <center>
-  <p>BSidesSF thanks the following organizations and individuals who have donated $300 or more to help make BSidesSF 2024 possible!</p>
+  <p>BSidesSF thanks the following organizations and individuals who have donated $300 or more to help make BSidesSF 2025 possible!</p>
 </center>
 {% assign orgs_by_name = site.data.friends.orgs %}
 {% for org in orgs_by_name  %}

@@ -5,206 +5,181 @@
 #      - best for single sponsor items
 # break - puts in a row break
 #
-sponsorship_kit_url: "https://drive.google.com/open?id=1Pfpv-XUO54qP80h6Tsii325sdf67C7GT"
+sponsorship_kit_url: "https://drive.google.com/open?id=1YpyDX-8kH3B6t37iYzYctniM2EJsGNJa"
 
 levels:
-- level: Leading
-  class: leading
-  sponsors:
-    - name: "Anthropic"
-      logo: "/images/sponsors_2024/Anthropic.png"
-      href: "https://www.anthropic.com/careers"
-    - name: "Google"
-      logo: "/images/sponsors_2024/Google.png"
-      href: "https://careers.google.com/"
-    - name: "Microsoft"
-      logo: "/images/sponsors_2024/Microsoft.png"
-      href: "https://careers.microsoft.com/"
-    - break: true
-    - name: "Secureframe"
-      logo: "/images/sponsors_2024/Secureframe.png"
-      href: "https://secureframe.com/careers"
-    - name: "Wiz"
-      logo: "/images/sponsors_2024/Wiz.png"
-      href: "https://www.wiz.io/careers"
+  - level: Gold
+    class: gold
+    sponsors:
+      - name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipPending.png"
+        href: "https://bsidessf.org/sponsors/"
+      - name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/"
+      - name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/"
+      - break: true
+      - name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/"
+      - name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/"
+      - name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/"
 
-- level: Contributing
-  class: contrib
-  sponsors:
-    - name: "Code Red Partners"
-      logo: "/images/sponsors_2024/CodeRedPartners.png"
-      href: "https://coderedpartners.com/"
-    - name: "ConductorOne"
-      logo: "/images/sponsors_2024/ConductorOne.png"
-      href: "https://careers.conductorone.com/"
-    - name: "Lacework"
-      logo: "/images/sponsors_2024/Lacework.png"
-      href: "https://www.lacework.com/careers/"
-    - break: true
-    - name: "Rippling"
-      logo: "/images/sponsors_2024/Rippling.png"
-      href: "https://www.rippling.com/careers"
-    - name: "Slack"
-      logo: "/images/sponsors_2024/Slack.png"
-      href: "https://slack.com/careers"
-    - name: "Teleport"
-      logo: "/images/sponsors_2024/Teleport.png"
-      href: "https://goteleport.com/careers/"
+  - level: Silver
+    class: contrib
+    sponsors:
+      - name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipPending.png"
+        href: "https://bsidessf.org/sponsors/"
+      - name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/"
+      - name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/"
+      - name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/"
+      - name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/"
+      - break: true
+      - name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/"
+      - name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/"
+      - name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/"
+      - name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/"
+      - name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/"
+      - break: true
+      - name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/"
+      - name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/"
+      - name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/"
+      - name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/"
+      - name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/"
 
-- level: Supporting
-  class: supporting
-  sponsors:
-    - name: "Akto"
-      logo: "/images/sponsors_2024/Akto.png"
-      href: "https://www.akto.io/"
-    - name: "Deepfactor"
-      logo: "/images/sponsors_2024/Deepfactor.png"
-      href: "https://www.deepfactor.io/careers/"
-    - name: "GitHub"
-      logo: "/images/sponsors_2024/GitHub.png"
-      href: "https://github.com/about/careers"
-    - break: true
-    - name: "Nudge Security"
-      logo: "/images/sponsors_2024/NudgeSecurity.png"
-      href: "https://www.nudgesecurity.com/"
-    - name: "Panther"
-      logo: "/images/sponsors_2024/Panther.jpg"
-      href: "https://panther.com/company/careers/"
-    - name: "Tines"
-      logo: "/images/sponsors_2024/Tines.png"
-      href: "https://www.tines.com/careers/"
+  - level: Bronze
+    class: contrib
+    sponsors:
+      - name: "TBD"
+        logo: "/images/sponsors_2024/Doyensec.png"
+        href: "https://www.doyensec.com/careers.html"
+      - name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipPending.png"
+        href: "https://bsidessf.org/sponsors/"
+      - name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipPending.png"
+        href: "https://bsidessf.org/sponsors/"
+      - name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/"
+      - name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/"
+      - break: true
+      - name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/"
+      - name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/"
+      - name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/"
+      - name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/"
+      - name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/"
+      - break: true
+      - name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/"
+      - name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/"
+      - name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/"
+      - name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/"
+      - name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/"
 
-- level: Emerging Technology
-  class: emerging
-  sponsors:
-    - name: "ComplianceCow"
-      logo: "/images/sponsors_2024/ComplianceCow.png"
-      href: "https://compliancecow.com/"
-    - name: "Devici"
-      logo: "/images/sponsors_2024/Devici.png"
-      href: "https://devici.com/"
-    - name: "Ophion Security"
-      logo: "/images/sponsors_2024/OphionSecurity.png"
-      href: "https://ophionsecurity.com/"
-    - name: "P0 Security"
-      logo: "/images/sponsors_2024/P0Security.png"
-      href: "https://p0.dev/?utm_source=bsides_sf&utm_medium=sponsor_site&utm_campaign=event_bsides_2024"
-    - break: true
-    - name: "Probely"
-      logo: "/images/sponsors_2024/Probely.png"
-      href: "https://www.probely.com/"
-    - name: "RunReveal"
-      logo: "/images/sponsors_2024/RunReveal.png"
-      href: "https://runreveal.com/"
-    - name: "Socket Security"
-      logo: "/images/sponsors_2024/Socket.png"
-      href: "https://socket.dev/careers"
-    - name: "Truffle Security"
-      logo: "/images/sponsors_2024/TruffleSecurity.png"
-      href: "https://trufflesecurity.com/careers/"
+  - level:
+    sponsors:
+      - type: Capture the Flag
+        name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/"
+      - type: Lanyard
+        name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/"
+      - type: Lanyard
+        name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/"
 
-- level:
-  sponsors:
-    - type: Saturday Night Party
-      name: "Adobe"
-      logo: "/images/sponsors_2024/Adobe.png"
-      href: "https://www.adobe.com/careers.html"
-    - type: Happy Hour
-      name: "Bolster"
-      logo: "/images/sponsors_2024/Bolster.png"
-      href: "https://bolster.ai/career"
-    - type: Capture the Flag
-      name: "Google"
-      logo: "/images/sponsors_2024/Google.png"
-      href: "https://careers.google.com/"
+  - level:
+    sponsors:
+      - type: Daytime Social (Saturday)
+        name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/"
+      - type: Evening Social (Saturday)
+        name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/"
+      - type: Daytime Social (Sunday)
+        name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/"
 
+  - level:
+    sponsors:
+      - type: "Espresso and Coffee"
+        name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/"
+      - type: "Espresso and Coffee"
+        name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/"
+      - type: "Espresso and Coffee"
+        name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/"
 
-- level: Lanyard
-  sponsors:
-  - name: "Doyensec"
-    logo: "/images/sponsors_2024/Doyensec.png"
-    href: "https://doyensec.com/careers.html"
-  - name: "NetSPI"
-    logo: "/images/sponsors_2024/NetSPI.png"
-    href: "https://www.netspi.com/careers/"
-
-- level: Villages
-  sponsors:
-  - name: "Dropzone AI"
-    logo: "/images/sponsors_2024/DropzoneAI.png"
-    href: "https://dropzone.ai/"
-  - name: "GitGuardian"
-    logo: "/images/sponsors_2024/GitGuardian.png"
-    href: "https://www.gitguardian.com/careers"
-  - name: "Semgrep"
-    logo: "/images/sponsors_2024/Semgrep.png"
-    href: "https://semgrep.dev/about/careers/"
-
-
-- level:
-  sponsors:
-    - type: Daytime Bar & Chill-Out Space
-      name: "Optiv"
-      logo: "/images/sponsors_2024/Optiv.png"
-      href: "https://www.optiv.com/company/careers"
-    - type: Daytime Bar & Chill-Out Space
-      name: "Safebase"
-      logo: "/images/sponsors_2024/Safebase.png"
-      href: "https://safebase.io/careers"
-    - type: Lounge
-      name: "Vanta"
-      logo: "/images/sponsors_2024/Vanta.png"
-      href: "https://www.vanta.com/company/careers"
-
-- level:
-  sponsors:
-    - type: "Espresso and Coffee"
-      name: "Apiiro"
-      logo: "/images/sponsors_2024/Apiiro.png"
-      href: "https://apiiro.com/careers/"
-    - type: "Espresso and Coffee"
-      name: "Vanta"
-      logo: "/images/sponsors_2024/Vanta.png"
-      href: "https://www.vanta.com/company/careers"
-    - type: "Espresso and Coffee"
-      name: "Webflow"
-      logo: "/images/sponsors_2024/Webflow.png"
-      href: "https://webflow.com/careers"
-
-- level:
-  sponsors:
-    - type: Presenter Appreciation
-      name: "Socket Security"
-      logo: "/images/sponsors_2024/Socket.png"
-      href: "https://socket.dev/careers"
-    - type: WiFi
-      name: "Sprinkles"
-      logo: "/images/sponsors_2024/Sprinkles.png"
-      href: "https://twitter.com/shh_kitties"
-    - type: Coat Check
-      name: "HPE Aruba Networking"
-      logo: "/images/sponsors_2024/ArubaHPE.png"
-      href: "https://careers.hpe.com/us/en/hpe-aruba"
-
-- level: Special Thanks
-  sponsors:
-    - name: "Bidwell Design"
-      href: "https://www.bidwelldesign.com/"
-      logo: "/images/sponsors_2024/BidwellDesign.png"
-    - name: "Hak5"
-      href: "https://hak5.org/"
-      logo: "/images/sponsors_2024/Hak5.png"
-    - name: "No Starch Press"
-      href: "https://nostarch.com/"
-      logo: "/images/sponsors_2024/NoStarchPress.png"
-    - break: true
-    - name: "O'Reilly"
-      href: "https://www.oreilly.com/"
-      logo: "/images/sponsors_2024/OReilly.jpg"
-    - name: "IBM X-Force"
-      href: "https://www.ibm.com/x-force"
-      logo: "/images/sponsors_2024/XForceRed.png"
-    - name: "RSA Conference"
-      href: "https://www.rsaconference.com/usa?utm_source=assoc-bsides&utm_medium=referral&utm_campaign=textad-us2024"
-      logo: "/images/sponsors_2024/RSAConference.png"
-      text: "Get an Extra $150 off RSAC 2024.  Join us May 6 – 9 at RSAC 2024. Immerse yourself in expert-led sessions, connect with industry leaders, and discover the latest trends and best practices. Elevate your cybersecurity game and be a part of shaping the industry's future. Don't miss this opportunity to advance your skills and network with the best in the field.  Plus, BSides attendees save an additional $150 when registering with code 14UBSIDESFD."
+  - level: Special Thanks
+    sponsors:
+      - name: "Bidwell Design"
+        href: "https://www.bidwelldesign.com/"
+        logo: "/images/sponsors_2024/BidwellDesign.png"

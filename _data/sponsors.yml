@@ -86,13 +86,13 @@ levels:
     class: contrib
     sponsors:
       - name: "TBD"
-        logo: "/images/BSidesSF_SponsorshipPending.png"
-        href: "https://bsidessf.org/sponsors/"
+        logo: "/images/sponsors_2024/Doyensec.png"
+        href: "https://www.doyensec.com/careers.html"
       - name: "TBD"
         logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors/"
       - name: "TBD"
-        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors/"
       - name: "TBD"
         logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"

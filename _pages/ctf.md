@@ -9,7 +9,7 @@ title: "Capture The Flag (CTF)"
 
 Our 2025 CTF has not yet opened.
 
-In the meantime, you can join us on [Discord](https://discord.gg/kB7C4BDmGH) as we count down to 2024.
+In the meantime, you can join us on [Discord](https://discord.gg/kB7C4BDmGH) as we count down to 2025.
 
 Questions? Email ctf [at] bsidessf.org.
 

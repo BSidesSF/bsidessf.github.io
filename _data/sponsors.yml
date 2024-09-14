@@ -85,20 +85,20 @@ levels:
   - level: Bronze
     class: contrib
     sponsors:
-      - name: "TBD"
+      - name: "Doyensec"
         logo: "/images/sponsors_2025/Doyensec.png"
         href: "https://www.doyensec.com/careers.html"
-      - name: "TBD"
+      - name: "Socket"
         logo: "/images/sponsors_2025/Socket.png"
         href: "https://socket.dev/"
+      - name: "Nudge"
+        logo: "/images/sponsors_2025/NudgeSecurity.png"
+        href: "https://https://www.nudgesecurity.com/careers"
       - name: "TBD"
         logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors"
       - name: "TBD"
-        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
-        href: "https://bsidessf.org/sponsors"
-      - name: "TBD"
-        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors"
       - break: true
       - name: "TBD"

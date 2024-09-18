@@ -67,10 +67,7 @@
 
 // Header
 header[role="banner"] {
-//  background: linear-gradient($header-gradient-start, $header-gradient-end);
-  background: $header-background-img;
-  background-size: contain;
-  background-size: cover;
+  background: linear-gradient($header-gradient-start, $header-gradient-end);
 }
 
 // Footer
@@ -278,4 +275,23 @@ div.imgdiv {
       border-top: 10px solid #fff;
     }
   }
+}
+
+div.archive {
+  width: 80%;
+  height: 1024;
+  margin: auto;
+}
+
+div.banner {
+  background: $secondary-color;
+  color: $primary-color;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  text-align: center;
+  border: 10px solid $secondary-color;
+}
+
+strong.banner {
+  font-size: $large-font-size;
 }

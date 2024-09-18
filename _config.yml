@@ -13,8 +13,6 @@ header_sm: images/bsides_logo_full-orangeblack.png
 header_med: images/bsides_logo_full-orangeblack.png
 header_large: images/bsides_logo_full-orangeblack.png
 header_xl: images/bsides_logo_full-orangeblack.png
-#header_left: ""
-#header_right: ""
 
 # Exclude our ruby stuff and other files
 exclude:
@@ -35,6 +33,10 @@ exclude:
 include: [.well-known]
 
 collections:
+  archive:
+    output: true
+    permalink: /a/:path
+
   pages:
     output: true
     permalink: /:path

@@ -17,6 +17,7 @@ $link-visited-color: darken($secondary-color, 10%);
 $base-font-family: Helvetica, Arial, sans-serif;
 $base-font-size: 1.0em;
 $small-font-size: $base-font-size * 0.875;
+$large-font-size: $base-font-size * 2.5;
 $base-line-height: 1.5;
 
 
@@ -38,8 +39,8 @@ $socials-border-color: #fff; // white
 $spacing-unit: 30px;
 
 // Header
-$header-gradient-start: #000; // white
-$header-gradient-end: #fff; // white
+$header-gradient-start: $complimentary-color;
+$header-gradient-end: $complimentary-color;
 // $header-background-img: url('/images/header_background_2024.jpg');
 $header-background-img: "";
 

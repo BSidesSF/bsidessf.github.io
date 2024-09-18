@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+
+  <body>
+    <main class="wrap">
+      {% include header.html %}
+      {% include navigation.html %}
+      <div class="archive banner">
+        <strong class="banner">
+          You're viewing an archive of the {{ page.year }} website.
+        </strong>
+      </div>
+      <div class="archive">
+        <base name="h_frame_{{page.year}}" href="/a/{{ page.year }}">
+        <iframe
+          src="/a/{{ page.year }}"
+          width="100%"
+          height="1024"
+          name="h_frame_{{page.year}}">
+            Loading {{ page.year }} site...
+        </iframe>
+      </div>
+      {{ content }}
+    </main>
+  </body>
+</html>

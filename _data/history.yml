@@ -7,27 +7,12 @@
 #
 ###
 
-- "year": "2024"
-  categories:
-    - title: "Videos"
-      external: "https://www.youtube.com/playlist?list=PLbZzXF2qC3RtlV2pwcvdbsCBc1Vb8kwVw"
-    - title: "Schedule"
-      external: "https://bsidessf2024.sched.com/"
-    - title: "Printed Program"
-      external: "https://drive.google.com/open?id=1Gk_oyUgeRDbM_BAon_ItQfNICnseZr6C"
-    - title: "Closing Ceremony Slides (external)"
-      external: https://docs.google.com/presentation/d/1m9zf2YEfG7WkhgV3zq9ECOfK24zWHbwPYesBqU_MQ9A/
-
 - "year": "2023"
   categories:
     - title: "Videos"
       external: "https://www.youtube.com/playlist?list=PLbZzXF2qC3RuQAuC0C4Q7Lk4eQluqIVzL"
     - title: "Schedule"
       external: "https://bsidessf2023.sched.com/"
-    - title: "Printed Program"
-      external: "https://drive.google.com/file/d/1W2YTJsKle0D-Y6jUkY3mpjPqWu2633zg/view?usp=drive_link"
-    - title: "Closing Remarks Slides"
-      external: "https://docs.google.com/presentation/d/13yhjMMH0qlAtu1g7ZaV_XHLxTBQMZ-47WpNhY50RRtI/edit?usp=sharing"
 
 - "year": "2022"
   categories:
@@ -37,12 +22,6 @@
       href: "/graphic-recordings/2022.html"
     - title: "Schedule"
       external: "https://bsidessf2022.sched.com/"
-    - title: "Printed Program"
-      external: "https://drive.google.com/file/d/14dw-J5v4r0vcdL7CmiWJfYrbmVoDmXia/view?usp=drive_link"
-    - title: "Program Map"
-      external: "https://drive.google.com/file/d/14ejQUhywZyLeD3VZO_DWXShNW57hnt6m/view?usp=sharing"
-    - title: "Closing Remarks Slides"
-      external: "https://docs.google.com/presentation/d/159zlpNuZlhwD7kB-zpTmhgub_UQmVf1grssI-rn7juo/edit?usp=sharing"
 
 - "year": "2021"
   categories:
@@ -50,8 +29,6 @@
       external: "https://www.youtube.com/playlist?list=PLbZzXF2qC3RvWn6Nne_Jj8IkLXZP3tgE6"
     - title: "Schedule"
       external: "https://bsidessf2021.sched.com/"
-    - title: "Closing Remarks Slides"
-      external: "https://docs.google.com/presentation/d/1ks4uKoXBxN5SyRM6OqeVPZDbjPPCTy_XzjyslN1mEpM/edit?usp=sharing"
 
 - "year": "2020"
   categories:
@@ -61,10 +38,8 @@
       href: "/graphic-recordings/2020.html"
     - title: "Schedule"
       external: "https://bsidessf2020.sched.com/"
-    - title: "Printed Program"
-      external: "https://drive.google.com/file/d/10fQ9EclEu9OguphU4ouDcEnyxRonSApp/view?usp=sharing"
     - title: "Security BSides Wiki"
-      external: "https://bsides.org/w/page/132831939/BSidesSF2020"
+      external: "http://www.securitybsides.com/w/page/132831939/BSidesSF2020"
 
 - "year": "2019"
   categories:
@@ -74,12 +49,8 @@
       href: "/graphic-recordings/2019.html"
     - title: "Schedule"
       external: "https://bsidessf2019.sched.com/"
-    - title: "Printed Program"
-      external: "https://drive.google.com/file/d/1s9Y33utbFcbPW1KwlFOpRbGnSMfD6714/view?usp=sharing"
     - title: "Security BSides Wiki"
-      external: "https://bsides.org/w/page/132743652/BSidesSF2019"
-    - title: "Closing Remarks Slides"
-      external: "https://docs.google.com/presentation/d/1s0Q7ogG0a_vmBexzsiplQMfGQJBLku3wPQrenOf_4-g/edit?usp=sharing"
+      external: "http://www.securitybsides.com/w/page/132743652/BSidesSF2019"
 
 - "year": "2018"
   categories:
@@ -90,60 +61,60 @@
     - title: "Schedule"
       external: "https://bsidessf2018.sched.com"
     - title: "Security BSides Wiki"
-      external: "https://bsides.org/w/page/122163258/BSidesSF2018"
-    - title: "Closing Remarks Slides"
-      external: "https://docs.google.com/presentation/d/1JAn0jeGvhC4DaebJkv0zI1zffzmrDb66nQXB_hBPQyM/edit#slide=id.g37041135a4_0_76"
+      external: "http://www.securitybsides.com/w/page/122163258/BSidesSF2018"
 
 - "year": "2017"
   categories:
+    - title: "2017 Website"
+      href: "/a/2017.html"
     - title: "Videos"
       external: "https://www.youtube.com/playlist?list=PLbZzXF2qC3Rsv-7uUugKLaz5CzQUnuAk8"
     - title: "Schedule"
       external: "https://bsidessf2017.sched.com/"
     - title: "Security BSides Wiki"
-      external: "https://bsides.org/w/page/111866644/BSidesSF2017"
+      external: "http://www.securitybsides.com/w/page/111866644/BSidesSF2017"
 
 - year: "2016"
   categories:
+    - title: "2016 Website"
+      href: "/a/2016.html"
     - title: "Videos"
       external: "https://www.youtube.com/playlist?list=PLbZzXF2qC3RuSwuyJLQ6Hrx1ps9No6Lso"
     - title: "Schedule"
       external: "https://bsidessf2016.sched.com/"
     - title: "Security BSides Wiki"
-      external: "https://bsides.org/w/page/103445197/BSidesSF2016"
+      external: "http://www.securitybsides.com/w/page/103445197/BSidesSF2016"
 
 - year: "2015"
   categories:
-    - title: "Videos"
-      external: "https://www.youtube.com/playlist?list=PLbZzXF2qC3RshjvKGmXcNAJtKKXdjXRf0"
     - title: "Schedule"
       external: "https://bsidessf2015.sched.com/"
     - title: "Security BSides Wiki"
-      external: "https://bsides.org/w/page/90944586/BSidesSF2015"
+      external: "http://www.securitybsides.com/w/page/90944586/BSidesSF2015"
 
 - year: "2014"
   categories:
     - title: "Security BSides Wiki"
-      external: "https://bsides.org/w/page/70849271/BSidesSF2014"
+      external: "http://www.securitybsides.com/w/page/70849271/BSidesSF2014"
 
 - year: "2013"
   categories:
     - title: "Security BSides Wiki"
-      external: "https://bsides.org/w/page/35868077/BSidesSanFrancisco2013"
+      external: "http://www.securitybsides.com/w/page/35868077/BSidesSanFrancisco2013"
 
 - year: "2012"
   categories:
     - title: "Videos"
       external: "https://www.youtube.com/playlist?list=PLbZzXF2qC3RvjNaKOwD7qzJYnRaKYvSE4"
     - title: "Security BSides Wiki"
-      external: "https://bsides.org/w/page/47572893/BSidesSanFrancisco2012"
+      external: "http://www.securitybsides.com/w/page/47572893/BSidesSanFrancisco2012"
 
 - year: "2011"
   categories:
     - title: "Security BSides Wiki"
-      external: "https://bsides.org/w/page/56409738/BSidesSanFrancisco2011"
+      external: "http://www.securitybsides.com/w/page/56409738/BSidesSanFrancisco2011"
 
 - year: "2010"
   categories:
     - title: "Security BSides Wiki"
-      external: "https://bsides.org/w/page/12194147/BSidesSanFrancisco01"
+      external: "http://www.securitybsides.com/w/page/12194147/BSidesSanFrancisco01"

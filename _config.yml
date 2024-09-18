@@ -33,7 +33,7 @@ exclude:
 include: [.well-known]
 
 collections:
-  archive:
+  archives:
     output: true
     permalink: /a/:path
 

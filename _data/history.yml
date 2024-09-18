@@ -111,6 +111,8 @@
       external: "https://bsidessf2016.sched.com/"
     - title: "Security BSides Wiki"
       external: "https://bsides.org/w/page/103445197/BSidesSF2016"
+    - title: "Website"
+      href: "/a/2016.html"
 
 - year: "2015"
   categories:

@@ -24,7 +24,7 @@ Then we add it to the historical pages, and all should be good.
 | 2021 | Mar 6 & 9   | ef3d7aba58b55b56de0ecaf161efac27f508ffb6 | 
 | 2022 | Jun 4 & 5   | 154ecfeb0c50cdc7e80b47f36bb2742d4f901fbd |
 | 2023 | Apr 23 & 23 | 74123ef96c234ca2cce67c1640a924ad7d6975e7 |
-| 2024 | May 4 & 5   | 88b7d55a55f4d5d14d1caf260bf52c854e436431 |
+| 2024 | May 4 & 5   | d36e0e7ab55c8009246121eeb47c4ead4c633b15 |
 | 2025 | Apr 25 & 25 |
 
 
@@ -34,14 +34,11 @@ Then we add it to the historical pages, and all should be good.
   - `git log --decorate --until YYYY-MM-DD --graph --raw main`
 - Use the hash from the previoous command to check out the right version of the site
   - `git checkout <hash>`
-- **DO NOT SKIP** Make sure you have a completely CLEAN \_site directory. This is important.
-  - `bundle exec jekyll clean`
 - this builds the full site with a specific baseurl to support the changed directory root. This allows us to iframe it and have the site render as it was, and not use the current styles.
-  - `bundle exec jekyll build --baseurl / -d _archives/YYYY`
+  - `bundle exec jekyll build --baseurl /a/YYYY -d _archives/YYYY`
   - `git checkout <branch>` # this is the branch you are using to create the archive
 - Create the archive index page
-  - Be sure to replace YYYY with the appropriate year
-  - Create a file in \_archive for the year you are archiving `_archive/YYYY.md` using the template below
+  - Create a file in `/\_archive` for the year you are archiving `_archive/YYYY.md` using the template below
 
 ```
 ---
@@ -50,18 +47,16 @@ year: YYYY
 ---
 ```
 
-- Add an entry to \_data/history.yml
+- Add an entry to /\_data/history.yml
 - Verify that the archived site looks correct, especially at /a/YYYY.html
 
   - `bundle exec jekyll serve`
   - verify the About->Past Events page has your year and links on it
   - verify the website link works and is properly framed
   - verify all of the images and other assets are being properly loaded
+    - the sponsors page can be a sign of problems, make sure it shows all sponsors for that event
     - you can also search in `_archive/YYYY` for `src="/` or `href="/` which aren't point to /a/YYYY
 
-- You may need to edit any hardcoded referential paths that exist in `_archive/YYYY` to fix those links work properly inside the iframe
-
 - Look for items from the year you are archiving that can be removed, and delete them
-
 - Make the necessary commits to your branch
 - PR your changes to this repository

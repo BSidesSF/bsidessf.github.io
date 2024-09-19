@@ -17,6 +17,8 @@
       external: "https://drive.google.com/open?id=1Gk_oyUgeRDbM_BAon_ItQfNICnseZr6C"
     - title: "Closing Ceremony Slides (external)"
       external: https://docs.google.com/presentation/d/1m9zf2YEfG7WkhgV3zq9ECOfK24zWHbwPYesBqU_MQ9A/
+    - title: "Website"
+      href: "/a/2024.html"
 
 - "year": "2023"
   categories:

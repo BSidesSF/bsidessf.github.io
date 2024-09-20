@@ -34,9 +34,9 @@ levels:
   - level: Silver
     class: contrib
     sponsors:
-      - name: "TBD"
-        logo: "/images/BSidesSF_SponsorshipPending.png"
-        href: "https://bsidessf.org/sponsors"
+      - name: "Prophet Security"
+        logo: "/images/sponsors_2025/ProphetSecurity.svg"
+        href: "https://www.prophetsecurity.ai/"
       - name: "TBD"
         logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors"

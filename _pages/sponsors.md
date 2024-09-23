@@ -15,7 +15,6 @@ title: "Sponsors"
       <h1>{{ class.level }}</h1>
     {% endif %}
     <div class="row">
-
       {% for sponsor in class.sponsors %}
         {% if sponsor.break %}
           </div><div class="row">
@@ -32,7 +31,7 @@ title: "Sponsors"
           {% endif %}
             <div class="imgdiv">
               {% if sponsor.logo %}
-                <img src="{{ site.url }}{{ sponsor.logo }}" alt="{{ sponsor.name }}" title="{% if sponsor.text %}{{ sponsor.text }}{% else %}{{ sponsor.name }}{% endif %}" />
+                <img src="{{ site.url }}{{baseurl}}{{ sponsor.logo }}" alt="{{ sponsor.name }}" title="{% if sponsor.text %}{{ sponsor.text }}{% else %}{{ sponsor.name }}{% endif %}" />
               {% else %}
                 <p><strong>{{ sponsor.name }}</strong></p>
               {% endif %}
@@ -40,9 +39,7 @@ title: "Sponsors"
           </a>
         </div>
       {% endfor %}
-
     </div>
-
   </div>
 {% endfor %}
 

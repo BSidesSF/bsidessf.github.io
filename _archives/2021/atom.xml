@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="https://bsidessf.org/atom.xml" rel="self" type="application/atom+xml" /><link href="https://bsidessf.org/" rel="alternate" type="text/html" /><updated>2024-09-17T02:06:23-07:00</updated><id>https://bsidessf.org/atom.xml</id><title type="html">BSidesSF</title><subtitle>Security BSides San Francisco is an annual information security conference. It is a conference by the community for the community.
+</subtitle><author><name>BSidesSF</name></author><entry><title type="html">BSidesSF 2021 Tuesday Schedule</title><link href="https://bsidessf.org/news/2021/03/2021-tuesday-schedule" rel="alternate" type="text/html" title="BSidesSF 2021 Tuesday Schedule" /><published>2021-03-08T00:00:00-08:00</published><updated>2021-03-08T00:00:00-08:00</updated><id>https://bsidessf.org/news/2021/03/2021-tuesday-schedule</id><content type="html" xml:base="https://bsidessf.org/news/2021/03/2021-tuesday-schedule"><![CDATA[<h1 id="just-one-more-day-remains">Just one more day remains!</h1>
+
+<p>Join us on Tuesday for the final day of BSidesSF 2021. The program starts again at 12:00pm PST.</p>
+
+<p>To subscribe to future email updates (<em>highly recommended!</em>), you can do so <a href="/subscribe.html">here</a>.</p>
+
+<h2 id="tuesdays-talks">Tuesday’s Talks</h2>
+
+<p>A Reddit post will accompany each session, and we encourage you to participate as the presenters will be facilitating live Q&amp;A. The talks for Tuesday are:</p>
+
+<ul>
+  <li><em>Offensive Javascript Techniques for Red Teamers (Or Anyone Really)</em> by Dylan Ayrey and Christian Frichot</li>
+  <li><em>So you’re the first security hire</em> by Bryan Zimmer</li>
+  <li><em>Checking your –privileged container</em> by Sam “Frenchie” Stewart and Maya Kaczorowski</li>
+  <li><em>Closing Ceremony</em> by Reed Loden</li>
+</ul>
+
+<p>All of the talks will be streamed on our <a href="https://www.youtube.com/playlist?list=PLbZzXF2qC3RvWn6Nne_Jj8IkLXZP3tgE6">YouTube channel</a>, and all of the Reddit posts can be found on our subreddit, <a href="https://www.reddit.com/r/BSidesSF/">r/BSidesSF</a>. A complete schedule of events can be found on our <a href="https://bsidessf.org/schedule">site</a>.</p>
+
+<h2 id="bsidessf-swag">BSidesSF Swag</h2>
+
+<p>Time is almost up to order BSidesSF 2021 swag! If you’d like to make a purchase please visit our virtual store at <a href="https://store.bsidessf.org/">https://store.bsidessf.org/</a>. Proceeds benefit this year’s recipient charities – EFF, Hackers for Charity, and the Malala Fund.</p>
+
+<p><a href="https://store.bsidessf.org/"><img src="/images/posts_2021/swagbox.jpg" alt="BSidesSF 2021 SwagBox" title="BSidesSF 2021 SwagBox" /></a></p>
+
+<h2 id="no-registration-required">No Registration Required</h2>
+
+<p>This year’s event is entirely free of charge, and no registration is required.</p>
+
+<p>See you tomorrow!</p>
+
+<p>The BSidesSF Staff</p>]]></content><author><name>BSidesSF</name></author><category term="post" /><summary type="html"><![CDATA[Just one more day remains!]]></summary></entry><entry><title type="html">BSidesSF 2021 Monday Schedule</title><link href="https://bsidessf.org/news/2021/03/2021-monday-schedule" rel="alternate" type="text/html" title="BSidesSF 2021 Monday Schedule" /><published>2021-03-07T00:00:00-08:00</published><updated>2021-03-07T00:00:00-08:00</updated><id>https://bsidessf.org/news/2021/03/2021-monday-schedule</id><content type="html" xml:base="https://bsidessf.org/news/2021/03/2021-monday-schedule"><![CDATA[<h1 id="were-at-the-halfway-point">We’re at the halfway point!</h1>
+
+<p>Two days down, and two more to go! Join us on Monday for day three of BSidesSF 2021! The program starts again at 12:00pm PST.</p>
+
+<p>To subscribe to future email updates (<em>highly recommended!</em>), you can do so <a href="/subscribe.html">here</a>.</p>
+
+<h2 id="mondays-talks">Monday’s Talks</h2>
+
+<p>A Reddit post will accompany each session, and we encourage you to participate as the presenters will be facilitating live Q&amp;A. The talks for Monday are:</p>
+
+<ul>
+  <li><em>Coronavirus: What Science Says Leaders Should Do</em> by Dr. David Rock, Dr. Jay Van Bavel, and Dr. Kamila Sip</li>
+  <li><em>Dispatch: Crisis Management Automation When Everything is on Fire</em> by Marc Vilanova and Kevin Glisson</li>
+  <li><em>How to Kill an AWS Access Key</em> by Benjamin Hering</li>
+</ul>
+
+<p>All of the talks will be streamed on our <a href="https://www.youtube.com/playlist?list=PLbZzXF2qC3RvWn6Nne_Jj8IkLXZP3tgE6">YouTube channel</a>, and all of the Reddit posts can be found on our subreddit, <a href="https://www.reddit.com/r/BSidesSF/">r/BSidesSF</a>. A complete schedule of events can be found on our <a href="https://bsidessf.org/schedule">site</a>.</p>
+
+<h2 id="ctf">CTF</h2>
+
+<p>The <a href="https://ctf.bsidessf.net">CTF</a> continues until the end of talks on Monday (2pm PST). This year’s winning CTF team will receive a $1,500 gift card. Second place will receive a $750 gift card and third place a $250 gift card.</p>
+
+<h2 id="swag-store">Swag Store</h2>
+
+<p>If you’d like to show your BSidesSF pride, please visit our virtual store at <a href="https://store.bsidessf.org/">https://store.bsidessf.org/</a>. The store features six new t-shirt designs, as well as masks, socks, and a swag box. All items are available for pre-order now. Proceeds will benefit this year’s recipient charities – EFF, Hackers for Charity, and the Malala Fund.</p>
+
+<p><a href="https://store.bsidessf.org/"><img src="/images/posts_2021/swagbox.jpg" alt="BSidesSF 2021 SwagBox" title="BSidesSF 2021 SwagBox" /></a></p>
+
+<h2 id="no-registration-required">No Registration Required</h2>
+
+<p>This year’s event is entirely free of charge, and no registration is required.</p>
+
+<p>See you tomorrow!</p>
+
+<p>The BSidesSF Staff</p>]]></content><author><name>BSidesSF</name></author><category term="post" /><summary type="html"><![CDATA[We’re at the halfway point!]]></summary></entry><entry><title type="html">BSidesSF 2021 Sunday Schedule</title><link href="https://bsidessf.org/news/2021/03/2021-sunday-schedule" rel="alternate" type="text/html" title="BSidesSF 2021 Sunday Schedule" /><published>2021-03-06T00:00:00-08:00</published><updated>2021-03-06T00:00:00-08:00</updated><id>https://bsidessf.org/news/2021/03/2021-sunday-schedule</id><content type="html" xml:base="https://bsidessf.org/news/2021/03/2021-sunday-schedule"><![CDATA[<h1 id="day-one-done-three-to-go">Day One Done; Three To Go!</h1>
+
+<p>Join us on Sunday for day two of BSidesSF 2021! The program starts again at 12:00pm PST.</p>
+
+<p>To subscribe to future email updates (<em>highly recommended!</em>), you can do so <a href="/subscribe.html">here</a>.</p>
+
+<h2 id="sundays-talks">Sunday’s Talks</h2>
+
+<p>A Reddit post will accompany each session, and we encourage you to participate as the presenters will be facilitating live Q&amp;A. The talks for Sunday are:</p>
+
+<ul>
+  <li><em>Give Away Security’s Legos: Dumping Traditional Security Teams</em> by Fredrick “Flee” Lee</li>
+  <li><em>How to Orchestrate a Cyber Security Incident Tabletop Exercise</em> by Melanie Masterson</li>
+  <li><em>How to 10X Your Security (Without the Series D)</em> by Clint Gibler</li>
+  <li><em>Anti-Privacy Anti-Patterns</em> by Sarah Harvey</li>
+  <li><em>Managing the Assets of your Security Career</em> by Kyle Tobener</li>
+</ul>
+
+<p>In addition to these talks, we will also have presentations from EFF and IoT Village.</p>
+
+<p>All of the presentations will be streamed on our <a href="https://www.youtube.com/playlist?list=PLbZzXF2qC3RvWn6Nne_Jj8IkLXZP3tgE6">YouTube channel</a>, and all of the Reddit posts can be found on our subreddit, <a href="https://www.reddit.com/r/BSidesSF/">r/BSidesSF</a>. A complete schedule of events can be found on our <a href="https://bsidessf.org/schedule">site</a>.</p>
+
+<h2 id="ctf">CTF</h2>
+
+<p>The <a href="https://ctf.bsidessf.net">CTF</a> continues throughout Sunday. This year’s winning team will receive a $1,500 gift card! Winners will be announced during Tuesday’s closing session.</p>
+
+<h2 id="no-registration-required">No Registration Required</h2>
+
+<p>This year’s event is entirely free of charge, and no registration is required.</p>
+
+<p>We look forward to seeing you tomorrow!</p>
+
+<p>Best,</p>
+
+<p>The BSidesSF Staff</p>]]></content><author><name>BSidesSF</name></author><category term="post" /><summary type="html"><![CDATA[Day One Done; Three To Go!]]></summary></entry><entry><title type="html">BSidesSF 2021 Kicks Off on Saturday!</title><link href="https://bsidessf.org/news/2021/03/bsidessf-2021-kicks-off-saturday" rel="alternate" type="text/html" title="BSidesSF 2021 Kicks Off on Saturday!" /><published>2021-03-03T00:00:00-08:00</published><updated>2021-03-03T00:00:00-08:00</updated><id>https://bsidessf.org/news/2021/03/bsidessf-2021-kicks-off-saturday</id><content type="html" xml:base="https://bsidessf.org/news/2021/03/bsidessf-2021-kicks-off-saturday"><![CDATA[<p>Join us on Saturday for our FIRST virtual BSidesSF! The program starts at 12:00pm PST with opening remarks from BSidesSF President and Lead Organizer, Reed Loden.</p>
+
+<p>To subscribe to future email updates (<em>highly recommended!</em>), you can do so <a href="/subscribe.html">here</a>.</p>
+
+<h2 id="saturdays-talks">Saturday’s Talks</h2>
+
+<p>Opening remarks will be followed by <em>Switched On: Behavioral Science, Hypervigilance, and the Human Impact of Cyber-Defense and Crisis Management</em>, sponsored by Netflix. This 50 minute live panel discussion will focus on the mental health impact of the pandemic in the workplace. We will hear from experts in mental health, security, and neuroleadership on how to cope in what is an unprecedentedly stressful time. The panel session will be followed by 30 minutes of live Q&amp;A via Reddit.</p>
+
+<p>A Reddit post will accompany each session, and we encourage you to participate as the presenters will be facilitating Q&amp;A. The talks for Saturday are as follows:</p>
+
+<ul>
+  <li><em>Visualizing Security</em> by Jay Jacobs</li>
+  <li><em>Non-Political Security Learnings from the Mueller Report</em> by Arkadiy Tetelman</li>
+  <li><em>Hacking the Law: Are Bug Bounties a True Safe Harbor?</em> by Amit Elazari</li>
+  <li><em>Friend for Replicant? How Attackers Automate and Disguise Themselves in a Shroud of Authenticity to Gain Followers, Control Influence, and Malign Credit</em> by Anna Westelius</li>
+</ul>
+
+<p>In addition to talks, we will also have village presentations from Lockpick Extreme and OWASP.</p>
+
+<p>All of the talks will be streamed on our <a href="https://www.youtube.com/playlist?list=PLbZzXF2qC3RvWn6Nne_Jj8IkLXZP3tgE6">YouTube channel</a>, and all of the Reddit posts can be found on our subreddit, <a href="https://www.reddit.com/r/BSidesSF/">r/BSidesSF</a>. A complete schedule of events can be found on our <a href="/schedule">website</a>.</p>
+
+<h2 id="ctf">CTF</h2>
+
+<p>Also kicking off at 12:00pm PST on Saturday is our <a href="https://ctf.bsidessf.net">CTF</a>. The CTF will run through Monday for 50 hours total, and winners will be announced during Tuesday’s closing session. This year’s winning CTF team will receive a $1,500 gift card. Second place will receive a $750 gift card and third place a $250 gift card. Thank you to Google for sponsoring this year’s CTF!</p>
+
+<h2 id="swag-store">Swag Store</h2>
+
+<p>If you would like to show your support for BSidesSF we encourage you to visit our virtual store at <a href="https://store.bsidessf.org/">https://store.bsidessf.org/</a>. The store features six new t-shirt designs, as well as masks, socks, and a swag box, all available for pre-order now. Proceeds will benefit this year’s recipient charities – EFF, Hackers for Charity, and the Malala Fund.</p>
+
+<p><a href="https://store.bsidessf.org/"><img src="/images/posts_2021/swagbox.jpg" alt="BSidesSF 2021 SwagBox" title="BSidesSF 2021 SwagBox" /></a></p>
+
+<h2 id="no-registration-required">No Registration Required</h2>
+
+<p>This year’s event is entirely free of charge to all participants thanks to our four Marquee sponsors – Adobe, Corelight, Gusto, and Snyk. No registration is required. Please join us Saturday at 12:00pm PST on both our <a href="https://www.youtube.com/playlist?list=PLbZzXF2qC3RvWn6Nne_Jj8IkLXZP3tgE6">YouTube channel</a> and our subreddit, <a href="https://www.reddit.com/r/BSidesSF/">r/BSidesSF</a>.</p>
+
+<p>We look forward to seeing you there!</p>
+
+<p>Best,</p>
+
+<p>The BSidesSF Staff</p>]]></content><author><name>BSidesSF</name></author><category term="post" /><summary type="html"><![CDATA[Join us on Saturday for our FIRST virtual BSidesSF! The program starts at 12:00pm PST with opening remarks from BSidesSF President and Lead Organizer, Reed Loden.]]></summary></entry><entry><title type="html">BSidesSF 2021 happening March 6-9th</title><link href="https://bsidessf.org/news/2021/02/bsidessf-happening-march-6-9" rel="alternate" type="text/html" title="BSidesSF 2021 happening March 6-9th" /><published>2021-02-19T00:00:00-08:00</published><updated>2021-02-19T00:00:00-08:00</updated><id>https://bsidessf.org/news/2021/02/bsidessf-happening-march-6-9</id><content type="html" xml:base="https://bsidessf.org/news/2021/02/bsidessf-happening-march-6-9"><![CDATA[<p><strong>Hello!</strong></p>
+
+<p>It’s almost time for BSidesSF 2021, our first virtual event, from March 6th to 9th! The theme of this year’s event is <strong>Recharge</strong>, and in the spirit of returning and restoring, we’ve decided to revisit some of the highlights from past events.</p>
+
+<p>To subscribe to future email updates (<em>highly recommended!</em>), you can do so <a href="/subscribe.html">here</a>.</p>
+
+<p><strong>Talks</strong></p>
+
+<p>Over the course of four days (Saturday through Tuesday), we will be virtually replaying the following talks and pairing the replays with presenter Q&amp;A via Reddit. This is a great opportunity to hear from presenters on new developments since they originally gave their talk.</p>
+
+<ul>
+  <li><em>Checking your –privileged container</em> by Maya Kaczorowski and Sam Stewart</li>
+  <li><em>Dispatch: Crisis Management Automation When Everything is On Fire</em> by Marc Vilanova and Kevin Glisson</li>
+  <li><em>Give Away Security’s Legos: Dumping Traditional Security Teams</em> by Fredrick “Flee” Lee</li>
+  <li><em>How to Kill an AWS Access Key</em> by Benjamin Hering</li>
+  <li><em>How to Orchestrate a Cyber Security Incident Tabletop Exercise</em> by Melanie Masterson</li>
+  <li><em>How to 10X Your Security (Without the Series D)</em> by Clint Gibler</li>
+  <li><em>Managing the Assets of your Security Career</em> by Kyle Tobener</li>
+  <li><em>Non-Political Security Learnings from the Mueller Report</em> by Arkadiy Tetelman</li>
+  <li><em>Offensive Javascript Techniques for Red Teamers (Or Anyone Really)</em> by Dylan Ayrey and Christian Frichot</li>
+  <li><em>So You’re the First Security Hire</em> by Bryan Zimmer</li>
+  <li><em>Transform your presentation skills</em> by Anne Ricketts and Hilary Spreiter</li>
+  <li><em>Visualizing Security</em> by Jay Jacobs</li>
+</ul>
+
+<p><strong>Keynotes</strong></p>
+
+<p>In the spirit of recharging ourselves, this year’s event will also feature two sessions focused on mental health. We will kick off the event with a panel on managing the mental health impact of the pandemic in the workplace. We will hear from experts in mental health, security, and neuroleadership on how to cope in this unprecedentedly stressful time. The NeuroLeadership Institute will also present a session on leadership in the time of a global pandemic. Thanks are due to Netflix for their support and for making these sessions possible!</p>
+
+<p><strong>Villages · CTF</strong></p>
+
+<p>In addition to the keynotes and talks, we are also hosting village presentations and a virtual CTF. The <a href="/ctf.html">CTF</a> will run Saturday through Monday for 50 hours total, with the winners being announced during Tuesday’s sessions. This year’s winning CTF team will receive a $1,500 gift card. Second place will receive a $750 gift card and third place a $250 gift card. Thank you to Google for their sponsorship of the CTF!</p>
+
+<p><strong>Schedule · How to Attend</strong></p>
+
+<p>We are still finalizing the event schedule, but in the meantime please <strong>mark your calendars for 12:00-4:00pm PST on March 6th and 7th and 12:00-2:00pm PST on March 8th and 9th</strong>. This year’s event is completely <strong>free of charge</strong>, as we want this to be an opportunity for everyone to recharge with education, community, and collaboration. The talks will be streamed live to our <a href="https://www.youtube.com/playlist?list=PLbZzXF2qC3RvWn6Nne_Jj8IkLXZP3tgE6">YouTube channel</a>, and you can engage in Q&amp;A on our subreddit <a href="https://www.reddit.com/r/BSidesSF/">/r/BSidesSF</a>. Thank you to our Marquee sponsors – Adobe, Corelight, Gusto, and Snyk – for making this event possible! And a special thank you to Apple for their support.</p>
+
+<p><strong>Swag Store</strong></p>
+
+<p>If you’d like to show your BSidesSF pride, please visit our virtual store at <a href="https://store.bsidessf.org/">https://store.bsidessf.org/</a>. The store features six new t-shirt designs, as well as masks, socks, and a swag box. All items are available for pre-order now. Proceeds will benefit this year’s recipient charities – EFF, Hackers for Charity, and the Malala Fund.</p>
+
+<p><a href="https://store.bsidessf.org/"><img src="/images/posts_2021/swagbox.jpg" alt="BSidesSF 2021 SwagBox" title="BSidesSF 2021 SwagBox" /></a></p>
+
+<p><strong>Thank you!</strong></p>
+
+<p>Despite the change in event format, we thank you for your continued support in BSidesSF. This will be our first virtual event, and hopefully our last. We hope to be back with a live event in 2022. We look forward to seeing you virtually this year and in-person again next year.</p>
+
+<p>Many thanks,</p>
+
+<p>The BSidesSF Staff</p>]]></content><author><name>BSidesSF</name></author><category term="post" /><summary type="html"><![CDATA[Hello!]]></summary></entry><entry><title type="html">Update on BSidesSF 2021</title><link href="https://bsidessf.org/news/2020/10/update-2021" rel="alternate" type="text/html" title="Update on BSidesSF 2021" /><published>2020-10-10T00:00:00-07:00</published><updated>2020-10-10T00:00:00-07:00</updated><id>https://bsidessf.org/news/2020/10/update-2021</id><content type="html" xml:base="https://bsidessf.org/news/2020/10/update-2021"><![CDATA[<p>After much deliberation, we, the organizers of BSidesSF, have decided not to hold an in-person event
+in 2021. The community aspect of BSides is one of its defining characteristics, and despite our best
+efforts, we could not determine how to meaningfully replicate community in a virtual event.</p>
+
+<p>In its place, we’ll be replaying a selection of the best talks from our past events and pairing these
+talks with live Q&amp;A and a virtual CTF. While we realize this isn’t a replacement for our annual event,
+we hope you’ll continue to support BSidesSF in 2021 and beyond. Please know this is in no way the end
+of BSidesSF. We plan to be back with a live event in 2022.</p>
+
+<p>For prospective sponsors, we will have a small number of sponsorship opportunities available. Reach
+out to sponsors [at] bsidessf.org to get notified once our sponsorship kit has been released.</p>
+
+<p>Best,</p>
+
+<p>The BSidesSF Staff</p>]]></content><author><name>BSidesSF</name></author><category term="post" /><summary type="html"><![CDATA[After much deliberation, we, the organizers of BSidesSF, have decided not to hold an in-person event in 2021. The community aspect of BSides is one of its defining characteristics, and despite our best efforts, we could not determine how to meaningfully replicate community in a virtual event.]]></summary></entry><entry><title type="html">Welcome to BSidesSF 2020</title><link href="https://bsidessf.org/news/2020/02/welcome-to-bsidessf" rel="alternate" type="text/html" title="Welcome to BSidesSF 2020" /><published>2020-02-21T00:00:00-08:00</published><updated>2020-02-21T00:00:00-08:00</updated><id>https://bsidessf.org/news/2020/02/welcome-to-bsidessf</id><content type="html" xml:base="https://bsidessf.org/news/2020/02/welcome-to-bsidessf"><![CDATA[<p>The final countdown is on to BSidesSF 2020 – this Sunday &amp; Monday!
+We want to ensure everybody’s participation is amazing, so please read below for important information concerning this year’s event.</p>
+
+<h3 id="getting-to-the-event">Getting to the Event</h3>
+
+<p>We are back once again at the Metreon located at 135 4th Street in downtown San Francisco. The location of the Metreon lends itself to a few different transportation options. For those looking to take BART or Muni, the Metreon is located about a block from the Powell Street station. For those interested in taking Caltrain, the Metreon is one mile from the King Street station. For those driving, the Fifth and Mission Parking Garage is located directly across 4th Street and offers 24-hour parking.</p>
+
+<p>Once you are inside of the Metreon, take the stairs, escalators, or elevator up to the Mezzanine level for registration. The event will be distributed throughout the AMC Metreon 16 located on the third floor and the City View event space located on the fourth floor. However, you must first register on the Mezzanine to have access to these areas. To expedite registration, please have your QR code ready.</p>
+
+<p>If you pre-purchased a t-shirt, these can be picked up on the fourth floor (City View) at Coat Check beginning at 11:00am on Sunday.</p>
+
+<h3 id="before-you-attend">Before You Attend</h3>
+
+<p>Before you attend the event, we ask that you review our <a href="https://bsidessf.org/about/code-of-conduct.html">Code of Conduct</a>
+as well as our <a href="https://bsidessf.org/about/photo-policy.html">Photo and Video Policies</a>. We require that all guests
+abide by our policies and show respect and tolerance for each other’s uniqueness. We have no tolerance for physical,
+verbal, or sexual harassment; intimidation; or marginalization of any human! Additionally, due to venue restrictions,
+please note we only allow service animals at the event and will not be able to store bikes or scooters within the venue.</p>
+
+<h3 id="two-full-days-of-talks-events-and-happenings">Two Full Days of Talks, Events, and Happenings</h3>
+
+<p>Doors will open at 9am and talks begin at 10am. The full schedule of events can be found on
+<a href="https://bsidessf2020.sched.com/">Sched</a> and HackerTracker (on Android and iOS). All talks, villages,
+and the CTF are open to any and all participants; if there is an open seat, it’s yours. For questions
+during talks, we will be using <a href="slido.com">Slido</a> with code #BSidesSF2020.</p>
+
+<p>We encourage all participants to take a stroll through the Participant Hall and visit all our sponsors, without
+whom this event would not be possible. Many of our sponsors are actively recruiting, so we encourage you to stop
+by their booths to learn more if you are interested in new opportunities. We’ll be raffling off some really awesome
+items, so make sure to get your Sponsor Passport stamped and turned in prior to the daily raffle.</p>
+
+<h3 id="novel-coronavirus-covid-19">Novel Coronavirus (COVID-19)</h3>
+
+<p>We have been closely monitoring the COVID-19 situation in partnership with the San Francisco Department of Public Health.
+We take the risk to our community very seriously and want to make sure we are protecting our participants (you!) as best
+we can. SFDPH’s current guidance is to continue business as usual and they do not recommend that any events be canceled.
+However, we are taking several precautions:</p>
+
+<ul>
+  <li>All registration bags include hand sanitizer courtesy of one of our sponsors – please use it!</li>
+  <li>All bathrooms and most major areas contain hand sanitizer available for use.</li>
+  <li>We ask that you practice “Respiratory Hygiene” / “Cough Etiquette” – cover your mouth and nose with a flexed elbow or tissue (not your hands) when you cough or sneeze; avoid touching your hands, nose, and mouth to avoid transferring germs from surfaces; discard any used tissue immediately into a trash can; and wash your hands with an alcohol-based sanitizer and/or soap and water right away.</li>
+  <li>All major surfaces will be regularly sanitized throughout the event, including presenter microphones between uses.</li>
+  <li>If you feel sick, are experiencing any cold/flu-like symptoms or have traveled to a COVID-19 affected region within the past two weeks, for your own safety and the safety of everyone else please stay home, rest up, and get well. We’ll post the talk recordings online in a few weeks. Reply to this email, and we will be happy to provide you a refund.</li>
+</ul>
+
+<h3 id="event-wifi">Event WiFi</h3>
+
+<p>We support both 802.1x EAP and WPA2 PSK.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>EAP SSID: BSidesSF
+User: bsides
+Password: bsides
+</code></pre></div></div>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>WPA2 SSID: BSidesSF-Static
+WPA2 Key: bsidessf
+</code></pre></div></div>
+
+<p>Visit https://wifi.bsidessf.org to download the EAP CA, iOS profile, and for more information.</p>
+
+<p>We are looking forward to seeing you this Sunday! If you have any questions, please contact info@bsidessf.org.</p>
+
+<p>Until then,</p>
+
+<p>The BSidesSF Staff</p>]]></content><author><name>BSidesSF</name></author><category term="post" /><summary type="html"><![CDATA[The final countdown is on to BSidesSF 2020 – this Sunday &amp; Monday! We want to ensure everybody’s participation is amazing, so please read below for important information concerning this year’s event.]]></summary></entry><entry><title type="html">Running the BSides SF 2019 CTF</title><link href="https://bsidessf.org/news/2019/03/running-the-bsides-sf-2019-ctf" rel="alternate" type="text/html" title="Running the BSides SF 2019 CTF" /><published>2019-03-10T00:00:00-08:00</published><updated>2019-03-10T00:00:00-08:00</updated><id>https://bsidessf.org/news/2019/03/running-the-bsides-sf-2019-ctf</id><content type="html" xml:base="https://bsidessf.org/news/2019/03/running-the-bsides-sf-2019-ctf"><![CDATA[<p>By <a href="https://twitter.com/matir">@Matir</a>, 2019 CTF Team Lead.</p>
+
+<h2 id="the-event">The Event</h2>
+
+<p>This year, I had the privilege to lead the team for the BSides San Francisco
+CTF.  We had 1112 active players on 676 teams over the 32 hour CTF.
+Collectively, 2740 flags were submitted to 41 of our 43 challenges.  So far, the
+<a href="https://ctftime.org/event/753/weight/">CTFTime ratings</a> have been excellent,
+and I hope we’ll be able to do that again.</p>
+
+<p>Before I go any further, I want to give kudos to my entire team:</p>
+
+<ul>
+  <li><a href="https://twitter.com/iagox86">iagox86</a></li>
+  <li><a href="https://twitter.com/itsC0rg1">c0rg1</a></li>
+  <li><a href="https://twitter.com/bmenrigh">symmetric</a></li>
+  <li><a href="https://twitter.com/cornflakesavage">bryane</a></li>
+  <li><a href="https://twitter.com/exploitexercise">exploitexercise</a></li>
+</ul>
+
+<p>This would not have been possible without all their efforts.  I also want to
+give a special shoutout to Puneet, who handled all the physical logistics for us
+so we could focus on building the CTF.  I also want to thank the BSidesSF staff
+and volunteers for giving us the space and opportunity to do this.  Also thanks
+to the bar staff for keeping us “hydrated!”</p>
+
+<h2 id="the-infrastructure">The Infrastructure</h2>
+
+<p>(Full disclosure: I’m a member of the Google Information Security Team.)</p>
+
+<p>We were running <a href="https://github.com/google/ctfscoreboard">the scoreboard</a> I
+originally wrote for the Google CTF (though it’s no longer used for that
+purpose), hosted on <a href="https://cloud.google.com/appengine/">Google AppEngine</a>.  I
+love hosting apps on a runtime like that – the scaling and replication is just
+magic, so we didn’t have the typical latency spike a lot of CTFs do at the very
+beginning.  95th percentile latency remained under 500ms, which is a result I’m
+very happy with.</p>
+
+<p><img src="/images/ctf_2019/sb_traffic.png" alt="Traffic" /></p>
+
+<p>All of the online challenges were run on Kubernetes on <a href="https://cloud.google.com/">Google Cloud
+Platform</a> (for the 3rd year straight).
+We continue to love this option, because we run Docker locally for building &amp;
+testing challenges, then transform these images straight to Kubernetes.
+Additionally, Kubernetes provides capabilities like load balancing that allow us
+to scale challenges up when some people feel the need to try to brute force.</p>
+
+<p>This year, for the first time, we attempted to use Network Policies to prevent
+access to the GCP metadata API, which worked, until I inadvertently deleted the
+policies while debugging an issue with another challenge.  Fortunately, I don’t
+believe this was exploited during the CTF, but I did notice some exploitation
+attempts after the game.</p>
+
+<p>Another first for this year was the use of an <code class="language-plaintext highlighter-rouge">Ingress</code> for all of our HTTP
+services.  We used a wildcard certificate from Let’s Encrypt and then performed
+distribution to backends based on the hostname provided by the client.  This
+allowed us to use a single external IP, easily provide HTTPS for the challenges,
+and also provided load balancing for the challenges.</p>
+
+<p>All of this infrastructure comes with some difficulties compared to just
+spinning up a bunch of VMs.  First off, there’s layers of complexity, like the
+load balancers and the pods that contain containers.  There’s multiple backends,
+so if only one is acting up, it’s harder to debug.  Additionally, for anything
+with load balancing, it either needs to be stateless, or you need a way to sync
+the state.  (IP load balancing might work, except we had a large portion of our
+players coming from the one IP on site.)</p>
+
+<p><a href="https://cloud.google.com/">Google Cloud</a> was nice enough to give us credits to
+run all of our infrastructure, so big thanks to them for making this possible
+for over 1100 players.  Questions about how we ran this?  Reach out to me on
+<a href="https://twitter.com/matir">Twitter</a> or see my follow-up
+<a href="https://systemoverlord.com">blog posts</a>.</p>
+
+<h2 id="challenges">Challenges</h2>
+
+<p>Rather than trying to describe the challenges, I’d rather just point to our
+public <a href="https://github.com/bsidessf/ctf-2019-release">release of our source
+code</a>.  Check out the challenges
+and keep in mind that (as of writing) we’re still running the services and the
+<a href="https://ctf.bsidessf.net">scoreboard</a>.  Give them a shot and now you can see
+how the source and actual service interact.</p>
+
+<h2 id="winners">Winners</h2>
+
+<p>Congratulations to our 3 winners:</p>
+
+<ol>
+  <li>dcua (2nd year running)</li>
+  <li>perfect blue</li>
+  <li>OpenToAll</li>
+</ol>
+
+<p>I also want to congratulate every team that played.  If you learned something or
+had a good time (preferrably both), then we did our jobs correctly.</p>
+
+<h2 id="writeups">Writeups</h2>
+
+<p>There have been a number of challenge writeups appearing, including author
+writeups:</p>
+
+<ul>
+  <li><a href="https://systemoverlord.com/">My Author Writeups</a></li>
+  <li><a href="https://ctftime.org/event/753/tasks/">CTFTime Writeups</a></li>
+  <li><a href="https://aadityapurani.com/2019/03/07/bsidessf-ctf-2019-mobile-track/">dcua Writeups</a></li>
+  <li><a href="https://x0r19x91.github.io/2019/bsides-opendoor">xor19x91 Writeup</a></li>
+</ul>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>It’s been a fun year, and most of the staff will be back for next year.  If
+you’re interested in joining us to write some challenges, please reach out to
+<code class="language-plaintext highlighter-rouge">ctf@</code> this domain.  We’d love to have new talent, feedback, or suggestions.</p>]]></content><author><name>BSidesSF</name></author><category term="CTF" /><category term="CTF" /><category term="BSidesSF" /><summary type="html"><![CDATA[By @Matir, 2019 CTF Team Lead.]]></summary></entry><entry><title type="html">Hackers with Hackers</title><link href="https://bsidessf.org/news/2019/03/hackers" rel="alternate" type="text/html" title="Hackers with Hackers" /><published>2019-03-03T23:00:00-08:00</published><updated>2019-03-03T23:00:00-08:00</updated><id>https://bsidessf.org/news/2019/03/hackers</id><content type="html" xml:base="https://bsidessf.org/news/2019/03/hackers"><![CDATA[<p>Come join us and <a href="https://twitter.com/iamthecavalry">@iamthecavalry</a> for a showing of Hackers tonight at 7pm in theater 7. <a href="https://bsidessf.org/hackers">Grab a ticket</a> and head to the entrance to the left of AMC concessions at 6:40pm to pick it up.</p>]]></content><author><name>BSidesSF</name></author><summary type="html"><![CDATA[Come join us and @iamthecavalry for a showing of Hackers tonight at 7pm in theater 7. Grab a ticket and head to the entrance to the left of AMC concessions at 6:40pm to pick it up.]]></summary></entry><entry><title type="html">Welcome to BSidesSF 2019!</title><link href="https://bsidessf.org/news/2019/03/welcome-to-bsidessf" rel="alternate" type="text/html" title="Welcome to BSidesSF 2019!" /><published>2019-03-01T19:00:00-08:00</published><updated>2019-03-01T19:00:00-08:00</updated><id>https://bsidessf.org/news/2019/03/welcome-to-bsidessf</id><content type="html" xml:base="https://bsidessf.org/news/2019/03/welcome-to-bsidessf"><![CDATA[<p>The final countdown is on to BSidesSF 2019!</p>
+
+<p><strong>Getting to the Event</strong></p>
+
+<p>We are back once again at the Metreon located at 135 4th Street in downtown San Francisco. The location of the Metreon lends itself to a few different transportation options. For those looking to take BART, the Metreon is located only a couple of blocks from the Powell Street station. For those interested in taking Caltrain, the Metreon is one mile from the King Street station. For those driving, the Fifth and Mission Parking Garage is located directly across Fourth Street and offers 24-hour parking.</p>
+
+<p>The Metreon will be closed to the general public until 10:30am both Sunday and Monday, so you will need to enter through the Yerba Buena Gardens entrance located most closely to Mission Street. Once you are inside of the Metreon, take the stairs, escalators, or elevator up to the Mezzanine level for registration. The event will be distributed throughout the AMC Metreon 16 located on the third floor and the City View event space located on the fourth floor, but you must first register on the Mezzanine to have access to these areas. To expedite registration, please have your QR code ready.</p>
+
+<p>If you pre-purchased a t-shirt, these can be picked up on the fourth floor beginning at 12:15pm on Sunday.</p>
+
+<p><strong>Before You Attend</strong></p>
+
+<p>Before you attend the event, we ask that you review our <a href="https://bsidessf.org/about/code-of-conduct.html">Code of Conduct</a>  as well as our <a href="https://bsidessf.org/about/photo-policy.html">Photo and Video Policies</a>. We require that all guests show respect and tolerance for each other’s uniqueness. We have no tolerance for physical, verbal, or sexual harassment; intimidation; or marginalization of any human!</p>
+
+<p><strong>Two Full Days of Talks, Events, and Happenings</strong></p>
+
+<p>The full schedule of events can be found on <a href="https://bsidessf2019.sched.com/">Sched</a>. All talks, villages, and the CTF are open to any and all conference participants; if there is an open seat, it’s yours. The Living Security Escape Room runs multiple times each day, and registration is necessary as only eight individuals can participate at one time. Registration is available on-site, but times may fill-up quickly so <a href="https://www.eventbrite.com/e/bsidessf-security-escape-room-presented-by-living-security-tickets-56370646120">pre-registration</a>  is recommended.</p>
+
+<p>We encourage all participants to take a stroll through the Sponsor Lounge, which will include representatives from some of the organizations that made this year’s event possible. Many of our sponsors are actively recruiting, so we encourage you to stop by their booths to learn more if you are interested in new opportunities. We’d like to bring special attention to these sponsors who have called out recruiting as a key reason for their sponsorship: <a href="https://www.hackerone.com/careers/">HackerOne</a>, <a href="https://ca.indeed.com/cmp/Cmd-923823e9/about">Cmd</a>, <a href="https://careers.google.com/jobs/">Google</a>, <a href="https://www.oath.com/careers/work-at-oath/">Verizon Media</a> , <a href="https://jobs.netflix.com/">Netflix</a>, and <a href="https://stripe.com/jobs">Stripe</a>.</p>
+
+<p><strong>Event WiFi</strong></p>
+
+<p>We support both 802.1x EAP and WPA2 PSK.</p>
+
+<p>EAP SSID: BSidesSF
+User: bsides 
+Password: bsides</p>
+
+<p>WPA2 SSID: BSidesSF-Static
+WPA2 Key: bsidessf</p>
+
+<p>Visit <a href="https://wifi.bsidessf.org">https://wifi.bsidessf.org</a>  to download the EAP CA, iOS profile, and for more information.</p>
+
+<p><strong>After the Event</strong></p>
+
+<p>Following closing ceremonies on Monday, BSidesSF and I Am The Cavalry are teaming up for a showing of Hackers. Watch Hackers with hackers! The movie begins at 7:00pm sharp and will be shown in the AMC Metreon 16. Tickets can be purchased <a href="https://bsidessf.ticketspice.com/hackers-bsidessf-2019">here</a> for $20. (Please note, a ticket to the movie is not included with your BSidesSF conference pass.)</p>
+
+<p>We are looking forward to seeing you on Sunday! If you have any questions, please contact info@bsidessf.org.</p>
+
+<p>Until then,
+The BSidesSF Staff</p>
+
+<p><img src="https://bsidessf.org/images/venue_2019/map.jpg" alt="Bsides 2019 Map" title="Bsides 2019 Map" /></p>]]></content><author><name>BSidesSF</name></author><summary type="html"><![CDATA[The final countdown is on to BSidesSF 2019!]]></summary></entry></feed>

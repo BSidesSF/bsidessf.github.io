@@ -52,6 +52,8 @@
       external: "https://bsidessf2021.sched.com/"
     - title: "Closing Remarks Slides"
       external: "https://docs.google.com/presentation/d/1ks4uKoXBxN5SyRM6OqeVPZDbjPPCTy_XzjyslN1mEpM/edit?usp=sharing"
+    - title: "Website"
+      href: "/a/2021.html"
 
 - "year": "2020"
   categories:

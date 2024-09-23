@@ -21,7 +21,7 @@ Then we add it to the historical pages, and all should be good.
 | 2018 | Apr 15 & 16 | 26a2668a12d03135aff9fde3c126e39bdc246d93 |
 | 2019 | Mar 3 & 4   | f4c0ad8b29ef50658ffcf9327043848aef0a73f2 |
 | 2020 | Feb 23 & 24 | 97fc8093021afb200a579b77fd4ac95a89efb2f4 |
-| 2021 | Mar 6 & 9   | ef3d7aba58b55b56de0ecaf161efac27f508ffb6 | 
+| 2021 | Mar 6 & 9   | b10ee2dd56362a20a3f8343699474d908803db9c | 
 | 2022 | Jun 4 & 5   | 154ecfeb0c50cdc7e80b47f36bb2742d4f901fbd |
 | 2023 | Apr 23 & 23 | 74123ef96c234ca2cce67c1640a924ad7d6975e7 |
 | 2024 | May 4 & 5   | d36e0e7ab55c8009246121eeb47c4ead4c633b15 |

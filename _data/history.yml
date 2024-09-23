@@ -65,6 +65,8 @@
       external: "https://drive.google.com/file/d/10fQ9EclEu9OguphU4ouDcEnyxRonSApp/view?usp=sharing"
     - title: "Security BSides Wiki"
       external: "https://bsides.org/w/page/132831939/BSidesSF2020"
+    - title: "Website"
+      href: "/a/2020.html"
 
 - "year": "2019"
   categories:

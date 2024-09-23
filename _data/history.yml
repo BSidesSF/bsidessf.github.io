@@ -80,6 +80,8 @@
       external: "https://bsides.org/w/page/132743652/BSidesSF2019"
     - title: "Closing Remarks Slides"
       external: "https://docs.google.com/presentation/d/1s0Q7ogG0a_vmBexzsiplQMfGQJBLku3wPQrenOf_4-g/edit?usp=sharing"
+    - title: "Website"
+      href: "/a/2019.html"
 
 - "year": "2018"
   categories:

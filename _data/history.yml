@@ -28,6 +28,8 @@
       external: "https://drive.google.com/file/d/1W2YTJsKle0D-Y6jUkY3mpjPqWu2633zg/view?usp=drive_link"
     - title: "Closing Remarks Slides"
       external: "https://docs.google.com/presentation/d/13yhjMMH0qlAtu1g7ZaV_XHLxTBQMZ-47WpNhY50RRtI/edit?usp=sharing"
+    - title: "Website"
+      href: "/a/2023.html"
 
 - "year": "2022"
   categories:

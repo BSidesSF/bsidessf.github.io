@@ -16,37 +16,37 @@ title: "Past Events"
     </li>
     <li> 
       {% if hist.program_docid and hist.program_docid != "" %}
-        <a href="https://drive.google.com/open?id={{ hist.program_docid }}" target=_blank>Program</a> 
+        <a href="https://drive.google.com/open?id={{ hist.program_docid }}" target=_blank>Program (external)</a> 
       {% else %}&nbsp;
       {% endif %}
     </li>
     <li> 
       {% if hist.sched_id and hist.sched_id != "" %}
-        <a href="https://{{ hist.sched_id }}.sched.com" target="_blank">Schedule</a> 
+        <a href="https://{{ hist.sched_id }}.sched.com" target="_blank">Schedule (external)</a> 
       {% else %}&nbsp;
       {% endif %}
     </li>
     <li> 
       {% if hist.youtube_playlist_id and hist.youtube_playlist_id != "" %}
-        <a href="https://www.youtube.com/playlist?list={{ hist.youtube_playlist_id }}" target=_blank>Youtube Playlist</a> 
+        <a href="https://www.youtube.com/playlist?list={{ hist.youtube_playlist_id }}" target=_blank>Youtube Playlist (external)</a> 
       {% else %}&nbsp;
       {% endif %}
     </li>
     <li> 
       {% if hist.sponsorship_kit_docid and hist.sponsorship_kit_docid != "" %}
-        <a href="https://drive.google.com/open?id={{ hist.sponsorship_kit_id }}" target=_blank>Sponsorship Kit</a> 
+        <a href="https://drive.google.com/open?id={{ hist.sponsorship_kit_id }}" target=_blank>Sponsorship Kit (external)</a> 
       {% else %}&nbsp;
       {% endif %}
     </li>
     <li> 
       {% if hist.closing_ceremony_docid and hist.closing_ceremony_docid != "" %}
-        <a href="https://drive.google.com/open?id={{ hist.closing_ceremony_docid }}" target=_blank>Closing Ceremony Slides</a> 
+        <a href="https://drive.google.com/open?id={{ hist.closing_ceremony_docid }}" target=_blank>Closing Ceremony Slides (external)</a> 
       {% else %}&nbsp;
       {% endif %}
     </li>
     <li> 
       {% if hist.bsides_wiki and hist.bsides_wiki != "" %}
-        <a href="{{ hist.bsides_wiki }}" target=_blank>Security BSides Wiki</a> 
+        <a href="{{ hist.bsides_wiki }}" target=_blank>Security BSides Wiki (external)</a> 
       {% else %}&nbsp;
       {% endif %}
     </li>

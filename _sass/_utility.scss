@@ -36,9 +36,11 @@
 .sponsors-large {
   display: block;
 }
+
 .sponsors-small {
   display: none;
 }
+
 @media screen and (max-width: 865px) {
   .sponsors-large {
     display: none;
@@ -46,4 +48,37 @@
   .sponsors-small {
     display: block;
   }
+}
+
+.column-2 {
+  columns: 2
+}
+
+ul .column-3 { 
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 1em;
+  max-width: 80vw;
+}
+
+h2 .pe-year {
+  font-size: +2em;
+  font-style: bold;
+  text-align: center;
+}
+
+.pe-year {
+  font-weight: bold;
+}
+
+.no-marker {
+  list-style-type: none;
+}
+
+.rnd-border {
+  border-style: solid;
+  border-radius: 10px;
+  border-width: 1px;
+  border-color: black;
 }

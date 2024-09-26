@@ -62,6 +62,11 @@ ul .column-3 {
   max-width: 80vw;
 }
 
+li.past-event {
+  border-bottom: 2px solid $complimentary-color;
+  border-top: 1px solid black;
+}
+
 h2 .pe-year {
   font-size: +2em;
   font-style: bold;
@@ -70,6 +75,8 @@ h2 .pe-year {
 
 .pe-year {
   font-weight: bold;
+  text-align: center;
+  background-color: $complimentary-color;
 }
 
 .no-marker {
@@ -77,8 +84,6 @@ h2 .pe-year {
 }
 
 .rnd-border {
-  border-style: solid;
+  border: 1p solid black;
   border-radius: 10px;
-  border-width: 1px;
-  border-color: black;
 }

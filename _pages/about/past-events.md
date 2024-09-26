@@ -5,7 +5,7 @@ title: "Past Events"
 
 <ul class="no-marker">
 {% for hist in site.data.history %}
-  <li>
+  <li class="past-event">
   <h2 class="pe-year">{{ hist.year }}</h2>
   <ul class="column-3 no-marker" >
     <li> 

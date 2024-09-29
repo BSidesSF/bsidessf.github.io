@@ -97,27 +97,35 @@ header[role="banner"] {
   }
 }
 
-.sponsors .row {
-  display: flex;
-  float: center;
-  padding: 10px;
-}
+.sponsors {
 
-.sponsors .column {
-  float: left;
-  padding: 5px;
-  align-content: space-around;
-}
-
-.sponsors a {
-  color: #000000;
-
-  &:visited {
-    color: #000000;
+  .row {
+    display: flex;
+    float: center;
+    padding: 10px;
   }
 
-  &:hover {
+  .column {
+    float: left;
+    padding: 5px;
+    align-content: space-around;
+  }
+
+  h1 {
+    font-weight: bold;
+    background-color: $complimentary-color;
+  }
+
+  a {
     color: #000000;
+
+    &:visited {
+      color: #000000;
+    }
+
+    &:hover {
+      color: #000000;
+    }
   }
 }
 

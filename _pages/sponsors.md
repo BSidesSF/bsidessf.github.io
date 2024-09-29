@@ -9,7 +9,6 @@ title: "Sponsors"
 
 {% for class in site.data.sponsors.levels %}
 
-  <hr style="margin-bottom: 5px">
   <div style="text-align: center;" class="sponsors {{ class.class }}">
     {% if class.level %}
       <h1>{{ class.level }}</h1>
@@ -22,7 +21,7 @@ title: "Sponsors"
         {% endif %}
         <div class="column">
           {% if sponsor.type %}
-            <h1>{{ sponsor.type }}</h1>
+            <h1 class="sponsors">{{ sponsor.type }}</h1>
           {% endif %}
           {% if sponsor.name == "Could Be You!" %}
             <a href="{{ site.data.sponsors.sponsorship_kit_url }}" target="_blank">
@@ -42,8 +41,6 @@ title: "Sponsors"
     </div>
   </div>
 {% endfor %}
-
-<hr style="margin-bottom: 5px">
 
 <center>
   <p>

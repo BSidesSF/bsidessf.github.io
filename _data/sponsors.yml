@@ -85,6 +85,12 @@ levels:
   - level: Bronze
     class: contrib
     sponsors:
+      - name: "Akto"
+        logo: "/images/sponsors_2025/Akto.png"
+        href: "https://akto.io/"
+      - name: "Bright"
+        logo: "/images/sponsors_2025/BrightSecurity.png"
+        href: "https://brightsec.com/"
       - name: "Doyensec"
         logo: "/images/sponsors_2025/Doyensec.png"
         href: "https://www.doyensec.com/careers.html"
@@ -94,16 +100,10 @@ levels:
       - name: "RunReveal"
         logo: "/images/sponsors_2025/RunReveal.png"
         href: "https://runreveal.com"
+      - break: true
       - name: "Socket"
         logo: "/images/sponsors_2025/Socket.png"
         href: "https://socket.dev/"
-      - name: "TBD"
-        logo: "/images/BSidesSF_SponsorshipPending.png"
-        href: "https://bsidessf.org/sponsors"
-      - break: true
-      - name: "TBD"
-        logo: "/images/BSidesSF_SponsorshipPending.png"
-        href: "https://bsidessf.org/sponsors"
       - name: "TBD"
         logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
         href: "https://bsidessf.org/sponsors"

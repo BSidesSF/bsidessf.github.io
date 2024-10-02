@@ -3,9 +3,20 @@ layout: page
 title: "Sponsors"
 ---
 
-<h3>Interested in sponsoring? Check out our
-  <a href="{{ site.data.sponsors.sponsorship_kit_url }}" target="_blank">sponsorship kit</a>
-  and contact sponsors@bsidessf.org for more information.</h3>
+Our fantastic sponsors make BSidesSF financially possible year after year, none of this is possible without them!
+
+Sponsoring BSidesSF is an opportunity to engage with some of the most passionate and influential infosec practitioners from around the country --- and the world, while also an opportunity to give back to the community.
+
+<h3>Check out our 2025 
+  <a href="{{ site.data.sponsors.sponsorship_kit_url }}" target="_blank">
+    sponsorship kit
+  </a>
+  and contact 
+  <a href="mailto:sponsors@bsidessf.org" target="_blank">
+    sponsors@bsidessf.org
+  </a>
+  for more information.
+</h3>
 
 {% for class in site.data.sponsors.levels %}
 

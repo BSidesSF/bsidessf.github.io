@@ -12,7 +12,7 @@ levels:
     class: gold
     sponsors:
       - name: "Sublime Security"
-        logo: "/images/sponsors_2025/SublimeSecurity.jpg"
+        logo: "/images/sponsors_2025/SublimeSecurity.svg"
         href: "https://sublime.security/"
       - name: "Wiz"
         logo: "/images/sponsors_2025/Wiz.png"

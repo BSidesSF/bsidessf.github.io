@@ -52,3 +52,5 @@
       subtitle: "Current Sponsors"
     - subtitle: "Become a Sponsor"
       subhref: "/sponsors/benefits"
+    - subtitle: "Sponsorship Kit"
+      external: "/sponsors/kit"

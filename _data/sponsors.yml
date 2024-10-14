@@ -34,12 +34,12 @@ levels:
   - level: Silver
     class: contrib
     sponsors:
+      - name: "GitGuardian"
+        logo: "/images/sponsors_2025/GitGuardian.png"
+        href: "https://gitguardian.com/"
       - name: "Prophet Security"
         logo: "/images/sponsors_2025/ProphetSecurity.svg"
         href: "https://www.prophetsecurity.ai/"
-      - name: "TBD"
-        logo: "/images/BSidesSF_SponsorshipPending.png"
-        href: "https://bsidessf.org/sponsors"
       - name: "TBD"
         logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors"
@@ -118,7 +118,7 @@ levels:
         href: "https://bsidessf.org/sponsors"
       - break: true
       - name: "TBD"
-        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors"
       - name: "TBD"
         logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
@@ -167,7 +167,7 @@ levels:
     sponsors:
       - type: "Espresso and Coffee"
         name: "TBD"
-        logo: "/images/BSidesSF_SponsorshipPending.png"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
         href: "https://bsidessf.org/sponsors"
       - type: "Espresso and Coffee"
         name: "TBD"

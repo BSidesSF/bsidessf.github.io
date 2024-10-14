@@ -5,7 +5,7 @@ title: "Sponsors"
 
 Our fantastic sponsors make BSidesSF financially possible year after year, none of this is possible without them!
 
-<h3><a href="/sponsors/benefits/">Interested in sponsoring?</a></h3>
+<h3><a href="/sponsors/benefits">Interested in sponsoring?</a></h3>
 
 {% for class in site.data.sponsors.levels %}
 

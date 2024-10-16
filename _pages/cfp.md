@@ -4,9 +4,9 @@ title: "BSidesSF 2025 Call For Participation"
 ---
 
 BSidesSF is soliciting submissions for the annual BSidesSF conference on April 
-26-26, 2025. Call for Participation is currently open for all tracks.
+26-27, 2025. Call for Participation is currently open for all tracks.
 
-Note: We **DO NOT** provide speaker or travel stipends at this time (except on a 
+Note: We **DO NOT** provide speaker or travel reimbursements at this time (except on a 
 case-by-case basis with villages). We also DO NOT accept vendor pitches of any 
 sort in our conference program. Thank you for your understanding.
 
@@ -44,7 +44,7 @@ This year, we dive into uncharted territory of security under the theme "Here Be
 Dragons." Like the ancient maps that marked unknown regions with dragons, today's 
 landscape is filled with threats that are complex, evolving, and often unpredictable. 
 As security practitioners, we are the navigators of this vast, sometimes dangerous 
-terrain. We're opening the call to participate in our 2025 conference - come share your 
+terrain. We're opening the call to participate in our 2025 conference -- come share your 
 experiences exploring new challenges, discovering the unknown, battling cutting-edge 
 technologies, and sharing strategies to confront the 'dragons' lurking in the shadows. ⚔️
 You can't spell dystopia without AI

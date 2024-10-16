@@ -10,12 +10,12 @@ Then we add it to the historical pages, and all should be good.
 
 | Year | Dates       | Commit to use                            |
 | :--: | :---------- | :--------------------------------------- |
-| 2010 | Mar 2 & 3   | N/A - pre gitlab pages work              |
-| 2011 | Feb 14 & 15 | N/A - pre gitlab pages work              |
-| 2012 | Feb 27 & 28 | N/A - pre gitlab pages work              |
-| 2013 | Feb 24 & 25 | N/A - pre gitlab pages work              |
-| 2014 | Feb 2 & 3   | N/A - pre gitlab pages work              |
-| 2015 | Apr 19 & 20 | N/A - pre gitlab pages work              |
+| 2010 | Mar 2 & 3   | N/A - pre github pages work              |
+| 2011 | Feb 14 & 15 | N/A - pre github pages work              |
+| 2012 | Feb 27 & 28 | N/A - pre github pages work              |
+| 2013 | Feb 24 & 25 | N/A - pre github pages work              |
+| 2014 | Feb 2 & 3   | N/A - pre github pages work              |
+| 2015 | Apr 19 & 20 | N/A - pre github pages work              |
 | 2016 | Feb 28 & 29 | bc70ea06488b64721ceb6848310b3be49ce504b4 |
 | 2017 | Feb 12 & 12 | ff918e9033beb883836b71152031c7a4afaa62fc |
 | 2018 | Apr 15 & 16 | 26a2668a12d03135aff9fde3c126e39bdc246d93 |

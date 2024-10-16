@@ -48,8 +48,6 @@
       subhref: "/volunteer"
     - subtitle: "Organizers"
       subhref: "/jobs"
-    - subtitle: "Program Team"
-      subhref: "/cfp"
 
 - title: "Sponsors"
   href: "/sponsors"

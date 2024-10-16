@@ -2,7 +2,7 @@
 layout: post
 category: post
 title: "BSidesSF 2025 Call for Participation"
-date: 2024-10-14
+date: 2024-10-16T11:00:00-07:00
 ---
 
 BSidesSF is excited to open the Call for Participation for the BSidesSF 2025 

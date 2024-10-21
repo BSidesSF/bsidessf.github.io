@@ -85,6 +85,9 @@ levels:
   - level: Bronze
     class: contrib
     sponsors:
+      - name: "Aikido"
+        logo: "/images/sponsors_2025/Aikido.png"
+        href: "https://aikido.dev"
       - name: "Akto"
         logo: "/images/sponsors_2025/Akto.png"
         href: "https://akto.io/"
@@ -97,10 +100,10 @@ levels:
       - name: "Foundr"
         logo: "/images/sponsors_2025/Foundr.png"
         href: "https://foundr.xyz"
+      - break: true
       - name: "Nudge"
         logo: "/images/sponsors_2025/NudgeSecurity.png"
         href: "https://https://www.nudgesecurity.com/careers"
-      - break: true
       - name: "RunReveal"
         logo: "/images/sponsors_2025/RunReveal.png"
         href: "https://runreveal.com"
@@ -113,19 +116,16 @@ levels:
       - name: "Pending"
         logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors"
+      - break: true
       - name: "Pending"
         logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors"
-      - break: true
       - name: "Pending"
         logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors"
       - name: "TBD"
         logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
         href: "https://bsidessf.org/sponsors"
-#     - name: "TBD"
-#       logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
-#       href: "https://bsidessf.org/sponsors"
 #     - name: "TBD"
 #       logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
 #       href: "https://bsidessf.org/sponsors"

@@ -11,19 +11,19 @@ levels:
   - level: Gold
     class: gold
     sponsors:
+      - name: "Code Red Partners"
+        logo: "/images/sponsors_2025/CodeRedPartners.png"
+        href: "https://coderedpartners.com"
       - name: "Sublime Security"
         logo: "/images/sponsors_2025/SublimeSecurity.svg"
         href: "https://sublime.security/"
       - name: "Wiz"
         logo: "/images/sponsors_2025/Wiz.png"
         href: "https://wiz.io/"
+      - break: true
       - name: "TBD"
         logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
         href: "https://bsidessf.org/sponsors"
-#      - break: true
-#     - name: "TBD"
-#       logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
-#       href: "https://bsidessf.org/sponsors"
 #     - name: "TBD"
 #       logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
 #       href: "https://bsidessf.org/sponsors"
@@ -137,7 +137,7 @@ levels:
     sponsors:
       - type: Capture the Flag
         name: "TBD"
-        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors"
       - type: Lanyard
         name: "TBD"

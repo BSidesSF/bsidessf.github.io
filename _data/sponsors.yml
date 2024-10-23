@@ -46,13 +46,13 @@ levels:
       - name: "Pending"
         logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors"
+      - name: "Pending"
+        logo: "/images/BSidesSF_SponsorshipPending.png"
+        href: "https://bsidessf.org/sponsors/benefits"
+      - break: true
       - name: "TBD"
         logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
-        href: "https://bsidessf.org/sponsors/benefits"
-#     - break: true
-#     - name: "TBD"
-#       logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
-#       href: "https://bsidessf.org/sponsors"
+        href: "https://bsidessf.org/sponsors"
 #     - name: "TBD"
 #       logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
 #       href: "https://bsidessf.org/sponsors"
@@ -166,8 +166,8 @@ levels:
   - level:
     sponsors:
       - type: "Espresso and Coffee"
-        name: "TBD"
-        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        name: "Pending"
+        logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors"
       - type: "Espresso and Coffee"
         name: "TBD"

@@ -63,16 +63,3 @@ E-mail program [at] bsidessf.org
 You can also ping **@program-ops** in 
 **#[2025-cfp-helpdesk](https://bsidessf.slack.com/archives/C07J90PD98D)** on the 
 BSidesSF Slack (use the Slack logo at top right of page for an invite to the Slack).
-
-
-# **Interested in participating on the BSidesSF 2025 Program Committee?**
-
-We're always looking for folks to help us shape BSidesSF content! CFP reviewers 
-typically spend 30-40 hours (if not more) around the Dec 2024/Jan 2025 timeframe. We 
-also typically ask reviewers for recommendations for new keynote speakers. You will 
-receive free admission to BSidesSF at the end for all your hard work.
-
-Submit an application here: 
-[https://forms.gle/4BGiKQC1Cdko4cYdA](https://forms.gle/4BGiKQC1Cdko4cYdA)
-
-

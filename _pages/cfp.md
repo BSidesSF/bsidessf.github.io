@@ -47,7 +47,6 @@ As security practitioners, we are the navigators of this vast, sometimes dangero
 terrain. We're opening the call to participate in our 2025 conference -- come share your 
 experiences exploring new challenges, discovering the unknown, battling cutting-edge 
 technologies, and sharing strategies to confront the 'dragons' lurking in the shadows. ⚔️
-You can't spell dystopia without AI
 
 # **Submit to the CFP!**
 

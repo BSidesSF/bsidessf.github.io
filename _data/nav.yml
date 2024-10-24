@@ -2,6 +2,7 @@
   href: "/"
 
 - title: "About"
+  href: "/about"
   subcategories:
     - subtitle: "BSidesSF"
       subhref: "/about"
@@ -23,6 +24,7 @@
       subhref: "/donate"
 
 - title: "Attend"
+  href: "/schedule"
   subcategories:
     - subtitle: "Schedule"
       subhref: "/schedule"
@@ -33,23 +35,27 @@
     - subtitle: "CTF"
       subhref: "/ctf"
 
-- title: "Work With Us"
+- title: "Program"
+  href: "/cfp"
+  subcategories:
+    - subtitle: "Call For Participation"
+      subhref: "/cfp"
+
+- title: "Join Us"
+  href: "/volunteer"
   subcategories:
     - subtitle: "Volunteers"
       subhref: "/volunteer"
     - subtitle: "Organizers"
       subhref: "/jobs"
-    - subtitle: "Program Team"
-      subhref: "/cfp"
-
-- title: "Friends"
-  href: "/friends"
 
 - title: "Sponsors"
   href: "/sponsors"
   subcategories:
     - subhref: "/sponsors"
       subtitle: "Current Sponsors"
+#   - subtitle: "Friends of BSidesSF (2025)"
+#     subhref: "/friends"
     - subtitle: "Become a Sponsor"
       subhref: "/sponsors/benefits"
     - subtitle: "Sponsorship Kit"

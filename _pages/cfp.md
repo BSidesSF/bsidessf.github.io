@@ -4,7 +4,7 @@ title: "BSidesSF 2025 Call For Participation"
 ---
 
 BSidesSF is soliciting submissions for the annual BSidesSF conference on April 
-26-27, 2025. Call for Participation is currently open for all tracks.
+26-27, 2025. Call for Participation is currently [open for all tracks](https://pretalx.com/bsidessf2025/cfp).
 
 Note: We **DO NOT** provide speaker or travel reimbursements at this time (except on a 
 case-by-case basis with villages). We also DO NOT accept vendor pitches of any 

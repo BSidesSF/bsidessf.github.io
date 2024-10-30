@@ -7,7 +7,7 @@ Our fantastic sponsors make BSidesSF financially possible year after year, none 
 
 <h3>
   <a href="/sponsors/benefits">See some benefits of sponsoring</a> or are you ready to
-  <a href="/sponsors/kit">download the Sponsorship kit</a>?
+  <a target=_blank href="/sponsors/kit">download the Sponsorship kit</a>?
 </h3>
 
 {% for class in site.data.sponsors.levels %}

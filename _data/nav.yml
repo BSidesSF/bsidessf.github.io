@@ -40,6 +40,8 @@
   subcategories:
     - subtitle: "Call For Participation"
       subhref: "/cfp"
+    - subtitle: "Call For Villages"
+      subhref: "/cfv"
 
 - title: "Join Us"
   href: "/volunteer"

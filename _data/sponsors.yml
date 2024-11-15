@@ -137,9 +137,9 @@ levels:
   - level:
     sponsors:
       - type: Capture the Flag
-        name: "TBD"
-        logo: "/images/BSidesSF_SponsorshipPending.png"
-        href: "https://bsidessf.org/sponsors/benefits"
+        name: "Adobe"
+        logo: "/images/sponsors_2025/Adobe.png"
+        href: "https://careers.adobe.com/us/en/"
       - type: Lanyard
         name: "TBD"
         logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
@@ -156,8 +156,8 @@ levels:
         logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
         href: "https://bsidessf.org/sponsors/benefits"
       - type: Evening Social (Saturday)
-        name: "TBD"
-        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        name: "Pending"
+        logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors/benefits"
       - type: Daytime Social (Sunday)
         name: "TBD"

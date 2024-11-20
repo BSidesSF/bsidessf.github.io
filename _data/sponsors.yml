@@ -46,9 +46,6 @@ levels:
       - name: "Truffle Security"
         logo: "/images/sponsors_2025/TruffleSecurity.png"
         href: "https://trufflesec.com"
-      - name: "Pending"
-        logo: "/images/BSidesSF_SponsorshipPending.png"
-        href: "https://bsidessf.org/sponsors/benefits"
       - break: true
       - name: "Pending"
         logo: "/images/BSidesSF_SponsorshipPending.png"
@@ -59,16 +56,23 @@ levels:
       - name: "Pending"
         logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors/benefits"
+      - name: "Pending"
+        logo: "/images/BSidesSF_SponsorshipPending.png"
+        href: "https://bsidessf.org/sponsors/benefits"
+      - break: true
       - name: "TBD"
         logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors/benefits"
       - name: "TBD"
         logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
         href: "https://bsidessf.org/sponsors/benefits"
-      - break: true
       - name: "TBD"
         logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
         href: "https://bsidessf.org/sponsors/benefits"
+      - name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/benefits"
+      - break: true
       - name: "TBD"
         logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
         href: "https://bsidessf.org/sponsors/benefits"
@@ -95,8 +99,8 @@ levels:
         logo: "/images/sponsors_2025/AppSentinels.png"
         href: "https://appsentinels.ai"
       - name: "TBD"
-        logo: "/images/BSidesSF_SponsorshipPending.png"
-        # logo: "/images/sponsors_2025/Breez.png"
+        # logo: "/images/BSidesSF_SponsorshipPending.png"
+        logo: "/images/sponsors_2025/Breez.jpg"
         href: "https://breezsecurity.io"
       - name: "Bright"
         logo: "/images/sponsors_2025/BrightSecurity.svg"
@@ -174,9 +178,15 @@ levels:
         name: "Vanta"
         logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors/benefits"
+  - level:
+    sponsors:
       - type: "Espresso and Coffee"
         name: "TBD"
         logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/benefits"
+      - type: "Scholarship"
+        name: "Pending"
+        logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors/benefits"
 
   - level: Special Thanks

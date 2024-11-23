@@ -5,7 +5,8 @@
 #      - best for single sponsor items
 # break - puts in a row break
 #
-sponsorship_kit_url: "https://drive.google.com/open?id=1YpyDX-8kH3B6t37iYzYctniM2EJsGNJa"
+sponsorship_kit_url: "https://drive.google.com/open?id=1cL5Q1u2aHlA3_OF5UmWKjKhkLZzi7lnn"
+# if you update this link also update the meta info in _pages/sponsors/kit.md
 
 levels:
   - level: Gold

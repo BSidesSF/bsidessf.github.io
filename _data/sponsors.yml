@@ -5,7 +5,7 @@
 #      - best for single sponsor items
 # break - puts in a row break
 #
-sponsorship_kit_url: "https://drive.google.com/open?id=1oBaD-S5iaSk5cblftz-GrXV90jf8ji01"
+sponsorship_kit_url: "https://drive.google.com/open?id=1-zEg_KbDW6DQY8YZea-CepzRE3U8UY7C"
 # if you update this link also update the meta info in _pages/sponsors/kit.md
 
 levels:
@@ -35,6 +35,9 @@ levels:
   - level: Silver
     class: contrib
     sponsors:
+      - name: "Abnormal Security"
+        logo: "/images/sponsors_2025/Abnormal.png"
+        href: "https://abnormalsecurity.com"
       - name: "Dropzone AI"
         logo: "/images/sponsors_2025/DropzoneAI.png"
         href: "https://dropzone.ai"
@@ -47,13 +50,10 @@ levels:
       - name: "Prophet Security"
         logo: "/images/sponsors_2025/ProphetSecurity.svg"
         href: "https://www.prophetsecurity.ai"
+      - break: true
       - name: "Truffle Security"
         logo: "/images/sponsors_2025/TruffleSecurity.png"
         href: "https://trufflesec.com"
-      - break: true
-      - name: "Pending"
-        logo: "/images/BSidesSF_SponsorshipPending.png"
-        href: "https://bsidessf.org/sponsors/benefits"
       - name: "Pending"
         logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors/benefits"

@@ -5,28 +5,28 @@
 #      - best for single sponsor items
 # break - puts in a row break
 #
-sponsorship_kit_url: "https://drive.google.com/open?id=1cL5Q1u2aHlA3_OF5UmWKjKhkLZzi7lnn"
+sponsorship_kit_url: "https://drive.google.com/open?id=1oBaD-S5iaSk5cblftz-GrXV90jf8ji01"
 # if you update this link also update the meta info in _pages/sponsors/kit.md
 
 levels:
   - level: Gold
     class: gold
     sponsors:
+      - name: "Authentik"
+        logo: "/images/sponsors_2025/Authentik.png"
+        href: "https://authentik.io"
       - name: "Code Red Partners"
         logo: "/images/sponsors_2025/CodeRedPartners.png"
         href: "https://coderedpartners.com"
       - name: "Sublime Security"
         logo: "/images/sponsors_2025/SublimeSecurity.svg"
         href: "https://sublime.security"
+      - break: true
       - name: "Wiz"
         logo: "/images/sponsors_2025/Wiz.png"
         href: "https://wiz.io"
-      - break: true
       - name: "Pending"
         logo: "/images/BSidesSF_SponsorshipPending.png"
-        href: "https://bsidessf.org/sponsors/benefits"
-      - name: "TBD"
-        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
         href: "https://bsidessf.org/sponsors/benefits"
       - name: "TBD"
         logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
@@ -70,11 +70,11 @@ levels:
       - name: "Pending"
         logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors/benefits"
-      - name: "TBD"
-        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+      - name: "Pending"
+        logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors/benefits"
-      - name: "TBD"
-        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+      - name: "Pending"
+        logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors/benefits"
       - name: "TBD"
         logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
@@ -142,8 +142,8 @@ levels:
         logo: "/images/sponsors_2025/Adobe.png"
         href: "https://careers.adobe.com/us/en/"
       - type: Lanyard
-        name: "TBD"
-        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        name: "Pending"
+        logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors/benefits"
       - type: Lanyard
         name: "TBD"

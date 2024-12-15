@@ -14,7 +14,7 @@ levels:
     sponsors:
       - name: "Authentik"
         logo: "/images/sponsors_2025/Authentik.png"
-        href: "https://authentik.io"
+        href: "https://goauthentik.io"
       - name: "Code Red Partners"
         logo: "/images/sponsors_2025/CodeRedPartners.png"
         href: "https://coderedpartners.com"
@@ -115,10 +115,13 @@ levels:
       - name: "HoundDog.ai"
         logo: "/images/sponsors_2025/HoundDog.ai.png"
         href: "https://hounddog.ai"
+      - name: "Pending"
+        logo: "/images/BSidesSF_SponsorshipPending.png"
+        href: "https://bsidessf.org/sponsors/benefits"
+      - break: true
       - name: "Nudge"
         logo: "/images/sponsors_2025/NudgeSecurity.png"
         href: "https://https://www.nudgesecurity.com/careers"
-      - break: true
       - name: "RunReveal"
         logo: "/images/sponsors_2025/RunReveal.png"
         href: "https://runreveal.com"
@@ -131,9 +134,6 @@ levels:
       - name: "Tracebit"
         logo: "/images/sponsors_2025/Tracebit.png"
         href: "https://tracebit.com"
-      - name: "Pending"
-        logo: "/images/BSidesSF_SponsorshipPending.png"
-        href: "https://bsidessf.org/sponsors/benefits"
 
   - level:
     sponsors:

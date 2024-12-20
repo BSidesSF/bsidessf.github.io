@@ -181,9 +181,9 @@ levels:
         logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
         href: "https://bsidessf.org/sponsors/benefits"
       - type: "Scholarship"
-        name: "Pending"
-        logo: "/images/BSidesSF_SponsorshipPending.png"
-        href: "https://bsidessf.org/sponsors/benefits"
+        name: "Marsh"
+        logo: "/images/sponsors_2025/Marsh.png"
+        href: "https://marsh.com"
 
   - level: Special Thanks
     sponsors:

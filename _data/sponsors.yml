@@ -41,25 +41,25 @@ levels:
       - name: "Astrix"
         logo: "/images/sponsors_2025/Astrix.png"
         href: "https://bsidessf.org/sponsors/benefits"
+      - name: "c|side"
+        logo: "/images/sponsors_2025/CSide.svg"
+        href: "https://cside.dev/"
       - name: "Dropzone AI"
         logo: "/images/sponsors_2025/DropzoneAI.png"
         href: "https://dropzone.ai"
       - name: "Formal"
         logo: "/images/sponsors_2025/Formal.svg"
         href: "https://joinformal.com"
+      - break: true
       - name: "GitGuardian"
         logo: "/images/sponsors_2025/GitGuardian.png"
         href: "https://gitguardian.com"
-      - break: true
       - name: "Prophet Security"
         logo: "/images/sponsors_2025/ProphetSecurity.svg"
         href: "https://www.prophetsecurity.ai"
       - name: "Truffle Security"
         logo: "/images/sponsors_2025/TruffleSecurity.png"
         href: "https://trufflesec.com"
-      - name: "Pending"
-        logo: "/images/BSidesSF_SponsorshipPending.png"
-        href: "https://bsidessf.org/sponsors/benefits"
       - name: "Pending"
         logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors/benefits"
@@ -83,7 +83,7 @@ levels:
         logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors/benefits"
 
-  - level: Bronze
+  - level: Bronze (Sold Out)
     class: contrib
     sponsors:
       - name: "Aikido"

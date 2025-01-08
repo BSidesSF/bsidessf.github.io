@@ -145,23 +145,23 @@ levels:
         logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors/benefits"
       - type: Lanyard
-        name: "TBD"
-        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        name: "Pending"
+        logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors/benefits"
 
   - level:
     sponsors:
       - type: Daytime Social (Saturday)
-        name: "TBD"
-        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        name: "Pending"
+        logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors/benefits"
       - type: Evening Social (Saturday)
         name: "Wiz"
         logo: "/images/sponsors_2025/Wiz.png"
         href: "https://wiz.io"
       - type: Daytime Social (Sunday)
-        name: "TBD"
-        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        name: "Pending"
+        logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors/benefits"
 
   - level:

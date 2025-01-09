@@ -3,12 +3,11 @@ layout: page
 title: "BSidesSF 2025 Call For Participation"
 ---
 
-BSidesSF is soliciting submissions for the annual BSidesSF conference on April 
-26-27, 2025. Call for Participation is currently [open for all tracks](https://pretalx.com/bsidessf2025/cfp).
+ℹ️ BSidesSF 2025 Call for Participation is **closed** as of January 7, 2025!
 
-Note: We **DO NOT** provide speaker or travel reimbursements at this time (except on a 
-case-by-case basis with villages). We also DO NOT accept vendor pitches of any 
-sort in our conference program. Thank you for your understanding.
+Thank you to all of our amazing speaker submissions - we are currently reviewing the _staggering_ number of submissions we recieved from our amazing community and are working to build out our "Here be Dragons" 2025 Program -- we can't wait to see you there! 
+
+---
 
 # **What**
 
@@ -33,6 +32,10 @@ We celebrate diverse approaches and points of view and believe that our commitme
 diversity fosters innovation. BSidesSF is continuing to build upon a culture that drives 
 our community to include a wide range of thoughts and ideas.
 
+Note: We **DO NOT** provide speaker or travel reimbursements at this time (except on a 
+case-by-case basis with villages). We also DO NOT accept vendor pitches of any 
+sort in our conference program. Thank you for your understanding.
+
 # **When/Where**
 
 BSidesSF will take place on April 26-27, 2025. The conference will be located 
@@ -50,12 +53,11 @@ technologies, and sharing strategies to confront the 'dragons' lurking in the sh
 
 # **Submit to the CFP!**
 
-Please go **---> [HERE](https://pretalx.com/bsidessf2025/cfp) <---** for submissions for 
-Presentations, Panels, Workshops, and Birds of a Feather
+Our **---> [CFP](https://pretalx.com/bsidessf2025/cfp) <---** is now **closed**.
 
 # **Propose A Village**
 
-Village proposals will be accepted soon!
+We have a separate [Call for Villages](/cfv)
 
 ## **Questions?**
 E-mail program [at] bsidessf.org

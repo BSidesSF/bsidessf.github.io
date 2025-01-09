@@ -167,9 +167,9 @@ levels:
   - level:
     sponsors:
       - type: "Espresso and Coffee"
-        name: "Meta"
-        logo: "/images/BSidesSF_SponsorshipPending.png"
-        href: "https://bsidessf.org/sponsors/benefits"
+        name: "DeepTempo"
+        logo: "/images/sponsors_2025/DeepTempo.png"
+        href: "https://deeptempo.ai"
       - type: "Espresso and Coffee"
         name: "Pending"
         logo: "/images/BSidesSF_SponsorshipPending.png"

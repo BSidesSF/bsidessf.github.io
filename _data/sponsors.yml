@@ -141,9 +141,9 @@ levels:
         logo: "/images/sponsors_2025/Adobe.png"
         href: "https://careers.adobe.com/us/en/"
       - type: Lanyard
-        name: "Pending"
-        logo: "/images/BSidesSF_SponsorshipPending.png"
-        href: "https://bsidessf.org/sponsors/benefits"
+        name: "Semgrep"
+        logo: "/images/sponsors_2025/Semgrep.png"
+        href: "https://semgrep.com/"
       - type: Lanyard
         name: "Pending"
         logo: "/images/BSidesSF_SponsorshipPending.png"

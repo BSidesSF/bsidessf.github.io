@@ -55,10 +55,6 @@ technologies, and sharing strategies to confront the 'dragons' lurking in the sh
 
 Our **---> [CFP](https://pretalx.com/bsidessf2025/cfp) <---** is now **closed**.
 
-# **Propose A Village**
-
-We have a separate [Call for Villages](/cfv)
-
 ## **Questions?**
 E-mail program [at] bsidessf.org
 

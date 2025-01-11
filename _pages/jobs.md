@@ -11,7 +11,7 @@ BSidesSF is a 100% volunteer-run organization. All roles are volunteer-based wit
 
 ### Volunteer Force
 
-[Volunteering](/cfv) is a good way to show your enthusiasm and ability to work with the group, especially if you want
+[Volunteering](/volunteer) is a good way to show your enthusiasm and ability to work with the group, especially if you want
 to help with setup, teardown, and different tasks throughout the event. The Volunteer force shows up during the event,
 and does not get involved in the months of planning and preparation which happens before the event.
 This is great option for those who want to help, yet don't have extra time in their lives. In 2024 we started a program

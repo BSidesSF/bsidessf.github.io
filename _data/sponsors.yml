@@ -160,15 +160,15 @@ levels:
         logo: "/images/sponsors_2025/Wiz.png"
         href: "https://wiz.io"
       - type: Daytime Social (Sunday)
-        name: "Pending"
-        logo: "/images/BSidesSF_SponsorshipPending.png"
+        name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
         href: "https://bsidessf.org/sponsors/benefits"
 
   - level:
     sponsors:
       - type: "Espresso and Coffee"
         name: "DeepTempo"
-        logo: "/images/sponsors_2025/DeepTempo.png"
+        logo: "/images/sponsors_2025/DeepTempo.svg"
         href: "https://deeptempo.ai"
       - type: "Espresso and Coffee"
         name: "Pending"

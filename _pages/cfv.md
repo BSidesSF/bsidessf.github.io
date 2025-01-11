@@ -3,6 +3,11 @@ layout: page
 title: "BSidesSF 2025 Call For Villages"
 ---
 
+## The 2025 Call for Villages is CLOSED! Thank you for your submissions!
+
+-----
+
+
 ## Dive Deep, Connect, Shape the Future: Become a BSidesSF 2025 Village Leader!
 
 Calling all information security enthusiasts! BSidesSF 2025 invites passionate
@@ -68,14 +73,6 @@ Operating hours:
 Teardown:
 
 * Sunday, April 27 (5 PM - 5:30 PM)
-
-**Submit your Village proposal —>
-[HERE](https://docs.google.com/forms/d/e/1FAIpQLSeOV3og8CNn3GzUnj7gEGMpJBBYV0IJIxlJYDAsgTYaogyx8Q/viewform)
-<— today**
-
-Note: If you’d like to separately submit a presentation to the main
-[BSidesSF CFP](/cfp), you’re welcome to, but note that being accepted
-or rejected for a village will not impact eligibility for the CFP.
 
 Join the BSidesSF community and let's build the future of information security,
 together! Contact: Village operation inquiries should be sent to

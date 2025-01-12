@@ -4,6 +4,11 @@
 
 @charset "utf-8";
 
+// pulling into sass files from _config doesn't seem to work
+// but this is properly processed and the variables get set
+$header-background-sm:'{{site.header_sm}}';
+$header-background-lg:'{{site.header_lg}}';
+
 // Variables
 @import "variables";
 

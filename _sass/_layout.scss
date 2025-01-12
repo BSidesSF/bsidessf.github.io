@@ -68,6 +68,19 @@
 // Header
 header[role="banner"] {
   background: linear-gradient($header-gradient-start, $header-gradient-end);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: $secondary-color;
+  padding-top: 22%;
+  @media ( width >= $header-switch-width)  {
+    background-image: url($header-background-lg);
+    background-position: center;
+  }
+  @media ( width < $header-switch-width)  {
+    background-image: url($header-background-sm);
+    background-position: center;
+  }
+
 }
 
 // Footer

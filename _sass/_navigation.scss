@@ -167,12 +167,13 @@
 	display: none;
 }
 
+$nav-menu-width-toggle: 958px;  // when do we switch from icons to hamburger
 
 // Styling for mobile devices
-@media screen and (max-width: 943px) {
+@media screen and (max-width: $nav-menu-width-toggle) {
 	#nav .primary-nav{
 		width: 100%;
-		max-width: 943px;
+		max-width: $nav-menu-width-toggle;
 		height: auto;
 		background: $navbar-color;
 	}

@@ -1,17 +1,21 @@
 // Base Colors
-//$primary-color: #272727; // black
-//$secondary-color: #CD502B; // orange
-//$complimentary-color: #fff; // white
+// defaults
+// $primary-color: #000; // black
+// $secondary-color: #be202e; // orange
+// $complimentary-color: #d0cbc0; // white
+
+// event specific
 $primary-color: #000; // black
-$secondary-color: #be202e; // orange
-$complimentary-color: #d0cbc0; // white
+$secondary-color: #f1d49c; // bright gold
+$complimentary-color: #A07C28; // dark gold
 $body-bg: #fff; // white
 $body-font-color: $primary-color;
 
 // Links
-$link-color: $secondary-color;
-$link-hover-color: darken($body-font-color, 20%);
-$link-visited-color: darken($secondary-color, 10%);
+// $link-color: $secondary-color;
+$link-color: #A07C28;
+$link-hover-color: lighten($link-color, 20%);
+$link-visited-color: darken($link-color, 10%);
 
 // Text
 $base-font-family: Helvetica, Arial, sans-serif;
@@ -24,14 +28,14 @@ $base-line-height: 1.5;
 // Primary Navbar Settings
 $navbar-height: 44px;
 $navbar-color: $primary-color;
-$navbar-text-color: #fff; // white
-$navbar-hover-color: $secondary-color;
+$navbar-text-color: $secondary-color;
+$navbar-hover-color: #a07c28;
 $navbar-active-color: lighten($secondary-color, 20%);
 $navbar-font-size: 13px;
 $navbar-font-family: "Open Sans", Helvetica, Arial, sans-serif;
 
 // Socials Navbar Settings
-$socials-font-color: #fff; // white
+$socials-font-color: $secondary-color;
 $socials-font-size: 1.5em;
 $socials-border-color: #fff; // white
 
@@ -41,8 +45,10 @@ $spacing-unit: 30px;
 // Header
 $header-gradient-start: $complimentary-color;
 $header-gradient-end: $complimentary-color;
-// $header-background-img: url('/images/header_background_2024.jpg');
-$header-background-img: "";
+$header-switch-width: 600px;
+// header images are set in _config.yml and included via css/main.scss
+// $header-background-sm: $header_sm;
+// $header-background-lg: $header_lg;
 
 // Footer
 $footer-height: 54px;

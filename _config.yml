@@ -9,10 +9,15 @@ description: >
 url: https://bsidessf.org
 
 header: yes
-header_sm: images/bsides_logo_full-orangeblack.png
-header_med: images/bsides_logo_full-orangeblack.png
-header_large: images/bsides_logo_full-orangeblack.png
-header_xl: images/bsides_logo_full-orangeblack.png
+# default between events
+# header_sm: /images/BSidesSF_2025_MobileHeader_1080x440.jpg
+# header_lg: /images/bsides_logo_full-orangeblack.png
+#
+# event-specific header
+header_sm: /images/BSidesSF_2025_MobileHeader_1080x440.jpg
+header_lg: /images/BSidesSF_2025_WebsiteHeader_1920x300.jpg
+
+# adjust colors in _sass/_variables.scss
 
 # Exclude our ruby stuff and other files
 exclude:

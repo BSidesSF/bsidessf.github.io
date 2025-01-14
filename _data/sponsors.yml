@@ -12,25 +12,25 @@ levels:
   - level: Gold
     class: gold
     sponsors:
+      - name: "Anthropic"
+        logo: "/images/sponsors_2025/Anthropic.png"
+        href: "https://anthropic.com/"
       - name: "Authentik"
         logo: "/images/sponsors_2025/Authentik.png"
         href: "https://goauthentik.io"
       - name: "Code Red Partners"
         logo: "/images/sponsors_2025/CodeRedPartners.png"
         href: "https://coderedpartners.com"
+      - break: true
       - name: "Datadog"
         logo: "/images/sponsors_2025/Datadog.png"
         href: "https://datadog.com"
-      - break: true
       - name: "Sublime Security"
         logo: "/images/sponsors_2025/SublimeSecurity.svg"
         href: "https://sublime.security"
       - name: "Wiz"
         logo: "/images/sponsors_2025/Wiz.png"
         href: "https://wiz.io"
-      - name: "Pending"
-        logo: "/images/BSidesSF_SponsorshipPending.png"
-        href: "https://bsidessf.org/sponsors/benefits"
 
   - level: Silver
     class: contrib

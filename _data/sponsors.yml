@@ -57,16 +57,19 @@ levels:
       - name: "GitGuardian"
         logo: "/images/sponsors_2025/GitGuardian.png"
         href: "https://gitguardian.com"
+      - name: "Google"
+        logo: "/images/sponsors_2025/Google.png"
+        href: "https://google.com"
       - name: "Prophet Security"
         logo: "/images/sponsors_2025/ProphetSecurity.svg"
         href: "https://www.prophetsecurity.ai"
       - name: "Sysdig"
         logo: "/images/sponsors_2025/Sysdig.png"
         href: "https://sysdig.com"
+      - break: true
       - name: "Truffle Security"
         logo: "/images/sponsors_2025/TruffleSecurity.png"
         href: "https://trufflesec.com"
-      - break: true
       - name: "Torq"
         logo: "/images/sponsors_2025/Torq.png"
         href: "https://torq.io"
@@ -142,7 +145,7 @@ levels:
         logo: "/images/sponsors_2025/Semgrep.png"
         href: "https://semgrep.com/"
       - type: Lanyard
-      - name: "Include Security"
+        name: "Include Security"
         logo: "/images/sponsors_2025/IncludeSecurity.png"
         href: "https://includesecurity.com"
 

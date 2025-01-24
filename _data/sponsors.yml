@@ -141,13 +141,13 @@ levels:
         logo: "/images/sponsors_2025/Adobe.png"
         href: "https://careers.adobe.com/us/en/"
       - type: Lanyard
-        name: "Semgrep"
-        logo: "/images/sponsors_2025/Semgrep.png"
-        href: "https://semgrep.com/"
-      - type: Lanyard
         name: "Include Security"
         logo: "/images/sponsors_2025/IncludeSecurity.png"
         href: "https://includesecurity.com"
+      - type: Lrd
+        name: "Semgrep"
+        logo: "/images/sponsors_2025/Semgrep.png"
+        href: "https://semgrep.com/"
 
   - level:
     sponsors:

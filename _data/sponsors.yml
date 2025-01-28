@@ -139,12 +139,12 @@ levels:
       - type: Capture the Flag
         name: "Adobe"
         logo: "/images/sponsors_2025/Adobe.png"
-        href: "https://careers.adobe.com/us/en/"
+        href: "https://careers.adobe.com/us/en/t stat"
       - type: Lanyard
         name: "Include Security"
         logo: "/images/sponsors_2025/IncludeSecurity.png"
         href: "https://includesecurity.com"
-      - type: Lrd
+      - type: Lanyard
         name: "Semgrep"
         logo: "/images/sponsors_2025/Semgrep.png"
         href: "https://semgrep.com/"

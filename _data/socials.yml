@@ -1,17 +1,23 @@
 - title: "YouTube"
   href: "https://youtube.com/@BSidesSF"
 
-- title: "Reddit"
-  href: "https://www.reddit.com/r/BSidesSF"
-
 - title: "Graphic Recordings"
   href: "/graphic-recordings"
-
-- title: "Facebook"
-  href: "https://www.facebook.com/BSidesSF"
 
 - title: "Slack"
   href: "https://join.slack.com/t/bsidessf/shared_invite/zt-26cftu3iu-P01DII5SpcWdWbnwheJhFw"
 
+- title: "Reddit"
+  href: "https://www.reddit.com/r/BSidesSF"
+
+#- title: "Mastodon"
+#  href: "https://infosec.exchange/@bsidessf"
+
 - title: "Twitter"
   href: "https://twitter.com/BSidesSF"
+
+- title: "Facebook"
+  href: "https://www.facebook.com/BSidesSF"
+
+- title: "LinkedIn"
+  href: "https://www.linkedin.com/company/bsidessf"

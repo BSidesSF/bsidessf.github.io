@@ -152,9 +152,9 @@ levels:
   - level:
     sponsors:
       - type: Daytime Social (Saturday)
-        name: "Pending"
-        logo: "/images/BSidesSF_SponsorshipPending.png"
-        href: "https://bsidessf.org/sponsors/benefits"
+        name: "runZero"
+        logo: "/images/sponsors_2025/runZero.png"
+        href: "https://runzero.com"
       - type: Evening Social (Saturday)
         name: "Wiz"
         logo: "/images/sponsors_2025/Wiz.png"

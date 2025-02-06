@@ -131,7 +131,7 @@ levels:
         logo: "/images/sponsors_2025/Socket.png"
         href: "https://socket.dev"
       - name: "Tracebit"
-        logo: "/images/sponsors_2025/Tracebit.png"
+        logo: "/images/sponsors_2025/Tracebit.svg"
         href: "https://tracebit.com"
 
   - level:

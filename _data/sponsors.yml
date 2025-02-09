@@ -160,9 +160,9 @@ levels:
         logo: "/images/sponsors_2025/Wiz.png"
         href: "https://wiz.io"
       - type: Daytime Social (Sunday)
-        name: "Pending"
-        logo: "/images/BSidesSF_SponsorshipPending.png"
-        href: "https://bsidessf.org/sponsors/benefits"
+        name: "Clover Security"
+        logo: "/images/sponsors_2025/CloverSecurity.svg"
+        href: "https://clover.security"
 
   - level:
     sponsors:
@@ -172,7 +172,7 @@ levels:
         href: "https://deeptempo.ai"
       - type: "Espresso and Coffee"
         name: "Meta"
-        logo: "/images/sponsors_2025/Meta.svg"
+        logo: "/images/sponsors_2025/Meta.png"
         href: "https://meta.com"
   - level:
     sponsors:

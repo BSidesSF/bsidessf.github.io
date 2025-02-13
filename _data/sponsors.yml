@@ -190,14 +190,14 @@ levels:
         href: "https://bsidessf.org/sponsors/kit"
   - level:
     sponsors:
-      - type: "WiFi"
-        name: "TBD"
-        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
-        href: "https://bsidessf.org/sponsors/kit"
       - type: "Scholarship"
         name: "Marsh"
         logo: "/images/sponsors_2025/Marsh.png"
         href: "https://marsh.com"
+      - type: "WiFi"
+        name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/kit"
 
   - level: Special Thanks
     sponsors:

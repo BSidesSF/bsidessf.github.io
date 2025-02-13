@@ -182,11 +182,11 @@ levels:
     sponsors:
       - type: "Graphic Recordings"
         name: "TBD"
-        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors/kit"
       - type: "Headshots"
         name: "TBD"
-        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors/kit"
   - level:
     sponsors:
@@ -196,7 +196,7 @@ levels:
         href: "https://marsh.com"
       - type: "WiFi"
         name: "TBD"
-        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors/kit"
 
   - level: Special Thanks

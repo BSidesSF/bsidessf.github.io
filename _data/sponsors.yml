@@ -5,7 +5,7 @@
 #      - best for single sponsor items
 # break - puts in a row break
 #
-sponsorship_kit_url: "https://drive.google.com/open?id=1Ea-dy0UEwML7AOgoNvaBKhMXhJSxu3F-"
+sponsorship_kit_url: "https://drive.google.com/open?id=1lN6SP2ZqLQnbTkLV7fHP4Ga9keGElH6-"
 # if you update this link also update the meta info in _pages/sponsors/kit.md
 
 levels:
@@ -174,12 +174,26 @@ levels:
         name: "Meta"
         logo: "/images/sponsors_2025/Meta.png"
         href: "https://meta.com"
-  - level:
-    sponsors:
       - type: "Espresso and Coffee"
         name: "Vanta"
         logo: "/images/sponsors_2025/Vanta.png"
         href: "https://vanta.com"
+  - level:
+    sponsors:
+      - type: "Graphic Recordings"
+        name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/kit"
+      - type: "Headshots"
+        name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/kit"
+  - level:
+    sponsors:
+      - type: "WiFi"
+        name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/kit"
       - type: "Scholarship"
         name: "Marsh"
         logo: "/images/sponsors_2025/Marsh.png"

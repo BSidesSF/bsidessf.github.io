@@ -181,9 +181,9 @@ levels:
   - level:
     sponsors:
       - type: "Graphic Recordings"
-        name: "TBD"
-        logo: "/images/BSidesSF_SponsorshipPending.png"
-        href: "https://bsidessf.org/sponsors/kit"
+        name: "Vercel"
+        logo: "/images/sponsors_2025/Vercel.png"
+        href: "https://vercel.com"
       - type: "Headshots"
         name: "TBD"
         logo: "/images/BSidesSF_SponsorshipPending.png"

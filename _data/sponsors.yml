@@ -83,7 +83,7 @@ levels:
         logo: "/images/sponsors_2025/Vanta.png"
         href: "https://vanta.com"
 
-  - level: Bronze (Sold Out)
+  - level: Bronze
     class: contrib
     sponsors:
       - name: "Aikido"

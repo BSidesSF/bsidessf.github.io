@@ -40,7 +40,7 @@ levels:
         href: "https://abnormalsecurity.com"
       - name: "Astrix"
         logo: "/images/sponsors_2025/Astrix.png"
-        href: "https://bsidessf.org/sponsors/benefits"
+        href: "https://astrix.security"
       - name: "Axonius"
         logo: "/images/sponsors_2025/Axonius.png"
         href: "https://axonius.com"
@@ -120,7 +120,7 @@ levels:
       - break: true
       - name: "Nudge"
         logo: "/images/sponsors_2025/NudgeSecurity.png"
-        href: "https://https://www.nudgesecurity.com/careers"
+        href: "https://www.nudgesecurity.com/careers"
       - name: "RunReveal"
         logo: "/images/sponsors_2025/RunReveal.png"
         href: "https://runreveal.com"
@@ -139,7 +139,7 @@ levels:
       - type: Capture the Flag
         name: "Adobe"
         logo: "/images/sponsors_2025/Adobe.png"
-        href: "https://careers.adobe.com/us/en/t stat"
+        href: "https://careers.adobe.com/us/en"
       - type: Lanyard
         name: "Include Security"
         logo: "/images/sponsors_2025/IncludeSecurity.png"

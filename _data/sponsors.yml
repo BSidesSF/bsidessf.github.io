@@ -69,7 +69,7 @@ levels:
       - break: true
       - name: "SplxAI"
         logo: "/images/sponsors_2025/SplxAI.png"
-        href: "https://spx.ai"
+        href: "https://splx.ai"
       - name: "Sysdig"
         logo: "/images/sponsors_2025/Sysdig.png"
         href: "https://sysdig.com"

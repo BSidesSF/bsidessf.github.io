@@ -47,10 +47,10 @@ levels:
       - name: "Blink"
         logo: "/images/sponsors_2025/Blink.svg"
         href: "https://blinkops.com"
+      - break: true
       - name: "c|side"
         logo: "/images/sponsors_2025/CSide.png"
         href: "https://cside.dev/"
-      - break: true
       - name: "Dropzone AI"
         logo: "/images/sponsors_2025/DropzoneAI.png"
         href: "https://dropzone.ai"
@@ -60,19 +60,20 @@ levels:
       - name: "GitGuardian"
         logo: "/images/sponsors_2025/GitGuardian.png"
         href: "https://gitguardian.com"
+      - break: true
       - name: "Google"
         logo: "/images/sponsors_2025/Google.png"
         href: "https://google.com"
       - name: "Prophet Security"
         logo: "/images/sponsors_2025/ProphetSecurity.svg"
         href: "https://www.prophetsecurity.ai"
-      - break: true
       - name: "SplxAI"
         logo: "/images/sponsors_2025/SplxAI.png"
         href: "https://splx.ai"
       - name: "Sysdig"
         logo: "/images/sponsors_2025/Sysdig.png"
         href: "https://sysdig.com"
+      - break: true
       - name: "Torq"
         logo: "/images/sponsors_2025/Torq.png"
         href: "https://torq.io"
@@ -82,6 +83,9 @@ levels:
       - name: "Vanta"
         logo: "/images/sponsors_2025/Vanta.png"
         href: "https://vanta.com"
+      - name: "Pending"
+        logo: "/images/BSidesSF_SponsorshipPending.png"
+        href: "https://bsidessf.org/sponsors/kit"
 
   - level: Bronze
     class: contrib
@@ -160,9 +164,9 @@ levels:
         logo: "/images/sponsors_2025/Wiz.png"
         href: "https://wiz.io"
       - type: Daytime Social (Sunday)
-        name: "Clover Security"
-        logo: "/images/sponsors_2025/CloverSecurity.svg"
-        href: "https://clover.security"
+        name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/kit"
 
   - level:
     sponsors:

@@ -83,9 +83,9 @@ levels:
       - name: "Vanta"
         logo: "/images/sponsors_2025/Vanta.png"
         href: "https://vanta.com"
-      - name: "Pending"
-        logo: "/images/BSidesSF_SponsorshipPending.png"
-        href: "https://bsidessf.org/sponsors/kit"
+      - name: "YSecurity"
+        logo: "/images/sponsors_2025/YSecurity.svg"
+        href: "https://ysecurity.io/"
 
   - level: Bronze
     class: contrib
@@ -164,8 +164,8 @@ levels:
         logo: "/images/sponsors_2025/Wiz.png"
         href: "https://wiz.io"
       - type: Daytime Social (Sunday)
-        name: "TBD"
-        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        name: "Pending"
+        logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors/kit"
 
   - level:

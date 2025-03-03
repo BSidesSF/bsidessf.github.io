@@ -199,9 +199,9 @@ levels:
         logo: "/images/sponsors_2025/Marsh.png"
         href: "https://marsh.com"
       - type: "WiFi"
-        name: "TBD"
-        logo: "/images/BSidesSF_SponsorshipPending.png"
-        href: "https://bsidessf.org/sponsors/kit"
+        name: "promptfoo"
+        logo: "/images/sponsors_2025/Promptfoo.png"
+        href: "https://promptfoo.dev/"
 
   - level: Special Thanks
     sponsors:

@@ -65,6 +65,9 @@
 .icon-reddit:before {
 	content: "\eac6";
 }
+.icon-mastodon:before {
+	content: "\F647";
+}
  
 // Base styling for all icons with the :hover psuedoclass
 [class^="icon-"], [class*=" icon-"]:hover {
@@ -109,5 +112,8 @@
 	color: #ef3340;
 }
 .icon-reddit:hover {
+	color: #ff4301;
+}
+.icon-mastodon:hover {
 	color: #ff4301;
 }

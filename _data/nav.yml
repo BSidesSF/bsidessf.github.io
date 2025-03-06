@@ -56,8 +56,8 @@
   subcategories:
     - subhref: "/sponsors"
       subtitle: "Current Sponsors"
-#   - subtitle: "Friends of BSidesSF (2025)"
-#     subhref: "/friends"
+    - subtitle: "Friends of BSidesSF (2025)"
+      subhref: "/friends"
     - subtitle: "Become a Sponsor"
       subhref: "/sponsors/benefits"
     - subtitle: "Sponsorship Kit"

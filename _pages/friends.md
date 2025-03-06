@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Friends of BSidesSF
+title: Friends of BSidesSF 2025
 ---
 
 {% assign cols = 4 %}

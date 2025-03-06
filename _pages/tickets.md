@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Tickets"
-no-redirect_to: "https://bsidessf.regfox.com/2025"
 ---
 
 The time has come! Tickets are available at
@@ -28,8 +27,8 @@ You will also be listed on our [Friends](/friends) page. Some portion may be tax
 
 | Tier | Price |
 |:--- | --:|
-|  Ruby |  $350|
-|  Diamond |  $700 |
+| Ruby | $350|
+| Diamond | $700 |
 | Sapphire | $1000 |
 
 <br/>

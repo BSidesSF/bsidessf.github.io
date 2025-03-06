@@ -62,7 +62,7 @@ layout: default
 
     <center>
     <p>Many thanks to our Scholarship sponsor</p>
-    <a href="https://marsh.com" target="_blank"><img src="/images/sponsors_2025/Marsh.png" alt="Marsh" style="width: 300px;"/></a>
+    <a href="https://careers.marshmclennan.com/global/en/marsh" target="_blank"><img src="/images/sponsors_2025/Marsh.png" alt="Marsh" style="width: 300px;"/></a>
     </center>
     <br/>
 

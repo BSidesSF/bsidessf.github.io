@@ -28,7 +28,7 @@ You will also be listed on our [Friends](/friends) page. Some portion may be tax
 | Tier | Price |
 |:--- | --:|
 | Ruby | $350|
-| Diamond | $700 |
+| Emerald | $700 |
 | Sapphire | $1000 |
 
 <br/>

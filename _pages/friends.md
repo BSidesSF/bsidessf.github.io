@@ -40,9 +40,9 @@ These individuals and organizations have specially donated to help make BSidesSF
 <hr style="margin-bottom: 5px" />
 <div style="text-align: center" class="friends {{ class.class }}">
 <center>
-  <p>Diamond</p>
+  <p>Emerald</p>
 </center>
-{% assign orgs_by_name = site.data.friends.diamond %}
+{% assign orgs_by_name = site.data.friends.emerald %}
 {% for org in orgs_by_name  %}
     {% assign mod = forloop.index | modulo: cols %}
       {% if mod == 1 %}

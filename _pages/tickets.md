@@ -21,9 +21,9 @@ You have the option to purchase an event-specific t-shirt with your ticket,
 but we can only guarantee you will get your chosen size if your purchase is
 submitted by late March.
 
-#### "Friend Of" BsidesSF Tickets
+#### Become a Friend of BSidesSF!
 
-A ticket and a donation to BSidesSF. Become a Friend of BSidesSF and
+Become a Friend of BSidesSF and
 receive a special badge and this year's regular event t-shirt. You will
 also be listed on our [Friends](/friends) page. Some portion may be tax-deductible.
 

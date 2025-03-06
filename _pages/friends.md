@@ -5,12 +5,69 @@ title: Friends of BSidesSF 2025
 
 {% assign cols = 4 %}
 
+<center>
+<p>BSidesSF thanks all of its friends.<br/>
+These individuals and organizations have specially donated to help make BSidesSF 2025 possible!
+</p>
+</center>
+
 <hr style="margin-bottom: 5px" />
 <div style="text-align: center" class="friends {{ class.class }}">
 <center>
-  <p>BSidesSF thanks the following organizations and individuals who have donated $300 or more to help make BSidesSF 2025 possible!</p>
+  <p> Sapphire </p>
 </center>
-{% assign orgs_by_name = site.data.friends.orgs %}
+
+{% assign orgs_by_name = site.data.friends.sapphire %}
+{% for org in orgs_by_name  %}
+    {% assign mod = forloop.index | modulo: cols %}
+      {% if mod == 1 %}
+      <div class="friends row">
+      {% endif %}
+        <div class="friends column">
+          <a href="{{org.link}}" target="_{{org.name}}" rel="noopener noreferrer">
+            <p>{{ org.name }}</p>
+          </a>
+        </div>
+      {% if mod == 0 %}
+      </div>
+      {% endif %}
+    {% if mod == 0 %}
+    </div>
+    {% endif %}
+{% endfor %}
+</div>
+
+<hr style="margin-bottom: 5px" />
+<div style="text-align: center" class="friends {{ class.class }}">
+<center>
+  <p>Emerald</p>
+</center>
+{% assign orgs_by_name = site.data.friends.emerald %}
+{% for org in orgs_by_name  %}
+    {% assign mod = forloop.index | modulo: cols %}
+      {% if mod == 1 %}
+      <div class="friends row">
+      {% endif %}
+        <div class="friends column">
+          <a href="{{org.link}}" target="_{{org.name}}" rel="noopener noreferrer">
+            <p>{{ org.name }}</p>
+          </a>
+        </div>
+      {% if mod == 0 %}
+      </div>
+      {% endif %}
+    {% if mod == 0 %}
+    </div>
+    {% endif %}
+{% endfor %}
+</div>
+
+<hr style="margin-bottom: 5px" />
+<div style="text-align: center" class="friends {{ class.class }}">
+<center>
+  <p>Ruby</p>
+</center>
+{% assign orgs_by_name = site.data.friends.ruby %}
 {% for org in orgs_by_name  %}
     {% assign mod = forloop.index | modulo: cols %}
       {% if mod == 1 %}
@@ -61,7 +118,6 @@ title: Friends of BSidesSF 2025
   <p>
     Want to become a Friend of BSidesSF? Purchase your <a href="/tickets">ticket</a> today!
     <br/>Interested in sponsoring in a larger capacity?
-    <br/>Check out the <a href="{{ site.data.sponsors.sponsorship_kit_url }}">sponsorship kit</a>
-    <br/>or contact <a href="mailto:sponsors@bsidessf.org">sponsors@bsidessf.org</a>.
+    <br/>Check out the <a href="/sponsors">Sponsors page</a> or contact <a href="mailto:sponsors@bsidessf.org">sponsors@bsidessf.org</a> for more information.
   </p>
 </center>

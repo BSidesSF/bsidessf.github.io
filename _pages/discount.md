@@ -59,6 +59,14 @@ layout: default
       </div>
     </form>
 
+
+    <center>
+    <p>Many thanks to our Scholarship sponsor</p>
+    <a href="https://careers.marshmclennan.com/global/en/marsh" target="_blank"><img src="/images/sponsors_2025/Marsh.png" alt="Marsh" style="width: 300px;"/></a>
+    </center>
+    <br/>
+
+
     <p>
        Free tickets are also available for volunteers. Check out our <a href="/volunteer">volunteer opportunities</a> and help us make BSidesSF 2025 a success!
     </p>

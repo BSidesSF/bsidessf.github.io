@@ -14,88 +14,18 @@ These individuals and organizations have specially donated to help make BSidesSF
 <hr style="margin-bottom: 5px" />
 <div style="text-align: center" class="friends {{ class.class }}">
 <center>
-  <p> Sapphire </p>
+  <h2> <b>Sapphire </b></h2>
 </center>
 
-{% assign orgs_by_name = site.data.friends.sapphire %}
-{% for org in orgs_by_name  %}
-    {% assign mod = forloop.index | modulo: cols %}
-      {% if mod == 1 %}
-      <div class="friends row">
-      {% endif %}
-        <div class="friends column">
-          <a href="{{org.link}}" target="_{{org.name}}" rel="noopener noreferrer">
-            <p>{{ org.name }}</p>
-          </a>
-        </div>
-      {% if mod == 0 %}
-      </div>
-      {% endif %}
-    {% if mod == 0 %}
-    </div>
-    {% endif %}
-{% endfor %}
-</div>
-
-<hr style="margin-bottom: 5px" />
 <div style="text-align: center" class="friends {{ class.class }}">
-<center>
-  <p>Emerald</p>
-</center>
-{% assign orgs_by_name = site.data.friends.emerald %}
-{% for org in orgs_by_name  %}
-    {% assign mod = forloop.index | modulo: cols %}
-      {% if mod == 1 %}
-      <div class="friends row">
-      {% endif %}
-        <div class="friends column">
-          <a href="{{org.link}}" target="_{{org.name}}" rel="noopener noreferrer">
-            <p>{{ org.name }}</p>
-          </a>
-        </div>
-      {% if mod == 0 %}
-      </div>
-      {% endif %}
-    {% if mod == 0 %}
-    </div>
-    {% endif %}
-{% endfor %}
-</div>
-
-<hr style="margin-bottom: 5px" />
-<div style="text-align: center" class="friends {{ class.class }}">
-<center>
-  <p>Ruby</p>
-</center>
-{% assign orgs_by_name = site.data.friends.ruby %}
-{% for org in orgs_by_name  %}
-    {% assign mod = forloop.index | modulo: cols %}
-      {% if mod == 1 %}
-      <div class="friends row">
-      {% endif %}
-        <div class="friends column">
-          <a href="{{org.link}}" target="_{{org.name}}" rel="noopener noreferrer">
-            <p>{{ org.name }}</p>
-          </a>
-        </div>
-      {% if mod == 0 %}
-      </div>
-      {% endif %}
-    {% if mod == 0 %}
-    </div>
-    {% endif %}
-{% endfor %}
-</div>
-
-<div style="text-align: center" class="friends {{ class.class }}">
-  {% assign friends_by_name = site.data.friends.people %}
+  {% assign friends_by_name = site.data.friends.sapphire %}
   {% for friend in friends_by_name %} 
     {% assign mod = forloop.index | modulo: cols %} 
     {% if mod == 1 %}
     <div class="friends row">
     {% endif %}
       <div class="friends column">
-         <p>{{ friend.name }}</p>
+         <p>{{ friend }}</p>
       </div>
     {% if mod == 0 %}
     </div>
@@ -112,6 +42,67 @@ These individuals and organizations have specially donated to help make BSidesSF
   {% endfor %}
 </div>
 
+<hr style="margin-bottom: 5px" />
+<div style="text-align: center" class="friends {{ class.class }}">
+<center>
+  <h3><b> Emerald </b></h3> 
+</center>
+
+<div style="text-align: center" class="friends {{ class.class }}">
+  {% assign friends_by_name = site.data.friends.emerald %}
+  {% for friend in friends_by_name %} 
+    {% assign mod = forloop.index | modulo: cols %} 
+    {% if mod == 1 %}
+    <div class="friends row">
+    {% endif %}
+      <div class="friends column">
+         <p>{{ friend }}</p>
+      </div>
+    {% if mod == 0 %}
+    </div>
+    {% endif %} 
+    {% if forloop.last and mod != 0 %}
+      {% assign cnt =  mod | plus: 1 %}
+      {% for i in (cnt..cols) %}
+        <div class="friends column">
+          <!-- column filler -->
+        </div>
+      {% endfor %}
+    </div>
+    {% endif %}
+  {% endfor %}
+</div>
+
+<hr style="margin-bottom: 5px" />
+<div style="text-align: center" class="friends {{ class.class }}">
+<center>
+  <h3><b> Ruby </b></h3>
+</center>
+
+<div style="text-align: center" class="friends {{ class.class }}">
+  {% assign friends_by_name = site.data.friends.ruby %}
+  {% for friend in friends_by_name %} 
+    {% assign mod = forloop.index | modulo: cols %} 
+    {% if mod == 1 %}
+    <div class="friends row">
+    {% endif %}
+      <div class="friends column">
+         <p>{{ friend }}</p>
+      </div>
+    {% if mod == 0 %}
+    </div>
+    {% endif %} 
+    {% if forloop.last and mod != 0 %}
+      {% assign cnt =  mod | plus: 1 %}
+      {% for i in (cnt..cols) %}
+        <div class="friends column">
+          <!-- column filler -->
+        </div>
+      {% endfor %}
+    </div>
+    {% endif %}
+  {% endfor %}
+</div>
 <hr style="margin-bottom: 5px" />
 
 <center>

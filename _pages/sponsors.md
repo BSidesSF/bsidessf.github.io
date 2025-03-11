@@ -6,7 +6,7 @@ title: "Sponsors"
 Our fantastic sponsors make BSidesSF financially possible year after year, none of this is possible without them!
 
 <h3>
-  <p>Sponsorships for BSidesSF 2025 are sold out. Considering joining us as a <a href="/friends">Friend of BSidesSF</a>.
+  <p>Sponsorships for BSidesSF 2025 are sold out. Considering joining us as a <a href="/friends">Friend of BSidesSF</a>.</p>
 </h3>
 
 {% for class in site.data.sponsors.levels %}

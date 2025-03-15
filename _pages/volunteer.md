@@ -65,7 +65,7 @@ BSidesSF is a [registered 501(c)(3) non-profit](https://projects.propublica.org/
 
 ## How do I sign up???
 
-You can sign up for shifts on our new volunteer management page (https://bsidessf2025.volunteerlocal.com). Make sure that you've used a valid email and that you've created an account in https://bsidessf.slack.com so that we can contact you. Use [this link](https://join.slack.com/t/bsidessf/shared_invite/zt-26cftu3iu-P01DII5SpcWdWbnwheJhFw) to sign up if you don't already have an account on Slack. Shift sign ups without these being valid are subject to removal.
+You can sign up for shifts on our new volunteer management page [https://bsidessf2025.volunteerlocal.com](https://bsidessf2025.volunteerlocal.com). Make sure that you've used a valid email and that you've created an account in https://bsidessf.slack.com so that we can contact you. Use [this link](https://join.slack.com/t/bsidessf/shared_invite/zt-26cftu3iu-P01DII5SpcWdWbnwheJhFw) to sign up if you don't already have an account on Slack. Shift sign ups without these being valid are subject to removal.
 
 ## What if I have further questions?
 

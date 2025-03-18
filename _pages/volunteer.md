@@ -33,7 +33,7 @@ We group our volunteer opportunities into several pools.
 * Behind-the-Scenes - These roles require less attendee interaction, but will often require a higher level of agency or operational ability. These roles often involve the setup or teardown of various pieces of the event as it goes along.
 * Social Media  - This role will involve documenting the Bsides experience on social media, as well as talk with attendees about their experiences at Bsides.
 * Safety Ops - These roles are the eyes, ears, and voices of BsidesSF staff, as well as a friendly face for attendees and other volunteers to go to if something is going wrong. Strong communication skills and a cool head are a major benefit to these roles.
-* Room moderators - This attendee-facing role requires that you are comfortable acting as an MC for event talks/workshops. This means you should be able to communicate clearly for both the speaker’s and the audience’s benefit, and ideally have a strong command of the English language. **This role will require a pre-screening, if you'd like to be considered for this role please fill out [this form](https://forms.gle/s71guo4qDvkhFGtF9).
+* Track MC's - This attendee-facing role requires that you are comfortable acting as an MC for event talks/workshops. This means you should be able to communicate clearly for both the speaker’s and the audience’s benefit, and ideally have a strong command of the English language. **This role will require a pre-screening, if you'd like to be considered for this role please fill out [this form](https://forms.gle/s71guo4qDvkhFGtF9).
 
 When you sign up for a shift slot, you will pick one of these larger pools and you will work in one or more of the given roles inside that pool depending on volunteer availability and accessibility needs. For more information on the individual roles, see descriptions below.
 
@@ -121,9 +121,9 @@ You will be the "face" of BSidesSF for all attendees. Your goal is to make a pos
 - Requires interacting with large numbers of people
 - May require standing for long periods of time (accommodations available)
 
-### Room Moderator Positions
+### Presenter Ops Positions
 
-#### *Presentation Room Moderator*
+#### *Presentation Track MC*
 This is a customer-facing position that ensures overall speaker readiness, primarily related to technology and announcing speakers and breaks throughout the day.
 
 **Duties Include:**
@@ -140,7 +140,7 @@ This is a customer-facing position that ensures overall speaker readiness, prima
 - May feature loud sounds/noises/flashes
 - Not wheelchair-friendly
 
-#### *Workshop Room Moderator*
+#### *Workshop Track MC*
 In this position you will be responsible for making sure the workshops are conducted smoothly. Ensure that all attendees and presenters have everything they need during the workshops.
 
 **Duties include:**
@@ -154,7 +154,45 @@ In this position you will be responsible for making sure the workshops are condu
 - Requires interacting with large numbers of people
 - May require standing for long periods of time
 
+### Attendee Facing
+
+#### *Registration*
+In this position, you'll be the first face that every attendee sees as they come to the conference and get themselves registered. You will work with both participants and VIP's to make sure they have everything they need to have an enjoyable BSidesSF before they head through the main doors. Attention to detail and a positive attitude are huge pluses for this role.
+
+**Duties Include:**
+- Assuring attendees get the correct materials (badges/booklets/etc...) upon arrival
+- Answering initial questions about where attendees should go 
+
+**Accessibility:**
+- Requires interacting with large numbers of people
+
+#### *Info Booth*
+You are the go to person for any and all questions our attendees might have during their time at the conference. You'll be a friendly face that folks know they can find if they need help throughout the weekend.
+
+**Duties Include:**
+- Providing information about the conference itself (we'll train you up on what you need to know)
+- Directing attendees to the most appropriate place for their needs
+
+**Accessibility:**
+- Requires interacting with large numbers of people
+
 ### Behind-The-Scenes Volunteer Positions
+
+#### *Setup/Teardown*
+You will be getting the show going or helping it pack up at the end; either way, we need folks who can move all our stuff to and from the famed BSidesSF truck in time for us to get the show on the road (or just get out at a reasonable hour).
+
+**Duties Include:**
+- Helping move the rolling shelves of BSidesSF gear in and out of the ops room
+- Moving packages to and from The Truck as needed
+
+**Accessibility:**
+- Must be able to move at least 20 lbs at least 15 feet without injury
+
+#### *Food & Inventory*
+
+**Duties Include:**
+
+**Accessibility:**
 
 #### *Party*
 In this position, you will contribute to the event setup and tear down team and deliver the ultimate BSidesSF party experience by being a part of the crew responsible for the appearance of the party space! You will be an instrumental force in all setup and tear down configurations pertaining to seating, tables, decorations and all other venue details before and after as required. Your goal will be to perform work under tight deadlines to meet required specifications.

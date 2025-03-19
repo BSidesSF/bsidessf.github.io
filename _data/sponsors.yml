@@ -164,9 +164,9 @@ levels:
         logo: "/images/sponsors_2025/Wiz.png"
         href: "https://wiz.io"
       - type: Daytime Social (Sunday)
-        name: "Pending"
-        logo: "/images/BSidesSF_SponsorshipPending.png"
-        href: "https://bsidessf.org/sponsors/kit"
+        name: "Chainguard"
+        logo: "/images/sponsors_2025/Chainguard.png"
+        href: "https://chainguard.dev"
 
   - level:
     sponsors:
@@ -189,9 +189,9 @@ levels:
         logo: "/images/sponsors_2025/Vercel.png"
         href: "https://vercel.com"
       - type: "Headshots"
-        name: "TBD"
-        logo: "/images/BSidesSF_SponsorshipPending.png"
-        href: "https://bsidessf.org/sponsors/kit"
+        name: "Opal Security"
+        logo: "/images/sponsors_2025/OpalSecurity.png"
+        href: "https://opal.dev"
   - level:
     sponsors:
       - type: "Scholarship"

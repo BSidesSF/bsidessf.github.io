@@ -206,9 +206,12 @@ levels:
   - level: Special Thanks
     sponsors:
       - name: "Bidwell Design"
-        href: "https://bidwelldesign.com/"
         logo: "/images/sponsors_2025/BidwellDesign.png"
+        href: "https://bidwelldesign.com/"
+      - name: "Hak5"
+        logo: "/images/sponsors_2025/Hak5.png"
+        href: "https://hak5.org/"
       - name: "RSAC"
-        href: "https://www.rsaconference.com/usa?utm_source=assoc-bsides&utm_medium=referral&utm_campaign=textad-us2025"
         logo: "/images/sponsors_2025/RSAC.png"
+        href: "https://www.rsaconference.com/usa?utm_source=assoc-bsides&utm_medium=referral&utm_campaign=textad-us2025"
         text: "Unlock Exclusive RSAC™ 2025 Conference Savings. Join thousands of your peers at RSAC™ 2025 in San Francisco from April 28 – May 1. Connect, collaborate, and innovate as the brightest minds in cybersecurity come together for expert-led sessions, inspiring Keynotes, and breakthrough innovation programs. Don’t miss this opportunity to learn, grow, and strengthen the bonds of our cybersecurity community. Register now."

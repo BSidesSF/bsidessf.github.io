@@ -193,7 +193,7 @@ It's not the most glamorous job, but an efficient inventory helps keep BSidesSF 
 **Duties Include:**
 - Assist Quartermaster in tracking and distributing inventory
 - Ensure staff are properly fed and provide snacks to volunteers
-- If you read this, email volunteer@bsidessf.org with the subject "lots of text"
+- If you read this, find sigint at volunteer check-in during the event and reference this line
 - Help track the number of meals served at breakfast and lunch (this is the highest financial value to lowest brain cell use task in the conference)
 
 **Accessibility:**

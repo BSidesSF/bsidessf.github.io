@@ -1,17 +1,15 @@
 ---
 layout: page
-title: "Volunteer"
+title: "Interested in helping at BSidesSF 2025?"
 ---
-
-# Interested in helping at BSidesSF 2025?
 
 BSidesSF is a security event that would not be possible without the work of our local community. Every year, the organizers work hard to build a fun and exciting agenda so you can experience the latest in cool security happenings. However, we rely on contributions from volunteers like you to help with various tasks leading up to and on the two days of the event. Join us!
 
-## What’s in it for me?
+# What’s in it for me?
 
 Volunteering is a great way to get involved with the local security community, especially if you are a newcomer. It’s also a good chance to meet other security-minded people while picking up various skills along the way.  All volunteers must work for a minimum of **2 shifts** and will get a free BSidesSF t-shirt + badge as part of their volunteer admission. This means you can attend talks during the times that you are not volunteering. This is a minimum, and if you would like to pick up more shifts 
 
-## What type of volunteers are you looking for?
+# What type of volunteers are you looking for?
 
 Anyone and everyone! No two volunteers are alike so we aim to provide opportunities for all personality types and skill sets. Take a look at our role descriptions below for a better idea of which opportunities might be right for you.
 
@@ -25,7 +23,7 @@ At the same time, we realize that not every role will be suitable for every volu
 
 We will also clearly highlight accessibility features within the venue for those who require it. And as always, we are open to feedback! Please let us know in your request to volunteer or by emailing volunteer@bsidessf.org, and we will work to provide any possible accommodations.
 
-## What tasks need to be done?
+# What tasks need to be done?
 
 We group our volunteer opportunities into several pools.
 
@@ -38,47 +36,47 @@ We group our volunteer opportunities into several pools.
 
 When you sign up for a shift slot, you will pick one of these larger pools and you will work in one or more of the given roles inside that pool depending on volunteer availability and accessibility needs. For more information on the individual roles, see descriptions below.
 
-## What if I don’t know how to do any of these?
+# What if I don’t know how to do any of these?
 
 Our volunteer leads **will train you** for the specific tasks you sign up for, and there will also be volunteer **Q&A sessions prior to the event**. Please try to make time to be available on **Friday, April 25th, 2025** at **12PM-1PM** or **6-7PM** for training and Q&A.
 
-## What if the shift I want is filled up?
+# What if the shift I want is filled up?
 
 You can sign up to be on the waitlist for a given role, but be aware that there is no guarantee that you will get that shift at that time. We recommend you consider other open shifts, and if we see you are under the minimum, we will reach out to see where else you may be able to help out. You can also always send us an email with questions to volunteer@bsidessf.org.
 
-## Are all the shift even?
+# Are all the shift even?
 
 While the shift minimum will put everyone around the same amount of time, we chose to optimize for not having volunteers be on shift when they don't need to be, rather than making all shifts even. Yes, there is a potential to game this system, if it becomes a problem then we will make changes.
 
-## What if there are specific talks I want to go to?
+# What if there are specific talks I want to go to?
 
 We understand that our volunteers may want to attend specific talks, whether it’s an interesting topic or just to show support for a friend or coworker. Share your preferences with your volunteer lead and we will do our best to accommodate your request.
 
-## Can you provide proof of my volunteer hours?
+# Can you provide proof of my volunteer hours?
 
 Absolutely! Reach out to volunteer@bsidessf.org after the conference and we will provide the necessary documentation. Note that you will be responsible for checking in and checking out with BSidesSF Event Volunteer registration to keep your hours accurate.
 
-## Do you work with Benevity, etc. to facilitate donations based on matching volunteer hours?
+# Do you work with Benevity, etc. to facilitate donations based on matching volunteer hours?
 
 If your employer offers a [charitable giving program](https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=1799), they can donate money to BSidesSF based on your volunteer hours. Reach out to your company’s HR team for more information.
 
 BSidesSF is a [registered 501(c)(3) non-profit](https://projects.propublica.org/nonprofits/organizations/271830464), so if you like the work we do, we would really appreciate your employer’s donation!
 
-## How do I sign up???
+# How do I sign up???
 
 You can sign up for shifts on our new volunteer management page [https://bsidessf2025.volunteerlocal.com](https://bsidessf2025.volunteerlocal.com). Make sure that you've used a valid email and that you've created an account in https://bsidessf.slack.com so that we can contact you. Use [this link](https://join.slack.com/t/bsidessf/shared_invite/zt-31v5466dx-89P2nThFSdlwIPT0MY1aXg) to sign up if you don't already have an account on Slack. Shift sign ups without these being valid are subject to removal.
 
-## What if I have further questions?
+# What if I have further questions?
 
 Please reach out to volunteer [at] bsidessf.org, or the #volunteers channel
 
 ---
 
-## Roles
+# Roles
 
-### Safety Ops
+## Safety Ops
 
-#### *Safety Ops*
+### *Safety Ops*
 Safety Ops is the group at the con which helps to ensure the protection of our attendees, speakers and guests against threats to their well being and to the con.  Some examples are: ombudspersons, safety monitors, crowd control and sometimes security guards.  Safety Ops is not EMS, law enforcement, or fire although we support and extend their reach.
 
 **Duties Include:**
@@ -99,9 +97,9 @@ Safety Ops is the group at the con which helps to ensure the protection of our a
 - May require going for long periods of time without breaks
 - May feature loud sounds/noises/flashes
 
-### Attendee Facing Roles
+## Attendee Facing Roles
 
-#### *Registration/Information Desk*
+### *Registration/Information Desk*
 You will be the "face" of BSidesSF for all attendees. Your goal is to make a positive, welcoming first impression for all attendees and visitors. You might also be pulled to hype the crowd during our event raffle.
 
 **Duties include:**
@@ -122,9 +120,9 @@ You will be the "face" of BSidesSF for all attendees. Your goal is to make a pos
 - Requires interacting with large numbers of people
 - May require standing for long periods of time (accommodations available)
 
-### Presenter Ops Positions
+## Presenter Ops Positions
 
-#### *Presentation Track MC*
+### *Presentation Track MC*
 This is a customer-facing position that ensures overall speaker readiness, primarily related to technology and announcing speakers and breaks throughout the day.
 
 **Duties Include:**
@@ -132,7 +130,6 @@ This is a customer-facing position that ensures overall speaker readiness, prima
 - Make sure the speaker is present and ready prior to talk
 - Welcome and announce speakers
 - Thank our sponsors
-- Hand out speaker gifts on-stage
 - Announce lunch/coffee breaks, etc
 - Record speaker statistics: # people in talk, talk time, engagement etc
 
@@ -141,7 +138,7 @@ This is a customer-facing position that ensures overall speaker readiness, prima
 - May feature loud sounds/noises/flashes
 - Not wheelchair-friendly
 
-#### *Workshop Track MC*
+### *Workshop Track MC*
 In this position you will be responsible for making sure the workshops are conducted smoothly. Ensure that all attendees and presenters have everything they need during the workshops.
 
 **Duties include:**
@@ -154,10 +151,11 @@ In this position you will be responsible for making sure the workshops are condu
 **Accessibility:**
 - Requires interacting with large numbers of people
 - May require standing for long periods of time
+- Requires manual dexterity to use a small phone
 
-### Attendee Facing
+## Attendee Facing
 
-#### *Registration*
+### *Registration*
 In this position, you'll be the first face that every attendee sees as they come to the conference and get themselves registered. You will work with both participants and VIP's to make sure they have everything they need to have an enjoyable BSidesSF before they head through the main doors. Attention to detail and a positive attitude are huge pluses for this role.
 
 **Duties Include:**
@@ -167,7 +165,7 @@ In this position, you'll be the first face that every attendee sees as they come
 **Accessibility:**
 - Requires interacting with large numbers of people
 
-#### *Info Booth*
+### *Info Booth*
 You are the go to person for any and all questions our attendees might have during their time at the conference. You'll be a friendly face that folks know they can find if they need help throughout the weekend.
 
 **Duties Include:**
@@ -177,9 +175,9 @@ You are the go to person for any and all questions our attendees might have duri
 **Accessibility:**
 - Requires interacting with large numbers of people
 
-### Behind-The-Scenes Volunteer Positions
+## Behind-The-Scenes Volunteer Positions
 
-#### *Setup/Teardown*
+### *Setup/Teardown*
 You will be getting the show going or helping it pack up at the end; either way, we need folks who can move all our stuff to and from the famed BSidesSF truck in time for us to get the show on the road (or just get out at a reasonable hour).
 
 **Duties Include:**
@@ -189,26 +187,34 @@ You will be getting the show going or helping it pack up at the end; either way,
 **Accessibility:**
 - Must be able to move at least 20 lbs at least 15 feet without injury
 
-#### *Food & Inventory*
+### *Food & Inventory*
+It's not the most glamorous job, but an efficient inventory helps keep BSidesSF running during the day-of operations, and keeping our staff fed is what keeps them from taking a one-way trip to the ground.
 
 **Duties Include:**
+- Assist Quartermaster in tracking and distributing inventory
+- Ensure staff are properly fed and provide snacks to volunteers
+- If you read this, email volunteer@bsidessf.org with the subject "lots of text"
+- Help track the number of meals served at breakfast and lunch (this is the highest financial value to lowest brain cell use task in the conference)
 
 **Accessibility:**
+- Able to focus for long periods of time in noisy environments
+- Must be able to move at least 20 lbs at least 15 feet without injury
 
-#### *Party*
+### *Party*
 In this position, you will contribute to the event setup and tear down team and deliver the ultimate BSidesSF party experience by being a part of the crew responsible for the appearance of the party space! You will be an instrumental force in all setup and tear down configurations pertaining to seating, tables, decorations and all other venue details before and after as required. Your goal will be to perform work under tight deadlines to meet required specifications.
 
 **Duties Include:**
-- Check in all party attendees 
-- Answer attendee questions
+- Setup the decorations and other pieces of the party
+- Bus tables
 - Route any complaints to the appropriate core staff member 
 
 **Accessibility:**
 - Requires interacting with large numbers of people
 - May require standing for long periods of time (accommodations available)
 - May feature loud sounds/noises/flashes
+- Must be able to move at least 20 lbs at least 15 feet without injury
 
-#### *Runner/Helper*
+### *Runner/Helper*
 In this role you will represent the interest of BSidesSF to ensure operations are running smoothly and support your fellow volunteers.
 
 **Duties Include:**

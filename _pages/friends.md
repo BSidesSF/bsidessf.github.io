@@ -25,7 +25,13 @@ These individuals and organizations have specially donated to help make BSidesSF
     <div class="friends row">
     {% endif %}
       <div class="friends column">
-         <p>{{ friend }}</p>
+        <p>
+        {% if friend.url %}
+          <a href="{{friend.url}}" target=_blank >{{ friend.name }}</a>
+        {% else %}
+          {{ friend.name }}
+        {% endif %}
+        </p>
       </div>
     {% if mod == 0 %}
     </div>
@@ -56,7 +62,13 @@ These individuals and organizations have specially donated to help make BSidesSF
     <div class="friends row">
     {% endif %}
       <div class="friends column">
-         <p>{{ friend }}</p>
+        <p>
+        {% if friend.url %}
+          <a href="{{friend.url}}" target=_blank >{{ friend.name }}</a>
+        {% else %}
+          {{ friend.name }}
+        {% endif %}
+        </p>
       </div>
     {% if mod == 0 %}
     </div>
@@ -87,7 +99,13 @@ These individuals and organizations have specially donated to help make BSidesSF
     <div class="friends row">
     {% endif %}
       <div class="friends column">
-         <p>{{ friend }}</p>
+        <p>
+        {% if friend.url %}
+          <a href="{{friend.url}}" target=_blank >{{ friend.name }}</a>
+        {% else %}
+          {{ friend.name }}
+        {% endif %}
+        </p>
       </div>
     {% if mod == 0 %}
     </div>

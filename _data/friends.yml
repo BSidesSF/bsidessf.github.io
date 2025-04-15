@@ -4,41 +4,42 @@
 #
 # must have at least 1 entry to avoid a build error, blank name works
 ruby:
-- Corellium
-- Maria Mora (riamaria)
-- Nikki Brandt
-- FWMG
-- Nicole "CircuitSwan" Schwartz
-- caseyjohnellis
-- Kevin Hanaford
-- Doug Meier
-- Ryan Koppenhaver
-- JD Mann
-- Doug Wilson
-- qumqats
-- D3ada55
-- Akasame
-- Bakh Inamov
-- Seats.aero
-- "@Coffeetocode"
-- Enso - Remco
-- Enso - Edward
-- David Shipley
-- Adam Arellano
-- bykhee
-- frostbide
-- Dave Herrald
-- Chris Palmer
-- DJ McCulloch
-- Pacific Hackers Association
+  - name: Corellium
+  - name: Maria Mora (riamaria)
+  - name: Nikki Brandt
+  - name: FWMG
+  - name: Nicole "CircuitSwan" Schwartz
+  - name: caseyjohnellis
+  - name: Kevin Hanaford
+  - name: Doug Meier
+  - name: Ryan Koppenhaver
+  - name: JD Mann
+  - name: Doug Wilson
+  - name: qumqats
+  - name: D3ada55
+  - name: Akasame
+  - name: Bakh Inamov
+  - name: Seats.aero
+  - name: "@Coffeetocode"
+  - name: Enso - Remco
+  - name: Enso - Edward
+  - name: David Shipley
+  - name: Adam Arellano
+  - name: bykhee
+  - name: frostbide
+  - name: Dave Herrald
+  - name: Chris Palmer
+  - name: DJ McCulloch
+  - name: Pacific Hackers Association
+    url: https://phack.org/
 
 emerald:
-- Paul Lanzi, IDenovate
-- DepthFirst
-- 'Daniel “DFS” Schwalbe'
+  - name: Paul Lanzi, IDenovate
+  - name: DepthFirst
+  - name: 'Daniel “DFS” Schwalbe'
 
 sapphire:
-- Anna Westelius
-- Kyle Smith
-- Psychoticbrat
-- Mike Mackintosh
+  - name: Anna Westelius
+  - name: Kyle Smith
+  - name: Psychoticbrat
+  - name: Mike Mackintosh

@@ -5,9 +5,12 @@
 # must have at least 1 entry to avoid a build error, blank name works
 ruby:
   - name: Corellium
+    url: https://corellium.com/
   - name: Maria Mora (riamaria)
   - name: Nikki Brandt
   - name: FWMG
+  - name: SummerCon
+    url: https://summercon.org/
   - name: Nicole "CircuitSwan" Schwartz
   - name: caseyjohnellis
   - name: Kevin Hanaford
@@ -22,7 +25,9 @@ ruby:
   - name: Seats.aero
   - name: "@Coffeetocode"
   - name: Enso - Remco
+    url: https://enso.nl/
   - name: Enso - Edward
+    url: https://enso.nl/
   - name: David Shipley
   - name: Adam Arellano
   - name: bykhee
@@ -36,6 +41,7 @@ ruby:
 emerald:
   - name: Paul Lanzi, IDenovate
   - name: DepthFirst
+    url: https://depthfirst.com/
   - name: 'Daniel “DFS” Schwalbe'
 
 sapphire:

@@ -34,6 +34,8 @@
       subhref: "/venue"
     - subtitle: "CTF"
       subhref: "/ctf"
+    - subtitle: "Streams"
+      subhref: "/streams"
 
 - title: "Program"
   href: "/cfp"

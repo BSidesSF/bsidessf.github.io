@@ -37,6 +37,7 @@ ruby:
   - name: DJ McCulloch
   - name: Pacific Hackers Association
     url: https://phack.org/
+  - name: John Cowgill
 
 emerald:
   - name: Paul Lanzi, IDenovate

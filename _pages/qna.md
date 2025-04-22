@@ -5,7 +5,7 @@ title: "Q&A"
 
 Welcome to the Q&A page for BSidesSF 2024. Here you will find all the information needed to participate in the sessions using Slido.
 
-Click [here](https://app.sli.do/event/aifw9fGaoZP7tt93BFFixq) to join the Slido session.
+Click [here](https://app.sli.do/event/oqXWxYFPwSacPNv5D4Y2k6) to join the Slido session.
 
 ## How to Use Slido
 

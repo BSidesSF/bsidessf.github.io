@@ -14,7 +14,7 @@ Slido allows you to directly interact with the speakers by asking questions duri
 ### Step-by-Step Instructions
 
 1. **Access Slido**
-   - You can access Slido by scanning the QR code provided at the venue or by clicking on the link [here](https://app.sli.do/event/aifw9fGaoZP7tt93BFFixq).
+   - You can access Slido by scanning the QR code provided at the venue or by clicking on the link [here](https://app.sli.do/event/oqXWxYFPwSacPNv5D4Y2k6). You can also join go to [slido.com](https://www.slido.com) and enter the code `BSidesSF2025`.
 
 2. **Select the Correct Room**
    - Make sure you select the correct room for the session you are attending. Questions are room-specific and will not make sense if asked in the wrong session.

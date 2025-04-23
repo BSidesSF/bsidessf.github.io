@@ -38,6 +38,8 @@ ruby:
   - name: Pacific Hackers Association
     url: https://phack.org/
   - name: John Cowgill
+  - name: DC916/Cybersecurity Sacramento
+    url: https://www.dc916.com/
 
 emerald:
   - name: Paul Lanzi, IDenovate

@@ -3,7 +3,7 @@ layout: page
 title: "Q&A"
 --- 
 
-Welcome to the Q&A page for BSidesSF 2024. Here you will find all the information needed to participate in the sessions using Slido.
+Welcome to the Q&A page for BSidesSF 2025. Here you will find all the information needed to participate in the sessions using Slido.
 
 Click [here](https://app.sli.do/event/oqXWxYFPwSacPNv5D4Y2k6) to join the Slido session.
 

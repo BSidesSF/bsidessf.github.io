@@ -33,4 +33,4 @@ Beyond these two specific areas, there is a myriad of work needed to make this e
 gritty details such as tracking our budget, tracking and delivering all of the materials needed, working with vendors,
 managing our social presence, finding sponsors and convincing them to join us, and many other important (one might even say critical)
 roles. The time commitment does depend on the role itself, but typically at least a couple hours a week, and often substantial time
-in the coupe of months preceding the event. If this sounds like fun to you, [please apply here](https://forms.gle/pFiVwLXdy1gfN64h7).
+in the coupe of months preceding the event. If this sounds like fun to you, [please apply here](https://forms.gle/RrAZgtvksUzkFHDc9).

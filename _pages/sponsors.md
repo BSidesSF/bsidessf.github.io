@@ -3,11 +3,19 @@ layout: page
 title: "Sponsors"
 ---
 
-Our fantastic sponsors make BSidesSF financially possible year after year, none of this is possible without them!
+Our fantastic sponsors make BSidesSF financially possible year after year, 
+none of this is possible without them!
 
-<h3>
-  <p>Sponsorships for BSidesSF 2025 are sold out. Considering joining us as a <a href="/friends">Friend of BSidesSF</a>.</p>
-</h3>
+We're currently planning 2026, if you would like to be a sponsor please 
+see our [sponsorship kit](/sponsors/kit) for more
+information.
+
+You can also [email us](mailto:sponsors@bsidessf.org) when you want to discuss your
+sponsorhip goals and options.
+
+Thank you to all of the amazing sponsors below that made 2025 into a an amazing
+event.
+
 
 {% for class in site.data.sponsors.levels %}
 
@@ -43,21 +51,3 @@ Our fantastic sponsors make BSidesSF financially possible year after year, none 
     </div>
   </div>
 {% endfor %}
-
-<center>
-  <p>
-    Have further questions about sponsorships? Contact <a href="mailto:sponsors@bsidessf.org">sponsors@bsidessf.org</a>.
-  </p>
-  <p>
-    <em>All names and logos are property of their respective owners.</em>
-  </p>
-  <p>
-    <em>
-      {% for class in site.data.sponsors.levels %}
-        {% for sponsor in class.sponsors %}
-          {{ sponsor.credits }}
-        {% endfor %}
-      {% endfor %}
-    </em>
-  </p>
-</center>

@@ -47,5 +47,6 @@ event. If this sounds like fun to you, [please apply
 here](https://forms.gle/sPLHkNyQ5TuTydfh7).
 
 We are currently considering the following roles:  Sponsor Operations, and
-General Operations, Website Owner. We are in the process of creating the
-descriptions for these roles, and will post them here when they are available.
+General Operations, Artwork Operations, Website Owner. We are in the process of
+creating the descriptions for these roles, and will post them here when they
+are available.

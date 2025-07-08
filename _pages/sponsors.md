@@ -13,8 +13,13 @@ information.
 You can also [email us](mailto:sponsors@bsidessf.org) when you want to discuss your
 sponsorhip goals and options.
 
-Thank you to all of the amazing sponsors below that made 2025 into a an amazing
-event.
+----
+
+<center>
+  <h1>
+    <b>Thank you to out amazing sponsors who made 2025 into a an amazing>event.</b>
+  </h1>
+</center>
 
 
 {% for class in site.data.sponsors.levels %}

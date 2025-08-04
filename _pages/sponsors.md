@@ -17,7 +17,7 @@ sponsorhip goals and options.
 
 <center>
   <h1>
-    <b>Thank you to out amazing sponsors who made 2025 into a an amazing>event.</b>
+    <b>Thank you to out amazing sponsors who made 2025 into a an amazing event.</b>
   </h1>
 </center>
 

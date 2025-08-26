@@ -1,0 +1,8 @@
+# Our security address
+Contact: mailto:security@bsidessf.org
+
+# Our preferred languages
+Preferred-Languages: en
+
+# The URL of this file
+Canonical: https://bsidessf.org/.well-known/security.txt

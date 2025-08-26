@@ -27,6 +27,18 @@
 #       external: # the URL for an external reference for the name above
 
 
+- year: "2025"
+  archived_site: "/a/2025.html"
+  site_git_hash: "289fe6341fc94e64e37d463a20255f6005204875"
+  program_docid: "1yiYL5Z8JYe-z4VSJ4hMDq5EqbAP1m5PZ"
+  closing_ceremony_docid: "1wWrvbBv3FaugI0AB1Npm4TjJ8lmtHbM9SVH1nap3Rqc"
+  youtube_playlist_id: "PLbZzXF2qC3RueNOgyuRfRtZmcb6GfLECE"
+  sched_id: "bsidessf2025"
+  posters_url: ""
+  map_docid: ""
+  bsides_wiki: ""
+  sponsorship_kit_id: "1Ea-dy0UEwML7AOgoNvaBKhMXhJSxu3F-"
+
 - year: "2024"
   archived_site: "/a/2024.html"
   site_git_hash:

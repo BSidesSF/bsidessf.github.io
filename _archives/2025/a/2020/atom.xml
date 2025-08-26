@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="https://bsidessf.org/a/2020/atom.xml" rel="self" type="application/atom+xml" /><link href="https://bsidessf.org/a/2020/" rel="alternate" type="text/html" /><updated>2024-09-21T02:21:46-07:00</updated><id>https://bsidessf.org/a/2020/atom.xml</id><title type="html">BSidesSF</title><subtitle>Security BSides San Francisco is an annual information security conference. It is a conference by the community for the community.
+</subtitle><author><name>BSidesSF</name></author><entry><title type="html">Welcome to BSidesSF 2020</title><link href="https://bsidessf.org/a/2020/news/2020/02/Welcome-to-Participants" rel="alternate" type="text/html" title="Welcome to BSidesSF 2020" /><published>2020-02-21T00:00:00-08:00</published><updated>2020-02-21T00:00:00-08:00</updated><id>https://bsidessf.org/a/2020/news/2020/02/Welcome-to-Participants</id><content type="html" xml:base="https://bsidessf.org/a/2020/news/2020/02/Welcome-to-Participants"><![CDATA[<p>The final countdown is on to BSidesSF 2020 – this Sunday &amp; Monday!
+We want to ensure everybody’s participation is amazing, so please read below for important information concerning this year’s event.</p>
+
+<h3 id="getting-to-the-event">Getting to the Event</h3>
+
+<p>We are back once again at the Metreon located at 135 4th Street in downtown San Francisco. The location of the Metreon lends itself to a few different transportation options. For those looking to take BART or Muni, the Metreon is located about a block from the Powell Street station. For those interested in taking Caltrain, the Metreon is one mile from the King Street station. For those driving, the Fifth and Mission Parking Garage is located directly across 4th Street and offers 24-hour parking.</p>
+
+<p>Once you are inside of the Metreon, take the stairs, escalators, or elevator up to the Mezzanine level for registration. The event will be distributed throughout the AMC Metreon 16 located on the third floor and the City View event space located on the fourth floor. However, you must first register on the Mezzanine to have access to these areas. To expedite registration, please have your QR code ready.</p>
+
+<p>If you pre-purchased a t-shirt, these can be picked up on the fourth floor (City View) at Coat Check beginning at 11:00am on Sunday.</p>
+
+<h3 id="before-you-attend">Before You Attend</h3>
+
+<p>Before you attend the event, we ask that you review our <a href="https://bsidessf.org/about/code-of-conduct.html">Code of Conduct</a>
+as well as our <a href="https://bsidessf.org/about/photo-policy.html">Photo and Video Policies</a>. We require that all guests
+abide by our policies and show respect and tolerance for each other’s uniqueness. We have no tolerance for physical,
+verbal, or sexual harassment; intimidation; or marginalization of any human! Additionally, due to venue restrictions,
+please note we only allow service animals at the event and will not be able to store bikes or scooters within the venue.</p>
+
+<h3 id="two-full-days-of-talks-events-and-happenings">Two Full Days of Talks, Events, and Happenings</h3>
+
+<p>Doors will open at 9am and talks begin at 10am. The full schedule of events can be found on
+<a href="https://bsidessf2020.sched.com/">Sched</a> and HackerTracker (on Android and iOS). All talks, villages,
+and the CTF are open to any and all participants; if there is an open seat, it’s yours. For questions
+during talks, we will be using <a href="slido.com">Slido</a> with code #BSidesSF2020.</p>
+
+<p>We encourage all participants to take a stroll through the Participant Hall and visit all our sponsors, without
+whom this event would not be possible. Many of our sponsors are actively recruiting, so we encourage you to stop
+by their booths to learn more if you are interested in new opportunities. We’ll be raffling off some really awesome
+items, so make sure to get your Sponsor Passport stamped and turned in prior to the daily raffle.</p>
+
+<h3 id="novel-coronavirus-covid-19">Novel Coronavirus (COVID-19)</h3>
+
+<p>We have been closely monitoring the COVID-19 situation in partnership with the San Francisco Department of Public Health.
+We take the risk to our community very seriously and want to make sure we are protecting our participants (you!) as best
+we can. SFDPH’s current guidance is to continue business as usual and they do not recommend that any events be canceled.
+However, we are taking several precautions:</p>
+
+<ul>
+  <li>All registration bags include hand sanitizer courtesy of one of our sponsors – please use it!</li>
+  <li>All bathrooms and most major areas contain hand sanitizer available for use.</li>
+  <li>We ask that you practice “Respiratory Hygiene” / “Cough Etiquette” – cover your mouth and nose with a flexed elbow or tissue (not your hands) when you cough or sneeze; avoid touching your hands, nose, and mouth to avoid transferring germs from surfaces; discard any used tissue immediately into a trash can; and wash your hands with an alcohol-based sanitizer and/or soap and water right away.</li>
+  <li>All major surfaces will be regularly sanitized throughout the event, including presenter microphones between uses.</li>
+  <li>If you feel sick, are experiencing any cold/flu-like symptoms or have traveled to a COVID-19 affected region within the past two weeks, for your own safety and the safety of everyone else please stay home, rest up, and get well. We’ll post the talk recordings online in a few weeks. Reply to this email, and we will be happy to provide you a refund.</li>
+</ul>
+
+<h3 id="event-wifi">Event WiFi</h3>
+
+<p>We support both 802.1x EAP and WPA2 PSK.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>EAP SSID: BSidesSF
+User: bsides
+Password: bsides
+</code></pre></div></div>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>WPA2 SSID: BSidesSF-Static
+WPA2 Key: bsidessf
+</code></pre></div></div>
+
+<p>Visit https://wifi.bsidessf.org to download the EAP CA, iOS profile, and for more information.</p>
+
+<p>We are looking forward to seeing you this Sunday! If you have any questions, please contact info@bsidessf.org.</p>
+
+<p>Until then,</p>
+
+<p>The BSidesSF Staff</p>]]></content><author><name>BSidesSF</name></author><category term="post" /><summary type="html"><![CDATA[The final countdown is on to BSidesSF 2020 – this Sunday &amp; Monday! We want to ensure everybody’s participation is amazing, so please read below for important information concerning this year’s event.]]></summary></entry><entry><title type="html">Running the BSides SF 2019 CTF</title><link href="https://bsidessf.org/a/2020/news/2019/03/running-the-bsides-sf-2019-ctf" rel="alternate" type="text/html" title="Running the BSides SF 2019 CTF" /><published>2019-03-10T00:00:00-08:00</published><updated>2019-03-10T00:00:00-08:00</updated><id>https://bsidessf.org/a/2020/news/2019/03/running-the-bsides-sf-2019-ctf</id><content type="html" xml:base="https://bsidessf.org/a/2020/news/2019/03/running-the-bsides-sf-2019-ctf"><![CDATA[<p>By <a href="https://twitter.com/matir">@Matir</a>, 2019 CTF Team Lead.</p>
+
+<h2 id="the-event">The Event</h2>
+
+<p>This year, I had the privilege to lead the team for the BSides San Francisco
+CTF.  We had 1112 active players on 676 teams over the 32 hour CTF.
+Collectively, 2740 flags were submitted to 41 of our 43 challenges.  So far, the
+<a href="https://ctftime.org/event/753/weight/">CTFTime ratings</a> have been excellent,
+and I hope we’ll be able to do that again.</p>
+
+<p>Before I go any further, I want to give kudos to my entire team:</p>
+
+<ul>
+  <li><a href="https://twitter.com/iagox86">iagox86</a></li>
+  <li><a href="https://twitter.com/itsC0rg1">c0rg1</a></li>
+  <li><a href="https://twitter.com/bmenrigh">symmetric</a></li>
+  <li><a href="https://twitter.com/cornflakesavage">bryane</a></li>
+  <li><a href="https://twitter.com/exploitexercise">exploitexercise</a></li>
+</ul>
+
+<p>This would not have been possible without all their efforts.  I also want to
+give a special shoutout to Puneet, who handled all the physical logistics for us
+so we could focus on building the CTF.  I also want to thank the BSidesSF staff
+and volunteers for giving us the space and opportunity to do this.  Also thanks
+to the bar staff for keeping us “hydrated!”</p>
+
+<h2 id="the-infrastructure">The Infrastructure</h2>
+
+<p>(Full disclosure: I’m a member of the Google Information Security Team.)</p>
+
+<p>We were running <a href="https://github.com/google/ctfscoreboard">the scoreboard</a> I
+originally wrote for the Google CTF (though it’s no longer used for that
+purpose), hosted on <a href="https://cloud.google.com/appengine/">Google AppEngine</a>.  I
+love hosting apps on a runtime like that – the scaling and replication is just
+magic, so we didn’t have the typical latency spike a lot of CTFs do at the very
+beginning.  95th percentile latency remained under 500ms, which is a result I’m
+very happy with.</p>
+
+<p><img src="/images/ctf_2019/sb_traffic.png" alt="Traffic" /></p>
+
+<p>All of the online challenges were run on Kubernetes on <a href="https://cloud.google.com/">Google Cloud
+Platform</a> (for the 3rd year straight).
+We continue to love this option, because we run Docker locally for building &amp;
+testing challenges, then transform these images straight to Kubernetes.
+Additionally, Kubernetes provides capabilities like load balancing that allow us
+to scale challenges up when some people feel the need to try to brute force.</p>
+
+<p>This year, for the first time, we attempted to use Network Policies to prevent
+access to the GCP metadata API, which worked, until I inadvertantly deleted the
+policies while debugging an issue with another challenge.  Fortunately, I don’t
+believe this was exploited during the CTF, but I did notice some exploitation
+attempts after the game.</p>
+
+<p>Another first for this year was the use of an <code class="language-plaintext highlighter-rouge">Ingress</code> for all of our HTTP
+services.  We used a wildcard certificate from Let’s Encrypt and then performed
+distribution to backends based on the hostname provided by the client.  This
+allowed us to use a single external IP, easily provide HTTPS for the challenges,
+and also provided load balancing for the challenges.</p>
+
+<p>All of this infrastructure comes with some difficulties compared to just
+spinning up a bunch of VMs.  First off, there’s layers of complexity, like the
+load balancers and the pods that contain containers.  There’s multiple backends,
+so if only one is acting up, it’s harder to debug.  Additionally, for anything
+with load balancing, it either needs to be stateless, or you need a way to sync
+the state.  (IP load balancing might work, except we had a large portion of our
+players coming from the one IP on site.)</p>
+
+<p><a href="https://cloud.google.com/">Google Cloud</a> was nice enough to give us credits to
+run all of our infrastructure, so big thanks to them for making this possible
+for over 1100 players.  Questions about how we ran this?  Reach out to me on
+<a href="https://twitter.com/matir">Twitter</a> or see my follow-up
+<a href="https://systemoverlord.com">blog posts</a>.</p>
+
+<h2 id="challenges">Challenges</h2>
+
+<p>Rather than trying to describe the challenges, I’d rather just point to our
+public <a href="https://github.com/bsidessf/ctf-2019-release">release of our source
+code</a>.  Check out the challenges
+and keep in mind that (as of writing) we’re still running the services and the
+<a href="https://ctf.bsidessf.net">scoreboard</a>.  Give them a shot and now you can see
+how the source and actual service interact.</p>
+
+<h2 id="winners">Winners</h2>
+
+<p>Congratulations to our 3 winners:</p>
+
+<ol>
+  <li>dcua (2nd year running)</li>
+  <li>perfect blue</li>
+  <li>OpenToAll</li>
+</ol>
+
+<p>I also want to congratulate every team that played.  If you learned something or
+had a good time (preferrably both), then we did our jobs correctly.</p>
+
+<h2 id="writeups">Writeups</h2>
+
+<p>There have been a number of challenge writeups appearing, including author
+writeups:</p>
+
+<ul>
+  <li><a href="https://systemoverlord.com/">My Author Writeups</a></li>
+  <li><a href="https://ctftime.org/event/753/tasks/">CTFTime Writeups</a></li>
+  <li><a href="https://aadityapurani.com/2019/03/07/bsidessf-ctf-2019-mobile-track/">dcua Writeups</a></li>
+  <li><a href="https://x0r19x91.github.io/2019/bsides-opendoor">xor19x91 Writeup</a></li>
+</ul>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>It’s been a fun year, and most of the staff will be back for next year.  If
+you’re interested in joining us to write some challenges, please reach out to
+<code class="language-plaintext highlighter-rouge">ctf@</code> this domain.  We’d love to have new talent, feedback, or suggestions.</p>]]></content><author><name>BSidesSF</name></author><category term="CTF" /><category term="CTF" /><category term="BSidesSF" /><summary type="html"><![CDATA[By @Matir, 2019 CTF Team Lead.]]></summary></entry><entry><title type="html">Hackers with Hackers</title><link href="https://bsidessf.org/a/2020/news/2019/03/hackers" rel="alternate" type="text/html" title="Hackers with Hackers" /><published>2019-03-03T23:00:00-08:00</published><updated>2019-03-03T23:00:00-08:00</updated><id>https://bsidessf.org/a/2020/news/2019/03/hackers</id><content type="html" xml:base="https://bsidessf.org/a/2020/news/2019/03/hackers"><![CDATA[<p>Come join us and <a href="https://twitter.com/iamthecavalry">@iamthecavalry</a> for a showing of Hackers tonight at 7pm in theater 7. <a href="https://bsidessf.org/hackers">Grab a ticket</a> and head to the entrance to the left of AMC concessions at 6:40pm to pick it up.</p>]]></content><author><name>BSidesSF</name></author><summary type="html"><![CDATA[Come join us and @iamthecavalry for a showing of Hackers tonight at 7pm in theater 7. Grab a ticket and head to the entrance to the left of AMC concessions at 6:40pm to pick it up.]]></summary></entry><entry><title type="html">Welcome to BSidesSF 2019!</title><link href="https://bsidessf.org/a/2020/news/2019/03/welcome-to-bsidessf" rel="alternate" type="text/html" title="Welcome to BSidesSF 2019!" /><published>2019-03-01T19:00:00-08:00</published><updated>2019-03-01T19:00:00-08:00</updated><id>https://bsidessf.org/a/2020/news/2019/03/welcome-to-bsidessf</id><content type="html" xml:base="https://bsidessf.org/a/2020/news/2019/03/welcome-to-bsidessf"><![CDATA[<p>The final countdown is on to BSidesSF 2019!</p>
+
+<p><strong>Getting to the Event</strong></p>
+
+<p>We are back once again at the Metreon located at 135 4th Street in downtown San Francisco. The location of the Metreon lends itself to a few different transportation options. For those looking to take BART, the Metreon is located only a couple of blocks from the Powell Street station. For those interested in taking Caltrain, the Metreon is one mile from the King Street station. For those driving, the Fifth and Mission Parking Garage is located directly across Fourth Street and offers 24-hour parking.</p>
+
+<p>The Metreon will be closed to the general public until 10:30am both Sunday and Monday, so you will need to enter through the Yerba Buena Gardens entrance located most closely to Mission Street. Once you are inside of the Metreon, take the stairs, escalators, or elevator up to the Mezzanine level for registration. The event will be distributed throughout the AMC Metreon 16 located on the third floor and the City View event space located on the fourth floor, but you must first register on the Mezzanine to have access to these areas. To expedite registration, please have your QR code ready.</p>
+
+<p>If you pre-purchased a t-shirt, these can be picked up on the fourth floor beginning at 12:15pm on Sunday.</p>
+
+<p><strong>Before You Attend</strong></p>
+
+<p>Before you attend the event, we ask that you review our <a href="https://bsidessf.org/about/code-of-conduct.html">Code of Conduct</a>  as well as our <a href="https://bsidessf.org/about/photo-policy.html">Photo and Video Policies</a>. We require that all guests show respect and tolerance for each other’s uniqueness. We have no tolerance for physical, verbal, or sexual harassment; intimidation; or marginalization of any human!</p>
+
+<p><strong>Two Full Days of Talks, Events, and Happenings</strong></p>
+
+<p>The full schedule of events can be found on <a href="https://bsidessf2019.sched.com/">Sched</a>. All talks, villages, and the CTF are open to any and all conference participants; if there is an open seat, it’s yours. The Living Security Escape Room runs multiple times each day, and registration is necessary as only eight individuals can participate at one time. Registration is available on-site, but times may fill-up quickly so <a href="https://www.eventbrite.com/e/bsidessf-security-escape-room-presented-by-living-security-tickets-56370646120">pre-registration</a>  is recommended.</p>
+
+<p>We encourage all participants to take a stroll through the Sponsor Lounge, which will include representatives from some of the organizations that made this year’s event possible. Many of our sponsors are actively recruiting, so we encourage you to stop by their booths to learn more if you are interested in new opportunities. We’d like to bring special attention to these sponsors who have called out recruiting as a key reason for their sponsorship: <a href="https://www.hackerone.com/careers/">HackerOne</a>, <a href="https://ca.indeed.com/cmp/Cmd-923823e9/about">Cmd</a>, <a href="https://careers.google.com/jobs/">Google</a>, <a href="https://www.oath.com/careers/work-at-oath/">Verizon Media</a> , <a href="https://jobs.netflix.com/">Netflix</a>, and <a href="https://stripe.com/jobs">Stripe</a>.</p>
+
+<p><strong>Event WiFi</strong></p>
+
+<p>We support both 802.1x EAP and WPA2 PSK.</p>
+
+<p>EAP SSID: BSidesSF
+User: bsides 
+Password: bsides</p>
+
+<p>WPA2 SSID: BSidesSF-Static
+WPA2 Key: bsidessf</p>
+
+<p>Visit <a href="https://wifi.bsidessf.org">https://wifi.bsidessf.org</a>  to download the EAP CA, iOS profile, and for more information.</p>
+
+<p><strong>After the Event</strong></p>
+
+<p>Following closing ceremonies on Monday, BSidesSF and I Am The Cavalry are teaming up for a showing of Hackers. Watch Hackers with hackers! The movie begins at 7:00pm sharp and will be shown in the AMC Metreon 16. Tickets can be purchased <a href="https://bsidessf.ticketspice.com/hackers-bsidessf-2019">here</a> for $20. (Please note, a ticket to the movie is not included with your BSidesSF conference pass.)</p>
+
+<p>We are looking forward to seeing you on Sunday! If you have any questions, please contact info@bsidessf.org.</p>
+
+<p>Until then,
+The BSidesSF Staff</p>
+
+<p><img src="https://bsidessf.org/images/venue_2019/map.jpg" alt="Bsides 2019 Map" title="Bsides 2019 Map" /></p>]]></content><author><name>BSidesSF</name></author><summary type="html"><![CDATA[The final countdown is on to BSidesSF 2019!]]></summary></entry><entry><title type="html">BSidesSF 2019 Registration Now Open!</title><link href="https://bsidessf.org/a/2020/news/2019/01/registration-open" rel="alternate" type="text/html" title="BSidesSF 2019 Registration Now Open!" /><published>2019-01-16T19:00:00-08:00</published><updated>2019-01-16T19:00:00-08:00</updated><id>https://bsidessf.org/a/2020/news/2019/01/registration-open</id><content type="html" xml:base="https://bsidessf.org/a/2020/news/2019/01/registration-open"><![CDATA[<p>It’s that time again - registration for BSidesSF 2019 is now open! Get your tickets here: <a href="https://bsidessf.regfox.com/2019">https://bsidessf.regfox.com/2019</a> and join us Sunday, March 3rd and Monday, March 4th. Our workshops are also coming back this year but with a twist! We’ll be holding them off-site at Splunk HQ on Saturday, March 2nd. Workshop slots are first come, first serve, so if you’re interested, sign-up while seats are still available.</p>
+
+<p>All tickets include breakfast and lunch both days, multiple drinks, and admission to the awesome Sunday Night Party!</p>
+
+<p>See you in March ~</p>]]></content><author><name>BSidesSF</name></author><summary type="html"><![CDATA[It’s that time again - registration for BSidesSF 2019 is now open! Get your tickets here: https://bsidessf.regfox.com/2019 and join us Sunday, March 3rd and Monday, March 4th. Our workshops are also coming back this year but with a twist! We’ll be holding them off-site at Splunk HQ on Saturday, March 2nd. Workshop slots are first come, first serve, so if you’re interested, sign-up while seats are still available.]]></summary></entry><entry><title type="html">BSidesSF 2019 CFP First Round Speakers</title><link href="https://bsidessf.org/a/2020/news/2018/11/cfp-first-round-speakers-announced" rel="alternate" type="text/html" title="BSidesSF 2019 CFP First Round Speakers" /><published>2018-11-16T02:05:00-08:00</published><updated>2018-11-16T02:05:00-08:00</updated><id>https://bsidessf.org/a/2020/news/2018/11/cfp-first-round-speakers-announced</id><content type="html" xml:base="https://bsidessf.org/a/2020/news/2018/11/cfp-first-round-speakers-announced"><![CDATA[<p>BSidesSF CFP first round accepted 5 talks.  Congratulations to the first round speakers!</p>
+
+<p><em>How to lose a container in 10 minutes</em> by <strong>Sarah Young</strong></p>
+
+<p><em>HTTP Security Headers - a technology history through scar tissue</em> by <strong>Benjamin Hering</strong></p>
+
+<p><em>WHOIS calling the 80’s to get their Finger back: LOL with old TCP services</em> by <strong>Joakim Kennedy</strong></p>
+
+<p><em>Cats? In my Certificate Transparency logs? It’s more likely than you think.</em> by <strong>Ian Haken</strong></p>
+
+<p><em>How to Orchestrate a Cyber Security Incident Tabletop Exercise.</em> by <strong>Melanie Masterson</strong></p>
+
+<p>Stay tuned for the announcement of the second round submissions!</p>]]></content><author><name>BSidesSF</name></author><summary type="html"><![CDATA[BSidesSF CFP first round accepted 5 talks. Congratulations to the first round speakers!]]></summary></entry><entry><title type="html">Call for Workshops for BSidesSF 2019</title><link href="https://bsidessf.org/a/2020/news/2018/11/call-for-workshops-2019" rel="alternate" type="text/html" title="Call for Workshops for BSidesSF 2019" /><published>2018-11-01T00:00:00-07:00</published><updated>2018-11-01T00:00:00-07:00</updated><id>https://bsidessf.org/a/2020/news/2018/11/call-for-workshops-2019</id><content type="html" xml:base="https://bsidessf.org/a/2020/news/2018/11/call-for-workshops-2019"><![CDATA[<p>BSidesSF is soliciting workshops for the 2019 BSidesSF conference to be held in San Francisco on Saturday, March 2nd, 2019.</p>
+
+<p>Our call for workshops process is new this year, as we want to make sure we have a wide variety of courses available for our participants.</p>
+
+<p>To all of you who think you have an awesome course to present – take a look and get writing. You’ve got until December 7th to make your submission.</p>
+
+<p>For complete details and information on how to submit, check out <a href="/cfw.html">Call for Workshops</a>.</p>
+
+<p>Spread the word!</p>]]></content><author><name>BSidesSF</name></author><summary type="html"><![CDATA[BSidesSF is soliciting workshops for the 2019 BSidesSF conference to be held in San Francisco on Saturday, March 2nd, 2019.]]></summary></entry><entry><title type="html">Call for Papers for BSidesSF 2019</title><link href="https://bsidessf.org/a/2020/news/2018/09/call-for-papers-2019" rel="alternate" type="text/html" title="Call for Papers for BSidesSF 2019" /><published>2018-09-01T00:00:00-07:00</published><updated>2018-09-01T00:00:00-07:00</updated><id>https://bsidessf.org/a/2020/news/2018/09/call-for-papers-2019</id><content type="html" xml:base="https://bsidessf.org/a/2020/news/2018/09/call-for-papers-2019"><![CDATA[<p>BSidesSF is soliciting papers and presentations for the 2019 BSidesSF conference to be held at City View at Metreon in San Francisco on Sunday, March 3rd &amp; Monday, March 4th, 2019.</p>
+
+<p>Our call for papers process is fairly standard, but please do take the time to read through the information, as there are changes every year.</p>
+
+<p>To all of you who think you have something to say – take a look and get writing. You’ve got until <del>October 31st</del>November 15th to make your submission.</p>
+
+<p>For complete details and information on how to submit, check out <a href="/cfp.html">Call for Papers</a>.</p>
+
+<p>Spread the word!</p>]]></content><author><name>BSidesSF</name></author><summary type="html"><![CDATA[BSidesSF is soliciting papers and presentations for the 2019 BSidesSF conference to be held at City View at Metreon in San Francisco on Sunday, March 3rd &amp; Monday, March 4th, 2019.]]></summary></entry><entry><title type="html">Welcome to BSidesSF 2018!</title><link href="https://bsidessf.org/a/2020/news/2018/04/welcome-to-bsides" rel="alternate" type="text/html" title="Welcome to BSidesSF 2018!" /><published>2018-04-15T03:05:01-07:00</published><updated>2018-04-15T03:05:01-07:00</updated><id>https://bsidessf.org/a/2020/news/2018/04/welcome-to-bsides</id><content type="html" xml:base="https://bsidessf.org/a/2020/news/2018/04/welcome-to-bsides"><![CDATA[<h1 id="get-to-the-conference">Get to the conference</h1>
+<p>Welcome to BSidesSF 2018!  To get to the conference, enter the Metreon through the Yerba Buena entrance and take the escalators or elevator to the 4th floor.  Stop by the registration desk (open 9am-6pm Sunday and 9am-4pm Monday) to pick up your badge, and then go enjoy some awesome talks, people, villages, and workshops!</p>
+
+<h1 id="directions-from-bart">Directions from BART</h1>
+<p>If you’re taking MUNI Metro or BART, get off at Powell Street Station and follow the signs to the 4th St/Moscone Center exits. Once above ground, go straight for half a block and take a right onto the pedestrian alley between Peet’s Coffee and Equinox, continue across Mission Street and into Yerba Buena Gardens. The entrance will be on your right past Lemonade.</p>
+
+<h1 id="nearby-parking">Nearby parking</h1>
+<p>Parking garages are available at:
+5th &amp; Mission
+3rd &amp; Folsom</p>
+
+<h1 id="schedule">Schedule</h1>
+<p>Please see the <a href="https://bsidessf2018.sched.com/">sched page</a>.</p>
+
+<h1 id="conference-map">Conference map</h1>
+
+<p><img src="/images/venue_2018/map.jpg" alt="Venue map" /></p>]]></content><author><name>BSidesSF</name></author><summary type="html"><![CDATA[Get to the conference Welcome to BSidesSF 2018! To get to the conference, enter the Metreon through the Yerba Buena entrance and take the escalators or elevator to the 4th floor. Stop by the registration desk (open 9am-6pm Sunday and 9am-4pm Monday) to pick up your badge, and then go enjoy some awesome talks, people, villages, and workshops!]]></summary></entry><entry><title type="html">Just Two Weeks Left!</title><link href="https://bsidessf.org/a/2020/news/2018/04/two-weeks" rel="alternate" type="text/html" title="Just Two Weeks Left!" /><published>2018-04-01T20:30:00-07:00</published><updated>2018-04-01T20:30:00-07:00</updated><id>https://bsidessf.org/a/2020/news/2018/04/two-weeks</id><content type="html" xml:base="https://bsidessf.org/a/2020/news/2018/04/two-weeks"><![CDATA[<p>We’re just two weeks away from BSidesSF 2018! Tickets are still available but going quickly, so make sure you <a href="/tickets.html">get yours today.</a> Also check out and customize your <a href="https://bsidessf2018.sched.com">own schedule</a>.</p>
+
+<p>We also have a few more open volunteer slots. If you’re interested in getting a free ticket and helping to make the conference awesome, take a look at <a href="/volunteer.html">the available openings.</a></p>
+
+<p>If you have any questions, feel free to contact us at info [@] bsidessf.org or join <a href="https://bsidessf-slack.herokuapp.com/">#general on our Slack</a>.</p>]]></content><author><name>BSidesSF</name></author><summary type="html"><![CDATA[We’re just two weeks away from BSidesSF 2018! Tickets are still available but going quickly, so make sure you get yours today. Also check out and customize your own schedule.]]></summary></entry></feed>

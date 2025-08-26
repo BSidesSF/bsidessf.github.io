@@ -13,17 +13,7 @@ information.
 You can also [email us](mailto:sponsors@bsidessf.org) when you want to discuss your
 sponsorhip goals and options.
 
-----
-
-<center>
-  <h1>
-    <b>Thank you to out amazing sponsors who made 2025 into a an amazing event.</b>
-  </h1>
-</center>
-
-
 {% for class in site.data.sponsors.levels %}
-
   <div style="text-align: center;" class="sponsors {{ class.class }}">
     {% if class.level %}
       <h1>{{ class.level }}</h1>

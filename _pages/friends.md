@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Friends of BSidesSF 2025
+title: Friends of BSidesSF 2026
 ---
 
 {% assign cols = 4 %}
 
 <center>
 <p>BSidesSF thanks all of its friends.<br/>
-These individuals and organizations have specially donated to help make BSidesSF 2025 possible!
+These individuals and organizations have specially donated to help make BSidesSF 2026 possible!
 </p>
 </center>
 

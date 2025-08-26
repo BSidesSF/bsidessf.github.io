@@ -3,53 +3,8 @@
 #  link: The single URL they provided (if)
 #
 # must have at least 1 entry to avoid a build error, blank name works
-ruby:
-  - name: Corellium
-    url: https://corellium.com/
-  - name: Maria Mora (riamaria)
-  - name: Nikki Brandt
-  - name: FWMG
-  - name: SummerCon
-    url: https://summercon.org/
-  - name: Nicole "CircuitSwan" Schwartz
-  - name: caseyjohnellis
-  - name: Kevin Hanaford
-  - name: Doug Meier
-  - name: Ryan Koppenhaver
-  - name: JD Mann
-  - name: Doug Wilson
-  - name: qumqats
-  - name: D3ada55
-  - name: Akasame
-  - name: Bakh Inamov
-  - name: Seats.aero
-  - name: "@Coffeetocode"
-  - name: Enso - Remco
-    url: https://enso.nl/
-  - name: Enso - Edward
-    url: https://enso.nl/
-  - name: David Shipley
-  - name: Adam Arellano
-  - name: bykhee
-  - name: frostbide
-  - name: Dave Herrald
-  - name: Chris Palmer
-  - name: DJ McCulloch
-  - name: Pacific Hackers Association
-    url: https://phack.org/
-  - name: John Cowgill
-  - name: DC916/Cybersecurity Sacramento
-    url: https://www.dc916.com/
-  - name: Frenchie
+ruby: []
 
-emerald:
-  - name: Paul Lanzi, IDenovate
-  - name: DepthFirst
-    url: https://depthfirst.com/
-  - name: 'Daniel “DFS” Schwalbe'
+emerald: []
 
-sapphire:
-  - name: Anna Westelius
-  - name: Kyle Smith
-  - name: Psychoticbrat
-  - name: Mike Mackintosh
+sapphire: []

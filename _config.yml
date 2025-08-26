@@ -12,10 +12,9 @@ header: yes
 # default between events
 # header_sm: /images/bsides_logo_full-orangeblack.png
 # header_lg: /images/bsides_logo_full-orangeblack.png
-#
 # event-specific header
-header_sm: /images/bsides_logo_full-orangeblack.png
-header_lg: /images/bsides_logo_full-orangeblack.png
+header_sm: /images/BSidesSF_2026_WebsiteTempHeader.png
+header_lg: /images/BSidesSF_2026_WebsiteTempHeader.png
 
 # adjust colors in _sass/_variables.scss
 

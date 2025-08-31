@@ -28,7 +28,7 @@ levels:
       - name: "Sublime Security"
         logo: "/images/sponsors_2026/SublimeSecurity.svg"
         href: "https://sublime.security"
-      - name: "Pending"
+      - name: "TBD"
         logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
         href: "https://bsidessf.org/sponsors/kit"
 
@@ -68,19 +68,25 @@ levels:
         logo: "/images/sponsors_2026/TruffleSecurity.png"
         href: "https://trufflesec.com"
       - name: "Pending"
-        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        #name: "DryRun Security"
+        logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors/kit"
       - break: true
       - name: "Pending"
-        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        #name: "Wiz"
+        logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors/kit"
       - name: "Pending"
+        #name: "Torq"
+        logo: "/images/BSidesSF_SponsorshipPending.png"
+        href: "https://bsidessf.org/sponsors/kit"
+      - name: "TBD"
         logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
         href: "https://bsidessf.org/sponsors/kit"
-      - name: "Pending"
+      - name: "TBD"
         logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
         href: "https://bsidessf.org/sponsors/kit"
-      - name: "Pending"
+      - name: "TBD"
         logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
         href: "https://bsidessf.org/sponsors/kit"
 
@@ -125,18 +131,19 @@ levels:
 
       - break: true
       - name: "Pending"
+        #name: "Bright"
+        logo: "/images/BSidesSF_SponsorshipPending.png"
+        href: "https://bsidessf.org/sponsors/kit"
+      - name: "TBD"
         logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
         href: "https://bsidessf.org/sponsors/kit"
-      - name: "Pending"
+      - name: "TBD"
         logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
         href: "https://bsidessf.org/sponsors/kit"
-      - name: "Pending"
+      - name: "TBD"
         logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
         href: "https://bsidessf.org/sponsors/kit"
-      - name: "Pending"
-        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
-        href: "https://bsidessf.org/sponsors/kit"
-      - name: "Pending"
+      - name: "TBD"
         logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
         href: "https://bsidessf.org/sponsors/kit"
 
@@ -145,65 +152,66 @@ levels:
   - level:
     sponsors:
       - type: Daytime Social (Saturday)
-        name: "Pending"
+        name: "TBD"
         logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
         href: "https://bsidessf.org/sponsors/kit"
       - type: Evening Social (Saturday)
-        name: "Pending"
+        name: "TBD"
         logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
         href: "https://bsidessf.org/sponsors/kit"
       - type: Daytime Social (Sunday)
-        name: "Pending"
+        name: "TBD"
         logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
         href: "https://bsidessf.org/sponsors/kit"
 
   - level:
     sponsors:
       - type: Capture the Flag
-        name: "Pending"
+        name: "TBD"
         logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
         href: "https://bsidessf.org/sponsors/kit"
       - type: Lanyard
+        #name: "DryRun Security"
         name: "Pending"
-        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors/kit"
       - type: Lanyard
-        name: "Pending"
+        name: "TBD"
         logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
         href: "https://bsidessf.org/sponsors/kit"
 
   - level:
     sponsors:
       - type: "Espresso and Coffee"
-        name: "Pending"
+        name: "TBD"
         logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
         href: "https://bsidessf.org/sponsors/kit"
       - type: "Espresso and Coffee"
-        name: "Pending"
+        name: "TBD"
         logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
         href: "https://bsidessf.org/sponsors/kit"
       - type: "Espresso and Coffee"
-        name: "Pending"
+        name: "TBD"
         logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
         href: "https://bsidessf.org/sponsors/kit"
   - level:
     sponsors:
       - type: "Graphic Recordings"
-        name: "Pending"
+        name: "TBD"
         logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
         href: "https://bsidessf.org/sponsors/kit"
       - type: "Headshots"
-        name: "Pending"
+        name: "TBD"
         logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
         href: "https://bsidessf.org/sponsors/kit"
   - level:
     sponsors:
       - type: "Scholarship"
-        name: "Pending"
+        name: "TBD"
         logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
         href: "https://bsidessf.org/sponsors/kit"
       - type: "WiFi"
-        name: "Pending"
+        name: "TBD"
         logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
         href: "https://bsidessf.org/sponsors/kit"
 

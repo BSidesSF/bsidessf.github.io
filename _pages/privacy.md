@@ -31,6 +31,8 @@ BSidesSF uses various third party services to provide the Site, related services
 
 * [Sched](https://sched.com/about/legal/privacy-policy)
 
+* [Sessionize](https://sessionize.com/privacy-policy/)
+
 * [Shopify](https://www.shopify.com/legal/privacy)
 
 * [Slack](https://slack.com/privacy-policy)
@@ -139,15 +141,21 @@ BSidesSF via its provider Slido collects the following information from feedback
 
 We will use this information to contact you and/or provide updates regarding the feedback / Q&A you submitted. If you do not wish for us to retain this information, please contact info[@]bsidessf.org to request removal.
 
-## Talk Submissions - pretalx
+## Talk Submissions - Sessionize
 
-BSidesSF via its provider pretalx collects the following information from presentation submitters:
+BSidesSF via its provider Sessionize collects the following information from presentation submitters:
 
 * Name
 
 * Email address
 
+* Biography
+
 * T-shirt size
+
+* Photograph
+
+* Other optional information (LinkedIn profile, Job title, Pronouns)
 
 We will use this information to contact you and/or provide updates regarding the presentation / workshop you submitted. If you do not wish for us to retain this information, please contact program[@]bsidessf.org to request removal from the submissions.
 

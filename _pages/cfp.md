@@ -64,5 +64,5 @@ Our **---> [CFP](https://sessionize.com/bsidessf2026) <---** is now **open** and
 E-mail program [at] bsidessf.org
 
 You can also ping **@program-ops** in 
-**#[2026-cfp-helpdesk](https://join.slack.com/share/enQtOTQ5MTIxNTY2NTU3MS0yMDNhYjdhZjU1ODJjYzMyZjVjMjlhNjQxNDBiMTUyM2NmZjEzZDRmNzE4NjNlZDM0MGVhMzYyYjQ2MjFlYjRm)** on the 
+**#[2026-cfp-helpdesk](https://bsidessf.slack.com/archives/C09E56VTPD5)** on the 
 BSidesSF Slack (use the Slack logo at top right of page for an invite to the Slack).

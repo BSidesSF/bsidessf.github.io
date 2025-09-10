@@ -3,7 +3,7 @@ layout: page
 title: "BSidesSF 2026 Call For Participation"
 ---
 
-🎤 BSidesSF 2026 Call for Participation is **OPEN** until **October 14, 2025**!  
+🎤 BSidesSF 2026 Call for Participation is **OPEN** until **October 28th, 2025**!  
 
 We’re thrilled to announce that the [CFP](https://sessionize.com/bsidessf2026) for BSidesSF 2026 is now live! Submit your presentations, workshops, and ideas to be part of our upcoming program.
 

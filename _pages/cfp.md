@@ -5,7 +5,7 @@ title: "BSidesSF 2026 Call For Participation"
 
 🎤 BSidesSF 2026 Call for Participation is **OPEN** until **October 14, 2025**!  
 
-We’re thrilled to announce that the [CFP](https://sessionize.com/bsidessf2026) for BSidesSF 2026 is now live! Submit your talks, workshops, and ideas to be part of our upcoming program.
+We’re thrilled to announce that the [CFP](https://sessionize.com/bsidessf2026) for BSidesSF 2026 is now live! Submit your presentations, workshops, and ideas to be part of our upcoming program.
 
 This year’s theme is **BSidesSF: The Musical** — and it promises to be bigger, bolder, and louder than ever. We can’t wait to see what our amazing community brings to the stage!
 
@@ -53,7 +53,7 @@ composition of challenges, innovations, and unexpected crescendos.
 We’re calling on our community to take the stage: share your symphonies of success, 
 your improvisations during incidents, and your orchestrations of offense.  
 
-Whether your talk is a solo act or part of a larger ensemble, come help us make BSidesSF 
+Whether your presentation is a solo act or part of a larger ensemble, come help us make BSidesSF 
 2026 a performance to remember!
 
 # **Submit to the CFP!**

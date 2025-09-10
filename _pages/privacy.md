@@ -3,7 +3,7 @@ layout: page
 title: "Privacy Policy"
 ---
 
-Last updated: 2024-03-07
+Last updated: 2025-09-10
 
 Security B-Sides ("BSidesSF", "us", "we", or "our") operates bsidessf.org, bsidessf.net, and other relevant domains and subdomains (the "Site").
 
@@ -26,8 +26,6 @@ BSidesSF uses various third party services to provide the Site, related services
 * [Mailchimp](https://mailchimp.com/legal/privacy/)
 
 * [PayPal](https://www.paypal.com/us/webapps/mpp/ua/privacy-full)
-
-* [pretalx](https://pretalx.com/p/privacy)
 
 * [Sched](https://sched.com/about/legal/privacy-policy)
 

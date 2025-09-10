@@ -53,7 +53,7 @@ composition of challenges, innovations, and unexpected crescendos.
 We’re calling on our community to take the stage: share your symphonies of success, 
 your improvisations during incidents, and your orchestrations of offense.  
 
-Whether your presentation is a solo act or part of a larger ensemble, come help us make BSidesSF 
+Whether your session is a solo act or part of a larger ensemble, come help us make BSidesSF 
 2026 a performance to remember!
 
 # **Submit to the CFP!**

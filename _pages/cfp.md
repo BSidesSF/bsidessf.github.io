@@ -58,7 +58,7 @@ Whether your session is a solo act or part of a larger ensemble, come help us ma
 
 # **Submit to the CFP!**
 
-Our **---> [CFP](https://sessionize.com/bsidessf2026) <---** is now **open** and will close on **October 14, 2025**. Don’t miss your chance to submit!
+Our **---> [CFP](https://sessionize.com/bsidessf2026) <---** is now **open** and will close on **October 28th, 2025**. Don’t miss your chance to submit!
 
 ## **Questions?**
 E-mail program [at] bsidessf.org

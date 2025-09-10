@@ -1,0 +1,87 @@
+picture_path: posters_2025
+pictures:
+  - filename: 01-BSides-Welcome-Silent-James
+    original: 01-BSides-Welcome-Silent-James.png
+    thumbnail: 01-BSides-Welcome-Silent-James-thumbnail.png
+    title: "Welcome to BSidesSF 2025"
+    caption: "here be dragons"
+  - filename: 02-BSides-Gibler-Silent-James
+    original: 02-BSides-Gibler-Silent-James.png
+    thumbnail: 02-BSides-Gibler-Silent-James-thumbnail.png
+    title: "Sharing Vulnerabilities"
+    caption: "Clint Gibler"
+  - filename: 03-BSides-Ayrey-Silent-James
+    original: 03-BSides-Ayrey-Silent-James.png
+    thumbnail: 03-BSides-Ayrey-Silent-James-thumbnail.png
+    title: "Let's Talk About the AI Apocalypse"
+    caption: "Dylan Ayrey"
+  - filename: 04-BSides-Gupta-Silent-James
+    original: 04-BSides-Gupta-Silent-James.png
+    thumbnail: 04-BSides-Gupta-Silent-James-thumbnail.png
+    title: "Navigating the Unknowns: Fraud Mitigation for Netflix Live Events"
+    caption: "Aditi Gupta • Yue Wang"
+  - filename: 05-BSides-Moore-Silent-James
+    original: 05-BSides-Moore-Silent-James.png
+    thumbnail: 05-BSides-Moore-Silent-James-thumbnail.png
+    title: "Charting the SSH Multiverse"
+    caption: "HD Moore"
+  - filename: 06-BSides-Holden-Silent-James
+    original: 06-BSides-Holden-Silent-James.png
+    thumbnail: 06-BSides-Holden-Silent-James-thumbnail.png
+    title: "Versus Killnet"
+    caption: "Alex Holden"
+  - filename: 07-BSides-Galperin-Silent-James
+    original: 07-BSides-Galperin-Silent-James.png
+    thumbnail: 07-BSides-Galperin-Silent-James-thumbnail.png
+    title: "Tracking the World's Dumbest Cyber Mercenaries"
+    caption: "Cooper Quintin • Eva Galperin"
+  - filename: 08-BSides-Schwartz-Silent-James
+    original: 08-BSides-Schwartz-Silent-James.png
+    thumbnail: 08-BSides-Schwartz-Silent-James-thumbnail.png
+    title: "Trawling for IOCs: Catching C2 in a Sea of Data"
+    caption: "Moses Schwartz"
+  - filename: 09-BSides-Merrill-Silent-James
+    original: 09-BSides-Merrill-Silent-James.png
+    thumbnail: 09-BSides-Merrill-Silent-James-thumbnail.png
+    title: "BSidesSF Plays Incident Response"
+    caption: "Maya Kaczorowski • Whitney Merrill"
+  - filename: 10-BSides-Nather-Silent-James
+    original: 10-BSides-Nather-Silent-James.png
+    thumbnail: 10-BSides-Nather-Silent-James-thumbnail.png
+    title: "Fire, Brimstone, and Bad Security Decisions"
+    caption: "Wendy Nather"
+  - filename: 11-BSides-Haleliuk-Silent-James
+    original: 11-BSides-Haleliuk-Silent-James.png
+    thumbnail: 11-BSides-Haleliuk-Silent-James-thumbnail.png
+    title: "Not Every Groundbreaking Idea Needs to Become a Billion-Dollar Startup"
+    caption: "Ross Haleliuk"
+  - filename: 12-BSides-Sanabaria-Silent-James
+    original: 12-BSides-Sanabaria-Silent-James.png
+    thumbnail: 12-BSides-Sanabaria-Silent-James-thumbnail.png
+    title: "Preparing for Dragons: Don’t Sharpen Swords. Set Traps, Gather Supplies!"
+    caption: "Adrian Sanabria"
+  - filename: 13-BSides-Lee-Silent-James
+    original: 13-BSides-Lee-Silent-James.png
+    thumbnail: 13-BSides-Lee-Silent-James-thumbnail.png
+    title: "The Power of Persuasion: Better Security Through... Manipulation?"
+    caption: "Nate Lee"
+  - filename: 14-BSides-Johnson-Silent-James
+    original: 14-BSides-Johnson-Silent-James.png
+    thumbnail: 14-BSides-Johnson-Silent-James-thumbnail.png
+    title: "Radical Results: A Security Org's Version of Radical Candor"
+    caption: "Evan Johnson"
+  - filename: 15-BSides-Edwards-Silent-James
+    original: 15-BSides-Edwards-Silent-James.png
+    thumbnail: 15-BSides-Edwards-Silent-James-thumbnail.png
+    title: "A Deep Dive into the Triad Nexus Pig Butchering & Money Laundering Network"
+    caption: "Zach Edwards"
+  - filename: 16-BSides-Edher-Silent-James
+    original: 16-BSides-Edher-Silent-James.png
+    thumbnail: 16-BSides-Edher-Silent-James-thumbnail.png
+    title: "Scalably Securing Third-party Dependencies in Heterogeneous Environments"
+    caption: "Ziyad Edher • Chris Norman"
+  - filename: 17-BSides-Wijckmans-Silent-James
+    original: 17-BSides-Wijckmans-Silent-James.png
+    thumbnail: 17-BSides-Wijckmans-Silent-James-thumbnail.png
+    title: "How to Pull Off a Near Undetectable DDoS Attack (And How to Stop It)"
+    caption: "Simon Wijckmans"

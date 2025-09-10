@@ -1,11 +1,13 @@
 ---
 layout: page
-title: "BSidesSF 2025 Call For Participation"
+title: "BSidesSF 2026 Call For Participation"
 ---
 
-ℹ️ BSidesSF 2025 Call for Participation is **closed** as of January 7, 2025!
+🎤 BSidesSF 2026 Call for Participation is **OPEN** until **October 14, 2025**!  
 
-Thank you to all of our amazing speaker submissions - we are currently reviewing the _staggering_ number of submissions we recieved from our amazing community and are working to build out our "Here be Dragons" 2025 Program -- we can't wait to see you there! 
+We’re thrilled to announce that the [CFP](https://sessionize.com/bsidessf2026) for BSidesSF 2026 is now live! Submit your talks, workshops, and ideas to be part of our upcoming program.
+
+This year’s theme is **BSidesSF: The Musical** — and it promises to be bigger, bolder, and louder than ever. We can’t wait to see what our amazing community brings to the stage!
 
 ---
 
@@ -38,26 +40,29 @@ sort in our conference program. Thank you for your understanding.
 
 # **When/Where**
 
-BSidesSF will take place on April 26-27, 2025. The conference will be located 
+BSidesSF will take place on March 21-22, 2026. The conference will be located 
 at City View at the Metreon in downtown San Francisco.
 
 # **Theme**
 
-This year, we dive into uncharted territory of security under the theme "Here Be 
-Dragons." Like the ancient maps that marked unknown regions with dragons, today's 
-landscape is filled with threats that are complex, evolving, and often unpredictable. 
-As security practitioners, we are the navigators of this vast, sometimes dangerous 
-terrain. We're opening the call to participate in our 2025 conference -- come share your 
-experiences exploring new challenges, discovering the unknown, battling cutting-edge 
-technologies, and sharing strategies to confront the 'dragons' lurking in the shadows. ⚔️
+🎵 **BSidesSF: The Musical** 🎶  
+
+This year, we’re turning up the volume and spotlighting the rhythm of security.  
+Like a musical score where harmony meets dissonance, today’s infosec landscape is a 
+composition of challenges, innovations, and unexpected crescendos.  
+We’re calling on our community to take the stage: share your symphonies of success, 
+your improvisations during incidents, and your orchestrations of offense.  
+
+Whether your talk is a solo act or part of a larger ensemble, come help us make BSidesSF 
+2026 a performance to remember!
 
 # **Submit to the CFP!**
 
-Our **---> [CFP](https://pretalx.com/bsidessf2025/cfp) <---** is now **closed**.
+Our **---> [CFP](https://sessionize.com/bsidessf2026) <---** is now **open** and will close on **October 14, 2025**. Don’t miss your chance to submit!
 
 ## **Questions?**
 E-mail program [at] bsidessf.org
 
 You can also ping **@program-ops** in 
-**#[2025-cfp-helpdesk](https://bsidessf.slack.com/archives/C07J90PD98D)** on the 
+**#[2026-cfp-helpdesk](https://join.slack.com/share/enQtOTQ5MTIxNTY2NTU3MS0yMDNhYjdhZjU1ODJjYzMyZjVjMjlhNjQxNDBiMTUyM2NmZjEzZDRmNzE4NjNlZDM0MGVhMzYyYjQ2MjFlYjRm)** on the 
 BSidesSF Slack (use the Slack logo at top right of page for an invite to the Slack).

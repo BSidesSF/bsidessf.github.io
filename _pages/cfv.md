@@ -3,7 +3,7 @@ layout: page
 title: "BSidesSF 2026 Call For Villages"
 ---
 
-## Call for Villages will open by October 4, 2025
+**Call for Villages will open by October 4, 2025**
 
 Thank you for your patience!
 

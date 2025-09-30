@@ -3,11 +3,12 @@ layout: page
 title: "BSidesSF 2026 Call For Villages"
 ---
 
-**Call for Villages will open by October 4, 2025**
-
-Thank you for your patience!
+**Call for Villages will open by October 4, 2025** . Thank you for your patience.
 
 -----
+## Call for Villages
+
+Calling all information security enthusiasts! BSidesSF 2025 invites passionate leaders to host Villages, dedicated spaces for immersive learning and collaboration on March 21-22, 2026.
 
 ### We offer
 

@@ -8,7 +8,13 @@ title: "BSidesSF 2026 Call For Villages"
 -----
 ## Call for Villages
 
-Calling all information security enthusiasts! BSidesSF 2025 invites passionate leaders to host Villages, dedicated spaces for immersive learning and collaboration on March 21-22, 2026.
+Have a cool idea for a community space at BSidesSF 2026? Why not host a Village?
+
+### What's a Village?
+
+Villages are dedicated spaces at the con arranged around a specific topic or interest; often these are security/privacy or tech related in some way. Participants are able to take part in hands-on activities such as CTFs or labs; they also have the opportunity to network with each other. This is a particularly unique and collaborative way to get more participants actively interested and engaged in a Village's particular niche topic or interest; many times it's an opportunity to bring to light current trends or ongoing research.
+
+As in previous years, we cannot support having talk tracks in the same space as the village itself; villages who want to bring presenters will have to submit through the main **[CFP](/cfp)** process, which closes in late October.
 
 ### We offer
 

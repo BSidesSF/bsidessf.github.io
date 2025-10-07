@@ -28,7 +28,7 @@ levels:
       - name: "Sublime Security"
         logo: "/images/sponsors_2026/SublimeSecurity.svg"
         href: "https://sublime.security"
-      - name: "pending"
+      - name: "Pending"
         #name: "Clover Security"
         logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors/kit"
@@ -85,8 +85,8 @@ levels:
       - name: "Pending"
         logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors/kit"
-      - name: "TBD"
-        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+      - name: "Pending"
+        logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors/kit"
 
   - level: Bronze
@@ -167,8 +167,8 @@ levels:
   - level:
     sponsors:
       - type: Capture the Flag
-        name: "TBD"
-        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        name: "Pending"
+        logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors/kit"
       - type: Lanyard
         name: "DryRun Security"
@@ -188,8 +188,8 @@ levels:
         # name: "Gusto"
         # href: "https://gusto.com/"
       - type: "Espresso and Coffee"
-        name: "TBD"
-        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        name: "Pending"
+        logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors/kit"
       - type: "Espresso and Coffee"
         name: "TBD"

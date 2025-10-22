@@ -3,9 +3,9 @@ layout: page
 title: "BSidesSF 2026 Call For Villages"
 ---
 
-**Call for Villages is now open!** . Interested villages can apply [here](https://docs.google.com/forms/d/e/1FAIpQLSfcrBv7eu4xPUveZoPFva9Ry3TbOQ3F1jDVsPqoc4oivl8nSQ/viewform?usp=dialog)
+**Call for Villages is now open!** Interested villages and community organizations can apply **[here](https://docs.google.com/forms/d/e/1FAIpQLSfcrBv7eu4xPUveZoPFva9Ry3TbOQ3F1jDVsPqoc4oivl8nSQ/viewform?usp=dialog)**. CFV closes Tuesday, December 2, 2025.
 
-Villages with sponsors will can review sponsor guidelines [here](https://docs.google.com/document/d/1y3hmEBVQml9xuDI9BRuroK6fwp0WE8PqLPu_hy3w5f8/preview?rm=demo)
+Villages with sponsors will can review sponsor guidelines [here](https://docs.google.com/document/d/1y3hmEBVQml9xuDI9BRuroK6fwp0WE8PqLPu_hy3w5f8/preview?rm=demo).
 
 -----
 ## Call for Villages
@@ -35,8 +35,6 @@ Come help us compose the next act in security—take a bow, share your unique ve
 ### Ready to dive in?
 
 Location: City View at Metreon, 135 4th St, San Francisco, CA 94103
-
-* Tuesday, January 7, 2025 - Village & Community Organization CFV Closes
 * Friday, October 4, 2025 - CFV opens
 * Tuesday, December 2, 2025 - CFV closes
 * Monday, December 15, 2025 - CFV decisions

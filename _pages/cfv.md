@@ -5,6 +5,8 @@ title: "BSidesSF 2026 Call For Villages"
 
 **Call for Villages is now open!** . Interested villages can apply [here](https://docs.google.com/forms/d/e/1FAIpQLSfcrBv7eu4xPUveZoPFva9Ry3TbOQ3F1jDVsPqoc4oivl8nSQ/viewform?usp=dialog)
 
+Villages with sponsors will can review sponsor guidelines [here](https://docs.google.com/document/d/1y3hmEBVQml9xuDI9BRuroK6fwp0WE8PqLPu_hy3w5f8/preview?rm=demo)
+
 -----
 ## Call for Villages
 

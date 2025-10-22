@@ -60,7 +60,7 @@ Whether your session is a solo act or part of a larger ensemble, come help us ma
 
 Our **---> [CFP](https://sessionize.com/bsidessf2026) <---** is now **open** and will close on **October 28th, 2025**. Don’t miss your chance to submit!
 
-Call for Villages will be opening soon on [CFV](/cfv).
+Call for Villages can be separately found here: [CFV](/cfv). CFV closes on December 2, 2025.
 
 ## **Questions?**
 E-mail program [at] bsidessf.org

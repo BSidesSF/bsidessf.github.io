@@ -3,7 +3,7 @@ layout: page
 title: "BSidesSF 2026 Call For Participation"
 ---
 
-🎤 BSidesSF 2026 Call for Participation is **OPEN** until **October 28th, 2025**!  
+🎤 BSidesSF 2026 Call for Participation is **OPEN** until **~~October 28th~~ November 5th, 2025**!  
 
 We’re thrilled to announce that the [CFP](https://sessionize.com/bsidessf2026) for BSidesSF 2026 is now live! Submit your presentations, workshops, and ideas to be part of our upcoming program.
 
@@ -58,9 +58,9 @@ Whether your session is a solo act or part of a larger ensemble, come help us ma
 
 # **Submit to the CFP!**
 
-Our **---> [CFP](https://sessionize.com/bsidessf2026) <---** is now **open** and will close on **October 28th, 2025**. Don’t miss your chance to submit!
+Our **---> [CFP](https://sessionize.com/bsidessf2026) <---** is now **open** and will close on **~~October 28th~~ November 5th, 2025**. Don’t miss your chance to submit!
 
-Call for Villages can be separately found here: [CFV](/cfv). CFV closes on December 2, 2025.
+Call for Villages can be separately found here: [CFV](/cfv). CFV closes on December 2nd, 2025.
 
 ## **Questions?**
 E-mail program [at] bsidessf.org

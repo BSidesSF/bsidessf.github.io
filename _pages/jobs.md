@@ -25,7 +25,7 @@ likely be expanding it in the future.
 ## Program Team
 
 The Program team has their own [dedicated application
-form](https://forms.gle/4BGiKQC1Cdko4cYdA), as the skills for that team are
+form](https://docs.google.com/forms/d/1D_08orAucbF_VpA2R8iFYZ8zFKkL_ZUlizxwxJpqv60/edit), as the skills for that team are
 somewhat specialized. People joining this team help to shape the content of
 BSidesSF. Responsibilities would include some combination of reviewing CFP
 submissions, recommending keynotes, coordinating and coaching speakers,

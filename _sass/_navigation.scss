@@ -40,7 +40,7 @@
 	line-height: $navbar-height;
 	display: block;
 	padding: 0 22px;
-	border-color: #aaa;
+	border-color: $navbar-text-color;
 
 	/* Typography */
 	font-family: $navbar-font-family;
@@ -51,11 +51,13 @@
 	text-decoration: none;
 	
 	/* Transitions */
+	/* 
 	-webkit-transition: color .2s ease-in, border-top-color .2s ease-in;
 	-ms-transition: color .2s ease-in, border-top-color .2s ease-in;
 	-moz-transition: color .2s ease-in, border-top-color .2s ease-in;
 	-o-transition: color .2s ease-in, border-top-color .2s ease-in;
 	transition: color .2s ease-in, border-top-color .2s ease-in;
+	*/
 }
 
 // Hover state of the links

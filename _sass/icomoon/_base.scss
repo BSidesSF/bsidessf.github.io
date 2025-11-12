@@ -80,6 +80,19 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
+// 2026 styling
+.icon-linkedin:hover,
+.icon-facebook:hover, 
+.icon-twitter:hover ,
+.icon-reddit:hover,
+.icon-slack:hover,
+.icon-graphicrecordings:hover,
+.icon-youtube:hover
+{
+	color: $complimentary-color;
+}
+
+/* default - uncomment this block
 // Colors for individual icons with the :hover psuedoclass
 .icon-googleplus:hover {
 	color: #dd4b39;
@@ -117,3 +130,4 @@
 .icon-mastodon:hover {
 	color: #ff4301;
 }
+*/

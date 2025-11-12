@@ -4,16 +4,17 @@
 // $secondary-color: #be202e; // orange
 // $complimentary-color: #d0cbc0; // white
 
+// 2026 Colors:  #8dc63f #d4542c #000000 #551f7a
 // event specific
-$primary-color: #000; // black
-$secondary-color: #f1d49c; // bright gold
-$complimentary-color: #A07C28; // dark gold
+$primary-color: #8dc63f ;
+$secondary-color: #000000;
+$complimentary-color: #d4542c;
 $body-bg: #fff; // white
-$body-font-color: $primary-color;
+$body-font-color: black;
 
 // Links
-// $link-color: $secondary-color;
-$link-color: #A07C28;
+$link-color: $complimentary-color;
+// $link-color: #A07C28;
 $link-hover-color: lighten($link-color, 20%);
 $link-visited-color: darken($link-color, 10%);
 
@@ -27,17 +28,22 @@ $base-line-height: 1.5;
 
 // Primary Navbar Settings
 $navbar-height: 44px;
-$navbar-color: $primary-color;
-$navbar-text-color: $secondary-color;
-$navbar-hover-color: #a07c28;
-$navbar-active-color: lighten($secondary-color, 20%);
+// Default Color scheme
+// $navbar-color: $primary-color;
+// #$navbar-text-color: $secondary-color;
+// $navbar-active-color: lighten($secondary-color, 20%);
+// $navbar-hover-color: #a07c28;
+$navbar-color: $secondary-color;
+$navbar-text-color: $primary-color;
+$navbar-active-color: $complimentary-color;
+$navbar-hover-color: $complimentary-color;
 $navbar-font-size: 13px;
 $navbar-font-family: "Open Sans", Helvetica, Arial, sans-serif;
 
 // Socials Navbar Settings
-$socials-font-color: $secondary-color;
+$socials-font-color: $primary-color;
 $socials-font-size: 1.5em;
-$socials-border-color: #fff; // white
+$socials-border-color: $primary-color;
 
 // Utility
 $spacing-unit: 30px;
@@ -52,4 +58,5 @@ $header-switch-width: 600px;
 
 // Footer
 $footer-height: 54px;
-$footer-color: lighten($primary-color, 15%);
+$footer-color: lighten($secondary-color, 15%);
+$footer-text-color: lighten($primary-color, 15%);

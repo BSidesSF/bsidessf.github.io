@@ -71,22 +71,25 @@ header[role="banner"] {
   background-size: contain;
   background-repeat: no-repeat;
   background-color: $secondary-color;
-  padding-top: 22%;
   @media ( width >= $header-switch-width)  {
     background-image: url($header-background-lg);
     background-position: center;
+    padding-top: 17%;
   }
   @media ( width < $header-switch-width)  {
     background-image: url($header-background-sm);
     background-position: center;
+    padding-top: 20%;
   }
 
 }
 
 // Footer
-#footer {
+/* footer {
+  color: $footer-text-color;
   background-color: $footer-color;
-}
+} 
+*/
 
 .site-footer,
 .wrap:after {
@@ -95,6 +98,7 @@ header[role="banner"] {
 
 .site-footer {
   background: $footer-color;
+  color: $footer-text-color;
 }
 
 // Styling for mobile devices

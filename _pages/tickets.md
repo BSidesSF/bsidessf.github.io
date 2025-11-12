@@ -3,6 +3,10 @@ layout: page
 title: "Tickets"
 ---
 
+
+Registration will open in early January.
+
+<!--
 The time has come! Tickets are available at
 [https://bsidessf.regfox.com/2025](https://bsidessf.regfox.com/2025).
 A select number of academic / hardship tickets are available.
@@ -33,3 +37,4 @@ You will also be listed on our [Friends](/friends) page. Some portion may be tax
 
 <br/>
 _See you in April!_
+-->

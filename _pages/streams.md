@@ -3,5 +3,10 @@ layout: page
 title: "Streams"
 ---
 
-# [BSidesSF YouTube Streams](https://www.youtube.com/@BSidesSF/streams)
+Streams will become live when the event starts. 
 
+Thank you.
+
+<!--
+# [BSidesSF YouTube Streams](https://www.youtube.com/@BSidesSF/streams)
+-->

@@ -171,8 +171,8 @@ levels:
         logo: "/images/sponsors_2026/DryRunSecurity.svg"
         href: "https://dryrun.security/"
       - type: Lanyard
-        name: "TBD"
-        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        name: "Pending"
+        logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors/kit"
 
   - level:

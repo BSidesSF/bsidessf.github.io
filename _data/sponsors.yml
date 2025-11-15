@@ -124,13 +124,10 @@ levels:
         logo: "/images/sponsors_2026/Oblique.svg"
         href: "https://oblique.security"
       - break: true
+      - name: "Promptfoo"
+        logo: "/images/sponsors_2026/Promptfoo.svg"
+        href: "https://promptfoo.dev"
       - name: "Pending"
-        # name: "Latacora"
-        logo: "/images/BSidesSF_SponsorshipPending.png"
-        href: "https://bsidessf.org/sponsors/kit"
-
-      - name: "Pending"
-        #name: "Bright"
         logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors/kit"
       - name: "Pending"
@@ -174,9 +171,8 @@ levels:
         logo: "/images/sponsors_2026/DryRunSecurity.svg"
         href: "https://dryrun.security/"
       - type: Lanyard
-        name: "Pending"
-        # name: Abnormal AI
-        logo: "/images/BSidesSF_SponsorshipPending.png"
+        name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
         href: "https://bsidessf.org/sponsors/kit"
 
   - level:
@@ -205,8 +201,8 @@ levels:
         logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors/kit"
       - type: "Headshots"
-        name: "TBD"
-        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        name: "Pending"
+        logo: "/images/BSidesSF_SponsorshipPending.png"
       - type: "Scholarship"
         href: "https://bsidessf.org/sponsors/kit"
         name: "TBD"

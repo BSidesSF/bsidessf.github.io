@@ -114,16 +114,19 @@ levels:
       - name: "Foundr"
         logo: "/images/sponsors_2026/Foundr.png"
         href: "https://foundr.xyz"
+      - name: "Heeler"
+        logo: "/images/sponsors_2026/Heeler.svg"
+        href: "https://heeler.com"
       - name: "Impart Security"
         logo: "/images/sponsors_2026/Impart.svg"
         href: "https://impart.security"
       - name: "Latacora"
         logo: "/images/sponsors_2026/Latacora.png"
         href: "https://latacora.com"
+      - break: true
       - name: "Nudge"
         logo: "/images/sponsors_2026/NudgeSecurity.png"
         href: "https://nudgesecurity.com/careers"
-      - break: true
       - name: "Oblique"
         logo: "/images/sponsors_2026/Oblique.svg"
         href: "https://oblique.security"
@@ -136,11 +139,6 @@ levels:
       - name: "Pending"
         logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors/kit"
-      - name: "Pending"
-        logo: "/images/BSidesSF_SponsorshipPending.png"
-        href: "https://bsidessf.org/sponsors/kit"
-
-
 
   - level:
     sponsors:

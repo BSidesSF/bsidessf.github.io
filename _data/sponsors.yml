@@ -103,11 +103,13 @@ levels:
       - name: "ComplianceCow"
         logo: "/images/sponsors_2026/ComplianceCow.png"
         href: "https://compliancecow.com"
+      - name: "Corgea"
+        logo: "/images/sponsors_2026/Corgea.svg"
+        href: "https://corgea.com"
+      - break: true
       - name: "Corridor"
         logo: "/images/sponsors_2026/Corridor.svg"
         href: "https://corridor.dev/"
-
-      - break: true
       - name: "Cydarm"
         href: "https://cydarm.com"
         logo: "/images/sponsors_2026/Cydarm.png"
@@ -120,10 +122,10 @@ levels:
       - name: "Impart Security"
         logo: "/images/sponsors_2026/Impart.svg"
         href: "https://impart.security"
+      - break: true
       - name: "Latacora"
         logo: "/images/sponsors_2026/Latacora.png"
         href: "https://latacora.com"
-      - break: true
       - name: "Nudge"
         logo: "/images/sponsors_2026/NudgeSecurity.png"
         href: "https://nudgesecurity.com/careers"
@@ -136,9 +138,6 @@ levels:
       - name: "Zaun"
         logo: "/images/sponsors_2026/Zaun.svg"
         href: "https:/zaun.ai"
-      - name: "Pending"
-        logo: "/images/BSidesSF_SponsorshipPending.png"
-        href: "https://bsidessf.org/sponsors/kit"
 
   - level:
     sponsors:

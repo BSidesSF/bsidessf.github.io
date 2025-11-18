@@ -36,6 +36,9 @@ levels:
   - level: Silver
     class: contrib
     sponsors:
+      - name: "Chainguard"
+        logo: "/images/sponsors_2026/Chainguard.png"
+        href: "https://chainguard.dev"
       - name: "Code Red Partners"
         logo: "/images/sponsors_2026/CodeRedPartners.png"
         href: "https://coderedpartners.com/"
@@ -45,10 +48,10 @@ levels:
       - name: "Formal"
         logo: "/images/sponsors_2026/Formal.svg"
         href: "https://joinformal.com"
+      - break: true
       - name: "GitGuardian"
         logo: "/images/sponsors_2026/GitGuardian.png"
         href: "https://gitguardian.com"
-      - break: true
       - name: "Google"
         logo: "/images/sponsors_2026/Google.png"
         href: "https://google.com/careers"
@@ -58,10 +61,10 @@ levels:
       - name: "Prophet Security"
         logo: "/images/sponsors_2026/ProphetSecurity.svg"
         href: "https://prophetsecurity.ai"
+      - break: true
       - name: "RunReveal"
         logo: "/images/sponsors_2026/RunReveal.svg"
         href: "https://runreveal.com"
-      - break: true
       - name: "Semgrep"
         logo: "/images/sponsors_2026/Semgrep.png"
         href: "https://semgrep.dev"
@@ -71,19 +74,16 @@ levels:
       - name: "Tailscale"
         logo: "/images/sponsors_2026/Tailscale.png"
         href: "https://tailscale.com"
+      - break: true
       - name: "Torq"
         logo: "/images/sponsors_2026/Torq.png"
         href: "https://torq.com"
-      - break: true
       - name: "Truffle Security"
         logo: "/images/sponsors_2026/TruffleSecurity.png"
         href: "https://trufflesec.com"
       - name: "Wiz"
         logo: "/images/sponsors_2026/Wiz.png"
         href: "https://wiz.io"
-      - name: "Pending"
-        logo: "/images/BSidesSF_SponsorshipPending.png"
-        href: "https://bsidessf.org/sponsors/kit"
       - name: "Pending"
         logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors/kit"
@@ -117,13 +117,16 @@ levels:
       - name: "Impart Security"
         logo: "/images/sponsors_2026/Impart.svg"
         href: "https://impart.security"
+      - name: "Latacora"
+        logo: "/images/sponsors_2026/Latacora.png"
+        href: "https://latacora.com"
       - name: "Nudge"
         logo: "/images/sponsors_2026/NudgeSecurity.png"
         href: "https://nudgesecurity.com/careers"
+      - break: true
       - name: "Oblique"
         logo: "/images/sponsors_2026/Oblique.svg"
         href: "https://oblique.security"
-      - break: true
       - name: "Promptfoo"
         logo: "/images/sponsors_2026/Promptfoo.svg"
         href: "https://promptfoo.dev"
@@ -136,29 +139,23 @@ levels:
       - name: "Pending"
         logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors/kit"
-      - name: "Pending"
-        logo: "/images/BSidesSF_SponsorshipPending.png"
-        href: "https://bsidessf.org/sponsors/kit"
 
 
 
   - level:
     sponsors:
       - type: Daytime Social (Saturday)
-        name: "Pending"
-        #name: runZero
-        logo: "/images/BSidesSF_SponsorshipPending.png"
-        href: "https://bsidessf.org/sponsors/kit"
+        name: runZero
+        logo: "/images/sponsors_2026/runZero.png"
+        href: "https://runzero.com"
       - type: Evening Social (Saturday)
-        # name: "Vega"
-        name: "Pending"
-        logo: "/images/BSidesSF_SponsorshipPending.png"
-        href: "https://bsidessf.org/sponsors/kit"
+        name: "Vega"
+        logo: "/images/sponsors_2026/Vega.svg"
+        href: "https://vega.io"
       - type: Daytime Social (Sunday)
-        name: "Pending"
-        #name: runZero
-        logo: "/images/BSidesSF_SponsorshipPending.png"
-        href: "https://bsidessf.org/sponsors/kit"
+        name: runZero
+        logo: "/images/sponsors_2026/runZero.png"
+        href: "https://runzero.com"
 
   - level:
     sponsors:
@@ -178,19 +175,17 @@ levels:
   - level:
     sponsors:
       - type: "Espresso and Coffee"
-        name: "Pending"
-        logo: "/images/BSidesSF_SponsorshipPending.png"
-        href: "https://bsidessf.org/sponsors/kit"
+        name: "Abnormal"
+        logo: "/images/sponsors_2026/Abnormal.png"
+        href: "https://Abnormal.ai"
+      - type: "Espresso and Coffee"
+        name: Harmonic
+        logo: "/images/sponsors_2026/Harmonic.svg"
+        href: "https://harmonic.security"
+      - type: "Espresso and Coffee"
         # name: "Gusto"
         # href: "https://gusto.com/"
-      - type: "Espresso and Coffee"
         name: "Pending"
-        # name: Harmonic
-        logo: "/images/BSidesSF_SponsorshipPending.png"
-        href: "https://bsidessf.org/sponsors/kit"
-      - type: "Espresso and Coffee"
-        name: "Pending"
-        # name: "Abnormal AI"
         logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors/kit"
   - level:

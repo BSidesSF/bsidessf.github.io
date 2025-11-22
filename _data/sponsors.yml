@@ -68,13 +68,16 @@ levels:
       - name: "Semgrep"
         logo: "/images/sponsors_2026/Semgrep.png"
         href: "https://semgrep.dev"
+      - name: "Spektrum"
+        logo: "/images/sponsors_2026/Spektrum.svg"
+        href: "https://spektrum.ai"
       - name: "Sysdig"
         logo: "/images/sponsors_2026/Sysdig.png"
         href: "https://sysdig.com"
+      - break: true
       - name: "Tailscale"
         logo: "/images/sponsors_2026/Tailscale.png"
         href: "https://tailscale.com"
-      - break: true
       - name: "Torq"
         logo: "/images/sponsors_2026/Torq.png"
         href: "https://torq.com"
@@ -84,9 +87,6 @@ levels:
       - name: "Wiz"
         logo: "/images/sponsors_2026/Wiz.png"
         href: "https://wiz.io"
-      - name: "Pending"
-        logo: "/images/BSidesSF_SponsorshipPending.png"
-        href: "https://bsidessf.org/sponsors/kit"
 
   - level: Bronze
     class: contrib
@@ -176,22 +176,19 @@ levels:
         logo: "/images/sponsors_2026/Abnormal.png"
         href: "https://Abnormal.ai"
       - type: "Espresso and Coffee"
+        name: "Gusto"
+        href: "https://gusto.com/"
+        logo: "/images/sponsors_2026/Gusto.png"
+      - type: "Espresso and Coffee"
         name: Harmonic
         logo: "/images/sponsors_2026/Harmonic.svg"
         href: "https://harmonic.security"
-      - type: "Espresso and Coffee"
-        # name: "Gusto"
-        # href: "https://gusto.com/"
-        name: "Pending"
-        logo: "/images/BSidesSF_SponsorshipPending.png"
-        href: "https://bsidessf.org/sponsors/kit"
   - level:
     sponsors:
       - type: "Graphic Recordings"
-        # name: "Webflow"
-        name: "Pending"
-        logo: "/images/BSidesSF_SponsorshipPending.png"
-        href: "https://bsidessf.org/sponsors/kit"
+        name: "Webflow"
+        logo: "/images/sponsors_2026/Webflow.png"
+        href: "https://webflow.com"
       - type: "Headshots"
         name: "Pending"
         logo: "/images/BSidesSF_SponsorshipPending.png"

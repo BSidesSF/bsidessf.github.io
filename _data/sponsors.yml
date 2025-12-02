@@ -18,20 +18,19 @@ levels:
       - name: "Arcjet"
         logo: "/images/sponsors_2026/Arcjet.png"
         href: "https://arcjet.com/"
+      - name: "Clover"
+        logo: "/images/sponsors_2026/Clover.png"
+        href: "https://clover.security"
+      - break: true
       - name: "Datadog"
         logo: "/images/sponsors_2026/Datadog.png"
         href: "https://datadog.com"
-      - break: true
       - name: "Socket"
         logo: "/images/sponsors_2026/Socket.png"
         href: "https://socket.dev"
       - name: "Sublime Security"
         logo: "/images/sponsors_2026/SublimeSecurity.svg"
         href: "https://sublime.security"
-      - name: "Pending"
-        #name: "Clover Security"
-        logo: "/images/BSidesSF_SponsorshipPending.png"
-        href: "https://bsidessf.org/sponsors/kit"
 
   - level: Silver
     class: contrib
@@ -197,9 +196,10 @@ levels:
         name: "TBD"
         logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
         href: "https://bsidessf.org/sponsors/kit"
-  - level:
-    sponsors:
-#      - type: "WiFi"
+
+#  - level:
+#    sponsors:
+#      - type: "Internet"
 #        name: "TBD"
 #        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
 #        href: "https://bsidessf.org/sponsors/kit"

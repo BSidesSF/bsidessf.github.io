@@ -4,9 +4,13 @@
 # type - puts a header on the single sponsor
 #      - best for single sponsor items
 # break - puts in a row break
-#
-sponsorship_kit_url: "https://drive.google.com/open?id=1xVvsu3Dlwa8AcVMQEQbNKR1G4ehqNSHK"
-# if you update this link also update the meta info in _pages/sponsors/kit.md
+
+
+# This field does nothing and is here for historic reasons.
+# If you want to update the sponsorship kit, update the meta info in _pages/sponsors/kit.md
+# The template that used to include this now refers to /sponsors/kit (the page above)
+sponsorship_kit_url: "https://drive.google.com/open?id=13wr-08BPYmaaHgUwmQy0FCZRMLatUSPV"
+# SEE NOTE ABOVE IF EDITING THIS URL
 
 levels:
   - level: Gold
@@ -160,13 +164,13 @@ levels:
         logo: "/images/sponsors_2026/Upwind.png"
         href: "https://upwind.io"
       - type: Lanyard
+        name: "Checkmarx"
+        logo: "/images/sponsors_2026/Checkmarx.png"
+        href: "https://checkmarx.com"
+      - type: Lanyard
         name: "DryRun Security"
         logo: "/images/sponsors_2026/DryRunSecurity.svg"
         href: "https://dryrun.security/"
-      - type: Lanyard
-        name: "Pending"
-        logo: "/images/BSidesSF_SponsorshipPending.png"
-        href: "https://bsidessf.org/sponsors/kit"
 
   - level:
     sponsors:
@@ -189,20 +193,27 @@ levels:
         logo: "/images/sponsors_2026/Webflow.png"
         href: "https://webflow.com"
       - type: "Headshots"
-        name: "Pending"
-        logo: "/images/BSidesSF_SponsorshipPending.png"
+        name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
       - type: "Scholarship"
-        href: "https://bsidessf.org/sponsors/kit"
         name: "TBD"
         logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
         href: "https://bsidessf.org/sponsors/kit"
 
-#  - level:
-#    sponsors:
-#      - type: "Internet"
-#        name: "TBD"
-#        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
-#        href: "https://bsidessf.org/sponsors/kit"
+  - level:
+    sponsors:
+      - type: "Internet"
+        name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/kit"
+      - type: "Wi-Fi Hardware"
+        name: "Pending"
+        logo: "/images/BSidesSF_SponsorshipPending.png"
+        href: "https://bsidessf.org/sponsors/kit"
+      - type: "Calming Kit"
+        name: "TBD"
+        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        href: "https://bsidessf.org/sponsors/kit"
 
   - level: Special Thanks
     sponsors:

@@ -7,7 +7,7 @@ Our fantastic sponsors make BSidesSF financially possible year after year,
 none of this is possible without them!
 
 We're currently planning 2026, if you would like to be a sponsor please 
-see our [sponsorship kit](/sponsors/kit) for more
+see our <a href="/sponsors/kit" target=_blank> sponsorship kit</a> for more
 information.
 
 You can also [email us](mailto:sponsors@bsidessf.org) when you want to discuss your

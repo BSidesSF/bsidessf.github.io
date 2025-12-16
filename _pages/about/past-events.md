@@ -33,7 +33,7 @@ title: "Past Events"
       {% endif %}
     </li>
     <li> 
-      {% if hist.sponsorship_kit_docid and hist.sponsorship_kit_docid != "" %}
+      {% if hist.sponsorship_kit_id and hist.sponsorship_kit_id != "" %}
         <a href="https://drive.google.com/open?id={{ hist.sponsorship_kit_id }}" target=_blank>Sponsorship Kit (external)</a> 
       {% else %}&nbsp;
       {% endif %}

@@ -49,7 +49,7 @@
   posters_url: ""
   map_docid: ""
   bsides_wiki: ""
-  sponsorship_kit_id: ""
+  sponsorship_kit_id: "1Pfpv-XUO54qP80h6Tsii325sdf67C7GT"
 
 - year: "2023"
   archived_site: "/a/2023.html"
@@ -61,7 +61,7 @@
   posters_url: ""
   map_docid: ""
   bsides_wiki: ""
-  sponsorship_kit_id: ""
+  sponsorship_kit_id: "1r4R8VWQRyBTQL7b_UoDhcLFjAiDePk9O"
 
 - year: "2022"
   archived_site: "/a/2022.html"
@@ -73,7 +73,7 @@
   posters_url: "/graphic-recordings/2022.html"
   map_docid: "14ejQUhywZyLeD3VZO_DWXShNW57hnt6m"
   bsides_wiki: ""
-  sponsorship_kit_id: ""
+  sponsorship_kit_id: "1zMVrKmm6V03jnl2CohJGoETcMV_0t5uR"
 
 - year: "2021"
   archived_site: "/a/2021.html"
@@ -85,7 +85,10 @@
   posters_url: ""
   map_docid: ""
   bsides_wiki: "https://bsides.org/w/page/132831939/BSidesSF202"
-  sponsorship_kit_id: ""
+  sponsorship_kit_id: "1Su6g558mQ_B07UGoIv49zrie5qoWDLOV"
+
+- year: "2020"
+
 
 - year: "2019"
   archived_site: "/a/2019.html"
@@ -97,8 +100,7 @@
   posters_url: "/graphic-recordings/2019.html"
   map_docid: ""
   bsides_wiki: "https://bsides.org/w/page/132743652/BSidesSF2019"
-  sponsorship_kit_id: ""
-  other:
+  sponsorship_kit_id: "1jcY3IW7DYBVUHR9CGnt8eW12q5tKvPL_"
 
 - year: "2018"
   archived_site: "/a/2018.html"
@@ -110,8 +112,7 @@
   posters_url: "/graphic-recordings/2018.html"
   map_docid: ""
   bsides_wiki: "https://bsides.org/w/page/122163258/BSidesSF2018"
-  sponsorship_kit_id: ""
-  categories:
+  sponsorship_kit_id: "1KruDm3hT52PRkSMgMr00sL6C1E31RZ2F"
 
 - year: "2017"
   archived_site: "/a/2017.html"
@@ -123,8 +124,7 @@
   posters_url: ""
   map_docid: ""
   bsides_wiki: "https://bsides.org/w/page/111866644/BSidesSF2017"
-  sponsorship_kit_id: ""
-  categories:
+  sponsorship_kit_id: "0ByXZtaPFWlMiZGtJeTI1bS1pNGs"
 
 - year: "2016"
   archived_site: "/a/2016.html"
@@ -137,7 +137,6 @@
   map_docid: ""
   bsides_wiki: "https://bsides.org/w/page/103445197/BSidesSF2016"
   sponsorship_kit_id: ""
-  categories:
 
 - year: "2015"
   archived_site: ""

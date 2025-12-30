@@ -33,7 +33,7 @@ levels:
         logo: "/images/sponsors_2026/Socket.png"
         href: "https://socket.dev"
       - name: "Sublime Security"
-        logo: "/images/sponsors_2026/SublimeSecurity.svg"
+        logo: "/images/sponsors_2026/SublimeSecurity.png"
         href: "https://sublime.security"
 
   - level: Silver
@@ -211,8 +211,8 @@ levels:
         logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors/kit"
       - type: "Calming Kit"
-        name: "TBD"
-        logo: "/images/BSidesSF_SponsorshipCouldBeYou.png"
+        name: "Pending"
+        logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors/kit"
 
   - level: Special Thanks

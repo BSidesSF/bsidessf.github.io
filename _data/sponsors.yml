@@ -195,11 +195,11 @@ levels:
       - type: "Headshots"
         name: "Nebulock"
         logo: "/images/sponsors_2026/Nebulock.svg"
-        href: "https://bnebulock.io/"
+        href: "https://nebulock.io/"
       - type: "Scholarship"
-        name: "Pending"
-        logo: "/images/BSidesSF_SponsorshipPending.png"
-        href: "https://bsidessf.org/sponsors/kit"
+        name: "Persona"
+        logo: "/images/sponsors_2026/Persona.png"
+        href: "https://withpersona.com/"
 
   - level:
     sponsors:

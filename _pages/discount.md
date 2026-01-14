@@ -38,7 +38,7 @@ layout: default
 <article class="row">
   <section class="post-content">
 
-    <h2><b>BSidesSF 2025</b></h2>
+    <h2><b>BSidesSF 2026</b></h2>
 
     <p>
        If you're a student or otherwise in academia, please use the form below with the email address provided by your institution.
@@ -62,13 +62,13 @@ layout: default
 
     <center>
     <p>Many thanks to our Scholarship sponsor</p>
-    <a href="https://www.marsh.com/en/services/cyber-risk.html" target="_blank"><img src="/images/sponsors_2025/Marsh.png" alt="Marsh" style="width: 300px;"/></a>
+    <a href="https://withpersona.com" target="_blank"><img src="/images/sponsors_2026/Persona.png" alt="Persona" style="width: 300px;"/></a>
     </center>
     <br/>
 
 
     <p>
-       Free tickets are also available for volunteers. Check out our <a href="/volunteer">volunteer opportunities</a> and help us make BSidesSF 2025 a success!
+       Free tickets are also available for volunteers. Check out our <a href="/volunteer">volunteer opportunities</a> and help us make BSidesSF 2026 a success!
     </p>
   </section>
 

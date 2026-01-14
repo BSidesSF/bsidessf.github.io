@@ -5,7 +5,7 @@ title: "Tickets"
 
 The time has come! Tickets are available at
 [https://bsidessf.regfox.com/2026](https://bsidessf.regfox.com/2026).
-A select number of academic / hardship tickets are available.
+Discounts for [academia / students](/discount). A select number of hardship tickets are also available.
 
 Ticket prices change based on when you purchase:
 
@@ -16,8 +16,8 @@ Ticket prices change based on when you purchase:
 | On-site | $120 |
 
 You have the option to purchase an event-specific t-shirt with your ticket,
-but we can only guarantee you will get your chosen size if your purchase is
-submitted by February 20th.
+but we can only guarantee you will receive your chosen size if your purchase is
+completed by February 20th.
 
 ### Become a Friend of BSidesSF!
 

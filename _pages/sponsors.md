@@ -3,14 +3,14 @@ layout: page
 title: "Sponsors"
 ---
 
-Our fantastic sponsors make BSidesSF financially possible year after year, 
+Our fantastic sponsors make BSidesSF financially possible year after year --
 none of this is possible without them!
 
-We're currently planning 2026, if you would like to be a sponsor please 
-see our <a href="/sponsors/kit" target=_blank> sponsorship kit</a> for more
+If you would like to be a sponsor, please see our
+<a href="/sponsors/kit" target=_blank> sponsorship kit</a> for more
 information.
 
-You can also [email us](mailto:sponsors@bsidessf.org) when you want to discuss your
+You can also [email us](mailto:sponsors@bsidessf.org) to discuss your
 sponsorhip goals and options.
 
 {% for class in site.data.sponsors.levels %}

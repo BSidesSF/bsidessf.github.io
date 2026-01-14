@@ -27,15 +27,15 @@ You will be the "face" of BSidesSF for all attendees. Your goal is to make a pos
 
 ## Behind The Scenes
 
-You keep things running behinds the scenes, setting up and tearing down key parts of the event, keeping counts and inventory organized, and 
+You keep things running behinds the scenes, setting up and tearing down key parts of the event, keeping counts and inventory organized, and making sure everyone has what they need for an awesome show.
 
-## Community Meetup Facilitator (**Interview Required**)
-TODO
+## Community Meetup Facilitator (Interview Required, Sign Up [Here](https://forms.gle/uDWSAAjaqKiQxtkQ7))
+We are looking for high-energy connectors to guide our designated networking blocks. Your goal is to make sure attendees feel welcomed, energized, and ready to collaborate.
 
 ## Program Operations
 You are the glue that keeps the schedule on track and the speakers happy. Whether you are stationed at the welcome desk or the operations HQ, you are responsible for the flow of information and people.
 
-## Room Facilitator (**Interview Required**)
+## Room Facilitator (Interview Required, Sign Up [Here](https://forms.gle/De38nFpHT41FYWsj6))
 We are looking for enthusiastic Volunteers to be the "Face of the Room" at BSidesSF! As a Room Facilitator, you own the stage. You play a crucial role in the smooth running of the conference, ensuring a professional and memorable experience for both speakers and attendees.
 
 ## Safety Ops
@@ -44,7 +44,7 @@ Safety Ops is the group at the con which helps to ensure the protection of our a
 ## Social Media
 This role will involve documenting the BSidesSF experience on social media, as well as talk with attendees about their experiences at BSidesSF.
 
-## Speaker Liaison (**Interview Required**)
+## Speaker Liaison (Interview Required, Sign Up [Here](https://forms.gle/GZx7HbtFNmvReyDx8))
 Are you organized, calm under pressure, and great with people? The Speaker Liaison is the VIP concierge for our presenters. You are the high-trust support system that guides speakers from the green room to the stage, ensuring they feel prepared and supported.
 
 ## Village Support
@@ -53,7 +53,7 @@ Are you a "people person" with high energy? This pool is for volunteers who want
 ## Volunteer Operations
 Volunteer Ops involves being a jack of all trades for volunteer roles. Most of the time, you will be filling in for surges in volunteer needs at the various stations. Other times, you'll work closely with volunteer operations staff to do specific tasks to keep volunteer operations running. This roles requires a good deal of flexibility and a willingness to dive into problems head first.
 
-## Workshop Facilitator (**Interview Required**)
+## Workshop Facilitator (Interview Required, Sign Up [Here](https://forms.gle/GZx7HbtFNmvReyDx8))
 Workshops are where hands-on learning happens! We need proactive volunteers to own the full lifecycle of these longer sessions. You will ensure the instructor has what they need and that attendees are settled and ready to learn.
 
 <h1 id=faq>FAQ</h1>
@@ -82,7 +82,7 @@ Check out our available <a href="#Roles">Roles</a> options for a quick summary o
 
 ## What if I don’t know how to do any of these?
 
-Our volunteer leads **will train you** for the specific tasks you sign up for, and there will also be volunteer **Q&A sessions prior to the event**. Please try to make time to be available on **Friday, April 25th, 2025** at **12PM-1PM** or **6-7PM** for training and Q&A.
+Our volunteer leads **will train you** for the specific tasks you sign up for, and there will also be volunteer **Q&A sessions prior to the event**. Please try to make time to be available on **Friday, March 20th, 2026** at **12PM-1PM** or **6-7PM** for training and Q&A.
 
 ## What if there are specific talks I want to go to?
 

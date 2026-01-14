@@ -23,7 +23,7 @@ Volunteer roles are divided up into the following jobs. See Volunteer Local for 
 
 ## Attendee Facing
 
-You will be the "face" of BSidesSF for all attendees. Your goal is to make a positive, welcoming first impression for all attendees and visitors. You might also be pulled to hype the crowd during our event raffle.
+You will be the "face" of BSidesSF for all attendees. Your goal is to make a positive, welcoming impression for all attendees and visitors. You might also be pulled to hype the crowd during our event raffle.
 
 ## Behind The Scenes
 

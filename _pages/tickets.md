@@ -3,26 +3,21 @@ layout: page
 title: "Tickets"
 ---
 
-
-Registration will open in early January.
-
-<!--
 The time has come! Tickets are available at
-[https://bsidessf.regfox.com/2025](https://bsidessf.regfox.com/2025).
-A select number of academic / hardship tickets are available.
+[https://bsidessf.regfox.com/2026](https://bsidessf.regfox.com/2026).
+Discounts for [academia / students](/discount). A select number of hardship tickets are also available.
 
 Ticket prices change based on when you purchase:
 
 | When | Price |
 | :--- | ---: |
-| Prior to March 25 | $85 |
-| March 25 - April 11 | $95 |
-| April 12 - April 25 | $105 |
-| On-site | $115 |
+| Prior to February 20 | $100 |
+| February 20 - March 20 | $110 |
+| On-site | $120 |
 
 You have the option to purchase an event-specific t-shirt with your ticket,
-but we can only guarantee you will get your chosen size if your purchase is
-submitted by late March.
+but we can only guarantee you will receive your chosen size if your purchase is
+completed by February 20th.
 
 ### Become a Friend of BSidesSF!
 
@@ -31,10 +26,9 @@ You will also be listed on our [Friends](/friends) page. Some portion may be tax
 
 | Tier | Price |
 | :--- | --: |
-| Ruby | $350 |
-| Emerald | $700 |
-| Sapphire | $1000 |
+| Ruby | $400 |
+| Emerald | $800 |
+| Sapphire | $1200 |
 
 <br/>
-_See you in April!_
--->
+_See you in March!_

@@ -3,13 +3,13 @@ layout: page
 title: "Sponsors Benefits"
 ---
 
-Thank you for considering becoming a sponsor for BSidesSF 2025!
+Thank you for considering becoming a sponsor for BSidesSF 2026!
 
 You can view our
 <a href="{{ site.data.sponsors.sponsorship_kit_url }}" target="_blank">sponsorship kit</a>
 or
 <a href="mailto:sponsors@bsidessf.org" target="_blank">email us</a>
-to kick off your BSidesSF 2025 sponsorship.
+to kick off your BSidesSF 2026 sponsorship.
 
 ## What is it?
 

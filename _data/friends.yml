@@ -1,10 +1,16 @@
 # Schema:
 #  name: The name to be displayed on the "Friends of BSidesSF" page
-#  link: The single URL they provided (if)
+#  url: Optional URL for the entry, mostly intended for businesses
 #
 # must have at least 1 entry to avoid a build error, blank name works
-ruby: []
+ruby:
+  - name: This Could Be You
+    url: /tickets
 
-emerald: []
+emerald:
+  - name: This Could Be You
+    url: /tickets
 
-sapphire: []
+sapphire:
+  - name: This Could Be You
+    url: /tickets

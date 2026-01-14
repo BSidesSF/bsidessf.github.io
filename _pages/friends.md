@@ -125,7 +125,10 @@ These individuals and organizations have specially donated to help make BSidesSF
 
 <center>
   <p>
-    Want to become a Friend of BSidesSF? Purchase your <a href="/tickets">ticket</a> today!
+    Want to show your support for BSidesSF? Become a Friend of BSidesSF for a limited-edition badge with t-shirt.
+    <br />Purchase your <a href="/tickets">ticket</a> today!
+  </p>
+  <p>
     <br/>Interested in sponsoring in a larger capacity?
     <br/>Check out the <a href="/sponsors">Sponsors page</a> or contact <a href="mailto:sponsors@bsidessf.org">sponsors@bsidessf.org</a> for more information.
   </p>

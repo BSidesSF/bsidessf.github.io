@@ -38,6 +38,8 @@ layout: default
 <article class="row">
   <section class="post-content">
 
+    <br/>
+
     <h2><b>BSidesSF 2026</b></h2>
 
     <p>

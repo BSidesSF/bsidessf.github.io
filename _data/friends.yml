@@ -4,13 +4,16 @@
 #
 # must have at least 1 entry to avoid a build error, blank name works
 ruby:
-  - name: This Could Be You
-    url: /tickets
+  - name: Pacific Hackers Association
+    url: https://www.pacifichackers.org/
+  - name: qumqats
+
+
 
 emerald:
   - name: This Could Be You
     url: /tickets
 
 sapphire:
-  - name: This Could Be You
-    url: /tickets
+  - name: Carlo
+  - name: Kyle Smith

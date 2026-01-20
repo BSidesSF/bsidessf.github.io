@@ -4,9 +4,11 @@
 #
 # must have at least 1 entry to avoid a build error, blank name works
 ruby:
+  - name: Markus D
   - name: Pacific Hackers Association
     url: https://www.pacifichackers.org/
   - name: qumqats
+  - name: '&lt;script&gt;alert("Glen")&lt;/script&gt;'
 
 
 

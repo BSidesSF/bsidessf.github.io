@@ -212,9 +212,9 @@ levels:
         logo: "/images/BSidesSF_SponsorshipPending.png"
         href: "https://bsidessf.org/sponsors/kit"
       - type: "Calming Kit"
-        name: "Pending"
-        logo: "/images/BSidesSF_SponsorshipPending.png"
-        href: "https://bsidessf.org/sponsors/kit"
+        name: "Embed Security"
+        logo: "/images/sponsors_2026/EmbedSecurity.png"
+        href: "https://embedsecurity.com/"
 
   - level: Special Thanks
     sponsors:

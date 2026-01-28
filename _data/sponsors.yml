@@ -204,9 +204,9 @@ levels:
   - level:
     sponsors:
       - type: "Internet"
-        name: "Pending"
-        logo: "/images/BSidesSF_SponsorshipPending.png"
-        href: "https://bsidessf.org/sponsors/kit"
+        name: "HPE"
+        logo: "/images/sponsors_2026/HPE.png"
+        href: "https://hpe.com/"
       - type: "Wi-Fi Hardware"
         name: "Pending"
         logo: "/images/BSidesSF_SponsorshipPending.png"

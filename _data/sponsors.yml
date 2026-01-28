@@ -204,13 +204,13 @@ levels:
   - level:
     sponsors:
       - type: "Internet"
-        name: "HPE"
-        logo: "/images/sponsors_2026/HPE.png"
-        href: "https://hpe.com/"
+        name: "Orca Security"
+        logo: "/images/sponsors_2026/OrcaSecurity.png"
+        href: "https://orca.security/"
       - type: "Wi-Fi Hardware"
         name: "Pending"
-        logo: "/images/BSidesSF_SponsorshipPending.png"
-        href: "https://bsidessf.org/sponsors/kit"
+        name: "HPE"
+        logo: "/images/sponsors_2026/HPE.png"
       - type: "Calming Kit"
         name: "Embed Security"
         logo: "/images/sponsors_2026/EmbedSecurity.png"

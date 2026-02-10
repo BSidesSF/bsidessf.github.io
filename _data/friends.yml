@@ -5,12 +5,13 @@
 # must have at least 1 entry to avoid a build error, blank name works
 ruby:
   - name: "!05y5"
+  - name: Markus D
   - name: Detection Engineering Weekly
     url: https://detectionengineering.net/
+  - name: FionnG
   - name: '&lt;script&gt;alert("Glen")&lt;/script&gt;'
   - name: Kevin Hanaford
   - name: JGamblin
-  - name: Markus D
   - name: Doug Meier
   - name: Pacific Hackers Association
     url: https://www.pacifichackers.org/

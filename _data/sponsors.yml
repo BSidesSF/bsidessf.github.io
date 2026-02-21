@@ -221,3 +221,6 @@ levels:
       - name: "Bidwell Design"
         logo: "/images/sponsors_2026/BidwellDesign.png"
         href: "https://bidwelldesign.com/"
+      - name: "O'Reilly"
+        logo: "/images/sponsors_2026/OReilly.jpg"
+        href: "https://oreilly.com"

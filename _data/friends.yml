@@ -10,9 +10,12 @@ ruby:
     url: https://detectionengineering.net/
   - name: FionnG
   - name: '&lt;script&gt;alert("Glen")&lt;/script&gt;'
-  - name: Kevin Hanaford
+  - name: Gus
   - name: JGamblin
+  - name: Kevin Hanaford
   - name: Doug Meier
+  - name: No Starch Press
+    url: https://nostarch.com
   - name: Pacific Hackers Association
     url: https://www.pacifichackers.org/
   - name: qumqats
@@ -26,4 +29,6 @@ emerald:
 
 sapphire:
   - name: Carlo
+  - name: Clarifi Technologies <br/>(Friend of D3ada55)
   - name: Kyle Smith
+  - name: Mike Mackintosh

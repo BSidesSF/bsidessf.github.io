@@ -98,7 +98,7 @@ levels:
         logo: "/images/sponsors_2026/AppSentinels.png"
         href: "https://appsentinels.ai"
       - name: "C|Side"
-        logo: "/images/sponsors_2026/CSide.png"
+        logo: "/images/sponsors_2026/CSide.svg"
         href: "https://cside.dev/"
       - name: "Calif"
         logo: "/images/sponsors_2026/Calif.png"
@@ -224,3 +224,5 @@ levels:
       - name: "O'Reilly"
         logo: "/images/sponsors_2026/OReilly.jpg"
         href: "https://oreilly.com"
+        text:
+          "For over 40 years O’Reilly has provided technology and business training, knowledge, and insight to help companies succeed. Our unique network of experts and innovators share their knowledge and expertise through books, articles, and our online learning platform. O’Reilly online learning gives you on-demand access to live training courses, in-depth learning paths, interactive coding environments, certification prep materials, and a vast collection of text and video from O’Reilly and 200+ other publishers. For more information visit oreilly.com."

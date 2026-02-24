@@ -5,8 +5,10 @@
 # must have at least 1 entry to avoid a build error, blank name works
 ruby:
   - name: "!05y5"
+  - name: Airlock
+  - name: C0m3tB@y
   - name: Markus D
-  - name: Detection Engineering Weekly
+  - name: "Detection Engineering Weekly"
     url: https://detectionengineering.net/
   - name: FionnG
   - name: '&lt;script&gt;alert("Glen")&lt;/script&gt;'
@@ -14,6 +16,7 @@ ruby:
   - name: JGamblin
   - name: Kevin Hanaford
   - name: Doug Meier
+  - name: Kevin KevtechITSupport
   - name: No Starch Press
     url: https://nostarch.com
   - name: Pacific Hackers Association

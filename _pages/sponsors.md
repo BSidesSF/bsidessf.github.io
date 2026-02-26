@@ -6,12 +6,8 @@ title: "Sponsors"
 Our fantastic sponsors make BSidesSF financially possible year after year --
 none of this is possible without them!
 
-If you would like to be a sponsor, please see our
-<a href="/sponsors/kit" target=_blank> sponsorship kit</a> for more
-information.
-
-You can also [email us](mailto:sponsors@bsidessf.org) to discuss your
-sponsorhip goals and options.
+Sponsorships for BSidesSF 2026 are sold out. Considering joining us as a
+<a href="/friends">Friend of BSidesSF</a>.
 
 {% for class in site.data.sponsors.levels %}
   <div style="text-align: center;" class="sponsors {{ class.class }}">

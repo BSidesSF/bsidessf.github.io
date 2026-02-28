@@ -7,9 +7,10 @@ title: "Capture The Flag (CTF)"
 
 ## How to play?
 
-Our 2026 CTF will kick-off on Friday, March 20th, 4:00pm PST and wrap-up on Sunday, March 22nd, 4:00pm PST.
+Join us for our 2026 CTF as we celebrate our 10-year anniversary! 
+The CTF kicks off on Friday, March 20th at 4:00pm PDT and wraps up on Sunday, March 22nd at 4:00pm PDT.
 
-In the meantime, you can register on our [scoreboard](https://ctf.bsidessf.net/register) or you can join us on [Discord](https://discord.gg/QxFf8crUPw) as we count down to launch.
+In the meantime, you can register on our [scoreboard](https://ctf.bsidessf.net/register) or you can join us on [Discord](https://discord.gg/dCFQ5XAaQC) as we count down to launch.
 
 Questions? Email ctf [at] bsidessf.org.
 

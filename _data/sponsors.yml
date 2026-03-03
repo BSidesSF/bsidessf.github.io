@@ -226,3 +226,8 @@ levels:
         href: "https://oreilly.com"
         text:
           "For over 40 years O’Reilly has provided technology and business training, knowledge, and insight to help companies succeed. Our unique network of experts and innovators share their knowledge and expertise through books, articles, and our online learning platform. O’Reilly online learning gives you on-demand access to live training courses, in-depth learning paths, interactive coding environments, certification prep materials, and a vast collection of text and video from O’Reilly and 200+ other publishers. For more information visit oreilly.com."
+      - name: "RSAC 2026 Conference"
+        logo: "/images/sponsors_2026/RSAC_2026_Conference.png"
+        href: "https://www.rsaconference.com/usa?utm_source=assoc-bsides&utm_medium=referral&utm_campaign=textad-us2026"
+        text:
+          "Join thousands of your peers at RSAC™ 2026 Conference in San Francisco from March 23–26. Discover new strategies, explore bold technologies, and connect with peers who share your challenges and ambitions. As a valued BSides member, you’ll receive exclusive savings. Don’t just attend the Conference—be part of the community that defines what’s next. Register now."

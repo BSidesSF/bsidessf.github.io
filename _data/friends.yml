@@ -6,6 +6,7 @@
 ruby:
   - name: "!05y5"
   - name: Airlock
+  - name: bob
   - name: C0m3tB@y
   - name: Markus D
   - name: "Detection Engineering Weekly"
@@ -23,13 +24,13 @@ ruby:
   - name: Pacific Hackers Association
     url: https://www.pacifichackers.org/
   - name: qumqats
+  - name: seats.aero
   - name: Summercon
     url: https://summercon.org/
   - name: Doug Wilson
 
 emerald:
-  - name: This Could Be You
-    url: /tickets
+  - name: Stefan Hutchison
 
 sapphire:
   - name: Carlo

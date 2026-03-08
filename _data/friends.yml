@@ -14,7 +14,6 @@ ruby:
   - name: FionnG
   - name: '&lt;script&gt;alert("Glen")&lt;/script&gt;'
   - name: Gus
-  - name: JGamblin
   - name: Kevin Hanaford
   - name: Dave Herrald
   - name: Doug Meier
@@ -35,5 +34,6 @@ emerald:
 sapphire:
   - name: Carlo
   - name: Clarifi Technologies
+  - name: JGamblin
   - name: Kyle Smith
   - name: Mike Mackintosh

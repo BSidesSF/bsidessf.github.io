@@ -6,12 +6,15 @@
 ruby:
   - name: "!05y5"
   - name: Airlock
+  - name: bhykee
   - name: bob
   - name: C0m3tB@y
   - name: Markus D
   - name: "Detection Engineering Weekly"
     url: https://detectionengineering.net/
   - name: FionnG
+  - name: frostbide
+  - name: Gambit Security
   - name: '&lt;script&gt;alert("Glen")&lt;/script&gt;'
   - name: Gus
   - name: Kevin Hanaford
@@ -29,6 +32,7 @@ ruby:
   - name: Doug Wilson
 
 emerald:
+  - name: Paul Lanzi, IDenovate
   - name: Stefan Hutchison
 
 sapphire:

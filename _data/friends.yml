@@ -6,13 +6,17 @@
 ruby:
   - name: "!05y5"
   - name: Airlock
+  - name: Aaron
   - name: bhykee
   - name: bob
   - name: C0m3tB@y
+  - name: Chen
   - name: Markus D
   - name: "Detection Engineering Weekly"
     url: https://detectionengineering.net/
+  - name: Felix
   - name: FionnG
+  - name: Florian
   - name: frostbide
   - name: Gambit Security
   - name: '&lt;script&gt;alert("Glen")&lt;/script&gt;'
@@ -21,14 +25,20 @@ ruby:
   - name: Dave Herrald
   - name: Doug Meier
   - name: Kevin Kevtech IT Support
+  - name: Lenin
+  - name: Mukund
+  - name: Nick
   - name: No Starch Press
     url: https://nostarch.com
   - name: Pacific Hackers Association
     url: https://www.pacifichackers.org/
   - name: qumqats
+  - name: Rahat
+  - name: Rob
   - name: seats.aero
   - name: Summercon
     url: https://summercon.org/
+  - name: Terra
   - name: Doug Wilson
 
 emerald:

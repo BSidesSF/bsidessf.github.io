@@ -139,8 +139,8 @@ levels:
         logo: "/images/sponsors_2026/Promptfoo.svg"
         href: "https://promptfoo.dev"
       - name: "Zaun"
-        logo: "/images/sponsors_2026/Zaun.svg"
-        href: "https:/zaun.ai"
+        logo: "/images/sponsors_2026/Zaun.png"
+        href: "https://zaun.ai"
 
   - level:
     sponsors:

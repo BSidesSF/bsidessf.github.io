@@ -1,5 +1,5 @@
 ---
 layout: null
 permalink: /prt/
-redirect_to: "https://docs.google.com/forms/d/e/1FAIpQLSeSfPE7QX8jXoTDpzZcswN25satbRmgOyQVmbDkOHUwFhS-2Q/viewform"
+redirect_to: "https://docs.google.com/forms/d/e/1FAIpQLSdkxhBuj6-UrqUFRDFinyR4icRwP7nQS2ZK-wxgZB3KyWaFTw/viewform?usp=header"
 ---

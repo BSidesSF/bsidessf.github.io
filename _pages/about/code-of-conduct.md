@@ -68,3 +68,19 @@ We appreciate everyone’s cooperation in ensuring a healthy experience for all.
 ## Risks
 
 There are risks involved in any event. By attending BSidesSF, you assume all risks incidental to the event and release BSidesSF and its respective staff and affiliates from all claims related to or arising out of the event or your presence at the event. In other words, you, your heirs, assigns, successors, personal representatives, and executors will not make a claim against, sue, or attach the property of BSidesSF or any BSidesSF director, officer, or volunteer for injury or damages arising out of or in connection to your participation in this event. Your badge/access is a revocable license to enter the event. If you do not comply with all applicable policies of the event, we reserve the right, without providing a refund (if applicable), to refuse entry or eject you (or any other intermediate step, such as muting or banning, as applicable).
+
+## If Things Go Wrong
+
+If you are asked to stop a behavior that violates our policies, we expect you to stop immediately.
+
+Note: In our online spaces, we reserve the right to delete content or block users immediately if necessary.
+
+### How to Report Unacceptable Behavior
+
+We are here to help. Anyone can report. If you are being harassed, notice someone else being treated poorly, or have any other concerns, please let us know immediately.
+
+* **In-Person**: Look for uniformed **Safety Ops** or **Staff** personnel. They are trained to handle safety protocols.
+
+* **Online**: Email us at **incident@bsidessf.org**.
+
+We are here to help you feel safe for the duration of the conference.

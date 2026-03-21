@@ -33,7 +33,7 @@ writing detailed feedback in the November/December time frame.
 
 If you would like to join
 Program Operations Staff (year-round role including planning and coordinating overall
-program content, speakers, keynotes, etc) as an Organizer, apply in **Organizers** below.
+program content, speakers, keynotes, etc) as an Organizer, apply via this [Program Operations Application Form](https://forms.gle/xhU8pBmgBHCSDm8W9).
 
 ## Organizers
 

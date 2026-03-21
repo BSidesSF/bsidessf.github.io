@@ -9,7 +9,7 @@ title: "Code of Conduct"
 * **Everyone, Everywhere**: These rules apply to all participants in both physical venues and digital spaces.
 * **Hack Challenges, Not Stuff**: “Hack the challenges, not the venue.” Unauthorized tampering with stuff is strictly prohibited.
 * **Consequences**: Violations can result in warnings, immediate expulsion without refund, and/or permanent bans.
-* **Report Issues: If you need help, find a uniformed **Safety Ops** or **Staff** member or email **incident@bsidessf.org** immediately.
+* **Report Issues**: If you need help, find a uniformed **Safety Ops** or **Staff** member or email **incident@bsidessf.org** immediately.
 
 ## Our Philosophy
 
@@ -68,5 +68,3 @@ We appreciate everyone’s cooperation in ensuring a healthy experience for all.
 ## Risks
 
 There are risks involved in any event. By attending BSidesSF, you assume all risks incidental to the event and release BSidesSF and its respective staff and affiliates from all claims related to or arising out of the event or your presence at the event. In other words, you, your heirs, assigns, successors, personal representatives, and executors will not make a claim against, sue, or attach the property of BSidesSF or any BSidesSF director, officer, or volunteer for injury or damages arising out of or in connection to your participation in this event. Your badge/access is a revocable license to enter the event. If you do not comply with all applicable policies of the event, we reserve the right, without providing a refund (if applicable), to refuse entry or eject you (or any other intermediate step, such as muting or banning, as applicable).
-
-_Some policies graciously borrowed from [BSidesLV](https://www.bsideslv.org/) and [Django](https://www.djangoproject.com/) and adapted for BSidesSF._

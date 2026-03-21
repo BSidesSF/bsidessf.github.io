@@ -25,7 +25,7 @@ likely be expanding it in the future.
 ## Program Review Team
 
 The Program Review Team has their own **[Program Reviewer/CFP
-form at bsidessf.org/prt](https://www.bsidessf.org/prt)**,
+form](https://www.bsidessf.org/prt)**,
 as the skills and requirements for this team are somewhat specialized. People joining
 this team help to review submissions to our Call for Participation and shape the content
 of BSidesSF. Responsibilities would include 30-40 hours reviewing CFP submissions and
@@ -33,7 +33,7 @@ writing detailed feedback in the November/December time frame.
 
 If you would like to join
 Program Operations Staff (year-round role including planning and coordinating overall
-program content, speakers, keynotes, etc) as an Organizer, apply via this **[Program Operations Application Form at bsidessf.org/pot](https://www.bsidessf.org/pot)**.
+program content, speakers, keynotes, etc) as an Organizer, apply via this **[Program Operations Application Form](https://www.bsidessf.org/pot)**.
 
 ## Organizers
 

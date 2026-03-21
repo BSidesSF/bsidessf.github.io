@@ -3,39 +3,59 @@ layout: page
 title: "Code of Conduct"
 ---
 
-Our code of conduct is "Show respect and tolerance for each other's uniqueness. Be kind and practice the golden rule."
+## BLUF
 
-We have **NO TOLERANCE** for physical, verbal, or sexual harassment; intimidation; or marginalization of any human!
+* **Be Respectful**: We are dedicated to providing a harassment-free experience and have zero tolerance for harassment, abuse, or intimidation of any kind.
+* **Everyone, Everywhere**: These rules apply to all participants in both physical venues and digital spaces.
+* **Hack Challenges, Not Stuff**: “Hack the challenges, not the venue.” Unauthorized tampering with stuff is strictly prohibited.
+* **Consequences**: Violations can result in warnings, immediate expulsion without refund, and/or permanent bans.
+* **Report Issues: If you need help, find a uniformed **Safety Ops** or **Staff** member or email **incident@bsidessf.org** immediately.
 
-Put another way: any action, behavior, speech, or dress that causes significant interference with event operations, significant discomfort to other participants, or adversely affects BSidesSF's relationship with its participants, its venues, or the public is strictly forbidden. Such issue may result in refusal of entry, revocation of your event badge or access (including any intermediate steps such as muting or banning), expulsion from the event/property, and reporting to the authorities.
+## Our Philosophy
 
-Simply put, "Do not be an ass* or we will kick your ass out!"
+We want BSidesSF to be an inspiring, educational, and growing experience for everyone. We are fully dedicated to providing a harassment-free conference for every single person who attends. We expect all event participants to agree to follow this code of conduct.
 
-For clarification, asking questions during a talk to gain clarity or to disagree with what is being presented is **not** being an ass; heckling or haranguing the presenter **is**. If you are not sure where to draw this line, err on the side of basic decency and common courtesy. Or ask yourself, "Would I condone this behavior if done to me, my best friend, sister, niece, daughter, brother, nephew, son, mother, or father?" If the answer is anything but yes, then do not treat anyone in this manner. If someone asks you to stop, you must STOP.
+We know that our community runs on curiosity and a little bit of mischief. We love that, and we encourage spirited debate and the open sharing of ideas. However, there is a big difference between intellectual freedom and personal abuse. We ask that you respect the boundaries—both physical and digital—of our spaces and our guests.
 
-Be careful with the words that you choose. We are a community of professionals, and we conduct ourselves professionally. Be kind to others. Do not insult or put down other participants. Again, harassment and other exclusionary behavior aren't acceptable. This list includes, but is not limited to:
+## Who and Where
 
-* Discriminatory jokes and language
-* Posting or displaying sexually explicit or violent material
-* Posting (or threatening to post) other people's personally identifying information ("doxing")
-* Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability
-* Repeated harassment of others. In general, if someone asks you to stop, then stop
-* Violence, threats of violence, or violent language directed against another person
-* Sexist, racist, homophobic, transphobic, ableist, or otherwise discriminatory jokes and language
-* Inappropriate photography or recording
-* Unwelcome sexual attention, including sexualized comments or jokes, inappropriate messaging, language, touching, groping, and unwelcome sexual advances
-* Deliberate intimidation, stalking, or following (online or in-person)
-* Sustained disruption of community events, including talks and presentations
-* Denigration or insults based on political beliefs or ideology
-* Advocating for, or encouraging, any of the above behavior
+This code is for everyone participating in our event. It applies to all participants—attendees, speakers, sponsors, vendors, volunteers, and staff.
 
-When we disagree, try to understand why. Disagreements, both social and technical, happen all the time, and the BSidesSF community is no exception. We must resolve disputes and differing views constructively. Remember that we're different. The strength of our community comes from its varied perspectives. We pride ourselves on being people from a diverse range of backgrounds. We thrive because other people have different views on issues. Being unable to understand why someone holds a viewpoint doesn't mean that they're wrong. Don't forget that it is human to err, and blaming each other doesn't get us anywhere. Instead, focus on helping to resolve issues and learning from mistakes.
+We expect the same standard of behavior in both:
 
-If you have any issue or witness any behavior by any participant, staff, or volunteer (no matter who they are) that is not consistent with our Code of Conduct, please report it to a staff member or to a member of our Safety Ops Team. They will call our Incident Response Team, who will take an official incident report and determine the next steps.
+* Physical Spaces: The convention floor, presentation rooms, social areas, and other conference facilities.
+* Digital Spaces: Our website, official chat channels, and social media platforms.
 
-For other non-event related incident concerns, e-mail _incident@bsidessf.org_ for assistance.
+## A Safe and Respectful Environment
 
-*\*The BSidesSF staff reserves the right to determine what constitutes "being an ass". It may include any unlawful behavior.*
+We have **zero tolerance** for harassment. We are committed to making this a safe experience for everyone, irrespective of gender, identity, sexuality, ethnicity, disability, appearance, race, age, nationality, religion, and so on.
+
+To keep this environment safe and respectful, we have chosen to provide examples of both acceptable and unacceptable behavior.
+
+### Acceptable Behavior is respectful and promotes the goals of the conference:
+
+As an event organizer, we expect everyone to be professional and respectful to others at all times. Everyone should be aware of the impact their behavior can have on others. We ask that you:
+
+* Respect your fellow participants, venue, the staff, and any equipment you may be allowed to use.
+* Be courteous and well-mannered when speaking to someone or engaging with them.
+* Treat people the same way you would like to be treated.
+* Respect someone's personal space and body – when someone says no, it is no, not a maybe.
+
+### Unacceptable behavior is offensive in nature – it disturbs, upsets, or threatens:
+
+* Derogatory, inflammatory, or discriminatory language, comments, or conduct.
+* Deliberate intimidation, stalking, or following.
+* Taking photos or recording people against their wishes (violating the [Photo, Video, and Recording Policy](photo-policy)).
+* Sustained disruption or "heckling" of talks and events.
+* Inappropriate physical contact, attire, or unwelcome sexual attention.
+* Intentional misuse of preferred pronouns.
+* Encouraging others to do any of the above.
+
+### Respecting the Infrastructure
+
+We live by the motto: **"Hack the challenges, not the venue"**.
+
+Please do not interfere with, tamper with, or hack the property of the venue, BSidesSF, or the devices of other participants without their explicit consent. Unauthorized access is a serious violation that can result in immediate expulsion and more.
 
 ## Health and Wellness
 

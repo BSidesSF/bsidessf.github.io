@@ -22,17 +22,16 @@ for those volunteers who were able and willing to take on dedicated roles for
 at least a full day. That experiment seems to have worked well and we will
 likely be expanding it in the future.
 
-## Program Team
+## Program Review Team
 
-The Program team has their own [dedicated application
-form](https://docs.google.com/forms/d/1D_08orAucbF_VpA2R8iFYZ8zFKkL_ZUlizxwxJpqv60/edit), as the skills for that team are
-somewhat specialized. People joining this team help to shape the content of
-BSidesSF. Responsibilities would include some combination of reviewing CFP
-submissions, recommending keynotes, coordinating and coaching speakers,
-designing and organizing the schedule, and many other presentation specific
-roles. CFP reviewers spend roughly 30 or more hours (often way more) in the
-Dec/Jan time frame. Other roles in this are have a more substantial engagement,
-but spread out over the months leading up to the event.
+The Program Review Team has their own [dedicated application
+form](https://docs.google.com/forms/d/1D_08orAucbF_VpA2R8iFYZ8zFKkL_ZUlizxwxJpqv60/edit),
+as the skills and requirements for this team are somewhat specialized. People joining
+this team help to review submissions to our Call for Participation and shape the content
+of BSidesSF. Responsibilities would include 30-40 hours reviewing CFP submissions and
+writing detailed feedback in the November/December time frame. If you would like to join
+Program Operations Staff (year-round role including planning and coordinating overall
+program content, speakers, keynotes, etc) as an Organizer, apply in **Organizers** below.
 
 ## Organizers
 

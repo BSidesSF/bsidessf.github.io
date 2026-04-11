@@ -1,0 +1,62 @@
+picture_path: posters_2026
+pictures:
+  - filename: 01-BSides-Westelius-Silent-James
+    original: 01-BSides-Westelius-Silent-James.png
+    thumbnail: 01-BSides-Westelius-Silent-James-thumbnail.png
+    title: "Let's Do the Timewarp Again! A Look Back to Move Forward"
+    caption: "Anna Westelius"
+  - filename: 02-BSides-Meitar-Silent-James
+    original: 02-BSides-Meitar-Silent-James.png
+    thumbnail: 02-BSides-Meitar-Silent-James-thumbnail.png
+    title: "The Heist: Chasing an Advanced Crypto Attacker Across the Multi-cloud"
+    caption: "Yotam Meitar"
+  - filename: 03-BSides-Matos-Silent-James
+    original: 03-BSides-Matos-Silent-James.png
+    thumbnail: 03-BSides-Matos-Silent-James-thumbnail.png
+    title: "From $10 to $30M: Operating in the Data-Extortion Aftermath"
+    caption: "Diego Matos"
+  - filename: 04-BSides-Edher-Silent-James
+    original: 04-BSides-Edher-Silent-James.png
+    thumbnail: 04-BSides-Edher-Silent-James-thumbnail.png
+    title: "So you think you can airgap? (No.)"
+    caption: "Ziyad Edher"
+  - filename: 05-BSides-Chantavy-Silent-James
+    original: 05-BSides-Chantavy-Silent-James.png
+    thumbnail: 05-BSides-Chantavy-Silent-James-thumbnail.png
+    title: "What a False Alarm Taught Us About Security as a 2-Person Startup"
+    caption: "Alex Chantavy • Kunaal Sikka"
+  - filename: 06-BSides-Sparks-Silent-James
+    original: 06-BSides-Sparks-Silent-James.png
+    thumbnail: 06-BSides-Sparks-Silent-James-thumbnail.png
+    title: "The Room Where It Happens (Identity Compromise Edition): Behind the scenes of Okta attack campaigns"
+    caption: "Julie Agnes Sparks"
+  - filename: 08-BSides-Moussouris-Silent-James
+    original: 08-BSides-Moussouris-Silent-James.png
+    thumbnail: 08-BSides-Moussouris-Silent-James-thumbnail.png
+    title: "Against the Tyranny of Optimization: On the Stability of Automated Republics"
+    caption: "Katie Moussouris"
+  - filename: 09-BSides-Roberts-Silent-James
+    original: 09-BSides-Roberts-Silent-James.png
+    thumbnail: 09-BSides-Roberts-Silent-James-thumbnail.png
+    title: "The Great Credential Caper: How to Perform and then Defend Against the (Nearly Impossible) to Defend"
+    caption: "Christo Roberts • Dan Hollinger"
+#  - filename: 10-BSides-Quintin-Silent-James
+#    original: 10-BSides-Quintin-Silent-James.png
+#    thumbnail: 10-BSides-Quintin-Silent-James-thumbnail.png
+#    title: "How hackers can defrost democracy"
+#    caption: "Cooper Quintin"
+  - filename: 11-BSides-Lumelsky-Silent-James
+    original: 11-BSides-Lumelsky-Silent-James.png
+    thumbnail: 11-BSides-Lumelsky-Silent-James-thumbnail.png
+    title: "A Worm in the Apple: Wormable Zero-Click RCE in AirPlay Impacts Billions of Apple and IoT Devices"
+    caption: "Avi Lumelsky • Uri Katz"
+  - filename: 12-BSides-Myers-Silent-James
+    original: 12-BSides-Myers-Silent-James.png
+    thumbnail: 12-BSides-Myers-Silent-James-thumbnail.png
+    title: "Kidnapping a Library: How Ransomware Taught the British Library to Follow Well-Known Best Practices"
+    caption: "Brian Myers"
+  - filename: 13-BSides-Shipp-Silent-James
+    original: 13-BSides-Shipp-Silent-James.png
+    thumbnail: 13-BSides-Shipp-Silent-James-thumbnail.png
+    title: "From pocket to Pwn: How we hacked a multinational Corp for $200 with whats in our pockets"
+    caption: "Tim Shipp"

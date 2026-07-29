@@ -23,17 +23,17 @@
     - subtitle: "Donate"
       subhref: "/donate"
 
-- title: "Attend"
-  href: "/tickets"
-  subcategories:
-    - subtitle: "Tickets"
-      subhref: "/tickets"
-    - subtitle: "Venue"
-      subhref: "/venue"
+# - title: "Attend"
+#   href: "/tickets"
+#   subcategories:
+#     - subtitle: "Tickets"
+#       subhref: "/tickets"
+#     - subtitle: "Venue"
+#       subhref: "/venue"
 #   - subtitle: "CTF"
 #     subhref: "/ctf"
-    - subtitle: "Streams"
-      subhref: "/streams"
+#     - subtitle: "Streams"
+#       subhref: "/streams"
 
 - title: "Program"
 #  href: "/cfp"
@@ -41,8 +41,8 @@
   subcategories:
     - subtitle: "Schedule"
       subhref: "/schedule"
-    - subtitle: "CTF"
-      subhref: "/ctf"
+#     - subtitle: "CTF"
+#       subhref: "/ctf"
 #  subcategories:
 #    - subtitle: "Call For Participation"
 #      subhref: "/cfp"
@@ -61,10 +61,10 @@
   href: "/sponsors"
   subcategories:
     - subhref: "/sponsors"
-      subtitle: "Current Sponsors"
+      subtitle: "2026 Sponsors"
     - subtitle: "Friends of BSidesSF"
       subhref: "/friends"
-#   - subtitle: "Become a Sponsor"
+#   - subtitle: "Become a 2027 Sponsor"
 #     subhref: "/sponsors/benefits"
-#   - subtitle: "Sponsorship Kit"
+#   - subtitle: "2027 Sponsorship Kit"
 #     external: "/sponsors/kit"

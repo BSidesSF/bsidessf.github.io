@@ -67,21 +67,32 @@
 
 // Header
 header[role="banner"] {
-  background: linear-gradient($header-gradient-start, $header-gradient-end);
+  @if variable-exists(header-gradient-start) and variable-exists(header-gradient-end) {
+    background: linear-gradient($header-gradient-start, $header-gradient-end);
+  }
+
+  @else if variable-exists(header-color) {
+    background-color: $header-color;
+  }
+
+  @else {
+    background-color: #fff;
+  }
+
   background-size: contain;
   background-repeat: no-repeat;
-  background-color: $secondary-color;
-  @media ( width >= $header-switch-width)  {
+
+  @media (width >=$header-switch-width) {
     background-image: url($header-background-lg);
     background-position: center;
     padding-top: 17%;
   }
-  @media ( width < $header-switch-width)  {
+
+  @media (width < $header-switch-width) {
     background-image: url($header-background-sm);
     background-position: center;
     padding-top: 20%;
   }
-
 }
 
 // Footer

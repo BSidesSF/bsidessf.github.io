@@ -26,6 +26,7 @@ Then we add it to the historical pages, and all should be good.
 | 2023 | Apr 23 & 23 | 74123ef96c234ca2cce67c1640a924ad7d6975e7 |
 | 2024 | May 4 & 5   | d36e0e7ab55c8009246121eeb47c4ead4c633b15 |
 | 2025 | Apr 25 & 25 | 289fe6341fc94e64e37d463a20255f6005204875 |
+| 2026 | Mar 21 & 22 | c70feae2098c500edf6b0399709fbb87a5a5b5ad | 
 
 
 ##### Process (this is detailed an finicky so be careful to check your work)

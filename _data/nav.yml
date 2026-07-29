@@ -50,10 +50,10 @@
 #      subhref: "/cfv"
 
 - title: "Join Us"
-  href: "/volunteer"
+  href: "/jobs"
   subcategories:
-    - subtitle: "Volunteers"
-      subhref: "/volunteer"
+#   - subtitle: "Volunteers"
+#     subhref: "/volunteer"
     - subtitle: "Organizers"
       subhref: "/jobs"
 

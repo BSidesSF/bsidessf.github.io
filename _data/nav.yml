@@ -8,16 +8,6 @@
       subhref: "/about"
     - subtitle: "Security BSides"
       external: "https://bsides.org"
-    - subtitle: "News"
-      subhref: "/news"
-    - subtitle: "Past Events"
-      subhref: "/about/past-events"
-    - subtitle: "Code of Conduct"
-      subhref: "/about/code-of-conduct"
-    - subtitle: "Photo and Video Policy"
-      subhref: "/about/photo-policy"
-    - subtitle: "Privacy Policy"
-      subhref: "/privacy"
     - subtitle: "Contact Us"
       subhref: "/about/contact"
     - subtitle: "Donate"
@@ -68,3 +58,12 @@
 #     subhref: "/sponsors/benefits"
 #   - subtitle: "2027 Sponsorship Kit"
 #     external: "/sponsors/kit"
+      #
+- title: Archive
+  href: "/news"
+  subcategories:
+    - subtitle: "News"
+      subhref: "/news"
+    - subtitle: "Past Events"
+      subhref: "/about/past-events"
+

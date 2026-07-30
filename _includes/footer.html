@@ -1,8 +1,15 @@
 <footer class="site-footer">
-  <div class="row">
-    <div class="small-6 columns">
-    </div>
-    <div class="small-6 columns">
-    </div>
-  </div>
+  <nav class="navbar">
+	  <nav class="row">
+	    <div id="nav">
+		    <ul class="columns medium-8 right primary-nav">
+          {% for item in site.data.footer %}
+				  <li{% if item.href == page.url %} class="active"{% endif %}>
+					  <a href="{{ site.baseurl }}{{ item.href }}">{{ item.title }}</a>
+				  </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </nav>
+  </nav>
 </footer> 

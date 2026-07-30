@@ -7,18 +7,23 @@
   </h2>
 
   <ul>
-    {% capture current_date %}{{'now' | date: '%s'}}{% endcapture %} {% assign
-    cutoff_date = current_date | minus: 15778463 %} {% for post in site.posts
-    limit:5 site.recent_posts %} {% capture post_date %}{{post.date | date:
-    '%s'}}{% endcapture %} {% assign post_date = post_date | minus: 0 %} {% if
-    post_date > cutoff_date %}
-    <li>
-      <a href="{{ site.baseurl }}{{ post.url }}"
-        >{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{
-        post.title }}{% endif %}</a
-      >
-    </li>
-    {% endif %} {% endfor %}
+    {% capture current_date %}{{'now' | date: '%s'}}{% endcapture %} 
+    {% assign cutoff_date = current_date | minus: 15778463 %} 
+    {% for post in site.posts limit:5 site.recent_posts %} 
+      {% capture post_date %}{{post.date | date: '%s'}} {% endcapture %} 
+      {% assign post_date = post_date | minus: 0 %} 
+      {% if post_date > cutoff_date %}
+        <li>
+          <a href="{{ site.baseurl }}{{ post.url }}">
+            {% if site.titlecase %}
+              {{ post.title | titlecase }}
+            {% else %}
+              {{ post.title }}
+            {% endif %}
+          </a>
+        </li>
+      {% endif %}
+    {% endfor %}
   </ul>
   <a href="/news">Older posts</a>
 </aside>

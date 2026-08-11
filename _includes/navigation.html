@@ -24,7 +24,7 @@
 							</li>
 						{% elsif subcategory.external %}
 							<li>
-								<a href="{{ subcategory.external }}" target="_blank">
+								<a href="{{ subcategory.external }}" target="_blank" rel="noopener">
 									{{ subcategory.subtitle }}
 								</a>
 							</li>
@@ -34,7 +34,7 @@
 				</li>
 			{% elsif nav.external %}
 				<li>
-					<a href="{{ nav.external }}" target="_blank">{{ nav.title }}</a>
+					<a href="{{ nav.external }}" target="_blank" rel="noopener">{{ nav.title }}</a>
 				</li>
 			{% elsif nav.href %}
 				<li{% if nav.href == page.url %} class="active"{% endif %}>
@@ -46,8 +46,9 @@
 
 		<ul class="columns medium-4 right primary-nav">
 		{% for socials in site.data.socials %}
+			{%- assign social_url = socials.external | default: socials.href %}
 			<li class="right">
-				<a href="{{ socials.href }}" title="{{ socials.title }}">
+				<a href="{{ social_url }}" title="{{ socials.title }}"{% if social_url contains '://' %} target="_blank" rel="noopener"{% endif %}>
 					<span class="icon-{{ socials.title | downcase | remove: ' ' }} socials"></span>
 				</a>
 			</li>

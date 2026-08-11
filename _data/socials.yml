@@ -1,23 +1,28 @@
+# Schema:
+#  title:    the name of the network, also selects the icon
+#  href:     internal link, stays in the current tab
+#  external: external url, opens in a new tab
+
 - title: "YouTube"
-  href: "https://youtube.com/@BSidesSF"
+  external: "https://youtube.com/@BSidesSF"
 
 - title: "Graphic Recordings"
   href: "/graphic-recordings"
 
 - title: "Slack"
-  href: "https://join.slack.com/t/bsidessf/shared_invite/zt-3q1q8pma8-8XroW4~UKYG9UXuHCdEURg"
+  external: "https://join.slack.com/t/bsidessf/shared_invite/zt-3q1q8pma8-8XroW4~UKYG9UXuHCdEURg"
 
 - title: "Reddit"
-  href: "https://www.reddit.com/r/BSidesSF"
+  external: "https://www.reddit.com/r/BSidesSF"
 
 #- title: "Mastodon"
-#  href: "https://infosec.exchange/@bsidessf"
+#  external: "https://infosec.exchange/@bsidessf"
 
 - title: "Twitter"
-  href: "https://twitter.com/BSidesSF"
+  external: "https://twitter.com/BSidesSF"
 
 - title: "Facebook"
-  href: "https://www.facebook.com/BSidesSF"
+  external: "https://www.facebook.com/BSidesSF"
 
 - title: "LinkedIn"
-  href: "https://www.linkedin.com/company/bsidessf"
+  external: "https://www.linkedin.com/company/bsidessf"

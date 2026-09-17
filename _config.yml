@@ -33,7 +33,7 @@ exclude:
     README.md,
     LICENSE,
     SECURITY.md,
-    History.md,
+    HISTORY.md,
   ]
 include: [.well-known]
 

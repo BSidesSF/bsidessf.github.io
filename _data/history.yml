@@ -7,7 +7,7 @@
 #
 ###
 # year template
-## 
+##
 #
 #
 # - year: ""
@@ -26,6 +26,16 @@
 #       href:     # internal (our website) path for the item name above
 #       external: # the URL for an external reference for the name above
 
+- year: "2026"
+  archived_site: "/a/2026.html"
+  site_git_hash: "c70feae2098c500edf6b0399709fbb87a5a5b5ad"
+  # program_docid: "1yiYL5Z8JYe-z4VSJ4hMDq5EqbAP1m5PZ"
+  # closing_ceremony_docid: "1wWrvbBv3FaugI0AB1Npm4TjJ8lmtHbM9SVH1nap3Rqc"
+  youtube_playlist_id: "PLbZzXF2qC3RuROHvjQLHaHA9MbAsSL4pH"
+  sched_id: "bsidessf2026"
+  posters_url: ""
+  map_docid: ""
+  bsides_wiki: ""
 
 - year: "2025"
   archived_site: "/a/2025.html"
@@ -88,7 +98,6 @@
   sponsorship_kit_id: "1Su6g558mQ_B07UGoIv49zrie5qoWDLOV"
 
 - year: "2020"
-
 
 - year: "2019"
   archived_site: "/a/2019.html"

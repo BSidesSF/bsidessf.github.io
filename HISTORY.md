@@ -31,12 +31,19 @@ Then we add it to the historical pages, and all should be good.
 ##### Process (this is detailed an finicky so be careful to check your work)
 
 - Look for the last change during or right after the event to capture all of the changes that were made for the event.
+
   - `git log --decorate --until YYYY-MM-DD --graph --raw main`
+
 - Use the hash from the previoous command to check out the right version of the site
+
   - `git checkout <hash>`
+
 - this builds the full site with a specific baseurl to support the changed directory root. This allows us to iframe it and have the site render as it was, and not use the current styles.
+
   - `bundle exec jekyll build --baseurl /a/YYYY -d _archives/YYYY`
   - `git checkout <branch>` # this is the branch you are using to create the archive
+
+
 - Create the archive index page
   - Create a file in `/\_archive` for the year you are archiving `_archive/YYYY.md` using the template below
 

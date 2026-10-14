@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Interested in helping at BSidesSF 2026?"
+todo: update the slack link with something programatic from site.socials 
 ---
 
 - [tl;dr](#tldr)
@@ -12,6 +13,7 @@ BSidesSF is a security event that would not be possible without the work of our 
 <h1 id=tldr>tl;dr</h1>
 
 **To volunteer for BSidesSF 2026, create an account at [bsidessf2026.volunteerlocal.com](https://bsidessf2026.volunteerlocal.com) and then sign in to view available shifts**
+
 
 Make sure that you've used a valid email and that you've created an account in [https://bsidessf.slack.com](https://bsidessf.slack.com) so that we can contact you. Use [this link](https://join.slack.com/t/bsidessf/shared_invite/zt-3q1q8pma8-8XroW4~UKYG9UXuHCdEURg) to sign up if you don't already have an account on Slack. Shift sign ups without a valid email and Slack handle are subject to removal.
 

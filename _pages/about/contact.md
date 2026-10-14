@@ -5,4 +5,4 @@ title: "Contact Us"
 
 # Questions? Comments? Get in touch!
 
-info [at] bsidessf.org
+info[@]bsidessf.org

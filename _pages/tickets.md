@@ -3,6 +3,18 @@ layout: page
 title: "Tickets"
 ---
 
+
+Registration is not yet open for BSidesSF 2027.
+
+We typically open registration around 2 months before the event.
+
+Follow us on social media (upper right corner for our links) to stay up-to-date, or sign up for our email list.
+
+See you in April!
+
+
+{% comment %}
+--  Boiler plate for registraton  --
 The time has come! Tickets are available at
 [https://bsidessf.regfox.com/2026](https://bsidessf.regfox.com/2026).
 Discounts for [academia / students](/discount). A select number of hardship tickets are also available.
@@ -32,3 +44,5 @@ You will also be listed on our [Friends](/friends) page. Some portion may be tax
 
 <br/>
 _See you in March!_
+ 
+{% endcomment %}

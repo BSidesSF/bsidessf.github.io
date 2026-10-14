@@ -43,7 +43,7 @@ our budget, tracking and delivering all of the materials needed, working with
 vendors, managing our social presence, finding sponsors and convincing them to
 join us, and many other important (one might even say critical) roles. The time
 commitment does depend on the role itself, but typically at least a couple
-hours a week, and often substantial time in the coupe of months preceding the
+hours a week, and often substantial time in the couple of months preceding the
 event. If this sounds like fun to you, [please apply
 here](https://forms.gle/sPLHkNyQ5TuTydfh7).
 

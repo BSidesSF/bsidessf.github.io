@@ -26,18 +26,18 @@
 #       subhref: "/streams"
 
 - title: "Program"
-#  href: "/cfp"
-  href: "/schedule"
-  subcategories:
-    - subtitle: "Schedule"
-      subhref: "/schedule"
+  href: "/cfp"
+#  href: "/schedule"
+#  subcategories:
+#    - subtitle: "Schedule"
+#      subhref: "/schedule"
 #     - subtitle: "CTF"
 #       subhref: "/ctf"
-#  subcategories:
-#    - subtitle: "Call For Participation"
-#      subhref: "/cfp"
-#    - subtitle: "Call For Villages"
-#      subhref: "/cfv"
+  subcategories:
+    - subtitle: "Call For Participation"
+      subhref: "/cfp"
+    - subtitle: "Call For Villages"
+      subhref: "/cfv"
 
 - title: "Join Us"
   href: "/jobs"

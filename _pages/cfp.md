@@ -3,7 +3,7 @@ layout: page
 title: "BSidesSF 2027 Call For Participation"
 ---
 
-🦜 BSidesSF 2027 Call for Participation is **OPEN**! The deadline is ~November 9th~ **November 13th, 2026 (11:59pm)**.  
+🦜 BSidesSF 2027 Call for Participation is **OPEN**! The deadline is ~~November 9th~~ **November 13th, 2026 (11:59pm)**.
 
 We’re thrilled to announce that the [CFP](https://pretalx.com/bsidessf-2027/) for BSidesSF 2027 is now live! Submit your presentations, workshops, and ideas to be part of our upcoming program.
 
